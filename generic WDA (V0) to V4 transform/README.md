@@ -27,3 +27,8 @@ IF processing one of these files you'll need to pass the geographic code explici
 
 
 Any WDA/V0 file with more than one geographic level will already have the codes in it.
+
+
+## Note
+
+Uses python pandas. Does not utilise the databaker python library.
