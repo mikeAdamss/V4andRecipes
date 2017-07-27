@@ -19,9 +19,9 @@ This is just a command line tool. Errors etc will need redirecting before if can
 ## Important:
 
 
-Not all old WDA load files have geography in them. This is because if the dataset was high level data (UK or Great Britain typically) that information was perviously added by the dataset manangement system.
+Not all old WDA load files have geography in them. This is because if the dataset was high level data (UK or Great Britain typically) that information was previously added by the dataset manangement system.
 
-IF processing one of these files you'll need to pass the geographic code explicitly, as follows:
+If processing one of these files you'll need to pass the geographic code explicitly, as follows:
 
 ``` python WDAtoV4.py <filename.csv> K20000001 ```
 
