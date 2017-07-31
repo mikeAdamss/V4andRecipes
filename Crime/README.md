@@ -21,6 +21,7 @@ all output files make use f the measure and characteristics reference data.
 ## details
 full details are provided in the form of the attached details.json. Contents shown below
 
+```json
 {'transformName':'CRIME',
              'inputs':{
                         1: {
@@ -96,3 +97,4 @@ full details are provided in the form of the attached details.json. Contents sho
                'uses':['pandas']
              }
          )
+```
