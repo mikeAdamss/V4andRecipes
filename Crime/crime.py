@@ -1,7 +1,4 @@
-
 # coding: utf-8
-
-# In[15]:
 
 """
 CRIME datasets
@@ -200,7 +197,7 @@ for charVar in dsets:
     newDf['dup'] = newDf.duplicated()
     newDf = newDf[newDf['dup'] == True]    
     if len(newDf) > 0:
-            raise ValueError("Error, duplication found in dimension: ', charVar)
+            raise ValueError("Error, duplication found in dimension: ", charVar)
 
                              
 """
@@ -221,5 +218,5 @@ for charVar in dsets:
     newDf['dup'] = newDf.duplicated()
     newDf = newDf[newDf['dup'] == True]    
     if len(newDf) > 0:
-            raise ValueError("Error, duplication found in dimension: ', charVar)
+            raise ValueError("Error, duplication found in dimension: ", charVar)
     
