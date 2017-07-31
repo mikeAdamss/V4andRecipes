@@ -2,12 +2,12 @@
 
 Takes 6 files. Outputs 35 datasets.
 
-input1 - Household Crime Incidence
-input2 - Household Crime Prevalence 
-input3 - Personal Crime Incidence
-input4 - Household Crime Prevalence
-input5 - Characteristis reference
-input6 - Measurement reference
+* input1 - Household Crime Incidence
+* input2 - Household Crime Prevalence 
+* input3 - Personal Crime Incidence
+* input4 - Household Crime Prevalence
+* input5 - Characteristis reference
+* input6 - Measurement reference
 
 ## description:
 each dataset is filtered to one characteristic, and contains data from both Incidence and Prevalence
