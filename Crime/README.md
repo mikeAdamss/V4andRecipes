@@ -21,7 +21,6 @@ all output files make use f the measure and characteristics reference data.
 ## details
 full details are provided in the form of the attached details.json. Contents shown below
 
-```json
 {'transformName':'CRIME',
              'inputs':{
                         1: {
@@ -55,7 +54,7 @@ full details are provided in the form of the attached details.json. Contents sho
                             'format':'csv'
                             },
                         },
-               'Outputs':[
+               'outputs':[
                             'V4_Household Crime_HRP Age.csv',
                             'V4_Household Crime_Accommodation type.csv',
                             'V4_Household Crime_HRP Employment status.csv',
@@ -95,7 +94,5 @@ full details are provided in the form of the attached details.json. Contents sho
                'transformType':'many-to-many',
                'decription':'Creates 35 output files, each combines data from two input files and utilises both reference csvs.',
                'uses':['pandas']
-}
-```
-
-
+             }
+         )
