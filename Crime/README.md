@@ -1,4 +1,4 @@
-# CRIME datasets
+# CRIME 'recipe'
 
 Takes 6 files. Outputs 35 datasets.
 
