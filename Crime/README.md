@@ -14,4 +14,9 @@ each dataset is filtered to one characteristic, and contains data from both Inci
 i.e - 'Household' in a filename means the data is drawn input 1 AND 2 from the above.
 
 ## usage: 
-python crime.py input1 input2 input3 input4 input5 input6
+```python crime.py input1 input2 input3 input4 input5 input6```
+
+## details
+full details are provided in the form of the attached details.json
+
+uses pandas dataframes. Does not use databaker python library.
