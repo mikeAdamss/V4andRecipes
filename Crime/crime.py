@@ -12,7 +12,7 @@ Takes 6 files. Outputs 35 datasets.
 input1 - Household Crime Incidence
 input2 - Household Crime Prevalence 
 input3 - Personal Crime Incidence
-input4 - Household Crime Prevalence
+input4 - Personal Crime Prevalence
 input5 - Characteristis reference
 input6 - Measurement reference
 
@@ -28,17 +28,14 @@ python crime.py input1 input2 input3 input4 input5 input6
 import pandas as pd
 import sys
 
+# collect the files from the execution command
 houInc = sys.argv[1]
-houPre2 = sys.argv[2]
+houPrev = sys.argv[2]
 perInc = sys.argv[3]
 perPrev = sys.argv[4]
 charVarFile = sys.argv[5]
 measVarFile = sys.argv[6]
 
-
-# In[12]:
-
-import pandas as pd
 
 # Lookup the cell value in the variable dict
 def varLookup(cell):
@@ -46,16 +43,11 @@ def varLookup(cell):
     return cell
 
 
-# Create initial Household file
+# Create initial household file. Filtered down to a single characteristic
 def createInitialFrameHousehold(filterBy):
-    files = [
-        'Household crime_Incidence_England and Wales_2017Q1.csv',
-        'Household crime_Prevalence_England and Wales_2017Q1.csv',
-    ]
-
+    files = [houInc, houPrev]
     dfList = []
     for f in files:
-
         obs_file = pd.read_csv(f)
         dfList.append(obs_file)
 
@@ -66,16 +58,12 @@ def createInitialFrameHousehold(filterBy):
     return df
 
 
-# Create initial personal file
+# TODO - could just be the above with a switch
+# Create initial personal file. Filtered down to a single characteristic
 def createInitialFramePersonal(filterBy):
-    files = [
-        'Personal crime_Incidence_England and Wales_2017Q1.csv',
-        'Personal crime_Prevalence_England and Wales_2017Q1.csv'
-    ]
-
+    files = [perInc, perPrev]
     dfList = []
     for f in files:
-
         obs_file = pd.read_csv(f)
         dfList.append(obs_file)
 
@@ -85,7 +73,7 @@ def createInitialFramePersonal(filterBy):
     
     return df
 
-
+# TODO - off the API, ...maybe better
 def addGeographyCodes(cell):
     
     codes = {
@@ -115,7 +103,7 @@ def addGeographyCodes(cell):
     return cell
     
     
-# created the intial dataframe and populates the standard dims (obs, optional, time, geography)
+# created the intial dataframe and populates the dimensions
 def buildDims(df, charDim, ageAndSex=False):
     
     newDf = pd.DataFrame()
@@ -124,23 +112,24 @@ def buildDims(df, charDim, ageAndSex=False):
     newDf['Time_codelist'] = 'Quarter'
     newDf['Time'] = df['Year'].astype(str) + ' Q' + df['Quarter'].astype(str)
 
-    
-    if charVar == 'gor': #i.e by regions
+    # geography in regions datafile needs different treatment  
+    if charVar == 'gor': #i.e by region
         newDf['Geography_codelist'] = df['Characteristic'].apply(addGeographyCodes)
         newDf['Geography'] = ''
     else:   
         newDf['Geography_codelist'] = df['Geography'].apply(addGeographyCodes)
         newDf['Geography'] = ''
 
-    newDf[charDict[charDim] + '_codelist'] = '' # df['CharacteristicVar']
+    newDf[charDict[charDim] + '_codelist'] = ''
     newDf[charDict[charDim]] =  df['Characteristic']
-        
+    
     newDf['Measurement Type_codelist'] = ''
     newDf['Measurement Type'] = df['MeasurementType']
     
     newDf['Crime Type_codelist'] = ''
     newDf['Crime Type'] = df['MeasurementVar'].apply(varLookup)
 
+    # ageAndSex = True, just means its a personal datafile not households
     if ageAndSex:
         newDf['Age_codelist'] = ''
         newDf['Age'] = df['Age']
@@ -151,16 +140,18 @@ def buildDims(df, charDim, ageAndSex=False):
         newDf['Household Type_codelist'] = ''
         newDf['HouseholdType'] = df['HouseholdType']
     
-
-    # Catch and remove Age after we've filtered out duplicates arising from generic '16+' age grouping
+    # Catch and remove Age from "age group" dataset.
+    # also filtered out duplicates arising from generic '16+' age grouping
     if 'Age group' in charDict[charDim]:
         newDf = newDf[newDf['Age'] != '16+']
         newDf = newDf.drop('Age', axis=1)
         newDf = newDf.drop('Age_codelist', axis=1)
 
+    # drop 'All adults' in sex dimension as huge duplication otherwise
     if charDict[charVar] == 'Sex':
         newDf = newDf[newDf['Sex'] != 'All adults']
 
+    # drop the specific "region" dimension" (as we've out the codes into geography_codelist already)
     if charDict[charVar] == 'Region':
         newDf = newDf.drop('Region_codelist', axis=1)
         newDf = newDf.drop('Region', axis=1)
@@ -191,8 +182,6 @@ charDict = read_characteristicsVar(charVarFile)
 varDict = read_measurementVar(measVarFile)
 
 
-# In[13]:
-
 """
 Households - Executing the actual code
 """
@@ -207,15 +196,13 @@ for charVar in dsets:
     newDf = buildDims(df, charVar)
     newDf.to_csv('V4_Household Crime_{c}.csv'.format(c=charDict[charVar].replace('/', ' ')), index=False)
     
+    # check for duplication and throw an error if we find it
     newDf['dup'] = newDf.duplicated()
     newDf = newDf[newDf['dup'] == True]    
-    
     if len(newDf) > 0:
-            print(charVar)
+            raise ValueError("Error, duplication found in dimension: ', charVar)
 
-
-# In[14]:
-
+                             
 """
 Personal - Executing the actual code
 """
@@ -230,10 +217,9 @@ for charVar in dsets:
     
     newDf.to_csv('V4_Personal Crime_{c}.csv'.format(c=charDict[charVar].replace('/', ' ')), index=False)
     
+    # check for duplication and throw an error if we find it
     newDf['dup'] = newDf.duplicated()
     newDf = newDf[newDf['dup'] == True]    
-    
     if len(newDf) > 0:
-            print(charVar)
+            raise ValueError("Error, duplication found in dimension: ', charVar)
     
-
