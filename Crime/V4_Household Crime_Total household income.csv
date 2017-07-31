@@ -1,0 +1,505 @@
+V4_1,Standard Error,Time_codelist,Time,Geography_codelist,Geography,Total household income_codelist,Total household income,Measurement Type_codelist,Measurement Type,Crime Type_codelist,Crime Type,Household Type_codelist,HouseholdType
+6.172792024,1.058085023,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Domestic burglary with entry and no loss,,All households
+8.688353897,2.434994807,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Domestic burglary with entry and no loss,,All households
+2.451570077,0.9233867509999999,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Domestic burglary with entry and no loss,,All households
+5.1074940710000005,1.610973507,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Domestic burglary with entry and no loss,,All households
+3.695840935,0.9508894259999999,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Domestic burglary with entry and no loss,,All households
+6.350714032999999,1.460804086,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+11.87422904,3.0424431739999998,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Domestic burglary with entry and no loss,,All households
+14.54455931,2.0012942369999998,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Domestic burglary with entry and loss,,All households
+9.122036259,1.397173849,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Domestic burglary with entry and loss,,All households
+12.04295587,2.207656122,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Domestic burglary with entry and loss,,All households
+8.040581325,2.375201419,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Domestic burglary with entry and loss,,All households
+11.85607174,1.820897402,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Domestic burglary with entry and loss,,All households
+8.313712229,1.495715065,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Domestic burglary with entry and loss,,All households
+13.69959678,3.0072748939999996,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Domestic burglary with entry and loss,,All households
+8.493684721000001,1.226936708,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Attempted domestic burglary,,All households
+8.974781938,1.743821047,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Attempted domestic burglary,,All households
+7.244904256,1.85301296,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Attempted domestic burglary,,All households
+7.289009667,1.71669037,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Attempted domestic burglary,,All households
+8.029699793999999,1.1664085929999999,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Attempted domestic burglary,,All households
+8.755731153,1.721413888,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Attempted domestic burglary,,All households
+16.55642153,2.976819336,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Attempted domestic burglary,,All households
+20.71735134,2.371277091,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Domestic burglary with entry,,All households
+17.81039016,2.7924824939999997,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Domestic burglary with entry,,All households
+14.49452595,2.382619296,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Domestic burglary with entry,,All households
+13.148075400000002,2.900603779,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Domestic burglary with entry,,All households
+15.55191267,2.038291389,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Domestic burglary with entry,,All households
+14.66442626,2.110528602,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Domestic burglary with entry,,All households
+25.57382582,4.279603153,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Domestic burglary with entry,,All households
+29.21103606,2.73655416,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Domestic burglary,,All households
+26.78517209,3.2671775710000004,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Domestic burglary,,All households
+21.73943021,2.999258034,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Domestic burglary,,All households
+20.43708506,3.419041449,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Domestic burglary,,All households
+23.58161246,2.476859571,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Domestic burglary,,All households
+23.42015742,2.71780644,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Domestic burglary,,All households
+42.13024734,5.515592135,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Domestic burglary,,All households
+52.441754700000004,3.8053267839999996,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,All vehicle crime,,All households
+70.46873199,4.676316057,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,All vehicle crime,,All households
+72.27301899,5.510917627,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,All vehicle crime,,All households
+84.20305144,6.552994739,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,All vehicle crime,,All households
+89.75083958,4.70992799,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,All vehicle crime,,All households
+49.13899687,3.90707404,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,All vehicle crime,,All households
+36.31123053,4.874619911,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,All vehicle crime,,All households
+81.19703112,5.827680666,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,All vehicle crime,,Vehicle-owning households
+83.37993999,5.538449936,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,All vehicle crime,,Vehicle-owning households
+81.17876811,6.1651325439999995,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,All vehicle crime,,Vehicle-owning households
+90.71552732,7.02308751,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,All vehicle crime,,Vehicle-owning households
+95.3019338,4.9856465839999995,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,All vehicle crime,,Vehicle-owning households
+67.02707795,5.328352614,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,All vehicle crime,,Vehicle-owning households
+83.30328945,10.61660923,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,All vehicle crime,,Vehicle-owning households
+24.01025262,2.430976486,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,All vehicle-related theft,,All households
+36.79678488,3.181426365,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,All vehicle-related theft,,All households
+33.65382257,3.3580790539999996,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,All vehicle-related theft,,All households
+40.93369333,4.254041366,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,All vehicle-related theft,,All households
+46.80498263,3.217596654,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,All vehicle-related theft,,All households
+25.89802058,2.586848194,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,All vehicle-related theft,,All households
+16.02405342,2.77028,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,All vehicle-related theft,,All households
+37.17574365,3.7352672489999996,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+43.5790958,3.7774099889999997,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+37.80077125,3.76458696,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+44.09960817,4.571027869,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+49.69987329999999,3.410918777,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+35.32568336,3.5340236289999996,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+38.91615716,6.661443542000001,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+4.802189236,1.282723295,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Attempted theft of and from vehicles,,All households
+6.445663654,1.4396609809999998,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Attempted theft of and from vehicles,,All households
+6.87670386,1.384563825,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Attempted theft of and from vehicles,,All households
+8.331342207999999,2.01829809,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Attempted theft of and from vehicles,,All households
+11.01122439,1.74470737,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Attempted theft of and from vehicles,,All households
+4.28946309,1.010085975,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Attempted theft of and from vehicles,,All households
+2.079560888,0.8651903540000001,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Attempted theft of and from vehicles,,All households
+7.435363501,1.98456331,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+7.687327794,1.716610695,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+7.724076782000001,1.554644776,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+8.975709177,2.174060077,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+11.6922692,1.852104327,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+5.85095739,1.379957724,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+5.050439875,2.094483726,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+14.47367404,1.901859313,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Bicycle theft,,All households
+10.21608074,1.490576399,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Bicycle theft,,All households
+9.825934199999999,1.7765505430000001,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Bicycle theft,,All households
+11.67974163,2.25823435,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Bicycle theft,,All households
+13.06568759,1.506413402,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Bicycle theft,,All households
+11.5913087,1.688371944,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Bicycle theft,,All households
+9.455043395,1.82923656,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Bicycle theft,,All households
+36.71551434,5.28138352,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Bicycle theft,,Bicycle-owning households
+20.74886746,3.134044485,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Bicycle theft,,Bicycle-owning households
+16.67145216,3.1561420589999996,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Bicycle theft,,Bicycle-owning households
+18.70819709,3.658309795,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Bicycle theft,,Bicycle-owning households
+17.87680458,2.105734593,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Bicycle theft,,Bicycle-owning households
+27.796991100000003,4.089308287,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Bicycle theft,,Bicycle-owning households
+37.234944399999996,7.39317265,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Bicycle theft,,Bicycle-owning households
+1.3953281380000002,0.47044294799999997,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+2.3123182509999998,0.974683533,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+2.216204751,0.922877912,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+1.538969953,0.583802093,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+2.336290236,0.8471190359999999,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+1.485418161,0.700477444,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+6.009388488,1.2819678890000001,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+3.066146387,0.852092865,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+5.722028761,1.4430694659999999,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+4.000674922,1.9409116290000001,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+4.7077852039999994,0.883055437,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+3.237283521,0.761689631,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+4.72909754,1.5684604340000001,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+4.7774638860000005,0.95045498,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Burglary in dwelling with no loss,,All households
+6.376035646,2.225565052,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Burglary in dwelling with no loss,,All households
+2.451570077,0.9233867509999999,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Burglary in dwelling with no loss,,All households
+2.89128932,1.3243543759999998,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Burglary in dwelling with no loss,,All households
+2.156870982,0.752895555,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Burglary in dwelling with no loss,,All households
+4.014423797,1.1927441220000001,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Burglary in dwelling with no loss,,All households
+10.38881087,2.9672428089999996,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Burglary in dwelling with no loss,,All households
+7.748521211,1.188757153,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Attempted burglary in dwelling,,All households
+7.811771068,1.64604148,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Attempted burglary in dwelling,,All households
+6.4335748079999995,1.8032949230000002,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Attempted burglary in dwelling,,All households
+4.336341121,1.350316935,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Attempted burglary in dwelling,,All households
+5.7833410160000005,0.994351379,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Attempted burglary in dwelling,,All households
+7.263961134,1.555350346,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Attempted burglary in dwelling,,All households
+15.801823,2.91869893,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Attempted burglary in dwelling,,All households
+13.31263471,1.935984214,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Burglary in dwelling with entry,,All households
+12.43192552,2.485787571,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Burglary in dwelling with entry,,All households
+8.77249719,1.907953248,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Burglary in dwelling with entry,,All households
+6.931195722999999,1.910808956,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Burglary in dwelling with entry,,All households
+9.305157513,1.764782534,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Burglary in dwelling with entry,,All households
+9.090852505,1.7562470159999999,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Burglary in dwelling with entry,,All households
+19.35931012,3.8412025310000004,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Burglary in dwelling with entry,,All households
+21.06115592,2.339300779,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Burglary in dwelling,,All households
+20.24369659,2.964051515,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Burglary in dwelling,,All households
+15.206072,2.6133301330000003,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Burglary in dwelling,,All households
+11.26753684,2.33525466,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Burglary in dwelling,,All households
+15.08849853,2.1314895209999998,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Burglary in dwelling,,All households
+16.35481364,2.360057894,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Burglary in dwelling,,All households
+35.16113311,5.124529125,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Burglary in dwelling,,All households
+8.535170825,1.532632971,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Burglary in dwelling with loss,,All households
+6.055889872000001,1.1166966409999999,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Burglary in dwelling with loss,,All households
+6.320927114,1.67601916,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Burglary in dwelling with loss,,All households
+4.039906403,1.382956571,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Burglary in dwelling with loss,,All households
+7.148286531,1.6008393280000002,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Burglary in dwelling with loss,,All households
+5.076428708,1.269248029,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Burglary in dwelling with loss,,All households
+8.970499241,2.416591841,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Burglary in dwelling with loss,,All households
+8.149880134,1.406805764,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Burglary in building other than dwelling,,All households
+6.541475507,1.415382013,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Burglary in building other than dwelling,,All households
+6.53335821,1.5019401380000001,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Burglary in building other than dwelling,,All households
+9.16954822,2.544738648,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Burglary in building other than dwelling,,All households
+8.493113935,1.209815948,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Burglary in building other than dwelling,,All households
+7.065343776000001,1.301081205,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Burglary in building other than dwelling,,All households
+6.96911423,1.885017383,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Burglary in building other than dwelling,,All households
+0.7451635090000001,0.312095337,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+1.163010869,0.578895299,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+0.811329449,0.42755150299999994,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+2.9526685460000004,1.063827867,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+2.2463587780000003,0.634700057,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+1.491770019,0.645433241,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+0.754598529,0.44355024299999996,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+7.404716625,1.376460574,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+5.378464638,1.29342672,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+5.722028761,1.4430694659999999,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+6.216879673999999,2.211012855,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+6.246755157000001,1.0490103640000001,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+5.573573757,1.1364865929999999,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+6.2145157,1.715732194,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+17.63407598,2.262992553,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Arson and other criminal damage,,All households
+16.93366323,2.479089069,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Arson and other criminal damage,,All households
+14.25739252,2.523486196,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Arson and other criminal damage,,All households
+16.34436639,3.473438948,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Arson and other criminal damage,,All households
+12.88446187,2.224627945,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Arson and other criminal damage,,All households
+9.958444369,1.902548938,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Arson and other criminal damage,,All households
+21.22168531,4.025073203,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Arson and other criminal damage,,All households
+28.43150208,2.806479995,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Criminal damage to a vehicle,,All households
+33.67194712,3.3744228730000003,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Criminal damage to a vehicle,,All households
+38.61919642,4.207747394,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Criminal damage to a vehicle,,All households
+43.26935812,5.067011623,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Criminal damage to a vehicle,,All households
+42.94585695,3.301678201,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Criminal damage to a vehicle,,All households
+23.24097629,2.85807758,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Criminal damage to a vehicle,,All households
+20.28717711,3.9132167160000004,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Criminal damage to a vehicle,,All households
+44.02128747,4.327440412,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+39.80084419,4.0004061,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+43.37799686,4.715534838,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+46.61591915,5.445176125,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+45.6020605,3.5002609610000004,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+31.70139459,3.89334776,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+44.38713229,8.097168619,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+29.1680841,2.92469361,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Other household theft,,All households
+21.82073974,2.382179518,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Other household theft,,All households
+25.7690944,3.7385616039999996,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Other household theft,,All households
+16.31193975,2.486534395,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Other household theft,,All households
+23.73159771,2.30611162,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Other household theft,,All households
+16.27207731,1.901529124,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Other household theft,,All households
+34.63049238,4.246557262,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Other household theft,,All households
+17.44752667,1.964020146,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Theft from a motor vehicle,,All households
+27.69689867,2.715094847,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Theft from a motor vehicle,,All households
+23.84931855,2.848028413,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Theft from a motor vehicle,,All households
+29.96511427,3.487590365,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Theft from a motor vehicle,,All households
+33.09248830000001,2.581363081,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Theft from a motor vehicle,,All households
+19.46827209,2.1393624509999998,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Theft from a motor vehicle,,All households
+11.68622273,2.220984998,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Theft from a motor vehicle,,All households
+27.01449205,3.020902252,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+32.72624777,3.223089953,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+26.78811992,3.1947802660000004,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+32.28269161,3.747905872,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+35.13926047,2.7366629430000002,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+26.55531195,2.918852202,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+28.38126338,5.347542445,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+1.760536717,0.600542142,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Theft of a motor vehicle,,All households
+2.654222552,0.7461972490000001,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Theft of a motor vehicle,,All households
+2.9278001660000004,0.9659360990000001,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Theft of a motor vehicle,,All households
+2.63723685,0.9572301870000001,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Theft of a motor vehicle,,All households
+2.7012699430000002,0.641681711,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Theft of a motor vehicle,,All households
+2.140285397,0.6439517,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Theft of a motor vehicle,,All households
+2.258269796,1.109534327,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Theft of a motor vehicle,,All households
+2.72588809,0.929162878,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+3.1655202460000003,0.889040025,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+3.288574548,1.084532676,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+2.841207383,1.031037505,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+2.8683436330000003,0.681474135,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+2.9194140139999996,0.878232392,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+5.484453902,2.6949341980000003,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+6.027302664,1.295077477,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Theft from a dwelling and meter,,All households
+1.122125123,0.480117907,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Theft from a dwelling and meter,,All households
+1.469954247,0.6306716179999999,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Theft from a dwelling and meter,,All households
+0.7578411209999999,0.6039357329999999,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Theft from a dwelling and meter,,All households
+1.249339564,0.473698009,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Theft from a dwelling and meter,,All households
+2.7328060030000003,0.951521576,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Theft from a dwelling and meter,,All households
+5.448276997000001,1.848158189,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Theft from a dwelling and meter,,All households
+96.86304682,5.207532846,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,All household theft,,All households
+95.61877745,5.656872217999999,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,All household theft,,All households
+90.98828138,6.418003366000001,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,All household theft,,All households
+89.36245977,6.59410224,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,All household theft,,All households
+107.1838804,5.0786805489999995,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,All household theft,,All households
+77.181564,4.742572859,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,All household theft,,All households
+102.2398365,8.145135055,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,All household theft,,All households
+23.14078143,2.588911757,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Theft from outside dwelling,,All households
+20.69861462,2.346247672,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Theft from outside dwelling,,All households
+24.29914015,3.69176011,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Theft from outside dwelling,,All households
+15.55409863,2.413190732,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Theft from outside dwelling,,All households
+22.48225815,2.264540476,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Theft from outside dwelling,,All households
+13.539271300000001,1.6008215890000002,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Theft from outside dwelling,,All households
+29.18221538,3.7327451239999996,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Theft from outside dwelling,,All households
+142.92862490000002,6.829296053999999,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,All household crime,,All households
+146.22438780000002,7.2239624529999995,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,All household crime,,All households
+143.86487030000004,8.430429595,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,All household crime,,All households
+148.9761843,9.108252237,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,All household crime,,All households
+163.01419919999998,6.688451426,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,All household crime,,All households
+110.38098470000001,6.124223934,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,All household crime,,All households
+143.748699,10.29956567,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,All household crime,,All households
+46.06557806,3.6950799180000002,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Incidence rate,,Criminal damage  ,,All households
+50.60561035,4.306906258,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Incidence rate,,Criminal damage  ,,All households
+52.87658894,4.945122404,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Incidence rate,,Criminal damage  ,,All households
+59.61372451,6.175655001,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Incidence rate,,Criminal damage  ,,All households
+55.83031883,4.067474361,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Incidence rate,,Criminal damage  ,,All households
+33.19942066,3.472569234,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Incidence rate,,Criminal damage  ,,All households
+41.50886242,5.651136125,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Incidence rate,,Criminal damage  ,,All households
+0.559707619,0.09416555900000001,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+0.509220671,0.111450375,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+0.21669338800000001,0.078035221,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+0.510749407,0.161097351,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+0.317069967,0.079109262,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+0.529485541,0.11060553099999999,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+0.84262052,0.189485255,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+1.02081682,0.119020692,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Domestic burglary with entry and loss,,All households
+0.8687301270000001,0.129301157,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Domestic burglary with entry and loss,,All households
+1.031815911,0.172066936,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Domestic burglary with entry and loss,,All households
+0.599458106,0.15191970400000002,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Domestic burglary with entry and loss,,All households
+1.041726237,0.129300382,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Domestic burglary with entry and loss,,All households
+0.718614194,0.119184845,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Domestic burglary with entry and loss,,All households
+1.0233440459999998,0.18057823899999997,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Domestic burglary with entry and loss,,All households
+0.741146636,0.1027425,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Attempted domestic burglary,,All households
+0.69585466,0.117757809,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Attempted domestic burglary,,All households
+0.615662485,0.128551563,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Attempted domestic burglary,,All households
+0.690124145,0.15805768,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Attempted domestic burglary,,All households
+0.785457127,0.11287973300000001,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Attempted domestic burglary,,All households
+0.66219602,0.110147441,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Attempted domestic burglary,,All households
+1.182001928,0.188468794,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Attempted domestic burglary,,All households
+1.547078257,0.149949774,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Domestic burglary with entry,,All households
+1.364638206,0.167729095,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Domestic burglary with entry,,All households
+1.248509299,0.18784597600000003,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Domestic burglary with entry,,All households
+1.071767533,0.21628738600000003,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Domestic burglary with entry,,All households
+1.3587962040000001,0.150079041,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Domestic burglary with entry,,All households
+1.217302695,0.160709709,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Domestic burglary with entry,,All households
+1.82891614,0.256151846,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Domestic burglary with entry,,All households
+2.242502132,0.179151388,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Domestic burglary,,All households
+2.060492866,0.202370998,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Domestic burglary,,All households
+1.864171784,0.225233052,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Domestic burglary,,All households
+1.7234516969999998,0.262333625,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Domestic burglary,,All households
+2.077183176,0.18683626600000003,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Domestic burglary,,All households
+1.864273454,0.19253106600000003,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Domestic burglary,,All households
+2.9630763589999995,0.31479466100000003,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Domestic burglary,,All households
+4.114673992,0.253383768,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,All vehicle crime,,All households
+5.744376987000001,0.33805677700000003,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,All vehicle crime,,All households
+5.623943294,0.384708052,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,All vehicle crime,,All households
+6.975446064,0.485061815,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,All vehicle crime,,All households
+7.278515642,0.344585587,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,All vehicle crime,,All households
+3.681169857,0.252213984,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,All vehicle crime,,All households
+2.4743498390000003,0.27615441399999996,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,All vehicle crime,,All households
+6.370864478,0.386609149,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+6.784590677000001,0.398005824,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+6.316946419,0.429729466,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+7.514944615,0.5194720039999999,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+7.728692222,0.364538765,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+5.021227022,0.343359077,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+5.911578105,0.649540318,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+2.000843864,0.174404693,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,All vehicle-related thefts,,All households
+3.1867875289999996,0.25117887699999997,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,All vehicle-related thefts,,All households
+3.0065607180000002,0.285326592,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,All vehicle-related thefts,,All households
+3.682542272,0.362380675,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,All vehicle-related thefts,,All households
+4.05597332,0.26273284199999997,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,All vehicle-related thefts,,All households
+2.210072087,0.198371204,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,All vehicle-related thefts,,All households
+1.30295142,0.203988155,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,All vehicle-related thefts,,All households
+3.0979623469999997,0.267576731,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+3.770070287,0.296942676,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+3.3770402660000003,0.319715123,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+3.967359357,0.38932484100000003,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+4.306835486000001,0.278554595,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+3.01460517,0.270766516,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+3.164359287,0.48987628200000005,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+0.38239953600000004,0.078380157,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.5414679,0.10954685,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.666850149,0.133655355,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.669342522,0.151537428,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.87169855,0.127128686,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.36945739299999997,0.081087672,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.20795608899999998,0.086519035,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.592079865,0.12121733,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.645773881,0.130615439,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.7490218940000001,0.150069605,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.721111156,0.163230365,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.925613152,0.134961534,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.503951058,0.110821764,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.5050439870000001,0.20944837300000002,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+1.225758265,0.14898387400000002,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Bicycle theft,,All households
+0.984775422,0.14273871300000002,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Bicycle theft,,All households
+0.9100718859999999,0.157141452,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Bicycle theft,,All households
+1.041490127,0.190616955,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Bicycle theft,,All households
+1.2531158009999999,0.140900159,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Bicycle theft,,All households
+1.0684908640000002,0.152539612,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Bicycle theft,,All households
+0.854170885,0.163523874,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Bicycle theft,,All households
+3.15054716,0.42395996799999996,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+1.9952136759999999,0.299300446,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+1.531931819,0.275413674,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+1.662246405,0.307699899,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+1.7317438330000001,0.199378645,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+2.535429681,0.360478733,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+3.339561138,0.655463035,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+0.139532814,0.047044295,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.17162744,0.063470575,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.221620475,0.092287791,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.12197570199999999,0.043330096,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.233629024,0.084711904,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.148541816,0.07004774400000001,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.422329568,0.074494091,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.284806195,0.076410943,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.47609464799999995,0.11043857,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.23694299,0.09707488199999999,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.459245995,0.086013904,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.323728352,0.07616896299999999,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.319565,0.098345801,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.420174805,0.08187030599999999,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.35104405,0.092903551,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.21669338800000001,0.078035221,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.289128932,0.13243543800000002,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.19509426600000002,0.06639018,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.295856518,0.07138601,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.694078704,0.17697793399999998,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.666630285,0.098138155,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Attempted burglary in dwelling,,All households
+0.602088086,0.10987421800000001,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Attempted burglary in dwelling,,All households
+0.53452954,0.12130525800000001,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Attempted burglary in dwelling,,All households
+0.394857291,0.117213814,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Attempted burglary in dwelling,,All households
+0.578334102,0.099435138,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Attempted burglary in dwelling,,All households
+0.569008337,0.10185996900000001,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Attempted burglary in dwelling,,All households
+1.134160219,0.18533038300000002,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Attempted burglary in dwelling,,All households
+1.005464668,0.12315112800000001,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Burglary in dwelling with entry,,All households
+0.92165539,0.13867781199999998,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Burglary in dwelling with entry,,All households
+0.772414651,0.15334076300000002,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Burglary in dwelling with entry,,All households
+0.651644048,0.177016898,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Burglary in dwelling with entry,,All households
+0.7775745070000001,0.117742905,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Burglary in dwelling with entry,,All households
+0.67740021,0.11381939699999999,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Burglary in dwelling with entry,,All households
+1.3830903780000001,0.229824298,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Burglary in dwelling with entry,,All households
+1.645534209,0.156172179,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Burglary in dwelling,,All households
+1.523743476,0.175080176,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Burglary in dwelling,,All households
+1.306944191,0.19405800199999998,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Burglary in dwelling,,All households
+1.046501339,0.211818053,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Burglary in dwelling,,All households
+1.318156957,0.152570299,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Burglary in dwelling,,All households
+1.231183285,0.151413787,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Burglary in dwelling,,All households
+2.517250597,0.295599558,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Burglary in dwelling,,All households
+0.618736044,0.095440178,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.583923932,0.10523562800000001,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.555721263,0.132468871,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.362515116,0.11810697199999999,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.582480242,0.09759608199999999,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.39488584200000004,0.089035139,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.7260601,0.15430717800000002,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.6363787329999999,0.094363982,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.550200209,0.10788149699999999,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.557227592,0.118032365,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.6769503579999999,0.160407543,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.788344722,0.109206469,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.670762151,0.122650367,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.495724961,0.123688757,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.074516351,0.031209534,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.093766574,0.042746505,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.081132945,0.04275515,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.295266855,0.10638278699999999,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.207123025,0.055826637,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.113404775,0.047112217000000005,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.075459853,0.04435502400000001,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.561862382,0.08976467,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.456433635,0.099269999,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.47609464799999995,0.11043857,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.420123484,0.127729085,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.581221697,0.095550921,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.557357376,0.113648659,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.46810681600000004,0.120554761,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+1.222159233,0.136759753,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Arson and other criminal damage,,All households
+1.236508672,0.15303804599999998,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Arson and other criminal damage,,All households
+1.005317703,0.157259873,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Arson and other criminal damage,,All households
+1.048952697,0.191149343,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Arson and other criminal damage,,All households
+0.8534251070000001,0.11517165300000001,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Arson and other criminal damage,,All households
+0.731378821,0.127198585,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Arson and other criminal damage,,All households
+1.447976835,0.217003589,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Arson and other criminal damage,,All households
+2.17377413,0.180548553,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Criminal damage to a vehicle,,All households
+2.649497088,0.23080246,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Criminal damage to a vehicle,,All households
+2.744943595,0.27031290399999996,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Criminal damage to a vehicle,,All households
+3.479525715,0.354869618,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Criminal damage to a vehicle,,All households
+3.451710354,0.235567109,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Criminal damage to a vehicle,,All households
+1.599955047,0.164824,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Criminal damage to a vehicle,,All households
+1.337027449,0.204111381,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Criminal damage to a vehicle,,All households
+3.3657150999999996,0.277640124,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+3.1241326989999996,0.27220807,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+3.0831857119999997,0.302680162,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+3.7486409889999996,0.381196992,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+3.665198824,0.249535007,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+2.182387075,0.22420352600000001,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+3.149466938,0.480730335,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+2.220635403,0.190108797,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Other household theft,,All households
+1.926482669,0.19590033399999998,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Other household theft,,All households
+2.051785747,0.237188612,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Other household theft,,All households
+1.511042613,0.231703959,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Other household theft,,All households
+2.111278951,0.18195806899999997,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Other household theft,,All households
+1.4474628530000002,0.161788324,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Other household theft,,All households
+2.6906396260000003,0.298322027,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Other household theft,,All households
+1.505784016,0.15210079,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Theft from a motor vehicle,,All households
+2.42602881,0.21839070300000002,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Theft from a motor vehicle,,All households
+2.1016559409999997,0.236469879,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Theft from a motor vehicle,,All households
+2.819570412,0.31697272600000004,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Theft from a motor vehicle,,All households
+2.9737691510000004,0.21915577,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Theft from a motor vehicle,,All households
+1.729976569,0.176751828,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Theft from a motor vehicle,,All households
+0.985639995,0.175668413,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Theft from a motor vehicle,,All households
+2.33144738,0.233841758,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+2.8627623730000002,0.25818539,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+2.360629771,0.265269097,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+3.0376430830000003,0.340604038,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+3.157696932,0.232357814,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+2.359740364,0.240970491,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+2.3937339669999997,0.422758346,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+0.146395172,0.046266119,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Theft of a motor vehicle,,All households
+0.265422255,0.074619725,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Theft of a motor vehicle,,All households
+0.292780017,0.09659361,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Theft of a motor vehicle,,All households
+0.263723685,0.095723019,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Theft of a motor vehicle,,All households
+0.270126994,0.064168171,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Theft of a motor vehicle,,All households
+0.21402854,0.06439517,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Theft of a motor vehicle,,All households
+0.15288860199999998,0.065927913,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Theft of a motor vehicle,,All households
+0.22666772699999999,0.071573847,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.316552025,0.088904002,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.328857455,0.108453268,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.284120738,0.103103751,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.286834363,0.068147414,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.291941401,0.087823239,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.371306605,0.160134079,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.48024925399999996,0.09922055,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.11221251199999999,0.048011791,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.146995425,0.063067162,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.075784112,0.060393573,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.11077808,0.040527068,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.206057794,0.065345079,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.331483839,0.098269651,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Theft from a dwelling and meter,,All households
+7.180115827000001,0.328634537,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,All household theft,,All households
+7.5590079779999995,0.377620546,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,All household theft,,All households
+7.503773891,0.433463554,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,All household theft,,All households
+7.4287176520000004,0.50413521,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,All household theft,,All households
+8.986323737000001,0.37352724600000003,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,All household theft,,All households
+6.2226839279999995,0.33931615,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,All household theft,,All households
+7.394840096,0.47368181200000004,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,All household theft,,All households
+1.74038615,0.160637091,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Theft from outside dwelling,,All households
+1.814270157,0.19101934399999998,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Theft from outside dwelling,,All households
+1.904790322,0.22963872600000002,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Theft from outside dwelling,,All households
+1.4352585,0.223793372,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Theft from outside dwelling,,All households
+2.00050087,0.178108073,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Theft from outside dwelling,,All households
+1.241405059,0.142432022,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Theft from outside dwelling,,All households
+2.399363865,0.284016062,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Theft from outside dwelling,,All households
+9.938133083,0.38504942700000006,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,All household crime,,All households
+10.91528056,0.454962146,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,All household crime,,All households
+10.71228267,0.516118011,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,All household crime,,All households
+11.12960453,0.59575242,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,All household crime,,All households
+12.50626348,0.437544925,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,All household crime,,All households
+8.040758941,0.39007213799999996,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,All household crime,,All households
+9.420258771,0.531752386,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,All household crime,,All households
+3.3208472419999997,0.225877477,Quarter,2017 Q1,K04000001,,,"10,000-19,999",,Prevalence rate,,Criminal damage  ,,All households
+3.824449871,0.279222702,Quarter,2017 Q1,K04000001,,,"20,000-29,999",,Prevalence rate,,Criminal damage  ,,All households
+3.713298987,0.30773517,Quarter,2017 Q1,K04000001,,,"30,000-39,999",,Prevalence rate,,Criminal damage  ,,All households
+4.457520557,0.396686209,Quarter,2017 Q1,K04000001,,,"40,000-49,999",,Prevalence rate,,Criminal damage  ,,All households
+4.230686961,0.263743398,Quarter,2017 Q1,K04000001,,,"50,000 or more",,Prevalence rate,,Criminal damage  ,,All households
+2.252495072,0.20508561399999997,Quarter,2017 Q1,K04000001,,,No income stated or not enough information provided,,Prevalence rate,,Criminal damage  ,,All households
+2.7206118989999997,0.29075460399999997,Quarter,2017 Q1,K04000001,,,"Under 10,000",,Prevalence rate,,Criminal damage  ,,All households

@@ -1,0 +1,577 @@
+V4_1,Standard Error,Time_codelist,Time,Geography_codelist,Geography,HRP Employment status_codelist,HRP Employment status,Measurement Type_codelist,Measurement Type,Crime Type_codelist,Crime Type,Household Type_codelist,HouseholdType
+5.724148689,0.8812228329999999,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+19.13935877,4.849642197,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+12.66193506,5.707515694,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+8.147377534,4.7635466310000005,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+2.7792714710000004,0.593469034,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+4.515264852,3.3137559999999997,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+5.84400874,0.788150921,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+30.87524396,13.82649323,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+12.44093116,1.348007339,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Domestic burglary with entry and loss,,All households
+27.37542518,6.698534559,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Domestic burglary with entry and loss,,All households
+27.36435228,6.7648671039999995,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Domestic burglary with entry and loss,,All households
+8.45124577,4.914613032,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Domestic burglary with entry and loss,,All households
+8.92316404,1.271704484,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Domestic burglary with entry and loss,,All households
+6.529142857,3.93839028,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Domestic burglary with entry and loss,,All households
+10.23490424,0.8754849640000001,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Domestic burglary with entry and loss,,All households
+23.36317495,11.65899397,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Domestic burglary with entry and loss,,All households
+8.691320087000001,1.001105625,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Attempted domestic burglary,,All households
+23.74512854,4.872800615,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Attempted domestic burglary,,All households
+18.85153758,5.772139087999999,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Attempted domestic burglary,,All households
+11.73066647,6.493724235,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Attempted domestic burglary,,All households
+5.396282957,0.906313838,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Attempted domestic burglary,,All households
+2.0154331880000003,1.9874158419999999,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Attempted domestic burglary,,All households
+8.356630999,0.7322095740000001,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Attempted domestic burglary,,All households
+34.3490968,13.40057142,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Attempted domestic burglary,,All households
+18.16507985,1.622572093,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Domestic burglary with entry,,All households
+46.51478395,8.347849484,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Domestic burglary with entry,,All households
+40.02628734,8.769891866,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Domestic burglary with entry,,All households
+16.5986233,7.952349817999999,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Domestic burglary with entry,,All households
+11.70243551,1.4063274559999999,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Domestic burglary with entry,,All households
+11.04440771,5.135434499,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Domestic burglary with entry,,All households
+16.07891298,1.1623111190000002,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Domestic burglary with entry,,All households
+54.23841891,20.011701300000002,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Domestic burglary with entry,,All households
+26.85639994,1.89468779,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Domestic burglary,,All households
+70.25991249,9.539661141,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Domestic burglary,,All households
+58.87782493,10.58929929,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Domestic burglary,,All households
+28.32928977,10.23842779,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Domestic burglary,,All households
+17.09871847,1.6827679359999999,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Domestic burglary,,All households
+13.0598409,5.445733989,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Domestic burglary,,All households
+24.43554398,1.396876644,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Domestic burglary,,All households
+88.58751571,24.62259672,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Domestic burglary,,All households
+36.94245601,2.415847297,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,All vehicle crime,,All households
+78.61651061,10.84678027,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,All vehicle crime,,All households
+82.81401601,15.66635748,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,All vehicle crime,,All households
+43.758170899999996,12.82228147,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,All vehicle crime,,All households
+26.14650339,2.0153205,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,All vehicle crime,,All households
+17.54166716,8.007587857,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,All vehicle crime,,All households
+81.63544204,2.604758742,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,All vehicle crime,,All households
+45.47660795,11.52668674,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,All vehicle crime,,All households
+56.95532235,3.668510721,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,All vehicle crime,,Vehicle-owning households
+183.93203390000002,24.78230155,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,All vehicle crime,,Vehicle-owning households
+139.3287939,25.02411759,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,All vehicle crime,,Vehicle-owning households
+85.19813,24.58039133,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,All vehicle crime,,Vehicle-owning households
+37.26708296,2.865042733,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,All vehicle crime,,Vehicle-owning households
+47.14273277,21.32177449,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,All vehicle crime,,Vehicle-owning households
+94.90199947,3.0137877289999997,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,All vehicle crime,,Vehicle-owning households
+92.33828026,22.98078497,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,All vehicle crime,,Vehicle-owning households
+17.68248804,1.562059481,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,All vehicle-related theft,,All households
+35.85762561,7.305013764,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,All vehicle-related theft,,All households
+33.69098347,8.578385351,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,All vehicle-related theft,,All households
+21.8550999,9.488319955,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,All vehicle-related theft,,All households
+13.16947201,1.408600645,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,All vehicle-related theft,,All households
+12.47448753,6.904241957000001,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,All vehicle-related theft,,All households
+41.12997894,1.6412985780000002,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,All vehicle-related theft,,All households
+13.86704538,6.999972174,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,All vehicle-related theft,,All households
+27.67492647,2.4358985019999997,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+83.8928866,16.93438848,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+62.27507839,15.629920199999999,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+42.55236461,18.34299229,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+18.77068604,2.005466412,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+33.52483129,18.45147669,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+47.82049246,1.906999937,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+28.15643427,14.12854189,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
+3.296352186,0.733703707,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Attempted theft of and from vehicles,,All households
+8.183135884,4.606509492,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Attempted theft of and from vehicles,,All households
+5.387340514,2.483366251,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Attempted theft of and from vehicles,,All households
+9.016198702,6.612904027999999,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Attempted theft of and from vehicles,,All households
+2.219251032,0.523010902,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Attempted theft of and from vehicles,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Attempted theft of and from vehicles,,All households
+8.23578032,0.7691262590000001,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Attempted theft of and from vehicles,,All households
+5.728632281,5.719558212000001,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Attempted theft of and from vehicles,,All households
+5.159132817,1.148038433,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+19.14535274,10.75579417,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+9.958066468,4.571367700000001,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+17.554739,12.83242905,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+3.1631385310000004,0.7462419990000001,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+9.589544687,0.895128995,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+11.63173941,11.59026863,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+7.3049686110000005,0.88596893,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Bicycle theft,,All households
+11.63114526,2.897191344,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Bicycle theft,,All households
+31.58596629,6.944266395,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Bicycle theft,,All households
+14.354023999999999,7.76648068,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Bicycle theft,,All households
+2.17518283,0.45492648,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Bicycle theft,,All households
+42.12639779999999,12.61268557,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Bicycle theft,,All households
+14.2117135,0.960190584,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Bicycle theft,,All households
+22.11431365,7.510501134,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Bicycle theft,,All households
+22.69673177,2.9108504230000003,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Bicycle theft,,Bicycle-owning households
+33.89309154,9.205587499,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Bicycle theft,,Bicycle-owning households
+54.72239758,13.04783328,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Bicycle theft,,Bicycle-owning households
+40.25273223,21.55543525,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Bicycle theft,,Bicycle-owning households
+8.404192926,1.881687488,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Bicycle theft,,Bicycle-owning households
+78.55291647,24.88940994,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Bicycle theft,,Bicycle-owning households
+22.76266104,1.575344225,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Bicycle theft,,Bicycle-owning households
+43.49123836,15.51126861,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Bicycle theft,,Bicycle-owning households
+1.11236221,0.31352014300000003,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+3.0728606,1.5439891469999998,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+8.147377534,4.7635466310000005,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.681632165,0.263235659,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+1.936956325,0.393674745,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+2.181697555,2.179499547,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+5.144085748,0.8539022390000001,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+10.01853741,3.309785427,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+7.695942054,3.345048694,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+4.535372698,0.9687472,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+4.166600086,0.503641325,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+5.129379405,3.638032692,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
+4.61178648,0.826432761,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Burglary in dwelling with no loss,,All households
+16.06649817,4.623667674,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Burglary in dwelling with no loss,,All households
+12.66193506,5.707515694,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Burglary in dwelling with no loss,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Burglary in dwelling with no loss,,All households
+2.097639306,0.533514358,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Burglary in dwelling with no loss,,All households
+4.515264852,3.3137559999999997,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Burglary in dwelling with no loss,,All households
+3.907052415,0.686746126,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Burglary in dwelling with no loss,,All households
+28.69354641,13.66213684,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Burglary in dwelling with no loss,,All households
+7.218912114,0.901149419,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Attempted burglary in dwelling,,All households
+20.69168705,4.598455018,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Attempted burglary in dwelling,,All households
+18.85153758,5.772139087999999,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Attempted burglary in dwelling,,All households
+6.589968862999999,3.982983767,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Attempted burglary in dwelling,,All households
+4.107397891000001,0.755653472,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Attempted burglary in dwelling,,All households
+2.0154331880000003,1.9874158419999999,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Attempted burglary in dwelling,,All households
+6.944050957999999,0.680835455,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Attempted burglary in dwelling,,All households
+34.3490968,13.40057142,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Attempted burglary in dwelling,,All households
+11.90863189,1.326300986,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Burglary in dwelling with entry,,All households
+33.42338594,7.5228261860000005,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Burglary in dwelling with entry,,All households
+32.33034529,8.19974814,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Burglary in dwelling with entry,,All households
+8.45124577,4.914613032,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Burglary in dwelling with entry,,All households
+6.4854306479999995,0.9289221559999999,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Burglary in dwelling with entry,,All households
+11.04440771,5.135434499,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Burglary in dwelling with entry,,All households
+9.975356566,0.990061092,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Burglary in dwelling with entry,,All households
+46.92734195,19.59761259,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Burglary in dwelling with entry,,All households
+19.12754401,1.5850950169999998,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Burglary in dwelling,,All households
+54.11507299,8.709559899,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Burglary in dwelling,,All households
+51.18188288,9.944923112,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Burglary in dwelling,,All households
+15.04121463,6.315186681,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Burglary in dwelling,,All households
+10.59282854,1.19719823,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Burglary in dwelling,,All households
+13.0598409,5.445733989,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Burglary in dwelling,,All households
+16.91940752,1.216422849,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Burglary in dwelling,,All households
+81.27643875,24.319640600000003,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Burglary in dwelling,,All households
+7.296845413,1.01427004,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Burglary in dwelling with loss,,All households
+17.35688776,5.801520772999999,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Burglary in dwelling with loss,,All households
+19.66841023,5.926190649,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Burglary in dwelling with loss,,All households
+8.45124577,4.914613032,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Burglary in dwelling with loss,,All households
+4.387791342,0.74440452,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Burglary in dwelling with loss,,All households
+6.529142857,3.93839028,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Burglary in dwelling with loss,,All households
+6.068304151,0.7172269840000001,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Burglary in dwelling with loss,,All households
+18.23379554,11.09427937,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Burglary in dwelling with loss,,All households
+7.72885593,1.002048129,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Burglary in building other than dwelling,,All households
+16.1448395,3.895408696,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Burglary in building other than dwelling,,All households
+7.695942054,3.345048694,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Burglary in building other than dwelling,,All households
+13.28807514,6.994600232000001,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Burglary in building other than dwelling,,All households
+6.505889928999999,1.107619761,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Burglary in building other than dwelling,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Burglary in building other than dwelling,,All households
+7.5161364520000005,0.703557622,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Burglary in building other than dwelling,,All households
+7.31107696,4.2332760810000005,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Burglary in building other than dwelling,,All households
+1.4724079719999998,0.38015778299999997,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+3.0534414869999997,1.3930696519999999,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+5.140697607,5.136637125,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+1.288885066,0.414510511,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+1.412580041,0.28244623,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+6.256447958,0.9074806209999999,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+13.09139801,3.646400517,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+7.695942054,3.345048694,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+8.147377534,4.7635466310000005,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+5.2170048630000005,1.000821748,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+6.1035564110000005,0.636302978,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+7.31107696,4.2332760810000005,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Burglary in building other than dwelling with entry,,All households
+14.14037281,1.714700088,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Arson and other criminal damage,,All households
+30.16845431,7.674735556,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Arson and other criminal damage,,All households
+21.03583021,6.804461764,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Arson and other criminal damage,,All households
+17.16443924,9.195512892,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Arson and other criminal damage,,All households
+10.53264661,1.596980149,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Arson and other criminal damage,,All households
+17.275239000000003,9.987444692,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Arson and other criminal damage,,All households
+15.24353444,1.215562026,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Arson and other criminal damage,,All households
+38.37053131,13.27288351,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Arson and other criminal damage,,All households
+19.25996796,1.805718173,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Criminal damage to a vehicle,,All households
+42.758885,8.05266906,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Criminal damage to a vehicle,,All households
+49.12303253,13.08837757,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Criminal damage to a vehicle,,All households
+21.90307099,8.737915845,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Criminal damage to a vehicle,,All households
+12.97703137,1.423143314,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Criminal damage to a vehicle,,All households
+5.067179628,4.059626738,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Criminal damage to a vehicle,,All households
+40.5054631,1.931788575,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Criminal damage to a vehicle,,All households
+31.60956257,9.289319806,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Criminal damage to a vehicle,,All households
+29.28039588,2.697400913,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+100.0391473,18.57583875,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+77.05371555,19.80542982,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+42.64576539,16.87426933,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+18.49639693,2.025339968,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+13.61790147,10.868821,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+47.08150701,2.238710771,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+64.181846,18.643079800000002,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+21.27037316,1.6327472969999999,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Other household theft,,All households
+51.36074512,7.354664106,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Other household theft,,All households
+40.42187872,7.966840259,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Other household theft,,All households
+17.35575245,6.827501587,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Other household theft,,All households
+14.95861502,1.63342624,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Other household theft,,All households
+12.62119002,5.67280529,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Other household theft,,All households
+24.9309932,1.444137397,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Other household theft,,All households
+41.0456352,11.22366367,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Other household theft,,All households
+12.92503282,1.241920739,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Theft from a motor vehicle,,All households
+24.56897858,5.201276821,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Theft from a motor vehicle,,All households
+26.31357489,7.635889506,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Theft from a motor vehicle,,All households
+12.838901199999999,6.8355584170000006,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Theft from a motor vehicle,,All households
+10.07007629,1.18304789,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Theft from a motor vehicle,,All households
+4.613030994,3.265654313,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Theft from a motor vehicle,,All households
+29.95881388,1.370378476,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Theft from a motor vehicle,,All households
+8.138413095,4.061477041,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Theft from a motor vehicle,,All households
+20.22901596,1.9368613940000001,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+57.48184657,12.09036651,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+48.63853084,13.95248143,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+24.99762561,13.26167006,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+14.3530614,1.682545306,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+12.39738991,8.752851628,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+34.81305632,1.591958571,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+16.52469485,8.207226182000001,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Theft from a motor vehicle,,Vehicle-owning households
+1.461103038,0.44594375700000005,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Theft of a motor vehicle,,All households
+3.1055111460000004,2.021310255,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Theft of a motor vehicle,,All households
+1.990068072,1.49940663,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Theft of a motor vehicle,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Theft of a motor vehicle,,All households
+0.88014469,0.376794476,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Theft of a motor vehicle,,All households
+7.8614565370000005,6.08598231,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Theft of a motor vehicle,,All households
+2.93538474,0.377805315,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Theft of a motor vehicle,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Theft of a motor vehicle,,All households
+2.286777689,0.697732207,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+7.265687282999999,4.724702055,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+3.678481077,2.769059635,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+1.254486105,0.5370664070000001,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+21.12744139,16.30350964,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+3.417891449,0.440108447,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+3.968020352,0.688490453,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Theft from a dwelling and meter,,All households
+14.86128935,3.8467028869999997,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Theft from a dwelling and meter,,All households
+4.736544046000001,2.427154376,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Theft from a dwelling and meter,,All households
+6.146115097999999,4.611704627,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Theft from a dwelling and meter,,All households
+1.9534650530000002,0.59007265,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Theft from a dwelling and meter,,All households
+5.100429411,3.6422506560000003,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Theft from a dwelling and meter,,All households
+1.8266060130000001,0.415109285,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Theft from a dwelling and meter,,All households
+7.332510994,4.37995021,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Theft from a dwelling and meter,,All households
+73.11422975,3.1677276969999997,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,All household theft,,All households
+169.10942849999998,14.84023769,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,All household theft,,All households
+164.5766534,17.40806819,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,All household theft,,All households
+81.89416613,17.62663411,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,All household theft,,All households
+47.40198833,2.88913805,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,All household theft,,All households
+80.28191625,16.53253509,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,All household theft,,All households
+104.7082296,2.934415717,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,All household theft,,All households
+165.61450990000003,33.77544376,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,All household theft,,All households
+17.30235281,1.47859847,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Theft from outside dwelling,,All households
+36.49945576,6.2587356960000005,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Theft from outside dwelling,,All households
+35.68533467,7.324410305,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Theft from outside dwelling,,All households
+11.20963735,5.067137819,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Theft from outside dwelling,,All households
+13.00514996,1.535735,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Theft from outside dwelling,,All households
+7.520760612999999,4.353715936,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Theft from outside dwelling,,All households
+23.10438719,1.374366152,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Theft from outside dwelling,,All households
+33.71312421,10.37476622,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Theft from outside dwelling,,All households
+106.5145705,4.237482885,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,All household crime,,All households
+242.03676780000004,19.2307585,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,All household crime,,All households
+234.7355162,25.15218094,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,All household crime,,All households
+120.9616764,22.90885789,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,All household crime,,All households
+70.91166631,3.695635455,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,All household crime,,All households
+102.62433490000001,19.28889474,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,All household crime,,All households
+160.45722709999998,3.9152014489999996,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,All household crime,,All households
+235.59460380000002,41.25196875,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,All household crime,,All households
+33.40034077,2.541137395,Quarter,2017 Q1,K04000001,,,Economically inactive,,Incidence rate,,Criminal damage  ,,All households
+72.92733932,11.15693208,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Incidence rate,,Criminal damage  ,,All households
+70.15886274,14.70099278,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Incidence rate,,Criminal damage  ,,All households
+39.06751024,12.61808748,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Incidence rate,,Criminal damage  ,,All households
+23.50967798,2.198590329,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Incidence rate,,Criminal damage  ,,All households
+22.34241863,10.75225132,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Incidence rate,,Criminal damage  ,,All households
+55.74899754,2.3323123530000003,Quarter,2017 Q1,K04000001,,,Employed,,Incidence rate,,Criminal damage  ,,All households
+69.98009388,16.04089018,Quarter,2017 Q1,K04000001,,,Unemployed,,Incidence rate,,Criminal damage  ,,All households
+0.488769278,0.066175582,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+1.534388914,0.326558974,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+0.881035166,0.321465669,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+0.814737753,0.47635466299999996,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+0.266026027,0.055672583,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+0.451526485,0.3313756,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+0.45141552100000004,0.053674470999999994,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+1.954900991,0.705859948,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
+0.960689749,0.08909441300000001,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Domestic burglary with entry and loss,,All households
+1.807941033,0.365033293,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Domestic burglary with entry and loss,,All households
+2.1279631869999998,0.488656965,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Domestic burglary with entry and loss,,All households
+0.845124577,0.49146130299999996,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Domestic burglary with entry and loss,,All households
+0.7232780990000001,0.08940569400000001,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Domestic burglary with entry and loss,,All households
+0.652914286,0.393839028,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Domestic burglary with entry and loss,,All households
+0.8874299609999999,0.06557350099999999,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Domestic burglary with entry and loss,,All households
+1.033806611,0.46301829,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Domestic burglary with entry and loss,,All households
+0.691491932,0.073196862,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Attempted domestic burglary,,All households
+1.8443204030000002,0.345500346,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Attempted domestic burglary,,All households
+1.307257771,0.374645448,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Attempted domestic burglary,,All households
+0.916031767,0.473498119,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Attempted domestic burglary,,All households
+0.454726488,0.069823074,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Attempted domestic burglary,,All households
+0.201543319,0.198741584,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Attempted domestic burglary,,All households
+0.753701927,0.061540327,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Attempted domestic burglary,,All households
+1.7859529630000002,0.582153693,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Attempted domestic burglary,,All households
+1.411703102,0.10919809800000001,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Domestic burglary with entry,,All households
+3.1728704530000003,0.473330679,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Domestic burglary with entry,,All households
+3.008998353,0.5765985929999999,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Domestic burglary with entry,,All households
+1.371435685,0.62014952,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Domestic burglary with entry,,All households
+0.977381107,0.10388353,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Domestic burglary with entry,,All households
+1.104440771,0.51354345,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Domestic burglary with entry,,All households
+1.3306048590000001,0.082908495,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Domestic burglary with entry,,All households
+2.863376352,0.8301421109999999,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Domestic burglary with entry,,All households
+2.079723553,0.129004854,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Domestic burglary,,All households
+5.017190855,0.57495415,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Domestic burglary,,All households
+4.176833688,0.6717024220000001,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Domestic burglary,,All households
+2.287467451,0.7780426090000001,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Domestic burglary,,All households
+1.41434211,0.123587191,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Domestic burglary,,All households
+1.30598409,0.544573399,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Domestic burglary,,All households
+2.05318206,0.103178431,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Domestic burglary,,All households
+4.523998064,0.993605472,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Domestic burglary,,All households
+2.7323922030000003,0.15065524800000002,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,All vehicle crime,,All households
+4.834610535,0.571705409,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,All vehicle crime,,All households
+5.350342793,0.775460515,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,All vehicle crime,,All households
+3.5426247460000004,0.980156751,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,All vehicle crime,,All households
+2.153058501,0.14984928,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,All vehicle crime,,All households
+1.469755977,0.631729616,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,All vehicle crime,,All households
+6.553706951000001,0.183208066,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,All vehicle crime,,All households
+3.6520032319999998,0.865903498,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,All vehicle crime,,All households
+4.259207991,0.233700733,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+11.31110681,1.294055809,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+9.614753817,1.371824584,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+6.897569012000001,1.875500643,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+3.068793124,0.212838332,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+3.9499274860000004,1.6806573530000002,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+7.615744137,0.211741292,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+7.415234186,1.722718472,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,All vehicle crime,,Vehicle-owning households
+1.4289375180000001,0.108002029,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,All vehicle-related thefts,,All households
+2.367046716,0.403021233,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,All vehicle-related thefts,,All households
+2.751390143,0.583581095,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,All vehicle-related thefts,,All households
+1.6458089340000002,0.68194322,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,All vehicle-related thefts,,All households
+1.155779478,0.112311681,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,All vehicle-related thefts,,All households
+0.9630380140000001,0.48419095100000004,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,All vehicle-related thefts,,All households
+3.6106527710000003,0.133992683,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,All vehicle-related thefts,,All households
+1.100272924,0.495673951,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,All vehicle-related thefts,,All households
+2.236435316,0.168452725,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+5.537967957999999,0.929371121,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+5.085723809,1.06169809,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+3.204426526,1.317147373,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+1.64735334,0.159903247,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+2.588137339,1.293251729,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+4.197130656000001,0.15549353,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+2.234056456,0.999517619,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+0.270641209,0.047924072000000005,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.472397278,0.181675647,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.538734051,0.248336625,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.612414934,0.432839155,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.210407569,0.04835257900000001,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.697222575,0.060192655,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.286431614,0.28597791100000003,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.42358154200000003,0.075026911,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+1.105225753,0.42335678200000004,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.995806647,0.45713677,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+1.192385471,0.839417192,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.299897704,0.06900100599999999,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.8118292109999999,0.070062073,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.581586971,0.579513432,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+0.6888864020000001,0.082818611,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Bicycle theft,,All households
+1.1201755409999998,0.280530453,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Bicycle theft,,All households
+2.7856821469999997,0.607400826,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Bicycle theft,,All households
+1.1320735720000001,0.573318736,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Bicycle theft,,All households
+0.217518283,0.045492648,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Bicycle theft,,All households
+4.21263978,1.261268557,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Bicycle theft,,All households
+1.285728783,0.08202229700000001,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Bicycle theft,,All households
+1.9899365130000002,0.649024476,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Bicycle theft,,All households
+2.109003419,0.263354367,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+3.233774393,0.882951423,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+4.668273708,1.059442414,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+3.174653627,1.5889161230000002,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+0.840419293,0.188168749,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+7.8552916470000005,2.488940994,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+2.08180473,0.136844787,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+3.87313276,1.324564252,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+0.111236221,0.031352014,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.30728606,0.154398915,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.814737753,0.47635466299999996,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.068163217,0.026323566,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.169879831,0.033286882999999996,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.218169755,0.217949955,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.379011185,0.054817704,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.706027982,0.215720711,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.645726072,0.257851033,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.33156278699999997,0.059813957,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.36966019899999997,0.041118916,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.39968477700000005,0.30708362899999997,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.377533057,0.058693972999999997,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Burglary in dwelling with no loss,,All households
+1.227102854,0.291669836,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.881035166,0.321465669,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.19786281100000003,0.049225835999999995,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.451526485,0.3313756,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.284698748,0.042738875,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Burglary in dwelling with no loss,,All households
+1.736731236,0.6725114040000001,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.578398063,0.066430854,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Attempted burglary in dwelling,,All households
+1.601133914,0.323233205,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Attempted burglary in dwelling,,All households
+1.307257771,0.374645448,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Attempted burglary in dwelling,,All households
+0.6589968860000001,0.39829837700000004,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Attempted burglary in dwelling,,All households
+0.351801442,0.060259277,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Attempted burglary in dwelling,,All households
+0.201543319,0.198741584,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Attempted burglary in dwelling,,All households
+0.623119281,0.056716659,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Attempted burglary in dwelling,,All households
+1.7859529630000002,0.582153693,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Attempted burglary in dwelling,,All households
+0.946782192,0.09143966,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Burglary in dwelling with entry,,All households
+2.192897549,0.399647851,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Burglary in dwelling with entry,,All households
+2.363272281,0.5247289829999999,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Burglary in dwelling with entry,,All households
+0.845124577,0.49146130299999996,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Burglary in dwelling with entry,,All households
+0.595217535,0.08249302900000001,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Burglary in dwelling with entry,,All households
+1.104440771,0.51354345,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Burglary in dwelling with entry,,All households
+0.799337957,0.066240883,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Burglary in dwelling with entry,,All households
+2.245521819,0.744786275,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Burglary in dwelling with entry,,All households
+1.525180255,0.111244917,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Burglary in dwelling,,All households
+3.794031463,0.505054606,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Burglary in dwelling,,All households
+3.6705300519999997,0.636177464,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Burglary in dwelling,,All households
+1.5041214630000002,0.631518668,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Burglary in dwelling,,All households
+0.947018977,0.101218141,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Burglary in dwelling,,All households
+1.30598409,0.544573399,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Burglary in dwelling,,All households
+1.405442958,0.08640449,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Burglary in dwelling,,All households
+3.9061435319999998,0.9269356940000001,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Burglary in dwelling,,All households
+0.598722368,0.071652263,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Burglary in dwelling with loss,,All households
+1.135254189,0.297950871,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Burglary in dwelling with loss,,All households
+1.482237115,0.41911330700000005,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.845124577,0.49146130299999996,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.40927774299999997,0.067512383,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.652914286,0.393839028,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.517769762,0.050943758,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.634121834,0.348295739,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Burglary in dwelling with loss,,All households
+0.607384999,0.070213915,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Burglary in building other than dwelling,,All households
+1.318658191,0.298144774,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.645726072,0.257851033,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Burglary in building other than dwelling,,All households
+1.071772634,0.540477976,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.497867295,0.072525298,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.659902536,0.057828131,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.6178545329999999,0.375920653,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Burglary in building other than dwelling,,All households
+0.130266166,0.031716821,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.305344149,0.139306965,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.25703488,0.256831856,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.115906776,0.034827963999999996,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.130582645,0.025039277000000002,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.490247406,0.062921769,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+1.013314042,0.26461680600000004,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.645726072,0.257851033,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.814737753,0.47635466299999996,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.39972600399999997,0.065026319,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.53442996,0.052085607,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.6178545329999999,0.375920653,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.955009902,0.09320664599999999,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Arson and other criminal damage,,All households
+1.9845540990000001,0.36179290700000005,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Arson and other criminal damage,,All households
+1.374500765,0.389585101,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Arson and other criminal damage,,All households
+1.150628605,0.588410234,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Arson and other criminal damage,,All households
+0.697611271,0.08620329199999999,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Arson and other criminal damage,,All households
+1.7275238999999998,0.998744469,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Arson and other criminal damage,,All households
+1.082358038,0.073441601,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Arson and other criminal damage,,All households
+2.251988315,0.67925035,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Arson and other criminal damage,,All households
+1.357145016,0.107066212,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Criminal damage to a vehicle,,All households
+2.5979972080000002,0.42981237,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Criminal damage to a vehicle,,All households
+2.736530543,0.54357681,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Criminal damage to a vehicle,,All households
+1.896815811,0.7128480779999999,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Criminal damage to a vehicle,,All households
+1.0346007590000001,0.10377504300000001,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Criminal damage to a vehicle,,All households
+0.5067179629999999,0.40596267399999997,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Criminal damage to a vehicle,,All households
+3.130223214,0.128177517,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Criminal damage to a vehicle,,All households
+2.5517303080000002,0.7218879090000001,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Criminal damage to a vehicle,,All households
+2.106803606,0.16642649199999998,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+6.078302215,0.987579987,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+4.783331699,0.958252613,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+3.693142487,1.375584905,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+1.474635127,0.147528794,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+1.3617901469999998,1.0868821000000002,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+3.636548605,0.148360829,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+5.18117773,1.447214934,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
+1.758979532,0.11941619099999999,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Other household theft,,All households
+3.9665783510000003,0.517018815,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Other household theft,,All households
+3.352966155,0.5973042510000001,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Other household theft,,All households
+1.735575245,0.682750159,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Other household theft,,All households
+1.259956927,0.11885729699999999,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Other household theft,,All households
+1.262119002,0.567280529,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Other household theft,,All households
+2.091456638,0.10623536,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Other household theft,,All households
+3.398417862,0.864659689,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Other household theft,,All households
+1.097684905,0.09501899300000001,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Theft from a motor vehicle,,All households
+1.7591549830000002,0.34899,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Theft from a motor vehicle,,All households
+2.151183028,0.493096769,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Theft from a motor vehicle,,All households
+1.0333940000000001,0.529102769,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Theft from a motor vehicle,,All households
+0.91644134,0.10113050900000001,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Theft from a motor vehicle,,All households
+0.461303099,0.326565431,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Theft from a motor vehicle,,All households
+2.685765398,0.115320509,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Theft from a motor vehicle,,All households
+0.81384131,0.406147704,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Theft from a motor vehicle,,All households
+1.717990645,0.1481941,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+4.115737922,0.8092499059999999,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+3.97628914,0.899544459,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+2.012041055,1.026202141,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+1.306220375,0.143776429,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+1.2397389909999998,0.8752851629999999,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+3.120214026,0.13379971300000001,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+1.652469485,0.820722618,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Theft from a motor vehicle,,Vehicle-owning households
+0.110086282,0.030991219,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Theft of a motor vehicle,,All households
+0.17925861899999998,0.110156249,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Theft of a motor vehicle,,All households
+0.19900680699999998,0.149940663,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Theft of a motor vehicle,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Theft of a motor vehicle,,All households
+0.07485239,0.030006682000000003,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Theft of a motor vehicle,,All households
+0.501734915,0.357757373,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Theft of a motor vehicle,,All households
+0.293538474,0.037780532,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Theft of a motor vehicle,,All households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Theft of a motor vehicle,,All households
+0.17229644100000002,0.048477518,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.419395394,0.25735656,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.36784810799999995,0.27690596300000003,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.106688462,0.042771052999999996,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+1.3483983480000001,0.958165333,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.341789145,0.044010845,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.0,0.0,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
+0.328255082,0.054553814000000006,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Theft from a dwelling and meter,,All households
+1.175092828,0.297363963,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.402971509,0.20975309600000003,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.61461151,0.461170463,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.16100414300000002,0.044515992000000004,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.510042941,0.36422506600000004,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.143246485,0.029922712,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.564932872,0.32711946,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Theft from a dwelling and meter,,All households
+5.7002444820000004,0.214863055,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,All household theft,,All households
+11.66074642,0.842357795,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,All household theft,,All households
+12.35585252,1.1616896270000001,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,All household theft,,All households
+6.501536724,1.311800153,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,All household theft,,All households
+3.92817056,0.206782975,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,All household theft,,All households
+7.5256691170000005,1.538296598,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,All household theft,,All households
+8.492975122,0.208483762,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,All household theft,,All households
+8.990944545,1.3273275,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,All household theft,,All households
+1.441758226,0.107099801,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Theft from outside dwelling,,All households
+2.791485522,0.418699816,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Theft from outside dwelling,,All households
+3.098729985,0.58168275,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Theft from outside dwelling,,All households
+1.120963735,0.5067137820000001,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Theft from outside dwelling,,All households
+1.098952784,0.11136517300000001,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Theft from outside dwelling,,All households
+0.7520760609999999,0.435371594,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Theft from outside dwelling,,All households
+1.948210154,0.101517925,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Theft from outside dwelling,,All households
+2.833484991,0.8041217490000001,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Theft from outside dwelling,,All households
+7.52760597,0.245024718,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,All household crime,,All households
+14.83674322,0.9240966690000001,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,All household crime,,All households
+15.00395099,1.248857523,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,All household crime,,All households
+8.350343651000001,1.492791149,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,All household crime,,All households
+5.42987303,0.24100865600000002,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,All household crime,,All households
+9.75991098,1.8331653490000002,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,All household crime,,All households
+11.99246484,0.249726507,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,All household crime,,All households
+12.3632539,1.5121673180000001,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,All household crime,,All households
+2.280222167,0.14374296,Quarter,2017 Q1,K04000001,,,Economically inactive,,Prevalence rate,,Criminal damage  ,,All households
+4.47338699,0.543594731,Quarter,2017 Q1,K04000001,,,Economically inactive: long-term/temp sick/ill,,Prevalence rate,,Criminal damage  ,,All households
+4.1110313089999995,0.664334266,Quarter,2017 Q1,K04000001,,,Economically inactive: looking after family/home,,Prevalence rate,,Criminal damage  ,,All households
+3.0474444160000003,0.9190317590000001,Quarter,2017 Q1,K04000001,,,Economically inactive: other,,Prevalence rate,,Criminal damage  ,,All households
+1.70701242,0.136285251,Quarter,2017 Q1,K04000001,,,Economically inactive: retired,,Prevalence rate,,Criminal damage  ,,All households
+2.2342418630000003,1.0752251320000001,Quarter,2017 Q1,K04000001,,,Economically inactive: student,,Prevalence rate,,Criminal damage  ,,All households
+4.124589211,0.147007167,Quarter,2017 Q1,K04000001,,,Employed,,Prevalence rate,,Criminal damage  ,,All households
+4.803718623,0.980203795,Quarter,2017 Q1,K04000001,,,Unemployed,,Prevalence rate,,Criminal damage  ,,All households
