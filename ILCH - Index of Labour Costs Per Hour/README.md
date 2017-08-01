@@ -23,7 +23,7 @@ full details are provided in the form of the attached details.json. Contents sho
                             },
                         "2": {
                             "name":"Seasonally Adjusted File",
-                            "disctinctiveText":'',
+                            "disctinctiveText":"",
                             "format":"xls"
                             }
                         },
