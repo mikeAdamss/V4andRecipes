@@ -3,11 +3,11 @@
 Takes 2 input file (seasonally adjusted and non seasonally adjusted), creates 2 output files ("growth" and "level").
 
 ## description
-Each output file contains data from both inputs. The "Growth" output is made using growth data from both the Seasonally Adjusted and non seasonally adjusted spreadsheets.
+Each output file contains data from both inputs. The "Growth" output is made using growth data from both the Seasonally Adjusted and Non Seasonally Adjusted spreadsheets.
  
 # usage
 
-```python ILCH.py <NSA input> <SA input```
+```python ILCH.py <NSA input> <SA input>```
 
 
 ## details
