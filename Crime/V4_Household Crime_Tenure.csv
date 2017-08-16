@@ -1,4 +1,4 @@
-V4_1,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geography,Tenure_codelist,Tenure,Measurement Type_codelist,Measurement Type,Crime Type_codelist,Crime Type,Household Type_codelist,HouseholdType
+V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geography,Tenure_codelist,Tenure,Measurement Type_codelist,Measurement Type,Crime Type_codelist,Crime Type,Household Type_codelist,HouseholdType
 4.477883052,0.655065375,22589,Quarter,2017 Q1,K04000001,,,Owners,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 7.390329529,1.368178044,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 9.016577094,1.256242602,12525,Quarter,2017 Q1,K04000001,,,Renters,,Incidence rate,,Domestic burglary with entry and no loss,,All households

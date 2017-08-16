@@ -1,4 +1,4 @@
-V4_1,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geography,Level of physical disorder in immediate area_codelist,Level of physical disorder in immediate area,Measurement Type_codelist,Measurement Type,Crime Type_codelist,Crime Type,Age_codelist,Age,Sex_codelist,Sex
+V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geography,Level of physical disorder in immediate area_codelist,Level of physical disorder in immediate area,Measurement Type_codelist,Measurement Type,Crime Type_codelist,Crime Type,Age_codelist,Age,Sex_codelist,Sex
 23.43961992,11.52485245,210,Quarter,2017 Q1,K04000001,,,High,,Incidence rate,,Acquaintance violence,,16-24,,All adults
 22.41676939,5.042395384,2362,Quarter,2017 Q1,K04000001,,,Low,,Incidence rate,,Acquaintance violence,,16-24,,All adults
 19.92359482,5.271200554,1842,Quarter,2017 Q1,K04000001,,,High,,Incidence rate,,Acquaintance violence,,16+,,All adults
@@ -911,75 +911,1011 @@ V4_1,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.596247995,0.435228432,2607,Quarter,2017 Q1,K04000001,,,Low,,Incidence rate,,Wounding,,65-74,,Male
 0,0,46,Quarter,2017 Q1,K04000001,,,High,,Incidence rate,,Wounding,,75+,,Male
 0.386305193,0.3863016,1839,Quarter,2017 Q1,K04000001,,,Low,,Incidence rate,,Wounding,,75+,,Male
-0.821840404,0.271341084,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic burglary with entry and no loss,, ,, 
-0.46681104100000004,0.042049699,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic burglary with entry and no loss,, ,, 
-1.264505565,0.265742725,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic burglary with entry and loss,, ,, 
-0.8930912990000001,0.052734931,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic burglary with entry and loss,, ,, 
-1.221999638,0.270751154,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted domestic burglary,, ,, 
-0.726606293,0.04899760400000001,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted domestic burglary,, ,, 
-2.086345969,0.38605182,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic burglary with entry,, ,, 
-1.337785154,0.06579687099999999,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic burglary with entry,, ,, 
-3.276460128,0.465471495,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic burglary,, ,, 
-2.031821517,0.080667993,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic burglary,, ,, 
-5.607058629,0.551904926,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All vehicle crime,, ,, 
-5.113447816,0.132772254,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All vehicle crime,, ,, 
-10.95509557,1.049557973,970,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All vehicle crime,, ,, 
-6.45657856,0.166704985,27076,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All vehicle crime,, ,, 
-2.511771848,0.373851198,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All vehicle-related thefts,, ,, 
-2.81288239,0.098189803,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All vehicle-related thefts,, ,, 
-4.907510777,0.719182003,970,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All vehicle-related thefts,, ,, 
-3.555695164,0.123887785,27076,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All vehicle-related thefts,, ,, 
-0.3896575,0.14954136699999998,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted theft of and from vehicles,, ,, 
-0.5480124670000001,0.044449039,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted theft of and from vehicles,, ,, 
-0.76131452,0.29163079,970,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted theft of and from vehicles,, ,, 
-0.693716392,0.056285002,27076,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted theft of and from vehicles,, ,, 
-2.028253185,0.37793046399999997,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Bicycle theft,, ,, 
-1.0266469,0.060167548,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Bicycle theft,, ,, 
-5.629277719,1.045676201,658,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Bicycle theft,, ,, 
-1.9635104280000002,0.12008121599999999,16061,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Bicycle theft,, ,, 
-0.424447873,0.225477608,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,, ,, 
-0.13295575099999998,0.021144172000000003,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,, ,, 
-0.27394972100000003,0.114644292,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,, ,, 
-0.378499366,0.033906961,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,, ,, 
-0.397392531,0.15208150199999998,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Burglary in dwelling with no loss,, ,, 
-0.33595374100000003,0.036849471,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Burglary in dwelling with no loss,, ,, 
-1.0910048909999999,0.259732381,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted burglary in dwelling,, ,, 
-0.6076043560000001,0.04474282,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted burglary in dwelling,, ,, 
-1.387948375,0.283537007,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Burglary in dwelling with entry,, ,, 
-0.8416635090000001,0.054806655999999995,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Burglary in dwelling with entry,, ,, 
-2.478953266,0.381189557,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Burglary in dwelling,, ,, 
-1.4331980659999999,0.069427376,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Burglary in dwelling,, ,, 
-0.9905558440000001,0.240351798,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Burglary in dwelling with loss,, ,, 
-0.5212171720000001,0.040968946,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Burglary in dwelling with loss,, ,, 
-0.797506862,0.260893198,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Burglary in building other than dwelling,, ,, 
-0.627233515,0.043803907999999996,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Burglary in building other than dwelling,, ,, 
-0.130994747,0.077916848,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted burglary in building other than dwelling,, ,, 
-0.125677123,0.019786096,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted burglary in building other than dwelling,, ,, 
-0.698397594,0.25253822800000003,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Burglary in building other than dwelling with entry,, ,, 
-0.50806497,0.039160598,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Burglary in building other than dwelling with entry,, ,, 
-1.4556561069999998,0.281716868,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Arson and other criminal damage,, ,, 
-1.032119423,0.05891085,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Arson and other criminal damage,, ,, 
-3.3934169439999997,0.447996525,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Criminal damage to a vehicle,, ,, 
-2.428920775,0.089120224,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Criminal damage to a vehicle,, ,, 
-6.630072806,0.864136646,970,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Criminal damage to a vehicle,, ,, 
-3.063365483,0.11201223699999999,27076,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Criminal damage to a vehicle,, ,, 
-3.269321713,0.433337594,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other household theft,, ,, 
-1.915630546,0.081255514,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other household theft,, ,, 
-2.039210711,0.332250859,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from a motor vehicle,, ,, 
-2.091363065,0.08317297,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from a motor vehicle,, ,, 
-3.98421877,0.640333833,970,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from a motor vehicle,, ,, 
-2.6423404269999997,0.10490661300000001,27076,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from a motor vehicle,, ,, 
-0.14661418699999998,0.091078462,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft of a motor vehicle,, ,, 
-0.232474879,0.027906922999999997,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft of a motor vehicle,, ,, 
-0.286455438,0.17785287800000002,970,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft of a motor vehicle,, ,, 
-0.294284609,0.035338403,27076,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft of a motor vehicle,, ,, 
-0.6262748929999999,0.20311506699999998,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from a dwelling and meter,, ,, 
-0.199678319,0.028062821,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from a dwelling and meter,, ,, 
-10.20313078,0.7779037059999999,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All household theft,, ,, 
-7.3386667779999994,0.156615267,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All household theft,, ,, 
-2.643046821,0.37622120600000003,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from outside dwelling,, ,, 
-1.7202412580000002,0.07660597400000001,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from outside dwelling,, ,, 
-13.91234967,0.892803412,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All household crime,, ,, 
-10.18004012,0.190298259,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All household crime,, ,, 
-4.778518117,0.546496625,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Criminal damage  ,, ,, 
-3.3927722410000003,0.10739887099999999,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Criminal damage  ,, ,, 
+2.343961992,1.152485245,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,16-24,,All adults
+1.384262912,0.284951604,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,16-24,,All adults
+1.295747937,0.30286845,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,16+,,All adults
+0.558761242,0.053035533,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,16+,,All adults
+0.605628234,0.306052408,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,25-34,,All adults
+0.662245267,0.129471778,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,25-34,,All adults
+1.8315088,0.697341967,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,35-44,,All adults
+0.382320521,0.082404022,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,35-44,,All adults
+0.469380646,0.363118832,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,45-54,,All adults
+0.69357283,0.11672458,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,45-54,,All adults
+2.186343098,1.079492313,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,55-64,,All adults
+0.365780354,0.078716487,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,55-64,,All adults
+0.524448724,0.523914634,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,65-74,,All adults
+0.197744242,0.059669152,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,75+,,All adults
+0.093481301,0.049154807,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,75+,,All adults
+0.28087629,0.282044079,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,16-24,,Female
+1.321500695,0.376892041,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,16-24,,Female
+1.179352332,0.346910987,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,16+,,Female
+0.502101369,0.068541201,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,16+,,Female
+0.830768355,0.478775642,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,25-34,,Female
+0.582057157,0.159820776,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,25-34,,Female
+2.870153302,1.249276508,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,35-44,,Female
+0.260433508,0.082724558,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,35-44,,Female
+0,0,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,45-54,,Female
+0.749661991,0.180187279,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,45-54,,Female
+4.209858394,2.284836199,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,55-64,,Female
+0.40730033,0.118579401,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,65-74,,Female
+0.036601844,0.027668247,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,75+,,Female
+0.07119706,0.051589234,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,75+,,Female
+4.097033573,2.098399695,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,16-24,,Male
+1.445070754,0.370195915,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,16-24,,Male
+1.404123574,0.489921431,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,16+,,Male
+0.618267977,0.074579167,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,16+,,Male
+0.374941554,0.375461931,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,25-34,,Male
+0.742736689,0.204535374,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,25-34,,Male
+0.964368296,0.731096889,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,35-44,,Male
+0.50756171,0.139570355,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,35-44,,Male
+0.872410136,0.668938012,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,45-54,,Male
+0.635196448,0.14992593,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,45-54,,Male
+0.539247603,0.539137982,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,55-64,,Male
+0.322333461,0.103616317,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,55-64,,Male
+1.212373789,1.207571858,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,65-74,,Male
+0.36981583,0.119778645,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Acquaintance violence,,75+,,Male
+0.122597719,0.09107647,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Acquaintance violence,,75+,,Male
+10.97623456,2.15129324,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,16-24,,All adults
+13.40686181,0.81101659,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,16-24,,All adults
+12.08865057,0.935722759,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,16+,,All adults
+9.385821012,0.198088745,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,16+,,All adults
+15.50910142,2.298954555,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,25-34,,All adults
+11.09456798,0.514593934,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,25-34,,All adults
+14.93468067,2.350497071,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,35-44,,All adults
+11.297976,0.478010144,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,35-44,,All adults
+13.96723513,2.139171733,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,45-54,,All adults
+10.19721716,0.433620801,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,45-54,,All adults
+7.119807174,1.769247045,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,55-64,,All adults
+8.224629615,0.446034465,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,55-64,,All adults
+4.057982166,1.42182607,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,65-74,,All adults
+5.224790581,0.337726918,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,65-74,,All adults
+5.490010535,2.471191458,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,75+,,All adults
+3.767365671,0.322240427,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,75+,,All adults
+12.00591388,3.187854747,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,16-24,,Female
+14.15909416,1.142175947,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,16-24,,Female
+12.87923766,1.281086459,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,16+,,Female
+9.575282596,0.268146667,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,16+,,Female
+13.94539651,2.62020826,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,25-34,,Female
+11.3671975,0.68086653,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,25-34,,Female
+16.52148252,3.485903908,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,35-44,,Female
+12.4229241,0.681322342,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,35-44,,Female
+15.89442382,3.265380957,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,45-54,,Female
+10.86520393,0.630282555,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,45-54,,Female
+11.62025279,3.378152023,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,55-64,,Female
+7.805358297,0.637583326,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,55-64,,Female
+3.358967994,1.546196831,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,65-74,,Female
+4.611688272,0.427660133,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,65-74,,Female
+7.286631597,3.836244677,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,75+,,Female
+3.677523251,0.407525362,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,75+,,Female
+10.10128226,2.995175668,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,16-24,,Male
+12.6780535,1.126145992,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,16-24,,Male
+11.35253704,1.337513721,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,16+,,Male
+9.186839973,0.285015291,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,16+,,Male
+17.1113298,3.795160364,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,25-34,,Male
+10.82090724,0.763711473,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,25-34,,Male
+13.60989616,2.993625201,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,35-44,,Male
+10.14207076,0.67749153,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,35-44,,Male
+12.31247181,2.790883204,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,45-54,,Male
+9.501991039,0.615360288,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,45-54,,Male
+3.45654665,1.524533221,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,55-64,,Male
+8.663359059,0.629681862,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,55-64,,Male
+4.974886618,2.566077696,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,65-74,,Male
+5.879475437,0.52144369,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,65-74,,Male
+2.740836575,2.013823534,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All theft,,75+,,Male
+3.884753091,0.495280877,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All theft,,75+,,Male
+0.45614845,0.362377694,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,16-24,,All adults
+1.186513713,0.244050522,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,16-24,,All adults
+0.776514505,0.199595728,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,16+,,All adults
+0.381293313,0.04076867,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,16+,,All adults
+0.927517062,0.429935014,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,25-34,,All adults
+0.443704588,0.099824483,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,25-34,,All adults
+0.528362148,0.307872707,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,35-44,,All adults
+0.305932828,0.070272458,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,35-44,,All adults
+1.060314466,0.610804561,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,45-54,,All adults
+0.395313831,0.080212722,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,45-54,,All adults
+1.216684876,0.851165759,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,55-64,,All adults
+0.169737336,0.057933415,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,55-64,,All adults
+0.942626491,0.669990748,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,65-74,,All adults
+0.091894419,0.040205056,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,75+,,All adults
+0,0,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,75+,,All adults
+0,0,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,16-24,,Female
+0.740760234,0.252684102,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,16-24,,Female
+0.77025916,0.30341572,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,16+,,Female
+0.292160884,0.044853551,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,16+,,Female
+1.46680662,0.762372294,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,25-34,,Female
+0.259252895,0.082510365,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,25-34,,Female
+0.367010392,0.367142863,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,35-44,,Female
+0.354861552,0.109445313,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,35-44,,Female
+0.888841121,0.885917273,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,45-54,,Female
+0.325756726,0.101301671,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,45-54,,Female
+2.048940619,1.766693584,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,55-64,,Female
+0.257443321,0.100207016,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,65-74,,Female
+0.063746689,0.042153121,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,75+,,Female
+0,0,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,75+,,Female
+0.843752749,0.671669663,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,16-24,,Male
+1.618386707,0.398130339,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,16-24,,Male
+0.78233884,0.261830289,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,16+,,Male
+0.474904181,0.068029025,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,16+,,Male
+0.374941554,0.375461931,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,25-34,,Male
+0.628853969,0.183258329,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,25-34,,Male
+0.663071032,0.474455274,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,35-44,,Male
+0.255657647,0.088594337,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,35-44,,Male
+1.207548518,0.838465684,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,45-54,,Male
+0.467707356,0.125451695,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,45-54,,Male
+0.539247603,0.539137982,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,55-64,,Male
+0.077960969,0.055281845,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,55-64,,Male
+2.179079856,1.541704926,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,65-74,,Male
+0.121951218,0.069927902,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with injury,,75+,,Male
+0,0,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with injury,,75+,,Male
+3.437362641,1.331327696,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,16-24,,All adults
+2.875426538,0.374107962,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,16-24,,All adults
+2.406305884,0.394345755,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,16+,,All adults
+1.220427834,0.074280804,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,16+,,All adults
+1.825125396,0.607847914,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,25-34,,All adults
+1.557613948,0.1964043,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,25-34,,All adults
+3.782730527,1.031971172,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,35-44,,All adults
+1.069812418,0.141701328,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,35-44,,All adults
+1.771293743,0.742286628,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,45-54,,All adults
+1.46592384,0.172097528,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,45-54,,All adults
+2.313319131,1.086958741,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,55-64,,All adults
+0.645759751,0.109272746,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,55-64,,All adults
+0.942626491,0.669990748,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,65-74,,All adults
+0.419731785,0.087926673,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,75+,,All adults
+0.161109203,0.0597787,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,75+,,All adults
+1.893853505,1.218873632,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,16-24,,Female
+1.618661503,0.398752129,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,16-24,,Female
+2.296444925,0.517794248,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,16+,,Female
+0.870614778,0.082030808,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,16+,,Female
+1.729613167,0.8036346,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,25-34,,Female
+1.137783892,0.2084611,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,25-34,,Female
+4.552402876,1.685686068,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,35-44,,Female
+0.909846935,0.183744998,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,35-44,,Female
+1.728393634,1.176225635,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,45-54,,Female
+1.135343359,0.212979206,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,45-54,,Female
+4.492828993,2.30098364,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,55-64,,Female
+0.648557408,0.153576072,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,65-74,,Female
+0.302002793,0.102403094,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,75+,,Female
+0.100012822,0.059081879,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,75+,,Female
+4.748932975,2.222722906,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,16-24,,Male
+4.093056696,0.621996108,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,16-24,,Male
+2.508597129,0.591479353,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,16+,,Male
+1.587817168,0.121984416,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,16+,,Male
+1.922990667,0.912891233,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,25-34,,Male
+1.979032011,0.334778657,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,25-34,,Male
+3.140148713,1.253524955,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,35-44,,Male
+1.234179948,0.216375393,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,35-44,,Male
+1.808129538,0.933831967,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,45-54,,Male
+1.809984826,0.275201874,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,45-54,,Male
+0.539247603,0.539137982,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,55-64,,Male
+0.642832257,0.15620337,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,55-64,,Male
+2.179079856,1.541704926,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,65-74,,Male
+0.545445531,0.141318406,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault,,75+,,Male
+0.240937268,0.11414318,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault,,75+,,Male
+2.981214191,1.283731915,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,16-24,,All adults
+1.838022407,0.300372946,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,16-24,,All adults
+1.767240192,0.351182842,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,16+,,All adults
+0.88138646,0.062949936,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,16+,,All adults
+1.231311687,0.492510091,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,25-34,,All adults
+1.163558433,0.170125366,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,25-34,,All adults
+3.41025208,0.997554366,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,35-44,,All adults
+0.778479396,0.125058551,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,35-44,,All adults
+0.710979277,0.451937118,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,45-54,,All adults
+1.113784348,0.156456511,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,45-54,,All adults
+1.393907879,0.744502555,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,55-64,,All adults
+0.487041209,0.093526663,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,55-64,,All adults
+0,0,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,65-74,,All adults
+0.353393118,0.083262431,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,75+,,All adults
+0.161109203,0.0597787,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,75+,,All adults
+1.893853505,1.218873632,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,16-24,,Female
+0.877901269,0.310926854,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,16-24,,Female
+1.596390464,0.431865038,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,16+,,Female
+0.596304342,0.068344153,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,16+,,Female
+0.55626322,0.392640286,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,25-34,,Female
+0.921052616,0.196320784,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,25-34,,Female
+4.185392484,1.647160192,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,35-44,,Female
+0.554985383,0.148012311,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,35-44,,Female
+0.839552512,0.837231801,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,45-54,,Female
+0.854269067,0.192893073,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,45-54,,Female
+2.443888373,1.514076713,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,55-64,,Female
+0.412662978,0.118824205,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,65-74,,Female
+0.238256104,0.093384931,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,75+,,Female
+0.100012822,0.059081879,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,75+,,Female
+3.905180226,2.127517153,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,16-24,,Male
+2.768245972,0.511952987,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,16-24,,Male
+1.926317919,0.546546414,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,16+,,Male
+1.180792465,0.104637538,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,16+,,Male
+1.922990667,0.912891233,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,25-34,,Male
+1.40698153,0.28006949,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,25-34,,Male
+2.763105111,1.19569882,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,35-44,,Male
+1.00812368,0.200377937,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,35-44,,Male
+0.60058102,0.432889604,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,45-54,,Male
+1.383882217,0.24934299,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,45-54,,Male
+0.539247603,0.539137982,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,55-64,,Male
+0.564871287,0.146188615,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,55-64,,Male
+0,0,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,65-74,,Male
+0.476339091,0.13560657,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Common assault with no injury,,75+,,Male
+0.240937268,0.11414318,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Common assault with no injury,,75+,,Male
+0.943752545,0.6666612,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,16-24,,All adults
+0.583570935,0.163191175,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,16-24,,All adults
+0.49562092,0.180520023,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,16+,,All adults
+0.279100963,0.031967072,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,16+,,All adults
+0.749022981,0.390229116,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,25-34,,All adults
+0.398520874,0.075630009,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,25-34,,All adults
+0.372678861,0.264852103,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,35-44,,All adults
+0.230563005,0.060835644,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,35-44,,All adults
+0.410620154,0.410112983,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,45-54,,All adults
+0.410857286,0.092147705,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,45-54,,All adults
+0,0,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,55-64,,All adults
+0.101821042,0.040367332,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,55-64,,All adults
+0,0,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,65-74,,All adults
+0.109740126,0.047551798,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,75+,,All adults
+0,0,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,75+,,All adults
+1.072082214,1.068797774,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,16-24,,Female
+0.742075531,0.242593648,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,16-24,,Female
+0.76415315,0.313519864,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,16+,,Female
+0.364972088,0.049416186,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,16+,,Female
+1.480036689,0.767018307,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,25-34,,Female
+0.569340446,0.122098189,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,25-34,,Female
+0.367450856,0.367961908,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,35-44,,Female
+0.303022719,0.101229673,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,35-44,,Female
+0.888841121,0.885917273,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,45-54,,Female
+0.489415431,0.143054322,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,45-54,,Female
+0,0,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,55-64,,Female
+0.175136703,0.075194059,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,65-74,,Female
+0.17073261,0.081997663,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,75+,,Female
+0,0,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,75+,,Female
+0.834706616,0.834016846,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,16-24,,Male
+0.430002074,0.218644612,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,16-24,,Male
+0.245591277,0.188078972,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,16+,,Male
+0.188915263,0.040815614,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,16+,,Male
+0,0,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,25-34,,Male
+0.227055176,0.091009313,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,25-34,,Male
+0.377043602,0.377215486,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,35-44,,Male
+0.156109292,0.066570872,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,35-44,,Male
+0,0,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,45-54,,Male
+0.329095675,0.112668055,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,45-54,,Male
+0,0,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,55-64,,Male
+0.025102846,0.02509598,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,55-64,,Male
+0,0,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,65-74,,Male
+0.044610937,0.044633406,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic violence,,75+,,Male
+0,0,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic violence,,75+,,Male
+0.992787633,0.608145986,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,16-24,,All adults
+0.716814913,0.170551745,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,16-24,,All adults
+0.363265274,0.140411273,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,16+,,All adults
+0.303173998,0.036013782,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,16+,,All adults
+0.252257797,0.191109653,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,25-34,,All adults
+0.343371497,0.088078814,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,25-34,,All adults
+0.267837232,0.194054283,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,35-44,,All adults
+0.304507738,0.08097208,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,35-44,,All adults
+0.351388067,0.250270315,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,45-54,,All adults
+0.365764124,0.097324997,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,45-54,,All adults
+0,0,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,55-64,,All adults
+0.141476728,0.046721985,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,55-64,,All adults
+0,0,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,65-74,,All adults
+0.100270658,0.049388511,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,75+,,All adults
+0.077723382,0.036078084,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,75+,,All adults
+0,0,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,16-24,,Female
+0.629515655,0.222684022,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,16-24,,Female
+0.210709195,0.122837897,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,16+,,Female
+0.25797223,0.043989173,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,16+,,Female
+0.344349167,0.344187208,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,25-34,,Female
+0.305069973,0.108314563,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,25-34,,Female
+0.357545302,0.357745753,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,35-44,,Female
+0.337275819,0.119287106,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,35-44,,Female
+0.417243215,0.417432768,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,45-54,,Female
+0.219472336,0.105617455,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,45-54,,Female
+0,0,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,55-64,,Female
+0.143501397,0.065595822,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,65-74,,Female
+0.064219247,0.037981504,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,75+,,Female
+0.091250617,0.053506038,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,75+,,Female
+1.836391844,1.126317388,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,16-24,,Male
+0.801395727,0.256848577,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,16-24,,Male
+0.505309832,0.245330833,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,16+,,Male
+0.350646919,0.057279335,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,16+,,Male
+0.157897662,0.158357851,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,25-34,,Male
+0.381817896,0.139498985,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,25-34,,Male
+0.19294202,0.193400344,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,35-44,,Male
+0.270837921,0.109084137,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,35-44,,Male
+0.294842134,0.295530182,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,45-54,,Male
+0.518021439,0.165453959,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,45-54,,Male
+0,0,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,55-64,,Male
+0.139358095,0.066542028,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,55-64,,Male
+0,0,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,65-74,,Male
+0.138767191,0.093626873,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Mugging,,75+,,Male
+0.060048801,0.044990844,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Mugging,,75+,,Male
+1.241729456,0.780027392,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,16-24,,All adults
+2.531904053,0.364582899,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,16-24,,All adults
+1.315628565,0.361695905,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,16+,,All adults
+1.246386009,0.075171189,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,16+,,All adults
+2.396460188,1.188021635,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,25-34,,All adults
+1.565022751,0.192381341,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,25-34,,All adults
+1.210218922,0.654134974,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,35-44,,All adults
+1.314784573,0.167832364,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,35-44,,All adults
+1.393577511,0.78920183,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,45-54,,All adults
+1.035543138,0.139654674,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,45-54,,All adults
+0.435112597,0.333705609,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,55-64,,All adults
+0.915943337,0.137847135,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,55-64,,All adults
+0.286778837,0.287080754,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,65-74,,All adults
+0.614296129,0.111708039,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,75+,,All adults
+0.589111576,0.129206747,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,75+,,All adults
+0.43358515,0.43448678,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,16-24,,Female
+2.65583868,0.526139906,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,16-24,,Female
+1.129907793,0.383702342,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,16+,,Female
+1.217966624,0.1034491,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,16+,,Female
+1.045501896,0.795013236,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,25-34,,Female
+1.392792402,0.245109349,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,25-34,,Female
+1.825394001,1.176558026,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,35-44,,Female
+1.680976875,0.275842986,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,35-44,,Female
+2.13623329,1.459296003,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,45-54,,Female
+0.994045666,0.195291053,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,45-54,,Female
+0.96966387,0.743571088,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,55-64,,Female
+0.639070937,0.151379435,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,55-64,,Female
+0.505408456,0.50628745,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,65-74,,Female
+0.490385039,0.132219253,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,75+,,Female
+0.633481647,0.177357668,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,75+,,Female
+1.928436177,1.39209875,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,16-24,,Male
+2.411828674,0.521077271,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,16-24,,Male
+1.488552681,0.601705811,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,16+,,Male
+1.276233319,0.107539179,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,16+,,Male
+3.780700723,2.254325012,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,25-34,,Male
+1.737904562,0.29859009,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,25-34,,Male
+0.69662334,0.690409086,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,35-44,,Male
+0.938515125,0.194931022,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,35-44,,Male
+0.755902774,0.753416014,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,45-54,,Male
+1.078732805,0.206584203,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,45-54,,Male
+0,0,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,55-64,,Male
+1.205665215,0.23412901,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,55-64,,Male
+0,0,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,65-74,,Male
+0.746611263,0.183139869,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Other personal theft,,75+,,Male
+0.531137981,0.187156094,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Other personal theft,,75+,,Male
+0.992787633,0.608145986,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,16-24,,All adults
+0.591289972,0.15761642,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,16-24,,All adults
+0.333888571,0.137238289,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,16+,,All adults
+0.22408686,0.031541373,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,16+,,All adults
+0.252257797,0.191109653,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,25-34,,All adults
+0.186192639,0.064223177,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,25-34,,All adults
+0.105152558,0.105288223,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,35-44,,All adults
+0.198196632,0.06489991,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,35-44,,All adults
+0.351388067,0.250270315,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,45-54,,All adults
+0.308922363,0.090277661,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,45-54,,All adults
+0,0,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,55-64,,All adults
+0.086409538,0.03315835,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,55-64,,All adults
+0,0,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,65-74,,All adults
+0.100270658,0.049388511,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,75+,,All adults
+0.058256239,0.030363161,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,75+,,All adults
+0,0,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,16-24,,Female
+0.515991856,0.203860796,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,16-24,,Female
+0.149781866,0.10655566,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,16+,,Female
+0.16110888,0.035229206,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,16+,,Female
+0.344349167,0.344187208,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,25-34,,Female
+0.116592901,0.052257609,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,25-34,,Female
+0,0,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,35-44,,Female
+0.138239435,0.072196876,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,35-44,,Female
+0.417243215,0.417432768,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,45-54,,Female
+0.172811615,0.100257617,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,45-54,,Female
+0,0,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,55-64,,Female
+0.081287319,0.0471939,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,65-74,,Female
+0.064219247,0.037981504,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,75+,,Female
+0.056884303,0.041009093,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,75+,,Female
+1.836391844,1.126317388,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,16-24,,Male
+0.664243352,0.238615144,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,16-24,,Male
+0.505309832,0.245330833,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,16+,,Male
+0.290229154,0.052560403,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,16+,,Male
+0.157897662,0.158357851,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,25-34,,Male
+0.256055638,0.117602639,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,25-34,,Male
+0.19294202,0.193400344,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,35-44,,Male
+0.259803774,0.108542581,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,35-44,,Male
+0.294842134,0.295530182,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,45-54,,Male
+0.450583473,0.151296314,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,45-54,,Male
+0,0,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,55-64,,Male
+0.091769476,0.046532949,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,55-64,,Male
+0,0,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,65-74,,Male
+0.138767191,0.093626873,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Robbery,,75+,,Male
+0.060048801,0.044990844,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Robbery,,75+,,Male
+0,0,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,16-24,,All adults
+0.125524941,0.066153483,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,16-24,,All adults
+0.029376703,0.029393359,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,16+,,All adults
+0.080877855,0.017491715,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,16+,,All adults
+0,0,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,25-34,,All adults
+0.157178858,0.060520935,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,25-34,,All adults
+0.162684674,0.162798476,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,35-44,,All adults
+0.106311106,0.048516595,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,35-44,,All adults
+0,0,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,45-54,,All adults
+0.056841761,0.037173046,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,45-54,,All adults
+0,0,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,55-64,,All adults
+0.067438174,0.035180873,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,55-64,,All adults
+0,0,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,65-74,,All adults
+0,0,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,75+,,All adults
+0.019467143,0.019467877,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,75+,,All adults
+0,0,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,16-24,,Female
+0.113523799,0.089915809,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,16-24,,Female
+0.060927329,0.060969423,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,16+,,Female
+0.09686335,0.026004325,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,16+,,Female
+0,0,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,25-34,,Female
+0.188477072,0.094855052,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,25-34,,Female
+0.357545302,0.357745753,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,35-44,,Female
+0.199036384,0.095077431,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,35-44,,Female
+0,0,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,45-54,,Female
+0.046660721,0.033463315,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,45-54,,Female
+0,0,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,55-64,,Female
+0.062214077,0.04561182,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,65-74,,Female
+0,0,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,75+,,Female
+0.034366314,0.034366855,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,75+,,Female
+0,0,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,16-24,,Male
+0.137152375,0.096821706,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,16-24,,Male
+0,0,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,16+,,Male
+0.064089172,0.023220535,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,16+,,Male
+0,0,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,25-34,,Male
+0.125762258,0.075101545,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,25-34,,Male
+0,0,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,35-44,,Male
+0.011034148,0.01103215,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,35-44,,Male
+0,0,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,45-54,,Male
+0.067437967,0.067411494,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,45-54,,Male
+0,0,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,55-64,,Male
+0.072904719,0.053894066,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,55-64,,Male
+0,0,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,65-74,,Male
+0,0,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Snatch theft,,75+,,Male
+0,0,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Snatch theft,,75+,,Male
+0,0,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,16-24,,All adults
+0.807027478,0.2236911,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,16-24,,All adults
+0.27702989,0.157504582,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,16+,,All adults
+0.276865793,0.03932977,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,16+,,All adults
+0.212319844,0.15736849,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,25-34,,All adults
+0.301637775,0.09091262,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,25-34,,All adults
+0,0,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,35-44,,All adults
+0.289754233,0.096713259,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,35-44,,All adults
+0.635077116,0.632604249,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,45-54,,All adults
+0.209437603,0.057421216,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,45-54,,All adults
+1.087130906,0.97659266,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,55-64,,All adults
+0.167841303,0.067723662,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,55-64,,All adults
+0,0,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,65-74,,All adults
+0.087892519,0.04259271,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,75+,,All adults
+0.043112813,0.030650501,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,75+,,All adults
+0,0,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,16-24,,Female
+0.727064617,0.30606211,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,16-24,,Female
+0.539864474,0.32412854,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,16+,,Female
+0.262496207,0.053094779,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,16+,,Female
+0.274505136,0.274630816,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,25-34,,Female
+0.285862071,0.103581571,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,25-34,,Female
+0,0,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,35-44,,Female
+0.423924038,0.177235492,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,35-44,,Female
+1.374707625,1.362112033,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,45-54,,Female
+0.127893179,0.053670822,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,45-54,,Female
+2.422709823,2.156073218,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,55-64,,Female
+0.133464175,0.072252515,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,65-74,,Female
+0.072779722,0.044976408,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,75+,,Female
+0.076109189,0.05411926,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,75+,,Female
+0,0,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,16-24,,Male
+0.884500346,0.326858323,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,16-24,,Male
+0.032305311,0.032334717,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,16+,,Male
+0.291957377,0.058379238,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,16+,,Male
+0.148602554,0.149049579,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,25-34,,Male
+0.317473151,0.149692574,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,25-34,,Male
+0,0,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,35-44,,Male
+0.151892245,0.071953099,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,35-44,,Male
+0,0,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,45-54,,Male
+0.294307269,0.102968326,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,45-54,,Male
+0,0,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,55-64,,Male
+0.203813852,0.116106034,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,55-64,,Male
+0,0,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,65-74,,Male
+0.104030315,0.073793445,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted snatch and stealth theft,,75+,,Male
+0,0,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted snatch and stealth theft,,75+,,Male
+0.412256156,0.412058456,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,16-24,,All adults
+1.083702534,0.241796538,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,16-24,,All adults
+0.554330027,0.177366162,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,16+,,All adults
+0.391529886,0.042812335,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,16+,,All adults
+0.484309266,0.294231112,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,25-34,,All adults
+0.451851461,0.097770312,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,25-34,,All adults
+0.682054644,0.479083284,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,35-44,,All adults
+0.301518609,0.088413091,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,35-44,,All adults
+0.808197566,0.571177582,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,45-54,,All adults
+0.229771933,0.070320232,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,45-54,,All adults
+0,0,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,55-64,,All adults
+0.159653245,0.061047509,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,55-64,,All adults
+0.87345661,0.619036439,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,65-74,,All adults
+0.336900816,0.086042895,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,65-74,,All adults
+0.984524176,0.981407802,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,75+,,All adults
+0.227567841,0.077240155,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,75+,,All adults
+0,0,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,16-24,,Female
+1.571215652,0.405629307,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,16-24,,Female
+0.498781609,0.217312993,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,16+,,Female
+0.523356868,0.066886943,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,16+,,Female
+0.175965549,0.175944315,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,25-34,,Female
+0.604552158,0.149158121,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,25-34,,Female
+0.664604537,0.65618786,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,35-44,,Female
+0.525408262,0.166301535,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,35-44,,Female
+0.813416223,0.81076591,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,45-54,,Female
+0.20742633,0.067411872,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,45-54,,Female
+0,0,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,55-64,,Female
+0.138744648,0.064466061,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,55-64,,Female
+1.539347748,1.090652505,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,65-74,,Female
+0.398405653,0.120422334,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,65-74,,Female
+1.627923575,1.620445789,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,75+,,Female
+0.370806557,0.132833365,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,75+,,Female
+0.762563732,0.762260463,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,16-24,,Male
+0.611370271,0.270325268,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,16-24,,Male
+0.606051011,0.278016965,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,16+,,Male
+0.253079286,0.053074793,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,16+,,Male
+0.800249346,0.567913487,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,25-34,,Male
+0.298573173,0.126293205,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,25-34,,Male
+0.69662334,0.690409086,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,35-44,,Male
+0.071467798,0.053013936,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,35-44,,Male
+0.803716614,0.800583308,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,45-54,,Male
+0.253028751,0.12528689,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,45-54,,Male
+0,0,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,55-64,,Male
+0.181532198,0.105127028,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,55-64,,Male
+0,0,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,65-74,,Male
+0.271224525,0.122656804,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stealth theft,,75+,,Male
+0.040413227,0.040411797,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stealth theft,,75+,,Male
+1.197935773,0.615829837,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,16-24,,All adults
+2.065360083,0.313073838,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,16-24,,All adults
+1.073840523,0.236154373,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,16+,,All adults
+0.788692421,0.058478577,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,16+,,All adults
+0.863926253,0.422243299,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,25-34,,All adults
+1.024057753,0.159794595,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,25-34,,All adults
+1.871524918,0.747931751,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,35-44,,All adults
+0.826575545,0.1366464,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,35-44,,All adults
+1.329259545,0.609161388,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,45-54,,All adults
+0.839830227,0.133094246,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,45-54,,All adults
+0.424249658,0.323687928,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,55-64,,All adults
+0.288451208,0.075279695,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,55-64,,All adults
+0.418177766,0.41816444,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,65-74,,All adults
+0.179660317,0.055532609,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,75+,,All adults
+0.084375777,0.037939882,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,75+,,All adults
+0.82177129,0.586999194,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,16-24,,Female
+0.666193739,0.235113665,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,16-24,,Female
+0.642255957,0.268285064,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,16+,,Female
+0.345414435,0.049577207,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,16+,,Female
+0.196252228,0.19643199,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,25-34,,Female
+0.457305215,0.124666508,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,25-34,,Female
+1.607697364,1.131784793,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,35-44,,Female
+0.465085556,0.14569221,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,35-44,,Female
+0.839552512,0.837231801,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,45-54,,Female
+0.383099033,0.121165542,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,45-54,,Female
+0.282970599,0.283962121,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,55-64,,Female
+0.206830023,0.090791719,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,65-74,,Female
+0.119886353,0.061849443,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,75+,,Female
+0.028815762,0.028815603,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,75+,,Female
+1.51757507,1.029496492,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,16-24,,Male
+3.42095726,0.576047833,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,16-24,,Male
+1.475687762,0.382034137,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,16+,,Male
+1.254242809,0.108935219,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,16+,,Male
+1.548049113,0.831212072,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,25-34,,Male
+1.592954035,0.296080365,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,25-34,,Male
+2.0917885,0.993879293,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,35-44,,Male
+1.198013279,0.23452195,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,35-44,,Male
+1.749742106,0.879500283,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,45-54,,Male
+1.315186136,0.240642588,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,45-54,,Male
+0.539247603,0.539137982,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,55-64,,Male
+0.373860383,0.121433947,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,55-64,,Male
+0.966706066,0.965183444,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,65-74,,Male
+0.24348834,0.093988141,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Stranger violence,,75+,,Male
+0.156970068,0.079016926,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Stranger violence,,75+,,Male
+0.412256156,0.412058456,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,16-24,,All adults
+2.016254954,0.336487876,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,16-24,,All adults
+0.86073662,0.238427766,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,16+,,All adults
+0.747255554,0.060657063,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,16+,,All adults
+0.69662911,0.334082154,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,25-34,,All adults
+0.910668094,0.145563769,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,25-34,,All adults
+0.844739319,0.504711095,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,35-44,,All adults
+0.684866513,0.138601835,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,35-44,,All adults
+1.443274682,0.848906569,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,45-54,,All adults
+0.496051298,0.097493835,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,45-54,,All adults
+1.087130906,0.97659266,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,55-64,,All adults
+0.394932722,0.097008026,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,55-64,,All adults
+0.87345661,0.619036439,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,65-74,,All adults
+0.424793335,0.095973268,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,65-74,,All adults
+0.984524176,0.981407802,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,75+,,All adults
+0.290147797,0.085015,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,75+,,All adults
+0,0,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,16-24,,Female
+2.411804068,0.521017666,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,16-24,,Female
+1.099573411,0.394027987,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,16+,,Female
+0.878777006,0.089619818,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,16+,,Female
+0.450470685,0.326207098,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,25-34,,Female
+1.078891301,0.203159358,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,25-34,,Female
+1.022149838,0.743539153,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,35-44,,Female
+1.123274408,0.25792443,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,35-44,,Female
+2.188123848,1.576394165,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,45-54,,Female
+0.381980231,0.092180853,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,45-54,,Female
+2.422709823,2.156073218,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,55-64,,Female
+0.3344229,0.104889918,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,55-64,,Female
+1.539347748,1.090652505,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,65-74,,Female
+0.471185375,0.128438513,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,65-74,,Female
+1.627923575,1.620445789,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,75+,,Female
+0.48128206,0.147062793,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,75+,,Female
+0.762563732,0.762260463,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,16-24,,Male
+1.633022993,0.432792215,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,16-24,,Male
+0.638356322,0.279911901,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,16+,,Male
+0.609125835,0.082294661,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,16+,,Male
+0.948851901,0.587923872,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,25-34,,Male
+0.741808583,0.209477688,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,25-34,,Male
+0.69662334,0.690409086,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,35-44,,Male
+0.23439419,0.09006052,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,35-44,,Male
+0.803716614,0.800583308,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,45-54,,Male
+0.614773987,0.175387028,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,45-54,,Male
+0,0,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,55-64,,Male
+0.458250769,0.165312753,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,55-64,,Male
+0,0,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,65-74,,Male
+0.37525484,0.143031196,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Theft from the person,,75+,,Male
+0.040413227,0.040411797,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from the person,,75+,,Male
+1.653985612,0.880989038,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,16-24,,All adults
+4.318905991,0.482889236,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,16-24,,All adults
+2.000734735,0.411817202,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,16+,,All adults
+1.955849895,0.095643952,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,16+,,All adults
+3.093089298,1.227744774,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,25-34,,All adults
+2.468960474,0.238898286,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,25-34,,All adults
+1.675301564,0.730879812,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,35-44,,All adults
+1.983338043,0.21489121,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,35-44,,All adults
+2.201775078,0.969944009,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,45-54,,All adults
+1.531594435,0.169934838,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,45-54,,All adults
+1.522243503,1.029893212,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,55-64,,All adults
+1.286986219,0.166582394,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,55-64,,All adults
+1.160235447,0.682773514,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,65-74,,All adults
+1.031095364,0.146449959,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,65-74,,All adults
+0.984524176,0.981407802,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,75+,,All adults
+0.879259373,0.154523904,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,75+,,All adults
+0.43358515,0.43448678,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,16-24,,Female
+4.787199276,0.705221698,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,16-24,,Female
+2.007409275,0.499714681,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,16+,,Female
+2.049476478,0.133409079,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,16+,,Female
+1.495972581,0.855468191,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,25-34,,Female
+2.458248322,0.315298915,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,25-34,,Female
+2.847543839,1.375991377,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,35-44,,Female
+2.772062087,0.371649806,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,35-44,,Female
+2.949649513,1.660186411,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,45-54,,Female
+1.376025897,0.215393618,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,45-54,,Female
+3.392373694,2.268050304,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,55-64,,Female
+0.950966999,0.181849896,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,55-64,,Female
+2.044756205,1.203506472,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,65-74,,Female
+0.946089962,0.183007852,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,65-74,,Female
+1.627923575,1.620445789,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,75+,,Female
+1.114763707,0.230223971,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,75+,,Female
+2.690999909,1.583742496,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,16-24,,Male
+3.865195066,0.655541234,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,16-24,,Male
+1.994520089,0.647772926,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,16+,,Male
+1.857519065,0.133172486,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,16+,,Male
+4.729552624,2.31683173,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,25-34,,Male
+2.479713144,0.364258604,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,25-34,,Male
+0.69662334,0.690409086,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,35-44,,Male
+1.172909315,0.214667415,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,35-44,,Male
+1.559619388,1.095377051,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,45-54,,Male
+1.693506792,0.269647882,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,45-54,,Male
+0,0,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,55-64,,Male
+1.638599884,0.284335076,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,55-64,,Male
+0,0,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,65-74,,Male
+1.121866103,0.23168303,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal theft,,75+,,Male
+0.571551208,0.19142006,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal theft,,75+,,Male
+19.34624164,2.801023128,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,16-24,,All adults
+19.63128734,0.938168922,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,16-24,,All adults
+18.61373121,1.132295205,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,16+,,All adults
+13.70015805,0.242469749,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,16+,,All adults
+21.5434448,2.452822656,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,25-34,,All adults
+16.03895772,0.614807889,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,25-34,,All adults
+22.98767604,2.644862646,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,35-44,,All adults
+15.66964215,0.566048184,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,35-44,,All adults
+20.61081126,2.522320667,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,45-54,,All adults
+15.98999132,0.54451864,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,45-54,,All adults
+12.46601782,2.346096396,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,55-64,,All adults
+11.9583119,0.521173318,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,55-64,,All adults
+7.443498064,2.333685665,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,65-74,,All adults
+7.838557563,0.414929981,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,65-74,,All adults
+7.265438399,2.78026035,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,75+,,All adults
+4.826488473,0.358553373,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,75+,,All adults
+17.8267441,3.773488904,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,16-24,,Female
+19.13052923,1.264983507,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,16-24,,Female
+19.21893386,1.514771468,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,16+,,Female
+13.47973637,0.317603936,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,16+,,Female
+17.99066861,2.807322378,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,25-34,,Female
+16.17707996,0.800274399,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,25-34,,Female
+27.98765114,3.95425034,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,35-44,,Female
+16.44017637,0.765516735,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,35-44,,Female
+23.5172873,3.976037834,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,45-54,,Female
+16.25621955,0.754895609,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,45-54,,Female
+18.2291648,4.112142111,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,55-64,,Female
+11.56868977,0.751326782,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,55-64,,Female
+7.664226281,3.421655456,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,65-74,,Female
+6.953844673,0.532583626,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,65-74,,Female
+8.175882707,3.925685409,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,75+,,Female
+4.487310782,0.449723913,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,75+,,Female
+20.63740854,4.166409456,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,16-24,,Male
+20.11645216,1.33699289,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,16-24,,Male
+18.05022863,1.587542636,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,16+,,Male
+13.93165477,0.340572565,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,16+,,Male
+25.18374727,4.070963634,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,25-34,,Male
+15.90031303,0.903966682,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,25-34,,Male
+18.81331136,3.332359508,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,35-44,,Male
+14.87790381,0.81721042,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,35-44,,Male
+18.11519162,3.1802902,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,45-54,,Male
+15.71290676,0.775750064,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,45-54,,Male
+7.774947063,2.356684511,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,55-64,,Male
+12.36601615,0.73263017,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,55-64,,Male
+7.153966473,2.9587,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,65-74,,Male
+8.783274494,0.628410754,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,65-74,,Male
+5.872284418,3.6354742,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Total CSEW crime,,75+,,Male
+5.269655454,0.569578601,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Total CSEW crime,,75+,,Male
+7.132423554,1.812377786,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,16-24,,All adults
+8.184266364,0.644043131,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,16-24,,All adults
+5.015355028,0.587587597,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,16+,,All adults
+3.602858681,0.131242615,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,16+,,All adults
+5.089213289,1.356665621,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,25-34,,All adults
+4.559012433,0.324493172,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,25-34,,All adults
+5.696454813,1.255891389,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,35-44,,All adults
+3.523510543,0.276808998,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,35-44,,All adults
+4.762423489,1.255132914,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,45-54,,All adults
+3.542342962,0.270982631,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,45-54,,All adults
+3.708586601,1.479324985,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,55-64,,All adults
+2.06171478,0.201779113,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,55-64,,All adults
+2.102861937,0.956277878,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,65-74,,All adults
+1.558736862,0.179326396,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,65-74,,All adults
+0.984524176,0.981407802,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,75+,,All adults
+1.115372689,0.168621806,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,75+,,All adults
+2.608314944,1.327188928,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,16-24,,Female
+7.67313466,0.857059388,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,16-24,,Female
+4.576643687,0.717140759,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,16+,,Female
+3.330982692,0.169390345,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,16+,,Female
+3.775296859,1.221538069,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,25-34,,Female
+4.133640316,0.404175882,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,25-34,,Female
+7.692845362,2.14904724,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,35-44,,Female
+3.834316984,0.420714058,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,35-44,,Female
+5.095286361,2.053791385,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,45-54,,Female
+3.121464616,0.355258211,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,45-54,,Female
+7.602232088,3.1507745,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,55-64,,Female
+1.75528047,0.246345828,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,55-64,,Female
+2.044756205,1.203506472,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,65-74,,Female
+1.300928172,0.212274962,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,65-74,,Female
+1.627923575,1.620445789,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,75+,,Female
+1.271660832,0.241072167,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,75+,,Female
+10.97670701,3.034707011,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,16-24,,Male
+8.679481747,0.91754643,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,16-24,,Male
+5.423837988,0.911928465,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,16+,,Male
+3.888395017,0.190617166,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,16+,,Male
+6.435499398,2.443371827,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,25-34,,Male
+4.985993522,0.505136218,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,25-34,,Male
+4.029714073,1.429199336,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,35-44,,Male
+3.204151103,0.359417358,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,35-44,,Male
+4.476613764,1.528483531,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,45-54,,Male
+3.980384005,0.414631011,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,45-54,,Male
+0.539247603,0.539137982,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,55-64,,Male
+2.382370519,0.321262687,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,55-64,,Male
+2.179079856,1.541704926,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,65-74,,Male
+1.834030957,0.287670515,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All personal crime,,75+,,Male
+0.911167796,0.229929222,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All personal crime,,75+,,Male
+2.981214191,1.283731915,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,16-24,,All adults
+1.838022407,0.300372946,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,16-24,,All adults
+1.767240192,0.351182842,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,16+,,All adults
+0.88138646,0.062949936,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,16+,,All adults
+1.231311687,0.492510091,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,25-34,,All adults
+1.163558433,0.170125366,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,25-34,,All adults
+3.41025208,0.997554366,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,35-44,,All adults
+0.778479396,0.125058551,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,35-44,,All adults
+0.710979277,0.451937118,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,45-54,,All adults
+1.113784348,0.156456511,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,45-54,,All adults
+1.393907879,0.744502555,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,55-64,,All adults
+0.487041209,0.093526663,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,55-64,,All adults
+0,0,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,65-74,,All adults
+0.353393118,0.083262431,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,75+,,All adults
+0.161109203,0.0597787,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,75+,,All adults
+1.893853505,1.218873632,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,16-24,,Female
+0.877901269,0.310926854,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,16-24,,Female
+1.596390464,0.431865038,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,16+,,Female
+0.596304342,0.068344153,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,16+,,Female
+0.55626322,0.392640286,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,25-34,,Female
+0.921052616,0.196320784,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,25-34,,Female
+4.185392484,1.647160192,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,35-44,,Female
+0.554985383,0.148012311,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,35-44,,Female
+0.839552512,0.837231801,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,45-54,,Female
+0.854269067,0.192893073,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,45-54,,Female
+2.443888373,1.514076713,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,55-64,,Female
+0.412662978,0.118824205,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,65-74,,Female
+0.238256104,0.093384931,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,75+,,Female
+0.100012822,0.059081879,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,75+,,Female
+3.905180226,2.127517153,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,16-24,,Male
+2.768245972,0.511952987,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,16-24,,Male
+1.926317919,0.546546414,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,16+,,Male
+1.180792465,0.104637538,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,16+,,Male
+1.922990667,0.912891233,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,25-34,,Male
+1.40698153,0.28006949,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,25-34,,Male
+2.763105111,1.19569882,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,35-44,,Male
+1.00812368,0.200377937,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,35-44,,Male
+0.60058102,0.432889604,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,45-54,,Male
+1.383882217,0.24934299,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,45-54,,Male
+0.539247603,0.539137982,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,55-64,,Male
+0.564871287,0.146188615,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,55-64,,Male
+0,0,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,65-74,,Male
+0.476339091,0.13560657,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence without injury,,75+,,Male
+0.240937268,0.11414318,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence without injury,,75+,,Male
+4.485650309,1.497095479,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,16-24,,All adults
+3.989511671,0.443840256,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,16-24,,All adults
+2.803128366,0.422699706,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,16+,,All adults
+1.600663206,0.086354301,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,16+,,All adults
+2.218577467,0.651055924,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,25-34,,All adults
+2.038084751,0.221994744,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,25-34,,All adults
+3.916000691,1.040804992,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,35-44,,All adults
+1.437276694,0.168454719,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,35-44,,All adults
+2.209260345,0.796852916,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,45-54,,All adults
+1.893657292,0.195217423,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,45-54,,All adults
+2.313319131,1.086958741,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,55-64,,All adults
+0.756052604,0.116260001,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,55-64,,All adults
+0.942626491,0.669990748,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,65-74,,All adults
+0.461588932,0.091247866,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,75+,,All adults
+0.177857078,0.062076092,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,75+,,All adults
+2.174729794,1.252548698,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,16-24,,Female
+2.729769965,0.505287333,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,16-24,,Female
+2.58576144,0.533496146,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,16+,,Female
+1.203833445,0.099975724,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,16+,,Female
+2.507057272,0.921631185,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,25-34,,Female
+1.608702819,0.256582996,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,25-34,,Female
+4.845301523,1.710222296,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,35-44,,Female
+1.007308234,0.193217751,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,35-44,,Female
+1.728393634,1.176225635,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,45-54,,Female
+1.591818761,0.256490392,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,45-54,,Female
+4.492828993,2.30098364,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,55-64,,Female
+0.789267056,0.168004602,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,65-74,,Female
+0.327220807,0.105451047,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,75+,,Female
+0.100012822,0.059081879,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,75+,,Female
+6.44931526,2.426346921,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,16-24,,Male
+5.210025807,0.701846555,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,16-24,,Male
+3.00551813,0.634422604,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,16+,,Male
+2.017431588,0.136652006,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,16+,,Male
+1.922990667,0.912891233,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,25-34,,Male
+2.469090821,0.366485339,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,25-34,,Male
+3.140148713,1.253524955,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,35-44,,Male
+1.879077339,0.279586545,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,35-44,,Male
+2.622152242,1.085875301,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,45-54,,Male
+2.20780428,0.302221425,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,45-54,,Male
+0.539247603,0.539137982,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,55-64,,Male
+0.721296689,0.161165891,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,55-64,,Male
+2.179079856,1.541704926,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,65-74,,Male
+0.60507033,0.147630126,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All violence,,75+,,Male
+0.279567787,0.120468125,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All violence,,75+,,Male
+1.504436119,0.691931119,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,16-24,,All adults
+2.35179135,0.349835401,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,16-24,,All adults
+1.173336987,0.242146858,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,16+,,All adults
+0.77292508,0.059695774,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,16+,,All adults
+1.320969134,0.48877121,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,25-34,,All adults
+0.924175391,0.139035258,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,25-34,,All adults
+0.661632311,0.335870741,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,35-44,,All adults
+0.673397104,0.116699318,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,35-44,,All adults
+1.498281068,0.678827161,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,45-54,,All adults
+0.850214409,0.125947535,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,45-54,,All adults
+1.216684876,0.851165759,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,55-64,,All adults
+0.280030189,0.070400197,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,55-64,,All adults
+0.942626491,0.669990748,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,65-74,,All adults
+0.133751567,0.047201137,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,75+,,All adults
+0.016747874,0.016748506,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,75+,,All adults
+0.28087629,0.282044079,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,16-24,,Female
+1.851868697,0.40281381,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,16-24,,Female
+1.059575675,0.330368498,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,16+,,Female
+0.627504029,0.069981466,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,16+,,Female
+2.244250725,0.886644801,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,25-34,,Female
+0.730171822,0.147394946,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,25-34,,Female
+0.659909038,0.470244621,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,35-44,,Female
+0.452322851,0.125205388,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,35-44,,Female
+0.888841121,0.885917273,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,45-54,,Female
+0.794352592,0.178305699,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,45-54,,Female
+2.048940619,1.766693584,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,55-64,,Female
+0.39815297,0.121194736,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,65-74,,Female
+0.088964703,0.049112207,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,75+,,Female
+0,0,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,75+,,Female
+2.544135033,1.26569426,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,16-24,,Male
+2.836146725,0.530383733,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,16-24,,Male
+1.27925984,0.356949615,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,16+,,Male
+0.925652778,0.094750397,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,16+,,Male
+0.374941554,0.375461931,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,25-34,,Male
+1.118912779,0.238561578,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,25-34,,Male
+0.663071032,0.474455274,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,35-44,,Male
+0.900555038,0.199579295,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,35-44,,Male
+2.021571222,1.007219646,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,45-54,,Male
+0.908354175,0.183803216,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,45-54,,Male
+0.539247603,0.539137982,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,55-64,,Male
+0.156425402,0.068452217,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,55-64,,Male
+2.179079856,1.541704926,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,65-74,,Male
+0.181576017,0.082345758,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Violence with injury,,75+,,Male
+0.038630519,0.03863016,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Violence with injury,,75+,,Male
+1.048287668,0.593632346,210,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,16-24,,All adults
+1.223957804,0.247743448,2362,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,16-24,,All adults
+0.396822482,0.142076815,1842,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,16+,,All adults
+0.402980965,0.042766784,33325,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,16+,,All adults
+0.393452072,0.231124759,405,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,25-34,,All adults
+0.480470803,0.099038307,4855,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,25-34,,All adults
+0.133270164,0.133397118,347,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,35-44,,All adults
+0.367464276,0.093990293,5429,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,35-44,,All adults
+0.437966602,0.308844932,336,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,45-54,,All adults
+0.476305359,0.098877903,5819,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,45-54,,All adults
+0,0,254,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,55-64,,All adults
+0.110292853,0.038613455,5361,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,55-64,,All adults
+0,0,186,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,65-74,,All adults
+0.041857147,0.024753279,5377,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,65-74,,All adults
+0,0,104,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,75+,,All adults
+0.016747874,0.016748506,4122,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,75+,,All adults
+0.28087629,0.282044079,113,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,16-24,,Female
+1.111108463,0.310802357,1241,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,16-24,,Female
+0.289316515,0.131376871,969,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,16+,,Female
+0.33853977,0.052403465,17874,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,16+,,Female
+0.777444105,0.455889248,247,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,25-34,,Female
+0.470918927,0.122501423,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,25-34,,Female
+0.292898646,0.293253699,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,35-44,,Female
+0.097461299,0.060754563,2930,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,35-44,,Female
+0,0,163,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,45-54,,Female
+0.486833095,0.148699986,3078,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,45-54,,Female
+0,0,116,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,55-64,,Female
+0.140709648,0.064848713,2802,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,55-64,,Female
+0,0,99,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,65-74,,Female
+0.025218014,0.025217811,2770,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,65-74,,Female
+0,0,58,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,75+,,Female
+0,0,2283,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,75+,,Female
+1.700382285,1.080467249,97,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,16-24,,Male
+1.333293087,0.352911069,1121,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,16-24,,Male
+0.496921001,0.248892811,873,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,16+,,Male
+0.470659993,0.065889359,15451,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,16+,,Male
+0,0,158,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,25-34,,Male
+0.490058809,0.156561335,2085,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,25-34,,Male
+0,0,174,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,35-44,,Male
+0.644897391,0.179576578,2499,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,35-44,,Male
+0.814022705,0.57790069,173,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,45-54,,Male
+0.46534832,0.128300855,2741,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,45-54,,Male
+0,0,138,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,55-64,,Male
+0.078464433,0.040578184,2559,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,55-64,,Male
+0,0,87,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,65-74,,Male
+0.059624799,0.043522843,2607,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,65-74,,Male
+0,0,46,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Wounding,,75+,,Male
+0.038630519,0.03863016,1839,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Wounding,,75+,,Male

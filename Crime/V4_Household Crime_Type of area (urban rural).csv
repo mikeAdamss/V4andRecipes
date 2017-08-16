@@ -1,4 +1,4 @@
-V4_1,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geography,Type of area (urban/rural)_codelist,Type of area (urban/rural),Measurement Type_codelist,Measurement Type,Crime Type_codelist,Crime Type,Household Type_codelist,HouseholdType
+V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geography,Type of area (urban/rural)_codelist,Type of area (urban/rural),Measurement Type_codelist,Measurement Type,Crime Type_codelist,Crime Type,Household Type_codelist,HouseholdType
 3.6230544910000004,1.069794559,7468,Quarter,2017 Q1,K04000001,,,Rural,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 6.707180558999999,0.7099661759999999,27866,Quarter,2017 Q1,K04000001,,,Urban,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 9.317742722,1.615694093,7468,Quarter,2017 Q1,K04000001,,,Rural,,Incidence rate,,Domestic burglary with entry and loss,,All households

@@ -40,35 +40,11 @@ def varLookup(cell):
     return cell
 
 
-# Create initial household file. Filtered down to a single characteristic
-def createInitialFrameHousehold(filterBy):
-    files = [houInc, houPrev]
-    dfList = []
-    for f in files:
-        obs_file = pd.read_csv(f)
-        dfList.append(obs_file)
-
-    df = pd.concat(dfList)
-    df.fillna('', inplace=True)
-    df = df[df['CharacteristicVar'] == filterBy]
-    
+# Create initial dataframe. Filtered down to a single characteristic
+def createInitialFrame(df, filterBy):
+    df = df[df['CharacteristicVar'] == filterBy]    
     return df
 
-
-# TODO - could just be the above with a switch
-# Create initial personal file. Filtered down to a single characteristic
-def createInitialFramePersonal(filterBy):
-    files = [perInc, perPrev]
-    dfList = []
-    for f in files:
-        obs_file = pd.read_csv(f)
-        dfList.append(obs_file)
-
-    df = pd.concat(dfList)
-    df.fillna('', inplace=True)
-    df = df[df['CharacteristicVar'] == filterBy]
-    
-    return df
 
 # TODO - off the API, ...maybe better
 def addGeographyCodes(cell):
@@ -104,8 +80,9 @@ def addGeographyCodes(cell):
 def buildDims(df, charDim, ageAndSex=False):
     
     newDf = pd.DataFrame()
-    newDf['V4_1'] = df['Estimate']
+    newDf['V4_2'] = df['Estimate']
     newDf['Standard Error'] = df['StandardError']
+    newDf['Unweighted Count'] = df['UnweightedCount']
     newDf['Time_codelist'] = 'Quarter'
     newDf['Time'] = df['Year'].astype(str) + ' Q' + df['Quarter'].astype(str)
 
@@ -183,14 +160,14 @@ varDict = read_measurementVar(measVarFile)
 Households - Executing the actual code
 """
 # household
-houInc = pd.read_csv('Household crime_Incidence_England and Wales_2017Q1.csv')
-houPrev = pd.read_csv('Household crime_Prevalence_England and Wales_2017Q1.csv')
+houInc = pd.read_csv(houInc)
+houPrev = pd.read_csv(houPrev)
 df = pd.concat([houInc, houPrev])
 
 dsets = df['CharacteristicVar'].unique()
 for charVar in dsets:
-    df = createInitialFrameHousehold(charVar)
-    newDf = buildDims(df, charVar)
+    oneDf = createInitialFrame(df, charVar)
+    newDf = buildDims(oneDf, charVar)
     newDf.to_csv('V4_Household Crime_{c}.csv'.format(c=charDict[charVar].replace('/', ' ')), index=False)
     
     # check for duplication and throw an error if we find it
@@ -203,14 +180,14 @@ for charVar in dsets:
 """
 Personal - Executing the actual code
 """
-perInc = pd.read_csv('Personal crime_Incidence_England and Wales_2017Q1.csv')
-perPrev = pd.read_csv('Personal crime_Prevalence_England and Wales_2017Q1.csv')
+perInc = pd.read_csv(perInc)
+perPrev = pd.read_csv(perPrev)
 df = pd.concat([perInc, perPrev])
 
 dsets = df['CharacteristicVar'].unique()
 for charVar in dsets:
-    df = createInitialFramePersonal(charVar)
-    newDf = buildDims(df, charVar, ageAndSex=True)
+    oneDf = createInitialFrame(df, charVar)
+    newDf = buildDims(oneDf, charVar, ageAndSex=True)
     
     newDf.to_csv('V4_Personal Crime_{c}.csv'.format(c=charDict[charVar].replace('/', ' ')), index=False)
     
@@ -219,4 +196,5 @@ for charVar in dsets:
     newDf = newDf[newDf['dup'] == True]    
     if len(newDf) > 0:
             raise ValueError("Error, duplication found in dimension: ", charVar)
+            
     
