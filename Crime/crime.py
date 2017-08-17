@@ -112,7 +112,7 @@ def buildDims(df, charDim, ageAndSex=False):
         newDf['Sex'] = df['Sex']
     else:
         newDf['Household Type_codelist'] = ''
-        newDf['HouseholdType'] = df['HouseholdType']
+        newDf['Household Type'] = df['HouseholdType']
     
     # Catch and remove Age from "age group" dataset.
     # also filtered out duplicates arising from generic '16+' age grouping

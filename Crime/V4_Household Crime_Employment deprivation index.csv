@@ -1,4 +1,4 @@
-V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geography,Employment deprivation index_codelist,Employment deprivation index,Measurement Type_codelist,Measurement Type,Crime Type_codelist,Crime Type,Household Type_codelist,HouseholdType
+V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geography,Employment deprivation index_codelist,Employment deprivation index,Measurement Type_codelist,Measurement Type,Crime Type_codelist,Crime Type,Household Type_codelist,Household Type
 3.2704945480000003,1.30377022,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 9.817420484,1.840275827,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 5.874344335,0.765508128,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Incidence rate,,Domestic burglary with entry and no loss,,All households
