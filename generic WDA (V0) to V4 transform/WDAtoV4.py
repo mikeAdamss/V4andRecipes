@@ -121,7 +121,7 @@ def discoverFields(df):
 
     # Do we have data markings?
     if len(df['data_marking'][df['data_marking'] != ''].unique()) > 0:
-        fieldsNeeded.append('Data_Marking')
+        fieldsNeeded.append('Data Marking')
 
     # Do we have quality measures in play?
     QAcount = df['observation_type'][df['observation_type'] != ''].unique()
@@ -146,12 +146,12 @@ def populateStandardDims(df):
     newDf['V4_' + str(len(fieldsNeeded))] = df['observation']
     
     # add data marking if applicable
-    if 'Data_Marking' in fieldsNeeded:
-        newDf['Data_Marking'] = df['data_marking']
+    if 'Data Marking' in fieldsNeeded:
+        newDf['Data Marking'] = df['data_marking']
 
     # add other pre-time fields
     for newField in fieldsNeeded:
-        if newField != 'Data_Marking':
+        if newField != 'Data Marking':
             newDf[newField] = df['obs_type_value']
 
     return newDf

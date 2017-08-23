@@ -83,6 +83,7 @@ def level_recipe(saOrNsa, tabs):
 
         conversionsegment = ConversionSegment(tab, dimensions, obs).topandas()
         conversionsegment['SIC'] = conversionsegment['SIC'].map(lambda x: x.replace('\n', ' '))
+        conversionsegment['SIC'] = conversionsegment['SIC'].map(lambda x: x.strip())
         conversionsegments.append(conversionsegment)     
     
     return conversionsegments
@@ -129,6 +130,7 @@ def growth_recipe(saOrNsa, tabs):
 
         conversionsegment = ConversionSegment(tab, dimensions, obs).topandas()
         conversionsegment['SIC'] = conversionsegment['SIC'].map(lambda x: x.replace('\n', ' '))
+        conversionsegment['SIC'] = conversionsegment['SIC'].map(lambda x: x.strip())
         conversionsegments.append(conversionsegment)
     
     return conversionsegments
@@ -147,7 +149,7 @@ level_from_NSA = level_recipe("Not seasonally adjusted", level_tabs)
 
 # NSA growth tabs
 growth_tabs = [x for x in tabs if 'growth' in x.name.lower()]
-growth_from_NSA = growth_recipe("Seasonally adjusted", growth_tabs)
+growth_from_NSA = growth_recipe("Not seasonally adjusted", growth_tabs)
 
 
 """
@@ -159,13 +161,13 @@ tabs = loadxlstabs(sourceSA)
     
 # NSA level tabs
 level_tabs = [x for x in tabs if 'level' in x.name.lower()]
-level_from_SA = level_recipe("Not seasonally adjusted", level_tabs)
+level_from_SA = level_recipe("Seasonally adjusted", level_tabs)
 
 # NSA growth tabs
 growth_tabs = [x for x in tabs if 'growth' in x.name.lower()]
 growth_from_SA = growth_recipe("Seasonally adjusted", growth_tabs)
 
-
+ 
 """
 COMBINING THE LEVEL AND GROWTH EXTRACTIONS FROM EACH
 """

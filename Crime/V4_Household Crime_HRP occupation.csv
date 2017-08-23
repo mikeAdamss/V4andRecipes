@@ -30,7 +30,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 11.53982126,7.707291217000001,417,Quarter,2017 Q1,K04000001,,,Not classified,,Incidence rate,,Domestic burglary,,All households
 32.70573936,2.4237890159999997,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Incidence rate,,Domestic burglary,,All households
 35.87774861,11.07125268,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Incidence rate,,All vehicle crime,,All households
-75.63084980000001,4.0975726,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Incidence rate,,All vehicle crime,,All households
+75.63084980000002,4.0975726,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Incidence rate,,All vehicle crime,,All households
 70.15095459999999,2.993041499,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Incidence rate,,All vehicle crime,,All households
 42.27642961,7.083530282000001,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Incidence rate,,All vehicle crime,,All households
 18.48300071,6.613303939,417,Quarter,2017 Q1,K04000001,,,Not classified,,Incidence rate,,All vehicle crime,,All households
@@ -64,7 +64,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 7.893010532000001,1.033998467,12249,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
 11.34081723,7.341389696,445,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
 0.0,0.0,295,Quarter,2017 Q1,K04000001,,,Not classified,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
-7.6817125939999995,1.377406682,8313,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
+7.681712593999999,1.377406682,8313,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
 34.07969594,9.81252846,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Incidence rate,,Bicycle theft,,All households
 9.665530736000001,1.216287944,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Incidence rate,,Bicycle theft,,All households
 10.48888533,0.990155385,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Incidence rate,,Bicycle theft,,All households
@@ -118,7 +118,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 6.307958242000001,0.931202731,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Incidence rate,,Burglary in dwelling with loss,,All households
 16.43589996,4.970952828,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Incidence rate,,Burglary in dwelling with loss,,All households
 4.502879796,3.1903615430000003,417,Quarter,2017 Q1,K04000001,,,Not classified,,Incidence rate,,Burglary in dwelling with loss,,All households
-7.977232911000001,1.157506326,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Incidence rate,,Burglary in dwelling with loss,,All households
+7.9772329110000015,1.157506326,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Incidence rate,,Burglary in dwelling with loss,,All households
 0.0,0.0,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Incidence rate,,Burglary in building other than dwelling,,All households
 8.850930764,1.401385935,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Incidence rate,,Burglary in building other than dwelling,,All households
 6.4998693439999995,0.8145537420000001,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Incidence rate,,Burglary in building other than dwelling,,All households
@@ -126,7 +126,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 7.0369414610000005,7.023757217000001,417,Quarter,2017 Q1,K04000001,,,Not classified,,Incidence rate,,Burglary in building other than dwelling,,All households
 8.340816257,1.015885141,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Incidence rate,,Burglary in building other than dwelling,,All households
 0.0,0.0,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
-1.073233815,0.36361799200000006,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+1.073233815,0.3636179920000001,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
 1.291735208,0.33713923799999995,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
 0.79714585,0.797179943,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
 0.0,0.0,417,Quarter,2017 Q1,K04000001,,,Not classified,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
@@ -162,7 +162,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 8.36896829,5.027022157,417,Quarter,2017 Q1,K04000001,,,Not classified,,Incidence rate,,Other household theft,,All households
 24.4903187,1.793355134,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Incidence rate,,Other household theft,,All households
 11.63118436,5.827797155,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Incidence rate,,Theft from a motor vehicle,,All households
-29.601667600000003,2.267896377,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Incidence rate,,Theft from a motor vehicle,,All households
+29.60166760000001,2.267896377,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Incidence rate,,Theft from a motor vehicle,,All households
 26.97636074,1.676807084,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Incidence rate,,Theft from a motor vehicle,,All households
 15.08666197,3.9579522139999996,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Incidence rate,,Theft from a motor vehicle,,All households
 11.71588106,5.292978492,417,Quarter,2017 Q1,K04000001,,,Not classified,,Incidence rate,,Theft from a motor vehicle,,All households
@@ -204,17 +204,17 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 4.398871666000001,3.1053741039999996,417,Quarter,2017 Q1,K04000001,,,Not classified,,Incidence rate,,Theft from outside dwelling,,All households
 21.14269838,1.633268959,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Incidence rate,,Theft from outside dwelling,,All households
 110.0438024,17.61981222,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Incidence rate,,All household crime,,All households
-146.04072340000002,6.196217546000001,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Incidence rate,,All household crime,,All households
+146.04072340000005,6.1962175460000015,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Incidence rate,,All household crime,,All households
 141.7725236,4.470627511,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Incidence rate,,All household crime,,All households
 150.4130645,16.14310731,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Incidence rate,,All household crime,,All households
 58.53700315,13.67680671,417,Quarter,2017 Q1,K04000001,,,Not classified,,Incidence rate,,All household crime,,All households
 144.4644168,5.374632893999999,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Incidence rate,,All household crime,,All households
-24.78850374,8.792503615,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Incidence rate,,Criminal damage  ,,All households
-47.13006846,3.412123026,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Incidence rate,,Criminal damage  ,,All households
-49.76588037,2.736763832,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Incidence rate,,Criminal damage  ,,All households
-39.45703762,7.189309337999999,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Incidence rate,,Criminal damage  ,,All households
-7.199712251,4.202937298999999,417,Quarter,2017 Q1,K04000001,,,Not classified,,Incidence rate,,Criminal damage  ,,All households
-49.61143813,3.103384325,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Incidence rate,,Criminal damage  ,,All households
+24.78850374,8.792503615,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Incidence rate,,Criminal damage,,All households
+47.13006846,3.412123026,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Incidence rate,,Criminal damage,,All households
+49.76588037,2.736763832,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Incidence rate,,Criminal damage,,All households
+39.45703762,7.189309337999999,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Incidence rate,,Criminal damage,,All households
+7.199712251,4.202937298999999,417,Quarter,2017 Q1,K04000001,,,Not classified,,Incidence rate,,Criminal damage,,All households
+49.61143813,3.103384325,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Incidence rate,,Criminal damage,,All households
 0.337449305,0.247670253,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.479159341,0.08253935,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.397391285,0.060460781,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
@@ -287,7 +287,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 1.4811477419999999,0.378047979,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Prevalence rate,,Bicycle theft,,All households
 1.777248965,0.687909367,417,Quarter,2017 Q1,K04000001,,,Not classified,,Prevalence rate,,Bicycle theft,,All households
 1.1033678409999998,0.106982005,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Prevalence rate,,Bicycle theft,,All households
-6.089715641000001,1.8407036509999999,194,Quarter,2017 Q1,K04000001,,,Full-time students,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+6.0897156410000015,1.8407036509999999,194,Quarter,2017 Q1,K04000001,,,Full-time students,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
 1.967060819,0.243932382,3724,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
 1.6025547759999998,0.152731274,7743,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
 4.782691071,1.3688627880000002,270,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
@@ -302,7 +302,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.0,0.0,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.431526743,0.076707333,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.334228646,0.0497552,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
-0.43467708200000005,0.20794635,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.4346770820000001,0.20794635,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.234564715,0.234125241,417,Quarter,2017 Q1,K04000001,,,Not classified,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.396367191,0.057182275,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.337449305,0.247670253,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Prevalence rate,,Burglary in dwelling with no loss,,All households
@@ -343,13 +343,13 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.732895913,0.08613397,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Prevalence rate,,Burglary in building other than dwelling,,All households
 0.0,0.0,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
 0.107323382,0.036361799,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
-0.120408895,0.030119812000000003,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.120408895,0.030119812000000006,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
 0.079714585,0.079717994,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
 0.0,0.0,417,Quarter,2017 Q1,K04000001,,,Not classified,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
-0.16786370399999997,0.039127889,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.16786370399999995,0.039127889,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
 0.0,0.0,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
 0.61647537,0.09122178199999999,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
-0.433462368,0.05640292400000001,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.433462368,0.056402924000000014,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
 0.612081903,0.242382712,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
 0.234564715,0.234125241,417,Quarter,2017 Q1,K04000001,,,Not classified,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
 0.5793253270000001,0.076322158,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
@@ -408,7 +408,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.39700966200000004,0.39641121,417,Quarter,2017 Q1,K04000001,,,Not classified,,Prevalence rate,,Theft from a dwelling and meter,,All households
 0.252667566,0.047327728,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Prevalence rate,,Theft from a dwelling and meter,,All households
 7.428374933,1.294467496,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Prevalence rate,,All household theft,,All households
-7.8534469289999995,0.32337782,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Prevalence rate,,All household theft,,All households
+7.853446928999999,0.32337782,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Prevalence rate,,All household theft,,All households
 7.6236145529999995,0.244361553,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Prevalence rate,,All household theft,,All households
 8.102673839,0.84236405,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Prevalence rate,,All household theft,,All households
 4.45257738,1.06681164,417,Quarter,2017 Q1,K04000001,,,Not classified,,Prevalence rate,,All household theft,,All households
@@ -425,9 +425,9 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 10.28453959,0.945857525,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Prevalence rate,,All household crime,,All households
 5.172548605,1.143532567,417,Quarter,2017 Q1,K04000001,,,Not classified,,Prevalence rate,,All household crime,,All households
 9.991848621,0.301682761,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Prevalence rate,,All household crime,,All households
-2.478850374,0.879250361,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Prevalence rate,,Criminal damage  ,,All households
-3.551858769,0.22096043899999998,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Prevalence rate,,Criminal damage  ,,All households
-3.624020078,0.169568081,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Prevalence rate,,Criminal damage  ,,All households
-3.062935778,0.514137921,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Prevalence rate,,Criminal damage  ,,All households
-0.719971225,0.42029373,417,Quarter,2017 Q1,K04000001,,,Not classified,,Prevalence rate,,Criminal damage  ,,All households
-3.4127104569999998,0.175298258,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Prevalence rate,,Criminal damage  ,,All households
+2.478850374,0.879250361,462,Quarter,2017 Q1,K04000001,,,Full-time students,,Prevalence rate,,Criminal damage,,All households
+3.551858769,0.22096043899999998,7909,Quarter,2017 Q1,K04000001,,,Intermediate occs,,Prevalence rate,,Criminal damage,,All households
+3.624020078,0.169568081,13579,Quarter,2017 Q1,K04000001,,,Managerial and professional occs,,Prevalence rate,,Criminal damage,,All households
+3.062935778,0.514137921,1103,Quarter,2017 Q1,K04000001,,,Never worked and long term unemployed,,Prevalence rate,,Criminal damage,,All households
+0.719971225,0.42029373,417,Quarter,2017 Q1,K04000001,,,Not classified,,Prevalence rate,,Criminal damage,,All households
+3.4127104569999998,0.175298258,11864,Quarter,2017 Q1,K04000001,,,Routine and manual occs,,Prevalence rate,,Criminal damage,,All households

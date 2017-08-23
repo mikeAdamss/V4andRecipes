@@ -102,6 +102,7 @@ def buildDims(df, charDim, ageAndSex=False):
     
     newDf['Crime Type_codelist'] = ''
     newDf['Crime Type'] = df['MeasurementVar'].apply(varLookup)
+    newDf['Crime Type'] = newDf['Crime Type'].map(lambda x: x.strip())
 
     # ageAndSex = True, just means its a personal datafile not households
     if ageAndSex:

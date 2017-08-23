@@ -136,13 +136,13 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 22.66900952,1.6151272730000001,12525,Quarter,2017 Q1,K04000001,,,Renters,,Incidence rate,,Theft from outside dwelling,,All households
 24.89059547,2.52844441,5927,Quarter,2017 Q1,K04000001,,,Social rented sector,,Incidence rate,,Theft from outside dwelling,,All households
 129.8101383,3.4454660639999997,22589,Quarter,2017 Q1,K04000001,,,Owners,,Incidence rate,,All household crime,,All households
-151.11680890000002,6.429845742,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Incidence rate,,All household crime,,All households
+151.11680890000005,6.429845742,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Incidence rate,,All household crime,,All households
 163.5935737,5.284206742,12525,Quarter,2017 Q1,K04000001,,,Renters,,Incidence rate,,All household crime,,All households
 178.1135889,8.4384486,5927,Quarter,2017 Q1,K04000001,,,Social rented sector,,Incidence rate,,All household crime,,All households
-44.54020574,1.9944106869999998,22589,Quarter,2017 Q1,K04000001,,,Owners,,Incidence rate,,Criminal damage  ,,All households
-48.76482884,3.875470173,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Incidence rate,,Criminal damage  ,,All households
-53.82569592,3.058786533,12525,Quarter,2017 Q1,K04000001,,,Renters,,Incidence rate,,Criminal damage  ,,All households
-59.715353,4.807288849,5927,Quarter,2017 Q1,K04000001,,,Social rented sector,,Incidence rate,,Criminal damage  ,,All households
+44.54020574,1.9944106869999998,22589,Quarter,2017 Q1,K04000001,,,Owners,,Incidence rate,,Criminal damage,,All households
+48.76482884,3.875470173,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Incidence rate,,Criminal damage,,All households
+53.82569592,3.058786533,12525,Quarter,2017 Q1,K04000001,,,Renters,,Incidence rate,,Criminal damage,,All households
+59.715353,4.807288849,5927,Quarter,2017 Q1,K04000001,,,Social rented sector,,Incidence rate,,Criminal damage,,All households
 0.360403535,0.042934865,22589,Quarter,2017 Q1,K04000001,,,Owners,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.719698825,0.13266128800000002,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.700890549,0.08852594400000001,12525,Quarter,2017 Q1,K04000001,,,Renters,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
@@ -192,7 +192,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 1.6276698719999998,0.121099661,12525,Quarter,2017 Q1,K04000001,,,Renters,,Prevalence rate,,Bicycle theft,,All households
 1.53506739,0.165374203,5927,Quarter,2017 Q1,K04000001,,,Social rented sector,,Prevalence rate,,Bicycle theft,,All households
 1.418101553,0.116016892,11677,Quarter,2017 Q1,K04000001,,,Owners,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
-3.267744004,0.35014718200000006,3076,Quarter,2017 Q1,K04000001,,,Private rented sector,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
+3.267744004,0.3501471820000001,3076,Quarter,2017 Q1,K04000001,,,Private rented sector,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
 3.560786133,0.275251245,5078,Quarter,2017 Q1,K04000001,,,Renters,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
 4.024130751,0.46018592799999997,2002,Quarter,2017 Q1,K04000001,,,Social rented sector,,Prevalence rate,,Bicycle theft,,Bicycle-owning households
 0.152496311,0.02777312,22589,Quarter,2017 Q1,K04000001,,,Owners,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
@@ -201,7 +201,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.141719904,0.049012248,5927,Quarter,2017 Q1,K04000001,,,Social rented sector,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
 0.43526279100000004,0.044252995999999996,22589,Quarter,2017 Q1,K04000001,,,Owners,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.248273717,0.055302545,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
-0.268529335,0.04446867400000001,12525,Quarter,2017 Q1,K04000001,,,Renters,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.268529335,0.04446867400000002,12525,Quarter,2017 Q1,K04000001,,,Renters,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.292102103,0.07181782099999999,5927,Quarter,2017 Q1,K04000001,,,Social rented sector,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.21109054800000002,0.03360928,22589,Quarter,2017 Q1,K04000001,,,Owners,,Prevalence rate,,Burglary in dwelling with no loss,,All households
 0.5701698470000001,0.114538369,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Prevalence rate,,Burglary in dwelling with no loss,,All households
@@ -268,7 +268,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.4893612,0.08117064,7711,Quarter,2017 Q1,K04000001,,,Renters,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
 0.455460955,0.131481501,3028,Quarter,2017 Q1,K04000001,,,Social rented sector,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
 0.13552098,0.026310534,22589,Quarter,2017 Q1,K04000001,,,Owners,,Prevalence rate,,Theft from a dwelling and meter,,All households
-0.19587989600000003,0.06834156,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.19587989600000005,0.06834156,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Prevalence rate,,Theft from a dwelling and meter,,All households
 0.35255865700000005,0.058849642,12525,Quarter,2017 Q1,K04000001,,,Renters,,Prevalence rate,,Theft from a dwelling and meter,,All households
 0.534895826,0.09980326699999999,5927,Quarter,2017 Q1,K04000001,,,Social rented sector,,Prevalence rate,,Theft from a dwelling and meter,,All households
 6.971917802,0.186489481,22589,Quarter,2017 Q1,K04000001,,,Owners,,Prevalence rate,,All household theft,,All households
@@ -283,7 +283,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 11.48384908,0.42098512,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Prevalence rate,,All household crime,,All households
 11.48823122,0.30674217,12525,Quarter,2017 Q1,K04000001,,,Renters,,Prevalence rate,,All household crime,,All households
 11.49333099,0.445401431,5927,Quarter,2017 Q1,K04000001,,,Social rented sector,,Prevalence rate,,All household crime,,All households
-3.341714161,0.128587104,22589,Quarter,2017 Q1,K04000001,,,Owners,,Prevalence rate,,Criminal damage  ,,All households
-3.601463774,0.246782857,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Prevalence rate,,Criminal damage  ,,All households
-3.707803142,0.181741297,12525,Quarter,2017 Q1,K04000001,,,Renters,,Prevalence rate,,Criminal damage  ,,All households
-3.831557115,0.25915188899999997,5927,Quarter,2017 Q1,K04000001,,,Social rented sector,,Prevalence rate,,Criminal damage  ,,All households
+3.341714161,0.128587104,22589,Quarter,2017 Q1,K04000001,,,Owners,,Prevalence rate,,Criminal damage,,All households
+3.601463774,0.246782857,6598,Quarter,2017 Q1,K04000001,,,Private rented sector,,Prevalence rate,,Criminal damage,,All households
+3.707803142,0.181741297,12525,Quarter,2017 Q1,K04000001,,,Renters,,Prevalence rate,,Criminal damage,,All households
+3.831557115,0.25915188899999997,5927,Quarter,2017 Q1,K04000001,,,Social rented sector,,Prevalence rate,,Criminal damage,,All households

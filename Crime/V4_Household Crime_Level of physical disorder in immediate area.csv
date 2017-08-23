@@ -32,7 +32,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 4.523112467,1.7942369580000002,1833,Quarter,2017 Q1,K04000001,,,High,,Incidence rate,,Burglary in dwelling with no loss,,All households
 4.532136457,0.586692592,33250,Quarter,2017 Q1,K04000001,,,Low,,Incidence rate,,Burglary in dwelling with no loss,,All households
 12.93417906,3.1756870360000002,1833,Quarter,2017 Q1,K04000001,,,High,,Incidence rate,,Attempted burglary in dwelling,,All households
-7.388430823999999,0.603429317,33250,Quarter,2017 Q1,K04000001,,,Low,,Incidence rate,,Attempted burglary in dwelling,,All households
+7.3884308239999985,0.603429317,33250,Quarter,2017 Q1,K04000001,,,Low,,Incidence rate,,Attempted burglary in dwelling,,All households
 15.94470198,3.6777903469999997,1833,Quarter,2017 Q1,K04000001,,,High,,Incidence rate,,Burglary in dwelling with entry,,All households
 10.9652285,0.85624591,33250,Quarter,2017 Q1,K04000001,,,Low,,Incidence rate,,Burglary in dwelling with entry,,All households
 28.87888104,4.829821707,1833,Quarter,2017 Q1,K04000001,,,High,,Incidence rate,,Burglary in dwelling,,All households
@@ -69,14 +69,14 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 20.4846681,1.040992462,33250,Quarter,2017 Q1,K04000001,,,Low,,Incidence rate,,Theft from outside dwelling,,All households
 191.910505,15.51648134,1833,Quarter,2017 Q1,K04000001,,,High,,Incidence rate,,All household crime,,All households
 139.74564809999998,3.0720165,33250,Quarter,2017 Q1,K04000001,,,Low,,Incidence rate,,All household crime,,All households
-64.01521763,9.070188432,1833,Quarter,2017 Q1,K04000001,,,High,,Incidence rate,,Criminal damage  ,,All households
-47.02307049,1.7495400209999998,33250,Quarter,2017 Q1,K04000001,,,Low,,Incidence rate,,Criminal damage  ,,All households
+64.01521763,9.070188432,1833,Quarter,2017 Q1,K04000001,,,High,,Incidence rate,,Criminal damage,,All households
+47.02307049,1.7495400209999998,33250,Quarter,2017 Q1,K04000001,,,Low,,Incidence rate,,Criminal damage,,All households
 0.821840404,0.271341084,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.46681104100000004,0.042049699,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 1.264505565,0.265742725,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic burglary with entry and loss,,All households
 0.8930912990000001,0.052734931,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic burglary with entry and loss,,All households
 1.221999638,0.270751154,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Attempted domestic burglary,,All households
-0.726606293,0.04899760400000001,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted domestic burglary,,All households
+0.726606293,0.04899760400000002,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Attempted domestic burglary,,All households
 2.086345969,0.38605182,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic burglary with entry,,All households
 1.337785154,0.06579687099999999,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Domestic burglary with entry,,All households
 3.276460128,0.465471495,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Domestic burglary,,All households
@@ -141,5 +141,5 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 1.7202412580000002,0.07660597400000001,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Theft from outside dwelling,,All households
 13.91234967,0.892803412,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,All household crime,,All households
 10.18004012,0.190298259,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,All household crime,,All households
-4.778518117,0.546496625,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Criminal damage  ,,All households
-3.3927722410000003,0.10739887099999999,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Criminal damage  ,,All households
+4.778518117,0.546496625,1833,Quarter,2017 Q1,K04000001,,,High,,Prevalence rate,,Criminal damage,,All households
+3.3927722410000003,0.10739887099999999,33250,Quarter,2017 Q1,K04000001,,,Low,,Prevalence rate,,Criminal damage,,All households

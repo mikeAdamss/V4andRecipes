@@ -26,7 +26,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 34.43598648,3.026619572,5813,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
 55.90198634,4.657796132,3854,Quarter,2017 Q1,K04000001,,,20% most deprived,,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
 40.86224163,1.923783562,16388,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Incidence rate,,All vehicle-related theft,,Vehicle-owning households
-7.6802530739999995,1.27521121,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,Attempted theft of and from vehicles,,All households
+7.680253073999999,1.27521121,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,Attempted theft of and from vehicles,,All households
 5.294934245,1.3867019969999999,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Incidence rate,,Attempted theft of and from vehicles,,All households
 6.583668382000001,0.73850926,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Incidence rate,,Attempted theft of and from vehicles,,All households
 8.663200189,1.436800574,5813,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
@@ -38,7 +38,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 14.70329322,2.142634375,3707,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,Bicycle theft,,Bicycle-owning households
 40.04665181,4.944391759,2329,Quarter,2017 Q1,K04000001,,,20% most deprived,,Incidence rate,,Bicycle theft,,Bicycle-owning households
 22.17319924,1.8272615369999998,9606,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Incidence rate,,Bicycle theft,,Bicycle-owning households
-0.60315624,0.38663443700000005,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
+0.60315624,0.3866344370000001,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
 2.097565157,0.645394472,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
 1.779143115,0.386163391,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Incidence rate,,Burglary in building other than dwelling with entry and no loss,,All households
 4.808731537,1.144988729,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,Burglary in building other than dwelling with entry and loss,,All households
@@ -95,7 +95,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 1.291849969,0.515222869,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,Theft from a dwelling and meter,,All households
 4.935947784,1.216539623,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Incidence rate,,Theft from a dwelling and meter,,All households
 2.5584799830000002,0.483956975,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Incidence rate,,Theft from a dwelling and meter,,All households
-74.09209150000001,4.389990477,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,All household theft,,All households
+74.09209150000002,4.389990477,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,All household theft,,All households
 120.47417859999999,6.30714552,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Incidence rate,,All household theft,,All households
 92.42653699,2.8682516860000002,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Incidence rate,,All household theft,,All households
 15.44204568,1.9332819069999998,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,Theft from outside dwelling,,All households
@@ -104,9 +104,9 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 109.10476750000001,5.575218772,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,All household crime,,All households
 179.7161882,8.083263738,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Incidence rate,,All household crime,,All households
 140.04253459999998,3.870349472,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Incidence rate,,All household crime,,All households
-35.01267598,3.200769999,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,Criminal damage  ,,All households
-59.24200958,4.140211923,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Incidence rate,,Criminal damage  ,,All households
-47.61599762,2.302725219,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Incidence rate,,Criminal damage  ,,All households
+35.01267598,3.200769999,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Incidence rate,,Criminal damage,,All households
+59.24200958,4.140211923,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Incidence rate,,Criminal damage,,All households
+47.61599762,2.302725219,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Incidence rate,,Criminal damage,,All households
 0.22501106,0.07198843099999999,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.731322934,0.113157928,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.484219574,0.057035052999999995,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
@@ -117,7 +117,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.9037964340000001,0.121474048,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Attempted domestic burglary,,All households
 0.766460719,0.06427060799999999,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Attempted domestic burglary,,All households
 0.942455704,0.129304458,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Domestic burglary with entry,,All households
-1.6928821219999999,0.17192272399999997,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Domestic burglary with entry,,All households
+1.6928821219999999,0.17192272399999994,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Domestic burglary with entry,,All households
 1.405375895,0.08792023800000001,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Domestic burglary with entry,,All households
 1.48797262,0.161572918,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Domestic burglary,,All households
 2.57164648,0.207240354,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Domestic burglary,,All households
@@ -131,11 +131,11 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 2.5863080430000003,0.201390145,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,All vehicle-related thefts,,All households
 2.8684713210000004,0.215121838,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,All vehicle-related thefts,,All households
 2.815160295,0.123144125,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,All vehicle-related thefts,,All households
-2.917313285,0.22649426600000003,5813,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
+2.917313285,0.2264942660000001,5813,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
 4.734962016,0.35346724700000004,3854,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
 3.547580842,0.154914484,16388,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
 0.651455971,0.102015374,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Attempted theft of and from vehicles,,All households
-0.39628860200000005,0.08201193700000001,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.3962886020000001,0.08201193700000001,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Attempted theft of and from vehicles,,All households
 0.557913581,0.057689172999999996,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Attempted theft of and from vehicles,,All households
 0.734831709,0.114903213,5813,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
 0.654150336,0.135373836,3854,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
@@ -149,7 +149,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.043777338,0.025900885,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
 0.19079988,0.055604297999999996,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
 0.163659798,0.034288978,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
-0.38399184700000005,0.07834632,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.3839918470000001,0.07834632,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.247593283,0.06675809099999999,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.385749923,0.044346465,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.18123372199999999,0.067162532,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Burglary in dwelling with no loss,,All households
@@ -157,7 +157,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.320559776,0.046336105999999995,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Burglary in dwelling with no loss,,All households
 0.42522632,0.088798665,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Attempted burglary in dwelling,,All households
 0.85434635,0.118775022,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Attempted burglary in dwelling,,All households
-0.6237530579999999,0.057979852000000005,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Attempted burglary in dwelling,,All households
+0.6237530579999999,0.05797985200000001,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Attempted burglary in dwelling,,All households
 0.514686519,0.1000494,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Burglary in dwelling with entry,,All households
 1.285621134,0.148407488,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Burglary in dwelling with entry,,All households
 0.870511411,0.07051714099999999,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Burglary in dwelling with entry,,All households
@@ -204,7 +204,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.385803009,0.080863388,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Theft from a dwelling and meter,,All households
 0.202029335,0.037590773,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Theft from a dwelling and meter,,All households
 6.083283136,0.305751263,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,All household theft,,All households
-9.004527785,0.38688392200000005,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,All household theft,,All households
+9.004527785,0.3868839220000001,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,All household theft,,All households
 7.427869229,0.20312496800000002,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,All household theft,,All households
 1.286414153,0.147811888,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Theft from outside dwelling,,All households
 2.5361923219999998,0.20758523899999998,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Theft from outside dwelling,,All households
@@ -212,6 +212,6 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 8.561767893999999,0.37859743100000004,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,All household crime,,All households
 12.57330129,0.46634803799999996,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,All household crime,,All households
 10.21959537,0.239189254,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,All household crime,,All households
-2.738281979,0.226828311,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Criminal damage  ,,All households
-4.375046237,0.277930883,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Criminal damage  ,,All households
-3.3563352089999996,0.134149357,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Criminal damage  ,,All households
+2.738281979,0.226828311,6412,Quarter,2017 Q1,K04000001,,,20% least deprived,,Prevalence rate,,Criminal damage,,All households
+4.375046237,0.277930883,6175,Quarter,2017 Q1,K04000001,,,20% most deprived,,Prevalence rate,,Criminal damage,,All households
+3.3563352089999996,0.134149357,20073,Quarter,2017 Q1,K04000001,,,Deciles 3 - 8,,Prevalence rate,,Criminal damage,,All households

@@ -123,9 +123,9 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 3.7012820260000003,1.016759814,5285,Quarter,2017 Q1,K04000001,,,Flats/maisonettes,,Incidence rate,,Burglary in building other than dwelling,,All households
 8.450334566,0.6604310489999999,29876,Quarter,2017 Q1,K04000001,,,House,,Incidence rate,,Burglary in building other than dwelling,,All households
 0.0,0.0,81,Quarter,2017 Q1,K04000001,,,Other accommodation,,Incidence rate,,Burglary in building other than dwelling,,All households
-7.9284238789999995,0.957665859,10877,Quarter,2017 Q1,K04000001,,,Semi-detached house,,Incidence rate,,Burglary in building other than dwelling,,All households
+7.928423878999999,0.957665859,10877,Quarter,2017 Q1,K04000001,,,Semi-detached house,,Incidence rate,,Burglary in building other than dwelling,,All households
 8.893612747999999,1.228740872,10183,Quarter,2017 Q1,K04000001,,,Terraced house,,Incidence rate,,Burglary in building other than dwelling,,All households
-1.33586943,0.48052576700000005,8816,Quarter,2017 Q1,K04000001,,,Detached house,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
+1.33586943,0.4805257670000001,8816,Quarter,2017 Q1,K04000001,,,Detached house,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
 0.691033485,0.349668989,5285,Quarter,2017 Q1,K04000001,,,Flats/maisonettes,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
 1.573258623,0.260807078,29876,Quarter,2017 Q1,K04000001,,,House,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
 0.0,0.0,81,Quarter,2017 Q1,K04000001,,,Other accommodation,,Incidence rate,,Attempted burglary in building other than dwelling,,All households
@@ -209,12 +209,12 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 13.49539165,13.41150057,81,Quarter,2017 Q1,K04000001,,,Other accommodation,,Incidence rate,,All household crime,,All households
 134.86107890000002,4.6880756439999995,10877,Quarter,2017 Q1,K04000001,,,Semi-detached house,,Incidence rate,,All household crime,,All households
 179.77640369999997,5.963453863,10183,Quarter,2017 Q1,K04000001,,,Terraced house,,Incidence rate,,All household crime,,All households
-34.61205926,3.0606237569999997,8816,Quarter,2017 Q1,K04000001,,,Detached house,,Incidence rate,,Criminal damage  ,,All households
-47.49819423,4.827992966,5285,Quarter,2017 Q1,K04000001,,,Flats/maisonettes,,Incidence rate,,Criminal damage  ,,All households
-48.05982864,1.811209459,29876,Quarter,2017 Q1,K04000001,,,House,,Incidence rate,,Criminal damage  ,,All households
-0.0,0.0,81,Quarter,2017 Q1,K04000001,,,Other accommodation,,Incidence rate,,Criminal damage  ,,All households
-43.36547835,2.6558064519999998,10877,Quarter,2017 Q1,K04000001,,,Semi-detached house,,Incidence rate,,Criminal damage  ,,All households
-63.1151789,3.3371959419999997,10183,Quarter,2017 Q1,K04000001,,,Terraced house,,Incidence rate,,Criminal damage  ,,All households
+34.61205926,3.0606237569999997,8816,Quarter,2017 Q1,K04000001,,,Detached house,,Incidence rate,,Criminal damage,,All households
+47.49819423,4.827992966,5285,Quarter,2017 Q1,K04000001,,,Flats/maisonettes,,Incidence rate,,Criminal damage,,All households
+48.05982864,1.811209459,29876,Quarter,2017 Q1,K04000001,,,House,,Incidence rate,,Criminal damage,,All households
+0.0,0.0,81,Quarter,2017 Q1,K04000001,,,Other accommodation,,Incidence rate,,Criminal damage,,All households
+43.36547835,2.6558064519999998,10877,Quarter,2017 Q1,K04000001,,,Semi-detached house,,Incidence rate,,Criminal damage,,All households
+63.1151789,3.3371959419999997,10183,Quarter,2017 Q1,K04000001,,,Terraced house,,Incidence rate,,Criminal damage,,All households
 0.233284832,0.055275799,8816,Quarter,2017 Q1,K04000001,,,Detached house,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.550574363,0.128922343,5285,Quarter,2017 Q1,K04000001,,,Flats/maisonettes,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.475298646,0.043634212,29876,Quarter,2017 Q1,K04000001,,,House,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
@@ -249,7 +249,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 4.036045092,0.283534912,5285,Quarter,2017 Q1,K04000001,,,Flats/maisonettes,,Prevalence rate,,All vehicle crime,,All households
 5.368875401,0.14165318699999999,29876,Quarter,2017 Q1,K04000001,,,House,,Prevalence rate,,All vehicle crime,,All households
 0.0,0.0,81,Quarter,2017 Q1,K04000001,,,Other accommodation,,Prevalence rate,,All vehicle crime,,All households
-5.303964843,0.22279287600000003,10877,Quarter,2017 Q1,K04000001,,,Semi-detached house,,Prevalence rate,,All vehicle crime,,All households
+5.303964843,0.22279287600000008,10877,Quarter,2017 Q1,K04000001,,,Semi-detached house,,Prevalence rate,,All vehicle crime,,All households
 6.568105055,0.249164797,10183,Quarter,2017 Q1,K04000001,,,Terraced house,,Prevalence rate,,All vehicle crime,,All households
 4.132562946,0.23361910000000002,8364,Quarter,2017 Q1,K04000001,,,Detached house,,Prevalence rate,,All vehicle crime,,Vehicle-owning households
 7.969071962999999,0.5517480610000001,2734,Quarter,2017 Q1,K04000001,,,Flats/maisonettes,,Prevalence rate,,All vehicle crime,,Vehicle-owning households
@@ -420,14 +420,14 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 1.740630261,0.1278712,10877,Quarter,2017 Q1,K04000001,,,Semi-detached house,,Prevalence rate,,Theft from outside dwelling,,All households
 2.28545268,0.156900235,10183,Quarter,2017 Q1,K04000001,,,Terraced house,,Prevalence rate,,Theft from outside dwelling,,All households
 8.040165692999999,0.320879774,8816,Quarter,2017 Q1,K04000001,,,Detached house,,Prevalence rate,,All household crime,,All households
-9.706382493,0.43636759700000005,5285,Quarter,2017 Q1,K04000001,,,Flats/maisonettes,,Prevalence rate,,All household crime,,All households
+9.706382493,0.4363675970000001,5285,Quarter,2017 Q1,K04000001,,,Flats/maisonettes,,Prevalence rate,,All household crime,,All households
 10.54303248,0.202481036,29876,Quarter,2017 Q1,K04000001,,,House,,Prevalence rate,,All household crime,,All households
 1.349539165,1.3411500570000001,81,Quarter,2017 Q1,K04000001,,,Other accommodation,,Prevalence rate,,All household crime,,All households
 10.10349607,0.310981744,10877,Quarter,2017 Q1,K04000001,,,Semi-detached house,,Prevalence rate,,All household crime,,All households
 12.90415194,0.34964745799999997,10183,Quarter,2017 Q1,K04000001,,,Terraced house,,Prevalence rate,,All household crime,,All households
-2.569821133,0.18792801,8816,Quarter,2017 Q1,K04000001,,,Detached house,,Prevalence rate,,Criminal damage  ,,All households
-2.98851747,0.247736925,5285,Quarter,2017 Q1,K04000001,,,Flats/maisonettes,,Prevalence rate,,Criminal damage  ,,All households
-3.574858482,0.116501353,29876,Quarter,2017 Q1,K04000001,,,House,,Prevalence rate,,Criminal damage  ,,All households
-0.0,0.0,81,Quarter,2017 Q1,K04000001,,,Other accommodation,,Prevalence rate,,Criminal damage  ,,All households
-3.2565897969999997,0.176261456,10877,Quarter,2017 Q1,K04000001,,,Semi-detached house,,Prevalence rate,,Criminal damage  ,,All households
-4.666961866,0.211284275,10183,Quarter,2017 Q1,K04000001,,,Terraced house,,Prevalence rate,,Criminal damage  ,,All households
+2.569821133,0.18792801,8816,Quarter,2017 Q1,K04000001,,,Detached house,,Prevalence rate,,Criminal damage,,All households
+2.98851747,0.247736925,5285,Quarter,2017 Q1,K04000001,,,Flats/maisonettes,,Prevalence rate,,Criminal damage,,All households
+3.574858482,0.116501353,29876,Quarter,2017 Q1,K04000001,,,House,,Prevalence rate,,Criminal damage,,All households
+0.0,0.0,81,Quarter,2017 Q1,K04000001,,,Other accommodation,,Prevalence rate,,Criminal damage,,All households
+3.2565897969999997,0.176261456,10877,Quarter,2017 Q1,K04000001,,,Semi-detached house,,Prevalence rate,,Criminal damage,,All households
+4.666961866,0.211284275,10183,Quarter,2017 Q1,K04000001,,,Terraced house,,Prevalence rate,,Criminal damage,,All households

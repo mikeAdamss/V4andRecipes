@@ -2,7 +2,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 13.20820007,3.527367692,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 11.09243392,4.8020667480000006,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 5.35064553,2.219661183,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Incidence rate,,Domestic burglary with entry and no loss,,All households
-7.654593913999999,1.6258781919999998,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+7.6545939139999986,1.6258781919999998,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 8.97521619,2.242002532,4183,Quarter,2017 Q1,K04000001,,,Multicultural metropolitans,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 2.6034483809999998,0.901440648,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 2.8302276060000002,0.707874585,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Incidence rate,,Domestic burglary with entry and no loss,,All households
@@ -23,7 +23,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 6.772578918,1.4975614469999998,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Incidence rate,,Attempted domestic burglary,,All households
 5.968616212000001,1.142305505,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Incidence rate,,Attempted domestic burglary,,All households
 8.232288112,1.311957242,6606,Quarter,2017 Q1,K04000001,,,Urbanites,,Incidence rate,,Attempted domestic burglary,,All households
-31.38824189,5.774608386000001,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Incidence rate,,Domestic burglary with entry,,All households
+31.38824189,5.7746083860000015,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Incidence rate,,Domestic burglary with entry,,All households
 21.8981642,7.063359556,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Incidence rate,,Domestic burglary with entry,,All households
 12.94213932,3.095402345,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Incidence rate,,Domestic burglary with entry,,All households
 20.61886471,2.389100034,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Incidence rate,,Domestic burglary with entry,,All households
@@ -41,7 +41,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 22.11690257,2.09501319,6606,Quarter,2017 Q1,K04000001,,,Urbanites,,Incidence rate,,Domestic burglary,,All households
 63.46386319,6.67045384,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Incidence rate,,All vehicle crime,,All households
 54.51555989999999,8.369184994,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Incidence rate,,All vehicle crime,,All households
-55.84511583,7.239146481000001,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Incidence rate,,All vehicle crime,,All households
+55.84511583,7.2391464810000015,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Incidence rate,,All vehicle crime,,All households
 86.18583554,5.152458118999999,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Incidence rate,,All vehicle crime,,All households
 80.82984704,5.238895927,4183,Quarter,2017 Q1,K04000001,,,Multicultural metropolitans,,Incidence rate,,All vehicle crime,,All households
 30.27731119,3.6267082439999996,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Incidence rate,,All vehicle crime,,All households
@@ -148,7 +148,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 27.99324112,4.529210787,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Incidence rate,,Burglary in dwelling,,All households
 21.35102056,2.608810858,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Incidence rate,,Burglary in dwelling,,All households
 24.20314814,3.0921865410000002,4183,Quarter,2017 Q1,K04000001,,,Multicultural metropolitans,,Incidence rate,,Burglary in dwelling,,All households
-7.898725761000001,1.4532655069999998,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Incidence rate,,Burglary in dwelling,,All households
+7.8987257610000015,1.4532655069999998,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Incidence rate,,Burglary in dwelling,,All households
 10.75934086,1.4695775830000002,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Incidence rate,,Burglary in dwelling,,All households
 15.17599206,1.8338290130000001,6606,Quarter,2017 Q1,K04000001,,,Urbanites,,Incidence rate,,Burglary in dwelling,,All households
 12.62913742,3.778762413,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Incidence rate,,Burglary in dwelling with loss,,All households
@@ -274,19 +274,19 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 196.2073689,14.02911111,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Incidence rate,,All household crime,,All households
 143.8356105,13.80398228,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Incidence rate,,All household crime,,All households
 135.216773,12.27929731,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Incidence rate,,All household crime,,All households
-177.330922,7.5836957389999995,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Incidence rate,,All household crime,,All households
+177.330922,7.583695738999999,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Incidence rate,,All household crime,,All households
 178.3205267,8.49474667,4183,Quarter,2017 Q1,K04000001,,,Multicultural metropolitans,,Incidence rate,,All household crime,,All households
 84.0738812,6.171060245,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Incidence rate,,All household crime,,All households
 99.17230018,5.07606405,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Incidence rate,,All household crime,,All households
 142.967385,6.376101038,6606,Quarter,2017 Q1,K04000001,,,Urbanites,,Incidence rate,,All household crime,,All households
-70.12436290000001,7.672068513999999,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Incidence rate,,Criminal damage  ,,All households
-38.17950867,7.719592221,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Incidence rate,,Criminal damage  ,,All households
-30.53169741,6.010793088,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Incidence rate,,Criminal damage  ,,All households
-68.79576290000001,4.818849256,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Incidence rate,,Criminal damage  ,,All households
-55.43691171,4.501127502,4183,Quarter,2017 Q1,K04000001,,,Multicultural metropolitans,,Incidence rate,,Criminal damage  ,,All households
-21.62160729,2.802925296,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Incidence rate,,Criminal damage  ,,All households
-31.37908946,2.6366589609999997,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Incidence rate,,Criminal damage  ,,All households
-54.28011554,4.3500241939999995,6606,Quarter,2017 Q1,K04000001,,,Urbanites,,Incidence rate,,Criminal damage  ,,All households
+70.12436290000001,7.6720685139999985,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Incidence rate,,Criminal damage,,All households
+38.17950867,7.719592221,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Incidence rate,,Criminal damage,,All households
+30.53169741,6.010793088,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Incidence rate,,Criminal damage,,All households
+68.79576290000001,4.818849256,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Incidence rate,,Criminal damage,,All households
+55.43691171,4.501127502,4183,Quarter,2017 Q1,K04000001,,,Multicultural metropolitans,,Incidence rate,,Criminal damage,,All households
+21.62160729,2.802925296,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Incidence rate,,Criminal damage,,All households
+31.37908946,2.6366589609999997,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Incidence rate,,Criminal damage,,All households
+54.28011554,4.3500241939999995,6606,Quarter,2017 Q1,K04000001,,,Urbanites,,Incidence rate,,Criminal damage,,All households
 0.902458929,0.201736205,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.8035106409999999,0.301170351,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.460231705,0.180330845,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
@@ -400,7 +400,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.064160436,0.029397045,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
 0.18001711399999998,0.055351251,6606,Quarter,2017 Q1,K04000001,,,Urbanites,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
 0.454237843,0.136194643,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
-0.17689784600000003,0.103832294,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
+0.17689784600000005,0.103832294,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.062117293,0.062096267999999996,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.403572408,0.076096991,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.35616961,0.090427311,4183,Quarter,2017 Q1,K04000001,,,Multicultural metropolitans,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
@@ -458,7 +458,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.037646458,0.037595113,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
 0.064086175,0.064096553,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
 0.097596164,0.068998633,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
-0.156336322,0.05075444900000001,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
+0.156336322,0.05075444900000002,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
 0.090130605,0.046029723,4183,Quarter,2017 Q1,K04000001,,,Multicultural metropolitans,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
 0.18459727399999998,0.075361971,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
 0.061982329,0.028514125,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
@@ -469,7 +469,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.613064605,0.09490454599999999,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
 0.563131399,0.135308566,4183,Quarter,2017 Q1,K04000001,,,Multicultural metropolitans,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
 0.761667815,0.134971961,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
-0.49729977700000005,0.083576814,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.4972997770000001,0.083576814,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
 0.44104623,0.083503892,6606,Quarter,2017 Q1,K04000001,,,Urbanites,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
 1.9506995180000002,0.284232195,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Prevalence rate,,Arson and other criminal damage,,All households
 1.323666717,0.355079176,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Prevalence rate,,Arson and other criminal damage,,All households
@@ -498,7 +498,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 3.0899650089999997,0.37274640600000003,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Prevalence rate,,Other household theft,,All households
 1.766353871,0.37425155600000004,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Prevalence rate,,Other household theft,,All households
 1.9767455219999999,0.34589403799999996,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Prevalence rate,,Other household theft,,All households
-2.6145508680000002,0.21021081100000003,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Prevalence rate,,Other household theft,,All households
+2.6145508680000002,0.21021081100000005,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Prevalence rate,,Other household theft,,All households
 2.228378151,0.25182149800000003,4183,Quarter,2017 Q1,K04000001,,,Multicultural metropolitans,,Prevalence rate,,Other household theft,,All households
 1.803571295,0.208185013,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Prevalence rate,,Other household theft,,All households
 1.306985687,0.13077199,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Prevalence rate,,Other household theft,,All households
@@ -567,11 +567,11 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 6.43960453,0.40303831799999995,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Prevalence rate,,All household crime,,All households
 7.75775334,0.34846183799999997,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Prevalence rate,,All household crime,,All households
 10.7427519,0.40867146600000004,6606,Quarter,2017 Q1,K04000001,,,Urbanites,,Prevalence rate,,All household crime,,All households
-4.606509956,0.41847909,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Prevalence rate,,Criminal damage  ,,All households
-2.887165495,0.511299753,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Prevalence rate,,Criminal damage  ,,All households
-2.0075105630000003,0.315669767,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Prevalence rate,,Criminal damage  ,,All households
-4.760699874,0.291158547,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Prevalence rate,,Criminal damage  ,,All households
-4.2942942760000005,0.31153817899999997,4183,Quarter,2017 Q1,K04000001,,,Multicultural metropolitans,,Prevalence rate,,Criminal damage  ,,All households
-1.663323535,0.18986857199999999,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Prevalence rate,,Criminal damage  ,,All households
-2.523344684,0.193984994,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Prevalence rate,,Criminal damage  ,,All households
-3.853212974,0.258214032,6606,Quarter,2017 Q1,K04000001,,,Urbanites,,Prevalence rate,,Criminal damage  ,,All households
+4.606509956,0.41847909,2447,Quarter,2017 Q1,K04000001,,,Constrained city dwellers,,Prevalence rate,,Criminal damage,,All households
+2.887165495,0.511299753,1346,Quarter,2017 Q1,K04000001,,,Cosmopolitans,,Prevalence rate,,Criminal damage,,All households
+2.0075105630000003,0.315669767,1867,Quarter,2017 Q1,K04000001,,,Ethnicity central,,Prevalence rate,,Criminal damage,,All households
+4.760699874,0.291158547,6805,Quarter,2017 Q1,K04000001,,,Hard-pressed living,,Prevalence rate,,Criminal damage,,All households
+4.2942942760000005,0.31153817899999997,4183,Quarter,2017 Q1,K04000001,,,Multicultural metropolitans,,Prevalence rate,,Criminal damage,,All households
+1.663323535,0.18986857199999999,4500,Quarter,2017 Q1,K04000001,,,Rural residents,,Prevalence rate,,Criminal damage,,All households
+2.523344684,0.193984994,7580,Quarter,2017 Q1,K04000001,,,Suburbanites,,Prevalence rate,,Criminal damage,,All households
+3.853212974,0.258214032,6606,Quarter,2017 Q1,K04000001,,,Urbanites,,Prevalence rate,,Criminal damage,,All households

@@ -1,7 +1,7 @@
 V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geography,Structure of household_codelist,Structure of household,Measurement Type_codelist,Measurement Type,Crime Type_codelist,Crime Type,Household Type_codelist,Household Type
-6.967212641000001,1.390152539,7632,Quarter,2017 Q1,K04000001,,,Children,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+6.9672126410000015,1.390152539,7632,Quarter,2017 Q1,K04000001,,,Children,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 16.38694717,5.233723808,1769,Quarter,2017 Q1,K04000001,,,Lone parent,,Incidence rate,,Domestic burglary with entry and no loss,,All households
-5.270137999999999,0.656551191,25933,Quarter,2017 Q1,K04000001,,,No children,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+5.270137999999998,0.656551191,25933,Quarter,2017 Q1,K04000001,,,No children,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 12.17072803,1.621140939,7632,Quarter,2017 Q1,K04000001,,,Children,,Incidence rate,,Domestic burglary with entry and loss,,All households
 23.41738796,4.939717334,1769,Quarter,2017 Q1,K04000001,,,Lone parent,,Incidence rate,,Domestic burglary with entry and loss,,All households
 10.22257883,0.837322917,25933,Quarter,2017 Q1,K04000001,,,No children,,Incidence rate,,Domestic burglary with entry and loss,,All households
@@ -104,9 +104,9 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 191.3865011,7.1808000960000005,7632,Quarter,2017 Q1,K04000001,,,Children,,Incidence rate,,All household crime,,All households
 239.39192290000003,18.55606551,1769,Quarter,2017 Q1,K04000001,,,Lone parent,,Incidence rate,,All household crime,,All households
 122.04912549999999,3.110497283,25933,Quarter,2017 Q1,K04000001,,,No children,,Incidence rate,,All household crime,,All households
-61.87562469,4.368995931000001,7632,Quarter,2017 Q1,K04000001,,,Children,,Incidence rate,,Criminal damage  ,,All households
-67.75976686,9.802833482,1769,Quarter,2017 Q1,K04000001,,,Lone parent,,Incidence rate,,Criminal damage  ,,All households
-42.49450203,1.778092684,25933,Quarter,2017 Q1,K04000001,,,No children,,Incidence rate,,Criminal damage  ,,All households
+61.87562469,4.3689959310000015,7632,Quarter,2017 Q1,K04000001,,,Children,,Incidence rate,,Criminal damage,,All households
+67.75976686,9.802833482,1769,Quarter,2017 Q1,K04000001,,,Lone parent,,Incidence rate,,Criminal damage,,All households
+42.49450203,1.778092684,25933,Quarter,2017 Q1,K04000001,,,No children,,Incidence rate,,Criminal damage,,All households
 0.53416065,0.089607496,7632,Quarter,2017 Q1,K04000001,,,Children,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 1.132550204,0.338221039,1769,Quarter,2017 Q1,K04000001,,,Lone parent,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.431082071,0.046465014000000006,25933,Quarter,2017 Q1,K04000001,,,No children,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
@@ -175,11 +175,11 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.12030818300000001,0.021858153999999998,25933,Quarter,2017 Q1,K04000001,,,No children,,Prevalence rate,,Attempted burglary in building other than dwelling,,All households
 0.7027759109999999,0.09880173699999999,7632,Quarter,2017 Q1,K04000001,,,Children,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
 0.5941780839999999,0.271377016,1769,Quarter,2017 Q1,K04000001,,,Lone parent,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
-0.46118918700000006,0.042476933,25933,Quarter,2017 Q1,K04000001,,,No children,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
+0.4611891870000001,0.042476933,25933,Quarter,2017 Q1,K04000001,,,No children,,Prevalence rate,,Burglary in building other than dwelling with entry,,All households
 0.968768978,0.11473654,7632,Quarter,2017 Q1,K04000001,,,Children,,Prevalence rate,,Arson and other criminal damage,,All households
 1.7221270969999998,0.322463922,1769,Quarter,2017 Q1,K04000001,,,Lone parent,,Prevalence rate,,Arson and other criminal damage,,All households
 1.033903936,0.066001785,25933,Quarter,2017 Q1,K04000001,,,No children,,Prevalence rate,,Arson and other criminal damage,,All households
-3.446628745,0.22608069100000003,7632,Quarter,2017 Q1,K04000001,,,Children,,Prevalence rate,,Criminal damage to a vehicle,,All households
+3.446628745,0.2260806910000001,7632,Quarter,2017 Q1,K04000001,,,Children,,Prevalence rate,,Criminal damage to a vehicle,,All households
 2.8559712719999997,0.415315859,1769,Quarter,2017 Q1,K04000001,,,Lone parent,,Prevalence rate,,Criminal damage to a vehicle,,All households
 2.174658712,0.09350841900000001,25933,Quarter,2017 Q1,K04000001,,,No children,,Prevalence rate,,Criminal damage to a vehicle,,All households
 3.800436978,0.24873573399999999,6994,Quarter,2017 Q1,K04000001,,,Children,,Prevalence rate,,Criminal damage to a vehicle,,Vehicle-owning households
@@ -212,6 +212,6 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 13.698426000000001,0.430170747,7632,Quarter,2017 Q1,K04000001,,,Children,,Prevalence rate,,All household crime,,All households
 14.90120966,0.907761453,1769,Quarter,2017 Q1,K04000001,,,Lone parent,,Prevalence rate,,All household crime,,All households
 9.136345057,0.19936642100000002,25933,Quarter,2017 Q1,K04000001,,,No children,,Prevalence rate,,All household crime,,All households
-4.328827265,0.254128395,7632,Quarter,2017 Q1,K04000001,,,Children,,Prevalence rate,,Criminal damage  ,,All households
-4.466177194,0.51465792,1769,Quarter,2017 Q1,K04000001,,,Lone parent,,Prevalence rate,,Criminal damage  ,,All households
-3.148800385,0.114804992,25933,Quarter,2017 Q1,K04000001,,,No children,,Prevalence rate,,Criminal damage  ,,All households
+4.328827265,0.254128395,7632,Quarter,2017 Q1,K04000001,,,Children,,Prevalence rate,,Criminal damage,,All households
+4.466177194,0.51465792,1769,Quarter,2017 Q1,K04000001,,,Lone parent,,Prevalence rate,,Criminal damage,,All households
+3.148800385,0.114804992,25933,Quarter,2017 Q1,K04000001,,,No children,,Prevalence rate,,Criminal damage,,All households

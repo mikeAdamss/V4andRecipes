@@ -1,6 +1,6 @@
 V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geography,Type of area (urban/rural)_codelist,Type of area (urban/rural),Measurement Type_codelist,Measurement Type,Crime Type_codelist,Crime Type,Household Type_codelist,Household Type
 3.6230544910000004,1.069794559,7468,Quarter,2017 Q1,K04000001,,,Rural,,Incidence rate,,Domestic burglary with entry and no loss,,All households
-6.707180558999999,0.7099661759999999,27866,Quarter,2017 Q1,K04000001,,,Urban,,Incidence rate,,Domestic burglary with entry and no loss,,All households
+6.7071805589999975,0.7099661759999999,27866,Quarter,2017 Q1,K04000001,,,Urban,,Incidence rate,,Domestic burglary with entry and no loss,,All households
 9.317742722,1.615694093,7468,Quarter,2017 Q1,K04000001,,,Rural,,Incidence rate,,Domestic burglary with entry and loss,,All households
 11.68325064,0.8379659909999999,27866,Quarter,2017 Q1,K04000001,,,Urban,,Incidence rate,,Domestic burglary with entry and loss,,All households
 5.270951374,0.9881384959999999,7468,Quarter,2017 Q1,K04000001,,,Rural,,Incidence rate,,Attempted domestic burglary,,All households
@@ -60,7 +60,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 2.814083375,0.68836126,7468,Quarter,2017 Q1,K04000001,,,Rural,,Incidence rate,,Theft of a motor vehicle,,All households
 2.296357815,0.320273103,27866,Quarter,2017 Q1,K04000001,,,Urban,,Incidence rate,,Theft of a motor vehicle,,All households
 3.108275537,0.760131177,6808,Quarter,2017 Q1,K04000001,,,Rural,,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
-3.0864834639999996,0.43048629200000005,21408,Quarter,2017 Q1,K04000001,,,Urban,,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
+3.0864834639999996,0.4304862920000001,21408,Quarter,2017 Q1,K04000001,,,Urban,,Incidence rate,,Theft of a motor vehicle,,Vehicle-owning households
 2.782630759,0.86398782,7468,Quarter,2017 Q1,K04000001,,,Rural,,Incidence rate,,Theft from a dwelling and meter,,All households
 2.835475888,0.440441354,27866,Quarter,2017 Q1,K04000001,,,Urban,,Incidence rate,,Theft from a dwelling and meter,,All households
 64.46587391,3.796823823,7468,Quarter,2017 Q1,K04000001,,,Rural,,Incidence rate,,All household theft,,All households
@@ -69,8 +69,8 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 21.78667707,1.1550854609999999,27866,Quarter,2017 Q1,K04000001,,,Urban,,Incidence rate,,Theft from outside dwelling,,All households
 97.35119924,5.255724869,7468,Quarter,2017 Q1,K04000001,,,Rural,,Incidence rate,,All household crime,,All households
 152.0218648,3.4649546,27866,Quarter,2017 Q1,K04000001,,,Urban,,Incidence rate,,All household crime,,All households
-32.88532533,3.319444713,7468,Quarter,2017 Q1,K04000001,,,Rural,,Incidence rate,,Criminal damage  ,,All households
-51.023883000000005,1.959771955,27866,Quarter,2017 Q1,K04000001,,,Urban,,Incidence rate,,Criminal damage  ,,All households
+32.88532533,3.319444713,7468,Quarter,2017 Q1,K04000001,,,Rural,,Incidence rate,,Criminal damage,,All households
+51.02388300000001,1.959771955,27866,Quarter,2017 Q1,K04000001,,,Urban,,Incidence rate,,Criminal damage,,All households
 0.24569935399999998,0.058807529000000004,7468,Quarter,2017 Q1,K04000001,,,Rural,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.538413054,0.049559289000000006,27866,Quarter,2017 Q1,K04000001,,,Urban,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.697226913,0.09977084300000001,7468,Quarter,2017 Q1,K04000001,,,Rural,,Prevalence rate,,Domestic burglary with entry and loss,,All households
@@ -134,12 +134,12 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.287683643,0.064581815,6808,Quarter,2017 Q1,K04000001,,,Rural,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
 0.293354785,0.040100126,21408,Quarter,2017 Q1,K04000001,,,Urban,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
 0.19366646899999998,0.053586453,7468,Quarter,2017 Q1,K04000001,,,Rural,,Prevalence rate,,Theft from a dwelling and meter,,All households
-0.22941628100000003,0.033116819,27866,Quarter,2017 Q1,K04000001,,,Urban,,Prevalence rate,,Theft from a dwelling and meter,,All households
+0.2294162810000001,0.033116819,27866,Quarter,2017 Q1,K04000001,,,Urban,,Prevalence rate,,Theft from a dwelling and meter,,All households
 5.248019818,0.275750254,7468,Quarter,2017 Q1,K04000001,,,Rural,,Prevalence rate,,All household theft,,All households
 7.97757193,0.176310064,27866,Quarter,2017 Q1,K04000001,,,Urban,,Prevalence rate,,All household theft,,All households
 1.5527128769999998,0.158829251,7468,Quarter,2017 Q1,K04000001,,,Rural,,Prevalence rate,,Theft from outside dwelling,,All households
 1.821216938,0.083957948,27866,Quarter,2017 Q1,K04000001,,,Urban,,Prevalence rate,,Theft from outside dwelling,,All households
-7.468525591000001,0.34726450600000003,7468,Quarter,2017 Q1,K04000001,,,Rural,,Prevalence rate,,All household crime,,All households
+7.4685255910000015,0.34726450600000003,7468,Quarter,2017 Q1,K04000001,,,Rural,,Prevalence rate,,All household crime,,All households
 11.00453641,0.210849526,27866,Quarter,2017 Q1,K04000001,,,Urban,,Prevalence rate,,All household crime,,All households
-2.44720254,0.198702555,7468,Quarter,2017 Q1,K04000001,,,Rural,,Prevalence rate,,Criminal damage  ,,All households
-3.6806331410000004,0.120709981,27866,Quarter,2017 Q1,K04000001,,,Urban,,Prevalence rate,,Criminal damage  ,,All households
+2.44720254,0.198702555,7468,Quarter,2017 Q1,K04000001,,,Rural,,Prevalence rate,,Criminal damage,,All households
+3.6806331410000004,0.120709981,27866,Quarter,2017 Q1,K04000001,,,Urban,,Prevalence rate,,Criminal damage,,All households

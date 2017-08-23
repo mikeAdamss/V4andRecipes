@@ -4,7 +4,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 12.98501772,1.252719998,14153,Quarter,2017 Q1,K04000001,,,Female,,Incidence rate,,Domestic burglary with entry and loss,,All households
 10.10026901,0.9256531159999999,21181,Quarter,2017 Q1,K04000001,,,Male,,Incidence rate,,Domestic burglary with entry and loss,,All households
 11.59368755,1.104145315,14153,Quarter,2017 Q1,K04000001,,,Female,,Incidence rate,,Attempted domestic burglary,,All households
-7.389797601000001,0.750404746,21181,Quarter,2017 Q1,K04000001,,,Male,,Incidence rate,,Attempted domestic burglary,,All households
+7.3897976010000015,0.750404746,21181,Quarter,2017 Q1,K04000001,,,Male,,Incidence rate,,Attempted domestic burglary,,All households
 20.43116621,1.747284003,14153,Quarter,2017 Q1,K04000001,,,Female,,Incidence rate,,Domestic burglary with entry,,All households
 15.38901995,1.1429477479999999,21181,Quarter,2017 Q1,K04000001,,,Male,,Incidence rate,,Domestic burglary with entry,,All households
 32.02485376,2.085413426,14153,Quarter,2017 Q1,K04000001,,,Female,,Incidence rate,,Domestic burglary,,All households
@@ -69,8 +69,8 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 18.10435556,1.070536985,21181,Quarter,2017 Q1,K04000001,,,Male,,Incidence rate,,Theft from outside dwelling,,All households
 152.3991441,5.021443121,14153,Quarter,2017 Q1,K04000001,,,Female,,Incidence rate,,All household crime,,All households
 135.4471359,3.59176915,21181,Quarter,2017 Q1,K04000001,,,Male,,Incidence rate,,All household crime,,All households
-48.26456562,2.646388521,14153,Quarter,2017 Q1,K04000001,,,Female,,Incidence rate,,Criminal damage  ,,All households
-47.46761558,2.210817462,21181,Quarter,2017 Q1,K04000001,,,Male,,Incidence rate,,Criminal damage  ,,All households
+48.26456562,2.646388521,14153,Quarter,2017 Q1,K04000001,,,Female,,Incidence rate,,Criminal damage,,All households
+47.46761558,2.210817462,21181,Quarter,2017 Q1,K04000001,,,Male,,Incidence rate,,Criminal damage,,All households
 0.521969424,0.065266453,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 0.46210618200000003,0.055270828,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Domestic burglary with entry and no loss,,All households
 1.032306043,0.08692203400000001,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Domestic burglary with entry and loss,,All households
@@ -90,7 +90,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 3.8352195019999997,0.204791143,9944,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
 3.46730964,0.146499178,18272,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,All vehicle-related thefts,,Vehicle-owning households
 0.410026344,0.055633062999999996,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Attempted theft of and from vehicles,,All households
-0.6188479889999999,0.058386572000000005,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Attempted theft of and from vehicles,,All households
+0.6188479889999999,0.05838657200000001,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Attempted theft of and from vehicles,,All households
 0.607511067,0.082395013,9944,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
 0.737867548,0.069620631,18272,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Attempted theft of and from vehicles,,Vehicle-owning households
 1.0564987670000001,0.09290984599999999,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Bicycle theft,,All households
@@ -101,7 +101,7 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.18503265,0.035487705,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Burglary in building other than dwelling with entry and no loss,,All households
 0.422208054,0.05380304599999999,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
 0.33943994299999997,0.040390907999999996,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Burglary in building other than dwelling with entry and loss,,All households
-0.426605384,0.059991562000000005,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Burglary in dwelling with no loss,,All households
+0.426605384,0.05999156200000001,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Burglary in dwelling with no loss,,All households
 0.280355497,0.043079242000000004,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Burglary in dwelling with no loss,,All households
 0.8322883040000001,0.07779496799999999,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Attempted burglary in dwelling,,All households
 0.498240568,0.050641729,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Attempted burglary in dwelling,,All households
@@ -135,11 +135,11 @@ V4_2,Standard Error,Unweighted Count,Time_codelist,Time,Geography_codelist,Geogr
 0.25827184,0.039719793999999996,18272,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Theft of a motor vehicle,,Vehicle-owning households
 0.343660051,0.057545356,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Theft from a dwelling and meter,,All households
 0.141794175,0.027138042,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Theft from a dwelling and meter,,All households
-7.905992157000001,0.24814369100000003,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,All household theft,,All households
+7.905992157000001,0.2481436910000001,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,All household theft,,All households
 7.210943117999999,0.18998076600000002,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,All household theft,,All households
 1.999446312,0.124006949,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Theft from outside dwelling,,All households
 1.621013615,0.092170121,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Theft from outside dwelling,,All households
 10.76758385,0.288265073,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,All household crime,,All households
 10.10854704,0.228411027,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,All household crime,,All households
-3.4398442989999998,0.161837875,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Criminal damage  ,,All households
-3.4746075430000003,0.135781962,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Criminal damage  ,,All households
+3.4398442989999998,0.161837875,14153,Quarter,2017 Q1,K04000001,,,Female,,Prevalence rate,,Criminal damage,,All households
+3.4746075430000003,0.135781962,21181,Quarter,2017 Q1,K04000001,,,Male,,Prevalence rate,,Criminal damage,,All households
