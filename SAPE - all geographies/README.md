@@ -29,7 +29,7 @@ The number of rows that will trigger an output. Reguires an Integer.
 
 ## IMPORTANT
 
-The chunkcutoff is checked every time a chunk is finished programming. Whenever output is required a csv with be written with incrementing file numbers appended - file1, file2, file3, file4 etc - then processing will continue..
+The chunkcutoff is checked every time a chunk is finished processing. Whenever output is required a csv with be written with incrementing file numbers appended - file1, file2, file3, file4 etc - then processing will continue..
 
 You typically need to supply BOTH the arguments to effectively control processing resource. 
 
