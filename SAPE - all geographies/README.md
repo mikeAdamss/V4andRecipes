@@ -29,11 +29,14 @@ The number of rows that will trigger an output. Reguires an Integer.
 
 ## IMPORTANT
 
-The chunkcutoff is checked every time a chunk is finished processing. Whenever output is required a csv with be written with incrementing file numbers appended - file1, file2, file3, file4 etc - then processing will continue..
+The chunkcutoff is checked every time a chunk is finished processing. Whenever an output is required (whenever the current row numbers exceed the cut off) a csv with be written with a suitable file number appended - file1 then file2, file3, file4 etc - then processing will continue.
 
 You typically need to supply BOTH the arguments to effectively control processing resource. 
 
 For example if you specify procssing in chunks of 100000 bytes but dont set a chunkcutoff it may be self defeating - all those chunks you're carefully processing will be adding to a giant not-yet-output file in memmory.
+
+
+By default both optional arugmnts are set to 99999999999
 
 
 
