@@ -1,4 +1,4 @@
-note - only PCON and CCS so far. Plenty to come.
+note - only PCON and CCG so far. Plenty to come.
 
 
 # SAPE 'recipe'
