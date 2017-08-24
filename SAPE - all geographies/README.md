@@ -14,7 +14,7 @@ Give the large (50?!) input files in some cases the script is set to pull in all
 
 ```python SAPE.py <Output Name>```
 
-"Output Name" in this case is typically the geographical hierarchy, so PCON, CCS etc.
+"Output Name" in this case is typically the geographical hierarchy, so PCON, CCG etc.
 
 
 # Dealing with large data sources
