@@ -1,13 +1,18 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 24 10:48:37 2017
+SAPE - instructions
 
-@author: Mike
+usage:
+python SAPE.py <Output Name>
 
+arguments:
+You can pass one or both of two possible arguments at the command line as shonw below, this is to
+help deal with the large file sizes that can occur with SAPE data.
+    
+python SAPE.py <Output Name> chunksize=11111 chunkcutoff=11111 
 
-SAPE script. 
-
-These files get rather large so script is set to read (and check) the file in chunks.
+chunksize: control the size (in bytes) of the file "chunk" imbibed at a time.
+chunkcutoff: the number of rows you want to output after processing (checked after each chunk processed).
 
 """
 
