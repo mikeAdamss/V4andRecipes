@@ -4,7 +4,7 @@ Consist of one script that should work for any combination of SAPE source files.
 
 ## Inputs
 
-Give the large (50?!) input files in some cases the script is set to pull in ak=ll csvs in its current directory when run. So put your source files in a directory, copy in this file and run.
+Give the large (50?!) input files in some cases the script is set to pull in all csvs in its current directory when run. So put your source files in a directory, copy in this file and run.
 
 
 # Usage
@@ -29,9 +29,11 @@ The number of rows that will trigger an output. Reguires an Integer.
 
 ## IMPORTANT
 
-The chunkcutoff is checked every time a chunk is finished programming. If output is required a csv with be written with incrementing file numbers appended. - file1, file2, file3, file4 etc.
+The chunkcutoff is checked every time a chunk is finished programming. Whenever output is required a csv with be written with incrementing file numbers appended - file1, file2, file3, file4 etc - then processing will continue..
 
-You typically need to supply BOTH the arguments to effectively control processing resource. For example if you specify procssing in chunks of 100000 bytes but dont set a chunkcutoff for maximum rows per file it may be self defeating - all those chunks will be adding to a giant not-yet-output file in memory (if you cant process the file without arguments and do this the likely result is the same fail ..but it'll just tkae longer).
+You typically need to supply BOTH the arguments to effectively control processing resource. 
+
+For example if you specify procssing in chunks of 100000 bytes but dont set a chunkcutoff it may be self defeating - all those chunks you're carefully processing will be adding to a giant not-yet-output file in memmory.
 
 
 
