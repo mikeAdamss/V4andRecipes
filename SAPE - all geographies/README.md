@@ -39,7 +39,7 @@ You typically need to supply BOTH the arguments to effectively control processin
 For example if you specify procssing in chunks of 100000 bytes but dont set a chunkcutoff it may be self defeating - all those chunks you're carefully processing will be adding to a giant not-yet-output file in memmory.
 
 
-By default both optional arugmnts are set to 99999999999
+By default both optional arguments are set to 99999999999
 
 
 
