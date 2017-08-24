@@ -1,3 +1,6 @@
+note - only PCON and CCS so far. Plenty to come.
+
+
 # SAPE 'recipe'
 
 Consist of one script that should work for any combination of SAPE source files.
