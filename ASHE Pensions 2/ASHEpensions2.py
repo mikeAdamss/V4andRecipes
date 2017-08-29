@@ -62,6 +62,7 @@ for i in range(0, 2):
         # Convet to dataframe
         conversionsegment = ConversionSegment(tab, dimensions, obs).topandas()
         conversionsegment['Earnings'] = conversionsegment['Earnings'].map(lambda x: x.strip())
+        conversionsegment['Provision'] = conversionsegment['Provision'].map(lambda x: x.replace('No pension provisiond', 'No pension provision'))
         # now we just need the CV values from the other file .........
 
 
