@@ -4,7 +4,7 @@ Takes 2 input file (one of data points, one of Cv values for those data points).
 
 # usage
 
-```python ASHEpensions2 <values.xls> <CV.xls>```
+```python ASHEpensions3 <values.xls> <CV.xls>```
 
 
 ## details
