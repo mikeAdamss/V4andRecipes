@@ -1,0 +1,1513 @@
+V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_codelist,Age Group,Earnings_codelist,Earnings,Gender_codelist,Gender,Pension Type_codelist,Pension Type
+28.8,,0.3,Year,2016,K02000001,,,All employees,,Total,,All,,Defined benefit
+18.7,,0.5,Year,2016,K02000001,,,All employees,,Total,,All,,Defined contribution
+13.9,,0.6,Year,2016,K02000001,,,All employees,,Total,,All,,Group personal pension
+0.6,,3.2,Year,2016,K02000001,,,All employees,,Total,,All,,Group self-invested personal pension
+4.4,,1.1,Year,2016,K02000001,,,All employees,,Total,,All,,Group stakeholder pension
+1.3,,2.2,Year,2016,K02000001,,,All employees,,Total,,All,,Unknown pension provision
+32.4,,0.3,Year,2016,K02000001,,,All employees,,Total,,All,,No pension provisiond
+11.7,,2.3,Year,2016,K02000001,,,All employees,,Less than £100,,All,,Defined benefit
+7.1,,3.1,Year,2016,K02000001,,,All employees,,Less than £100,,All,,Defined contribution
+2.0,,6.2,Year,2016,K02000001,,,All employees,,Less than £100,,All,,Group personal pension
+,x,27.0,Year,2016,K02000001,,,All employees,,Less than £100,,All,,Group self-invested personal pension
+0.8,,9.5,Year,2016,K02000001,,,All employees,,Less than £100,,All,,Group stakeholder pension
+0.3,,17.0,Year,2016,K02000001,,,All employees,,Less than £100,,All,,Unknown pension provision
+78.0,,0.5,Year,2016,K02000001,,,All employees,,Less than £100,,All,,No pension provisiond
+16.0,,1.5,Year,2016,K02000001,,,All employees,,£100 - £200,,All,,Defined benefit
+13.8,,1.6,Year,2016,K02000001,,,All employees,,£100 - £200,,All,,Defined contribution
+4.6,,3.1,Year,2016,K02000001,,,All employees,,£100 - £200,,All,,Group personal pension
+0.3,,14.0,Year,2016,K02000001,,,All employees,,£100 - £200,,All,,Group self-invested personal pension
+2.5,,3.9,Year,2016,K02000001,,,All employees,,£100 - £200,,All,,Group stakeholder pension
+0.6,,8.4,Year,2016,K02000001,,,All employees,,£100 - £200,,All,,Unknown pension provision
+62.2,,0.5,Year,2016,K02000001,,,All employees,,£100 - £200,,All,,No pension provisiond
+22.2,,1.2,Year,2016,K02000001,,,All employees,,£200 - £300,,All,,Defined benefit
+22.3,,1.1,Year,2016,K02000001,,,All employees,,£200 - £300,,All,,Defined contribution
+9.2,,2.0,Year,2016,K02000001,,,All employees,,£200 - £300,,All,,Group personal pension
+0.3,,12.0,Year,2016,K02000001,,,All employees,,£200 - £300,,All,,Group self-invested personal pension
+3.8,,3.0,Year,2016,K02000001,,,All employees,,£200 - £300,,All,,Group stakeholder pension
+1.3,,5.6,Year,2016,K02000001,,,All employees,,£200 - £300,,All,,Unknown pension provision
+40.9,,0.8,Year,2016,K02000001,,,All employees,,£200 - £300,,All,,No pension provisiond
+24.3,,1.0,Year,2016,K02000001,,,All employees,,£300 - £400,,All,,Defined benefit
+22.8,,1.1,Year,2016,K02000001,,,All employees,,£300 - £400,,All,,Defined contribution
+14.7,,1.4,Year,2016,K02000001,,,All employees,,£300 - £400,,All,,Group personal pension
+0.4,,8.7,Year,2016,K02000001,,,All employees,,£300 - £400,,All,,Group self-invested personal pension
+4.8,,2.5,Year,2016,K02000001,,,All employees,,£300 - £400,,All,,Group stakeholder pension
+1.6,,4.5,Year,2016,K02000001,,,All employees,,£300 - £400,,All,,Unknown pension provision
+31.4,,0.9,Year,2016,K02000001,,,All employees,,£300 - £400,,All,,No pension provisiond
+29.9,,1.0,Year,2016,K02000001,,,All employees,,£400 - £500,,All,,Defined benefit
+20.2,,1.3,Year,2016,K02000001,,,All employees,,£400 - £500,,All,,Defined contribution
+16.7,,1.5,Year,2016,K02000001,,,All employees,,£400 - £500,,All,,Group personal pension
+0.7,,8.1,Year,2016,K02000001,,,All employees,,£400 - £500,,All,,Group self-invested personal pension
+5.1,,2.8,Year,2016,K02000001,,,All employees,,£400 - £500,,All,,Group stakeholder pension
+1.6,,5.2,Year,2016,K02000001,,,All employees,,£400 - £500,,All,,Unknown pension provision
+25.9,,1.1,Year,2016,K02000001,,,All employees,,£400 - £500,,All,,No pension provisiond
+33.9,,1.1,Year,2016,K02000001,,,All employees,,£500 - £600,,All,,Defined benefit
+19.5,,1.5,Year,2016,K02000001,,,All employees,,£500 - £600,,All,,Defined contribution
+17.4,,1.7,Year,2016,K02000001,,,All employees,,£500 - £600,,All,,Group personal pension
+0.7,,9.1,Year,2016,K02000001,,,All employees,,£500 - £600,,All,,Group self-invested personal pension
+5.4,,3.2,Year,2016,K02000001,,,All employees,,£500 - £600,,All,,Group stakeholder pension
+1.5,,6.4,Year,2016,K02000001,,,All employees,,£500 - £600,,All,,Unknown pension provision
+21.7,,1.5,Year,2016,K02000001,,,All employees,,£500 - £600,,All,,No pension provisiond
+40.4,,0.6,Year,2016,K02000001,,,All employees,,£600 and over,,All,,Defined benefit
+18.5,,1.0,Year,2016,K02000001,,,All employees,,£600 and over,,All,,Defined contribution
+19.4,,1.0,Year,2016,K02000001,,,All employees,,£600 and over,,All,,Group personal pension
+1.0,,4.7,Year,2016,K02000001,,,All employees,,£600 and over,,All,,Group self-invested personal pension
+5.3,,2.0,Year,2016,K02000001,,,All employees,,£600 and over,,All,,Group stakeholder pension
+1.3,,4.2,Year,2016,K02000001,,,All employees,,£600 and over,,All,,Unknown pension provision
+14.1,,1.2,Year,2016,K02000001,,,All employees,,£600 and over,,All,,No pension provisiond
+5.2,,4.1,Year,2016,K02000001,,,16 - 21,,Total,,All,,Defined benefit
+7.9,,3.1,Year,2016,K02000001,,,16 - 21,,Total,,All,,Defined contribution
+3.4,,5.4,Year,2016,K02000001,,,16 - 21,,Total,,All,,Group personal pension
+,x,23.0,Year,2016,K02000001,,,16 - 21,,Total,,All,,Group self-invested personal pension
+1.1,,9.4,Year,2016,K02000001,,,16 - 21,,Total,,All,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,16 - 21,,Total,,All,,Unknown pension provision
+82.1,,0.4,Year,2016,K02000001,,,16 - 21,,Total,,All,,No pension provisiond
+2.4,,9.9,Year,2016,K02000001,,,16 - 21,,Less than £100,,All,,Defined benefit
+6.3,,5.8,Year,2016,K02000001,,,16 - 21,,Less than £100,,All,,Defined contribution
+1.2,,14.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,All,,Group personal pension
+,x,45.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,All,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,All,,Group stakeholder pension
+,x,58.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,All,,Unknown pension provision
+89.7,,0.5,Year,2016,K02000001,,,16 - 21,,Less than £100,,All,,No pension provisiond
+3.9,,9.2,Year,2016,K02000001,,,16 - 21,,£100 - £200,,All,,Defined benefit
+7.4,,6.1,Year,2016,K02000001,,,16 - 21,,£100 - £200,,All,,Defined contribution
+1.6,,15.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,All,,Group personal pension
+,x,41.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,All,,Group self-invested personal pension
+,x,22.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,All,,Group stakeholder pension
+,x,45.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,All,,Unknown pension provision
+86.2,,0.7,Year,2016,K02000001,,,16 - 21,,£100 - £200,,All,,No pension provisiond
+5.6,,8.3,Year,2016,K02000001,,,16 - 21,,£200 - £300,,All,,Defined benefit
+8.0,,6.9,Year,2016,K02000001,,,16 - 21,,£200 - £300,,All,,Defined contribution
+4.4,,11.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,All,,Group personal pension
+,x,57.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,All,,Group self-invested personal pension
+1.5,,18.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,All,,Group stakeholder pension
+,x,39.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,All,,Unknown pension provision
+80.1,,1.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,All,,No pension provisiond
+9.1,,8.7,Year,2016,K02000001,,,16 - 21,,£300 - £400,,All,,Defined benefit
+10.3,,7.8,Year,2016,K02000001,,,16 - 21,,£300 - £400,,All,,Defined contribution
+8.3,,9.1,Year,2016,K02000001,,,16 - 21,,£300 - £400,,All,,Group personal pension
+,x,58.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,All,,Group self-invested personal pension
+2.1,,18.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,All,,Group stakeholder pension
+,x,51.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,All,,Unknown pension provision
+69.8,,1.8,Year,2016,K02000001,,,16 - 21,,£300 - £400,,All,,No pension provisiond
+12.3,,12.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,All,,Defined benefit
+10.3,,14.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,All,,Defined contribution
+7.9,,18.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,All,,Group personal pension
+,x,51.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,All,,Group self-invested personal pension
+,x,26.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,All,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,16 - 21,,£400 - £500,,All,,Unknown pension provision
+65.5,,3.5,Year,2016,K02000001,,,16 - 21,,£400 - £500,,All,,No pension provisiond
+21.2,,18.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,All,,Defined benefit
+,x,22.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,All,,Defined contribution
+,x,37.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,All,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,All,,Group self-invested personal pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,All,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,All,,Unknown pension provision
+57.5,,7.9,Year,2016,K02000001,,,16 - 21,,£500 - £600,,All,,No pension provisiond
+,x,24.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,All,,Defined benefit
+,x,23.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,All,,Defined contribution
+,x,36.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,All,,Group personal pension
+,x,96.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,All,,Group self-invested personal pension
+,x,39.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,All,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,All,,Unknown pension provision
+65.7,,6.3,Year,2016,K02000001,,,16 - 21,,£600 and over,,All,,No pension provisiond
+19.5,,1.1,Year,2016,K02000001,,,22 - 29,,Total,,All,,Defined benefit
+24.1,,1.0,Year,2016,K02000001,,,22 - 29,,Total,,All,,Defined contribution
+15.8,,1.3,Year,2016,K02000001,,,22 - 29,,Total,,All,,Group personal pension
+0.6,,7.9,Year,2016,K02000001,,,22 - 29,,Total,,All,,Group self-invested personal pension
+4.6,,2.6,Year,2016,K02000001,,,22 - 29,,Total,,All,,Group stakeholder pension
+1.5,,4.7,Year,2016,K02000001,,,22 - 29,,Total,,All,,Unknown pension provision
+33.9,,0.8,Year,2016,K02000001,,,22 - 29,,Total,,All,,No pension provisiond
+10.4,,7.1,Year,2016,K02000001,,,22 - 29,,Less than £100,,All,,Defined benefit
+10.1,,6.8,Year,2016,K02000001,,,22 - 29,,Less than £100,,All,,Defined contribution
+2.4,,15.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,All,,Group personal pension
+,x,59.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,All,,Group self-invested personal pension
+,x,27.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,All,,Group stakeholder pension
+,x,45.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,All,,Unknown pension provision
+76.0,,1.3,Year,2016,K02000001,,,22 - 29,,Less than £100,,All,,No pension provisiond
+10.0,,4.9,Year,2016,K02000001,,,22 - 29,,£100 - £200,,All,,Defined benefit
+21.0,,3.0,Year,2016,K02000001,,,22 - 29,,£100 - £200,,All,,Defined contribution
+6.1,,6.4,Year,2016,K02000001,,,22 - 29,,£100 - £200,,All,,Group personal pension
+,x,39.0,Year,2016,K02000001,,,22 - 29,,£100 - £200,,All,,Group self-invested personal pension
+2.9,,8.9,Year,2016,K02000001,,,22 - 29,,£100 - £200,,All,,Group stakeholder pension
+0.8,,18.0,Year,2016,K02000001,,,22 - 29,,£100 - £200,,All,,Unknown pension provision
+58.9,,1.3,Year,2016,K02000001,,,22 - 29,,£100 - £200,,All,,No pension provisiond
+13.5,,3.5,Year,2016,K02000001,,,22 - 29,,£200 - £300,,All,,Defined benefit
+30.6,,2.0,Year,2016,K02000001,,,22 - 29,,£200 - £300,,All,,Defined contribution
+11.4,,3.9,Year,2016,K02000001,,,22 - 29,,£200 - £300,,All,,Group personal pension
+,x,25.0,Year,2016,K02000001,,,22 - 29,,£200 - £300,,All,,Group self-invested personal pension
+3.9,,6.5,Year,2016,K02000001,,,22 - 29,,£200 - £300,,All,,Group stakeholder pension
+1.7,,11.0,Year,2016,K02000001,,,22 - 29,,£200 - £300,,All,,Unknown pension provision
+38.6,,1.8,Year,2016,K02000001,,,22 - 29,,£200 - £300,,All,,No pension provisiond
+14.4,,2.8,Year,2016,K02000001,,,22 - 29,,£300 - £400,,All,,Defined benefit
+28.0,,1.9,Year,2016,K02000001,,,22 - 29,,£300 - £400,,All,,Defined contribution
+17.4,,2.6,Year,2016,K02000001,,,22 - 29,,£300 - £400,,All,,Group personal pension
+0.5,,17.0,Year,2016,K02000001,,,22 - 29,,£300 - £400,,All,,Group self-invested personal pension
+4.9,,5.0,Year,2016,K02000001,,,22 - 29,,£300 - £400,,All,,Group stakeholder pension
+1.8,,8.7,Year,2016,K02000001,,,22 - 29,,£300 - £400,,All,,Unknown pension provision
+33.2,,1.7,Year,2016,K02000001,,,22 - 29,,£300 - £400,,All,,No pension provisiond
+22.4,,2.5,Year,2016,K02000001,,,22 - 29,,£400 - £500,,All,,Defined benefit
+22.8,,2.4,Year,2016,K02000001,,,22 - 29,,£400 - £500,,All,,Defined contribution
+18.8,,2.8,Year,2016,K02000001,,,22 - 29,,£400 - £500,,All,,Group personal pension
+0.7,,17.0,Year,2016,K02000001,,,22 - 29,,£400 - £500,,All,,Group self-invested personal pension
+5.7,,5.5,Year,2016,K02000001,,,22 - 29,,£400 - £500,,All,,Group stakeholder pension
+1.7,,11.0,Year,2016,K02000001,,,22 - 29,,£400 - £500,,All,,Unknown pension provision
+27.9,,2.2,Year,2016,K02000001,,,22 - 29,,£400 - £500,,All,,No pension provisiond
+31.4,,2.5,Year,2016,K02000001,,,22 - 29,,£500 - £600,,All,,Defined benefit
+20.0,,3.3,Year,2016,K02000001,,,22 - 29,,£500 - £600,,All,,Defined contribution
+19.5,,3.5,Year,2016,K02000001,,,22 - 29,,£500 - £600,,All,,Group personal pension
+0.8,,19.0,Year,2016,K02000001,,,22 - 29,,£500 - £600,,All,,Group self-invested personal pension
+5.1,,7.4,Year,2016,K02000001,,,22 - 29,,£500 - £600,,All,,Group stakeholder pension
+1.7,,13.0,Year,2016,K02000001,,,22 - 29,,£500 - £600,,All,,Unknown pension provision
+21.6,,3.3,Year,2016,K02000001,,,22 - 29,,£500 - £600,,All,,No pension provisiond
+28.3,,2.4,Year,2016,K02000001,,,22 - 29,,£600 and over,,All,,Defined benefit
+23.4,,2.7,Year,2016,K02000001,,,22 - 29,,£600 and over,,All,,Defined contribution
+21.7,,2.9,Year,2016,K02000001,,,22 - 29,,£600 and over,,All,,Group personal pension
+0.9,,17.0,Year,2016,K02000001,,,22 - 29,,£600 and over,,All,,Group self-invested personal pension
+5.7,,6.1,Year,2016,K02000001,,,22 - 29,,£600 and over,,All,,Group stakeholder pension
+1.4,,13.0,Year,2016,K02000001,,,22 - 29,,£600 and over,,All,,Unknown pension provision
+18.7,,3.2,Year,2016,K02000001,,,22 - 29,,£600 and over,,All,,No pension provisiond
+28.2,,0.8,Year,2016,K02000001,,,30 - 39,,Total,,All,,Defined benefit
+21.1,,1.0,Year,2016,K02000001,,,30 - 39,,Total,,All,,Defined contribution
+16.4,,1.2,Year,2016,K02000001,,,30 - 39,,Total,,All,,Group personal pension
+0.7,,6.4,Year,2016,K02000001,,,30 - 39,,Total,,All,,Group self-invested personal pension
+5.1,,2.2,Year,2016,K02000001,,,30 - 39,,Total,,All,,Group stakeholder pension
+1.4,,4.4,Year,2016,K02000001,,,30 - 39,,Total,,All,,Unknown pension provision
+27.3,,0.8,Year,2016,K02000001,,,30 - 39,,Total,,All,,No pension provisiond
+17.9,,5.3,Year,2016,K02000001,,,30 - 39,,Less than £100,,All,,Defined benefit
+9.3,,7.8,Year,2016,K02000001,,,30 - 39,,Less than £100,,All,,Defined contribution
+3.4,,14.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,All,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,All,,Group self-invested personal pension
+,x,24.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,All,,Group stakeholder pension
+,x,38.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,All,,Unknown pension provision
+67.8,,1.7,Year,2016,K02000001,,,30 - 39,,Less than £100,,All,,No pension provisiond
+18.4,,3.1,Year,2016,K02000001,,,30 - 39,,£100 - £200,,All,,Defined benefit
+15.4,,3.4,Year,2016,K02000001,,,30 - 39,,£100 - £200,,All,,Defined contribution
+6.7,,5.6,Year,2016,K02000001,,,30 - 39,,£100 - £200,,All,,Group personal pension
+,x,27.0,Year,2016,K02000001,,,30 - 39,,£100 - £200,,All,,Group self-invested personal pension
+3.2,,7.8,Year,2016,K02000001,,,30 - 39,,£100 - £200,,All,,Group stakeholder pension
+0.7,,18.0,Year,2016,K02000001,,,30 - 39,,£100 - £200,,All,,Unknown pension provision
+55.3,,1.3,Year,2016,K02000001,,,30 - 39,,£100 - £200,,All,,No pension provisiond
+22.5,,2.7,Year,2016,K02000001,,,30 - 39,,£200 - £300,,All,,Defined benefit
+25.8,,2.4,Year,2016,K02000001,,,30 - 39,,£200 - £300,,All,,Defined contribution
+10.0,,4.4,Year,2016,K02000001,,,30 - 39,,£200 - £300,,All,,Group personal pension
+,x,27.0,Year,2016,K02000001,,,30 - 39,,£200 - £300,,All,,Group self-invested personal pension
+4.7,,6.4,Year,2016,K02000001,,,30 - 39,,£200 - £300,,All,,Group stakeholder pension
+1.2,,13.0,Year,2016,K02000001,,,30 - 39,,£200 - £300,,All,,Unknown pension provision
+35.5,,2.0,Year,2016,K02000001,,,30 - 39,,£200 - £300,,All,,No pension provisiond
+22.5,,2.4,Year,2016,K02000001,,,30 - 39,,£300 - £400,,All,,Defined benefit
+25.2,,2.2,Year,2016,K02000001,,,30 - 39,,£300 - £400,,All,,Defined contribution
+15.7,,3.0,Year,2016,K02000001,,,30 - 39,,£300 - £400,,All,,Group personal pension
+0.5,,19.0,Year,2016,K02000001,,,30 - 39,,£300 - £400,,All,,Group self-invested personal pension
+6.1,,5.0,Year,2016,K02000001,,,30 - 39,,£300 - £400,,All,,Group stakeholder pension
+1.8,,9.7,Year,2016,K02000001,,,30 - 39,,£300 - £400,,All,,Unknown pension provision
+28.2,,2.1,Year,2016,K02000001,,,30 - 39,,£300 - £400,,All,,No pension provisiond
+26.2,,2.2,Year,2016,K02000001,,,30 - 39,,£400 - £500,,All,,Defined benefit
+22.8,,2.4,Year,2016,K02000001,,,30 - 39,,£400 - £500,,All,,Defined contribution
+17.8,,2.9,Year,2016,K02000001,,,30 - 39,,£400 - £500,,All,,Group personal pension
+0.6,,17.0,Year,2016,K02000001,,,30 - 39,,£400 - £500,,All,,Group self-invested personal pension
+5.3,,5.6,Year,2016,K02000001,,,30 - 39,,£400 - £500,,All,,Group stakeholder pension
+1.8,,10.0,Year,2016,K02000001,,,30 - 39,,£400 - £500,,All,,Unknown pension provision
+25.6,,2.3,Year,2016,K02000001,,,30 - 39,,£400 - £500,,All,,No pension provisiond
+30.4,,2.2,Year,2016,K02000001,,,30 - 39,,£500 - £600,,All,,Defined benefit
+20.9,,2.9,Year,2016,K02000001,,,30 - 39,,£500 - £600,,All,,Defined contribution
+18.5,,3.2,Year,2016,K02000001,,,30 - 39,,£500 - £600,,All,,Group personal pension
+0.6,,20.0,Year,2016,K02000001,,,30 - 39,,£500 - £600,,All,,Group self-invested personal pension
+5.9,,6.0,Year,2016,K02000001,,,30 - 39,,£500 - £600,,All,,Group stakeholder pension
+1.4,,13.0,Year,2016,K02000001,,,30 - 39,,£500 - £600,,All,,Unknown pension provision
+22.4,,2.8,Year,2016,K02000001,,,30 - 39,,£500 - £600,,All,,No pension provisiond
+35.8,,1.2,Year,2016,K02000001,,,30 - 39,,£600 and over,,All,,Defined benefit
+20.1,,1.8,Year,2016,K02000001,,,30 - 39,,£600 and over,,All,,Defined contribution
+21.2,,1.8,Year,2016,K02000001,,,30 - 39,,£600 and over,,All,,Group personal pension
+1.1,,8.8,Year,2016,K02000001,,,30 - 39,,£600 and over,,All,,Group self-invested personal pension
+5.3,,3.9,Year,2016,K02000001,,,30 - 39,,£600 and over,,All,,Group stakeholder pension
+1.4,,7.9,Year,2016,K02000001,,,30 - 39,,£600 and over,,All,,Unknown pension provision
+15.3,,2.2,Year,2016,K02000001,,,30 - 39,,£600 and over,,All,,No pension provisiond
+35.6,,0.7,Year,2016,K02000001,,,40 - 49,,Total,,All,,Defined benefit
+18.5,,1.0,Year,2016,K02000001,,,40 - 49,,Total,,All,,Defined contribution
+14.7,,1.2,Year,2016,K02000001,,,40 - 49,,Total,,All,,Group personal pension
+0.7,,6.0,Year,2016,K02000001,,,40 - 49,,Total,,All,,Group self-invested personal pension
+4.7,,2.3,Year,2016,K02000001,,,40 - 49,,Total,,All,,Group stakeholder pension
+1.4,,4.3,Year,2016,K02000001,,,40 - 49,,Total,,All,,Unknown pension provision
+24.6,,0.9,Year,2016,K02000001,,,40 - 49,,Total,,All,,No pension provisiond
+23.1,,4.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,All,,Defined benefit
+6.8,,8.3,Year,2016,K02000001,,,40 - 49,,Less than £100,,All,,Defined contribution
+2.5,,14.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,All,,Group personal pension
+,x,58.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,All,,Group self-invested personal pension
+1.6,,18.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,All,,Group stakeholder pension
+,x,36.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,All,,Unknown pension provision
+65.4,,1.6,Year,2016,K02000001,,,40 - 49,,Less than £100,,All,,No pension provisiond
+22.8,,2.8,Year,2016,K02000001,,,40 - 49,,£100 - £200,,All,,Defined benefit
+13.4,,3.7,Year,2016,K02000001,,,40 - 49,,£100 - £200,,All,,Defined contribution
+4.2,,7.3,Year,2016,K02000001,,,40 - 49,,£100 - £200,,All,,Group personal pension
+,x,31.0,Year,2016,K02000001,,,40 - 49,,£100 - £200,,All,,Group self-invested personal pension
+2.4,,9.2,Year,2016,K02000001,,,40 - 49,,£100 - £200,,All,,Group stakeholder pension
+0.8,,17.0,Year,2016,K02000001,,,40 - 49,,£100 - £200,,All,,Unknown pension provision
+56.1,,1.3,Year,2016,K02000001,,,40 - 49,,£100 - £200,,All,,No pension provisiond
+30.4,,2.1,Year,2016,K02000001,,,40 - 49,,£200 - £300,,All,,Defined benefit
+21.4,,2.6,Year,2016,K02000001,,,40 - 49,,£200 - £300,,All,,Defined contribution
+9.6,,4.3,Year,2016,K02000001,,,40 - 49,,£200 - £300,,All,,Group personal pension
+,x,23.0,Year,2016,K02000001,,,40 - 49,,£200 - £300,,All,,Group self-invested personal pension
+4.1,,6.5,Year,2016,K02000001,,,40 - 49,,£200 - £300,,All,,Group stakeholder pension
+1.5,,11.0,Year,2016,K02000001,,,40 - 49,,£200 - £300,,All,,Unknown pension provision
+32.7,,2.0,Year,2016,K02000001,,,40 - 49,,£200 - £300,,All,,No pension provisiond
+31.2,,1.9,Year,2016,K02000001,,,40 - 49,,£300 - £400,,All,,Defined benefit
+22.3,,2.4,Year,2016,K02000001,,,40 - 49,,£300 - £400,,All,,Defined contribution
+13.9,,3.2,Year,2016,K02000001,,,40 - 49,,£300 - £400,,All,,Group personal pension
+,x,22.0,Year,2016,K02000001,,,40 - 49,,£300 - £400,,All,,Group self-invested personal pension
+5.0,,5.5,Year,2016,K02000001,,,40 - 49,,£300 - £400,,All,,Group stakeholder pension
+1.9,,9.2,Year,2016,K02000001,,,40 - 49,,£300 - £400,,All,,Unknown pension provision
+25.5,,2.2,Year,2016,K02000001,,,40 - 49,,£300 - £400,,All,,No pension provisiond
+34.7,,1.9,Year,2016,K02000001,,,40 - 49,,£400 - £500,,All,,Defined benefit
+19.1,,2.8,Year,2016,K02000001,,,40 - 49,,£400 - £500,,All,,Defined contribution
+16.6,,3.1,Year,2016,K02000001,,,40 - 49,,£400 - £500,,All,,Group personal pension
+0.8,,16.0,Year,2016,K02000001,,,40 - 49,,£400 - £500,,All,,Group self-invested personal pension
+4.8,,6.1,Year,2016,K02000001,,,40 - 49,,£400 - £500,,All,,Group stakeholder pension
+1.5,,11.0,Year,2016,K02000001,,,40 - 49,,£400 - £500,,All,,Unknown pension provision
+22.5,,2.6,Year,2016,K02000001,,,40 - 49,,£400 - £500,,All,,No pension provisiond
+34.9,,2.1,Year,2016,K02000001,,,40 - 49,,£500 - £600,,All,,Defined benefit
+20.6,,3.0,Year,2016,K02000001,,,40 - 49,,£500 - £600,,All,,Defined contribution
+16.8,,3.5,Year,2016,K02000001,,,40 - 49,,£500 - £600,,All,,Group personal pension
+0.8,,18.0,Year,2016,K02000001,,,40 - 49,,£500 - £600,,All,,Group self-invested personal pension
+5.1,,6.7,Year,2016,K02000001,,,40 - 49,,£500 - £600,,All,,Group stakeholder pension
+1.6,,13.0,Year,2016,K02000001,,,40 - 49,,£500 - £600,,All,,Unknown pension provision
+20.2,,3.1,Year,2016,K02000001,,,40 - 49,,£500 - £600,,All,,No pension provisiond
+43.4,,1.0,Year,2016,K02000001,,,40 - 49,,£600 and over,,All,,Defined benefit
+18.0,,1.8,Year,2016,K02000001,,,40 - 49,,£600 and over,,All,,Defined contribution
+19.0,,1.8,Year,2016,K02000001,,,40 - 49,,£600 and over,,All,,Group personal pension
+1.1,,8.1,Year,2016,K02000001,,,40 - 49,,£600 and over,,All,,Group self-invested personal pension
+5.4,,3.6,Year,2016,K02000001,,,40 - 49,,£600 and over,,All,,Group stakeholder pension
+1.3,,7.7,Year,2016,K02000001,,,40 - 49,,£600 and over,,All,,Unknown pension provision
+12.0,,2.3,Year,2016,K02000001,,,40 - 49,,£600 and over,,All,,No pension provisiond
+39.5,,0.8,Year,2016,K02000001,,,50 - 54,,Total,,All,,Defined benefit
+17.2,,1.5,Year,2016,K02000001,,,50 - 54,,Total,,All,,Defined contribution
+13.5,,1.8,Year,2016,K02000001,,,50 - 54,,Total,,All,,Group personal pension
+0.6,,9.3,Year,2016,K02000001,,,50 - 54,,Total,,All,,Group self-invested personal pension
+4.5,,3.2,Year,2016,K02000001,,,50 - 54,,Total,,All,,Group stakeholder pension
+1.4,,5.9,Year,2016,K02000001,,,50 - 54,,Total,,All,,Unknown pension provision
+23.3,,1.2,Year,2016,K02000001,,,50 - 54,,Total,,All,,No pension provisiond
+19.0,,6.2,Year,2016,K02000001,,,50 - 54,,Less than £100,,All,,Defined benefit
+6.9,,11.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,All,,Defined contribution
+,x,22.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,All,,Group personal pension
+,x,,Year,2016,K02000001,,,50 - 54,,Less than £100,,All,,Group self-invested personal pension
+,x,36.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,All,,Group stakeholder pension
+,x,42.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,All,,Unknown pension provision
+70.4,,2.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,All,,No pension provisiond
+24.6,,3.6,Year,2016,K02000001,,,50 - 54,,£100 - £200,,All,,Defined benefit
+13.6,,4.9,Year,2016,K02000001,,,50 - 54,,£100 - £200,,All,,Defined contribution
+4.1,,10.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,All,,Group personal pension
+,x,61.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,All,,Group self-invested personal pension
+2.7,,11.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,All,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,All,,Unknown pension provision
+54.1,,1.9,Year,2016,K02000001,,,50 - 54,,£100 - £200,,All,,No pension provisiond
+32.1,,2.7,Year,2016,K02000001,,,50 - 54,,£200 - £300,,All,,Defined benefit
+22.6,,3.4,Year,2016,K02000001,,,50 - 54,,£200 - £300,,All,,Defined contribution
+9.5,,5.8,Year,2016,K02000001,,,50 - 54,,£200 - £300,,All,,Group personal pension
+,x,36.0,Year,2016,K02000001,,,50 - 54,,£200 - £300,,All,,Group self-invested personal pension
+3.4,,9.3,Year,2016,K02000001,,,50 - 54,,£200 - £300,,All,,Group stakeholder pension
+1.5,,16.0,Year,2016,K02000001,,,50 - 54,,£200 - £300,,All,,Unknown pension provision
+30.7,,2.9,Year,2016,K02000001,,,50 - 54,,£200 - £300,,All,,No pension provisiond
+35.6,,2.3,Year,2016,K02000001,,,50 - 54,,£300 - £400,,All,,Defined benefit
+21.6,,3.2,Year,2016,K02000001,,,50 - 54,,£300 - £400,,All,,Defined contribution
+13.0,,4.5,Year,2016,K02000001,,,50 - 54,,£300 - £400,,All,,Group personal pension
+,x,25.0,Year,2016,K02000001,,,50 - 54,,£300 - £400,,All,,Group self-invested personal pension
+4.5,,7.8,Year,2016,K02000001,,,50 - 54,,£300 - £400,,All,,Group stakeholder pension
+1.7,,13.0,Year,2016,K02000001,,,50 - 54,,£300 - £400,,All,,Unknown pension provision
+23.1,,3.2,Year,2016,K02000001,,,50 - 54,,£300 - £400,,All,,No pension provisiond
+39.0,,2.3,Year,2016,K02000001,,,50 - 54,,£400 - £500,,All,,Defined benefit
+17.9,,4.0,Year,2016,K02000001,,,50 - 54,,£400 - £500,,All,,Defined contribution
+16.0,,4.3,Year,2016,K02000001,,,50 - 54,,£400 - £500,,All,,Group personal pension
+,x,29.0,Year,2016,K02000001,,,50 - 54,,£400 - £500,,All,,Group self-invested personal pension
+4.9,,8.3,Year,2016,K02000001,,,50 - 54,,£400 - £500,,All,,Group stakeholder pension
+1.7,,15.0,Year,2016,K02000001,,,50 - 54,,£400 - £500,,All,,Unknown pension provision
+20.1,,3.8,Year,2016,K02000001,,,50 - 54,,£400 - £500,,All,,No pension provisiond
+43.8,,2.5,Year,2016,K02000001,,,50 - 54,,£500 - £600,,All,,Defined benefit
+16.2,,4.9,Year,2016,K02000001,,,50 - 54,,£500 - £600,,All,,Defined contribution
+14.7,,5.3,Year,2016,K02000001,,,50 - 54,,£500 - £600,,All,,Group personal pension
+,x,29.0,Year,2016,K02000001,,,50 - 54,,£500 - £600,,All,,Group self-invested personal pension
+5.6,,9.0,Year,2016,K02000001,,,50 - 54,,£500 - £600,,All,,Group stakeholder pension
+1.3,,18.0,Year,2016,K02000001,,,50 - 54,,£500 - £600,,All,,Unknown pension provision
+17.9,,4.7,Year,2016,K02000001,,,50 - 54,,£500 - £600,,All,,No pension provisiond
+48.5,,1.2,Year,2016,K02000001,,,50 - 54,,£600 and over,,All,,Defined benefit
+16.1,,2.8,Year,2016,K02000001,,,50 - 54,,£600 and over,,All,,Defined contribution
+17.4,,2.7,Year,2016,K02000001,,,50 - 54,,£600 and over,,All,,Group personal pension
+1.0,,12.0,Year,2016,K02000001,,,50 - 54,,£600 and over,,All,,Group self-invested personal pension
+5.3,,5.2,Year,2016,K02000001,,,50 - 54,,£600 and over,,All,,Group stakeholder pension
+1.3,,11.0,Year,2016,K02000001,,,50 - 54,,£600 and over,,All,,Unknown pension provision
+10.4,,3.6,Year,2016,K02000001,,,50 - 54,,£600 and over,,All,,No pension provisiond
+38.1,,1.0,Year,2016,K02000001,,,55 - 59,,Total,,All,,Defined benefit
+17.0,,1.7,Year,2016,K02000001,,,55 - 59,,Total,,All,,Defined contribution
+13.3,,2.0,Year,2016,K02000001,,,55 - 59,,Total,,All,,Group personal pension
+0.7,,10.0,Year,2016,K02000001,,,55 - 59,,Total,,All,,Group self-invested personal pension
+4.5,,3.6,Year,2016,K02000001,,,55 - 59,,Total,,All,,Group stakeholder pension
+1.2,,7.1,Year,2016,K02000001,,,55 - 59,,Total,,All,,Unknown pension provision
+25.3,,1.3,Year,2016,K02000001,,,55 - 59,,Total,,All,,No pension provisiond
+20.7,,6.4,Year,2016,K02000001,,,55 - 59,,Less than £100,,All,,Defined benefit
+7.2,,11.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,All,,Defined contribution
+,x,24.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,All,,Group personal pension
+,x,,Year,2016,K02000001,,,55 - 59,,Less than £100,,All,,Group self-invested personal pension
+,x,25.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,All,,Group stakeholder pension
+,x,73.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,All,,Unknown pension provision
+68.1,,2.2,Year,2016,K02000001,,,55 - 59,,Less than £100,,All,,No pension provisiond
+21.2,,4.2,Year,2016,K02000001,,,55 - 59,,£100 - £200,,All,,Defined benefit
+14.5,,5.2,Year,2016,K02000001,,,55 - 59,,£100 - £200,,All,,Defined contribution
+4.9,,9.8,Year,2016,K02000001,,,55 - 59,,£100 - £200,,All,,Group personal pension
+,x,36.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,All,,Group self-invested personal pension
+3.3,,11.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,All,,Group stakeholder pension
+,x,36.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,All,,Unknown pension provision
+55.3,,2.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,All,,No pension provisiond
+30.7,,3.1,Year,2016,K02000001,,,55 - 59,,£200 - £300,,All,,Defined benefit
+22.1,,3.7,Year,2016,K02000001,,,55 - 59,,£200 - £300,,All,,Defined contribution
+8.8,,6.6,Year,2016,K02000001,,,55 - 59,,£200 - £300,,All,,Group personal pension
+,x,39.0,Year,2016,K02000001,,,55 - 59,,£200 - £300,,All,,Group self-invested personal pension
+4.9,,8.7,Year,2016,K02000001,,,55 - 59,,£200 - £300,,All,,Group stakeholder pension
+1.5,,17.0,Year,2016,K02000001,,,55 - 59,,£200 - £300,,All,,Unknown pension provision
+31.7,,3.1,Year,2016,K02000001,,,55 - 59,,£200 - £300,,All,,No pension provisiond
+35.9,,2.6,Year,2016,K02000001,,,55 - 59,,£300 - £400,,All,,Defined benefit
+18.6,,3.9,Year,2016,K02000001,,,55 - 59,,£300 - £400,,All,,Defined contribution
+15.0,,4.7,Year,2016,K02000001,,,55 - 59,,£300 - £400,,All,,Group personal pension
+,x,26.0,Year,2016,K02000001,,,55 - 59,,£300 - £400,,All,,Group self-invested personal pension
+4.3,,8.7,Year,2016,K02000001,,,55 - 59,,£300 - £400,,All,,Group stakeholder pension
+1.6,,15.0,Year,2016,K02000001,,,55 - 59,,£300 - £400,,All,,Unknown pension provision
+24.2,,3.5,Year,2016,K02000001,,,55 - 59,,£300 - £400,,All,,No pension provisiond
+41.4,,2.5,Year,2016,K02000001,,,55 - 59,,£400 - £500,,All,,Defined benefit
+18.1,,4.5,Year,2016,K02000001,,,55 - 59,,£400 - £500,,All,,Defined contribution
+13.3,,5.5,Year,2016,K02000001,,,55 - 59,,£400 - £500,,All,,Group personal pension
+,x,27.0,Year,2016,K02000001,,,55 - 59,,£400 - £500,,All,,Group self-invested personal pension
+5.1,,9.2,Year,2016,K02000001,,,55 - 59,,£400 - £500,,All,,Group stakeholder pension
+1.4,,18.0,Year,2016,K02000001,,,55 - 59,,£400 - £500,,All,,Unknown pension provision
+20.2,,4.3,Year,2016,K02000001,,,55 - 59,,£400 - £500,,All,,No pension provisiond
+39.8,,3.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,All,,Defined benefit
+17.7,,5.3,Year,2016,K02000001,,,55 - 59,,£500 - £600,,All,,Defined contribution
+17.0,,5.5,Year,2016,K02000001,,,55 - 59,,£500 - £600,,All,,Group personal pension
+,x,27.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,All,,Group self-invested personal pension
+5.0,,11.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,All,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,All,,Unknown pension provision
+18.5,,5.4,Year,2016,K02000001,,,55 - 59,,£500 - £600,,All,,No pension provisiond
+48.0,,1.5,Year,2016,K02000001,,,55 - 59,,£600 and over,,All,,Defined benefit
+15.8,,3.3,Year,2016,K02000001,,,55 - 59,,£600 and over,,All,,Defined contribution
+17.3,,3.2,Year,2016,K02000001,,,55 - 59,,£600 and over,,All,,Group personal pension
+0.9,,16.0,Year,2016,K02000001,,,55 - 59,,£600 and over,,All,,Group self-invested personal pension
+4.8,,6.5,Year,2016,K02000001,,,55 - 59,,£600 and over,,All,,Group stakeholder pension
+1.4,,12.0,Year,2016,K02000001,,,55 - 59,,£600 and over,,All,,Unknown pension provision
+11.8,,4.0,Year,2016,K02000001,,,55 - 59,,£600 and over,,All,,No pension provisiond
+29.4,,1.6,Year,2016,K02000001,,,60 - 64,,Total,,All,,Defined benefit
+16.7,,2.3,Year,2016,K02000001,,,60 - 64,,Total,,All,,Defined contribution
+13.1,,2.7,Year,2016,K02000001,,,60 - 64,,Total,,All,,Group personal pension
+0.6,,14.0,Year,2016,K02000001,,,60 - 64,,Total,,All,,Group self-invested personal pension
+4.6,,4.8,Year,2016,K02000001,,,60 - 64,,Total,,All,,Group stakeholder pension
+1.1,,9.9,Year,2016,K02000001,,,60 - 64,,Total,,All,,Unknown pension provision
+34.7,,1.4,Year,2016,K02000001,,,60 - 64,,Total,,All,,No pension provisiond
+14.6,,8.8,Year,2016,K02000001,,,60 - 64,,Less than £100,,All,,Defined benefit
+6.7,,14.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,All,,Defined contribution
+,x,24.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,All,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,All,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,All,,Group stakeholder pension
+,x,72.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,All,,Unknown pension provision
+74.7,,2.1,Year,2016,K02000001,,,60 - 64,,Less than £100,,All,,No pension provisiond
+18.5,,5.4,Year,2016,K02000001,,,60 - 64,,£100 - £200,,All,,Defined benefit
+13.0,,6.3,Year,2016,K02000001,,,60 - 64,,£100 - £200,,All,,Defined contribution
+4.5,,12.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,All,,Group personal pension
+,x,60.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,All,,Group self-invested personal pension
+3.2,,13.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,All,,Group stakeholder pension
+,x,30.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,All,,Unknown pension provision
+59.9,,2.1,Year,2016,K02000001,,,60 - 64,,£100 - £200,,All,,No pension provisiond
+26.8,,4.2,Year,2016,K02000001,,,60 - 64,,£200 - £300,,All,,Defined benefit
+19.7,,5.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,All,,Defined contribution
+9.4,,8.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,All,,Group personal pension
+,x,39.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,All,,Group self-invested personal pension
+3.4,,13.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,All,,Group stakeholder pension
+,x,27.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,All,,Unknown pension provision
+39.3,,3.2,Year,2016,K02000001,,,60 - 64,,£200 - £300,,All,,No pension provisiond
+30.2,,3.8,Year,2016,K02000001,,,60 - 64,,£300 - £400,,All,,Defined benefit
+19.1,,5.1,Year,2016,K02000001,,,60 - 64,,£300 - £400,,All,,Defined contribution
+13.5,,6.4,Year,2016,K02000001,,,60 - 64,,£300 - £400,,All,,Group personal pension
+,x,40.0,Year,2016,K02000001,,,60 - 64,,£300 - £400,,All,,Group self-invested personal pension
+4.7,,11.0,Year,2016,K02000001,,,60 - 64,,£300 - £400,,All,,Group stakeholder pension
+,x,21.0,Year,2016,K02000001,,,60 - 64,,£300 - £400,,All,,Unknown pension provision
+30.8,,3.8,Year,2016,K02000001,,,60 - 64,,£300 - £400,,All,,No pension provisiond
+33.1,,3.9,Year,2016,K02000001,,,60 - 64,,£400 - £500,,All,,Defined benefit
+17.3,,6.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,All,,Defined contribution
+15.9,,6.4,Year,2016,K02000001,,,60 - 64,,£400 - £500,,All,,Group personal pension
+,x,32.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,All,,Group self-invested personal pension
+4.3,,13.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,All,,Group stakeholder pension
+,x,21.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,All,,Unknown pension provision
+27.0,,4.6,Year,2016,K02000001,,,60 - 64,,£400 - £500,,All,,No pension provisiond
+31.3,,5.1,Year,2016,K02000001,,,60 - 64,,£500 - £600,,All,,Defined benefit
+18.3,,7.2,Year,2016,K02000001,,,60 - 64,,£500 - £600,,All,,Defined contribution
+17.9,,7.5,Year,2016,K02000001,,,60 - 64,,£500 - £600,,All,,Group personal pension
+,x,39.0,Year,2016,K02000001,,,60 - 64,,£500 - £600,,All,,Group self-invested personal pension
+6.2,,14.0,Year,2016,K02000001,,,60 - 64,,£500 - £600,,All,,Group stakeholder pension
+,x,28.0,Year,2016,K02000001,,,60 - 64,,£500 - £600,,All,,Unknown pension provision
+24.3,,6.2,Year,2016,K02000001,,,60 - 64,,£500 - £600,,All,,No pension provisiond
+37.7,,2.9,Year,2016,K02000001,,,60 - 64,,£600 and over,,All,,Defined benefit
+17.2,,4.9,Year,2016,K02000001,,,60 - 64,,£600 and over,,All,,Defined contribution
+19.4,,4.7,Year,2016,K02000001,,,60 - 64,,£600 and over,,All,,Group personal pension
+,x,24.0,Year,2016,K02000001,,,60 - 64,,£600 and over,,All,,Group self-invested personal pension
+6.3,,8.8,Year,2016,K02000001,,,60 - 64,,£600 and over,,All,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,60 - 64,,£600 and over,,All,,Unknown pension provision
+17.5,,5.0,Year,2016,K02000001,,,60 - 64,,£600 and over,,All,,No pension provisiond
+12.7,,4.0,Year,2016,K02000001,,,65 and over,,Total,,All,,Defined benefit
+6.7,,5.6,Year,2016,K02000001,,,65 and over,,Total,,All,,Defined contribution
+5.1,,6.8,Year,2016,K02000001,,,65 and over,,Total,,All,,Group personal pension
+,x,27.0,Year,2016,K02000001,,,65 and over,,Total,,All,,Group self-invested personal pension
+2.3,,10.0,Year,2016,K02000001,,,65 and over,,Total,,All,,Group stakeholder pension
+,x,22.0,Year,2016,K02000001,,,65 and over,,Total,,All,,Unknown pension provision
+72.3,,0.9,Year,2016,K02000001,,,65 and over,,Total,,All,,No pension provisiond
+6.5,,12.0,Year,2016,K02000001,,,65 and over,,Less than £100,,All,,Defined benefit
+2.4,,19.0,Year,2016,K02000001,,,65 and over,,Less than £100,,All,,Defined contribution
+,x,30.0,Year,2016,K02000001,,,65 and over,,Less than £100,,All,,Group personal pension
+,x,,Year,2016,K02000001,,,65 and over,,Less than £100,,All,,Group self-invested personal pension
+,x,50.0,Year,2016,K02000001,,,65 and over,,Less than £100,,All,,Group stakeholder pension
+,x,70.0,Year,2016,K02000001,,,65 and over,,Less than £100,,All,,Unknown pension provision
+89.4,,1.1,Year,2016,K02000001,,,65 and over,,Less than £100,,All,,No pension provisiond
+8.6,,9.3,Year,2016,K02000001,,,65 and over,,£100 - £200,,All,,Defined benefit
+4.6,,13.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,All,,Defined contribution
+2.4,,19.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,All,,Group personal pension
+,x,70.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,All,,Group self-invested personal pension
+,x,25.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,All,,Group stakeholder pension
+,x,71.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,All,,Unknown pension provision
+82.8,,1.3,Year,2016,K02000001,,,65 and over,,£100 - £200,,All,,No pension provisiond
+13.6,,9.4,Year,2016,K02000001,,,65 and over,,£200 - £300,,All,,Defined benefit
+6.8,,14.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,All,,Defined contribution
+4.1,,18.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,All,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,All,,Group self-invested personal pension
+,x,23.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,All,,Group stakeholder pension
+,x,58.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,All,,Unknown pension provision
+72.6,,2.3,Year,2016,K02000001,,,65 and over,,£200 - £300,,All,,No pension provisiond
+14.9,,10.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,All,,Defined benefit
+8.5,,14.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,All,,Defined contribution
+7.5,,15.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,All,,Group personal pension
+,x,45.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,All,,Group self-invested personal pension
+,x,24.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,All,,Group stakeholder pension
+,x,46.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,All,,Unknown pension provision
+64.3,,3.2,Year,2016,K02000001,,,65 and over,,£300 - £400,,All,,No pension provisiond
+18.2,,11.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,All,,Defined benefit
+8.1,,18.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,All,,Defined contribution
+6.6,,20.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,All,,Group personal pension
+,x,,Year,2016,K02000001,,,65 and over,,£400 - £500,,All,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,All,,Group stakeholder pension
+,x,58.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,All,,Unknown pension provision
+63.3,,4.1,Year,2016,K02000001,,,65 and over,,£400 - £500,,All,,No pension provisiond
+16.7,,15.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,All,,Defined benefit
+11.9,,18.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,All,,Defined contribution
+,x,25.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,All,,Group personal pension
+,x,73.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,All,,Group self-invested personal pension
+,x,27.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,All,,Group stakeholder pension
+,x,60.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,All,,Unknown pension provision
+56.2,,5.9,Year,2016,K02000001,,,65 and over,,£500 - £600,,All,,No pension provisiond
+21.4,,8.9,Year,2016,K02000001,,,65 and over,,£600 and over,,All,,Defined benefit
+12.4,,12.0,Year,2016,K02000001,,,65 and over,,£600 and over,,All,,Defined contribution
+13.3,,12.0,Year,2016,K02000001,,,65 and over,,£600 and over,,All,,Group personal pension
+,x,57.0,Year,2016,K02000001,,,65 and over,,£600 and over,,All,,Group self-invested personal pension
+,x,22.0,Year,2016,K02000001,,,65 and over,,£600 and over,,All,,Group stakeholder pension
+,x,50.0,Year,2016,K02000001,,,65 and over,,£600 and over,,All,,Unknown pension provision
+46.9,,4.9,Year,2016,K02000001,,,65 and over,,£600 and over,,All,,No pension provisiond
+23.1,,0.6,Year,2016,K02000001,,,All employees,,Total,,Male,,Defined benefit
+21.3,,0.7,Year,2016,K02000001,,,All employees,,Total,,Male,,Defined contribution
+16.9,,0.8,Year,2016,K02000001,,,All employees,,Total,,Male,,Group personal pension
+0.8,,4.0,Year,2016,K02000001,,,All employees,,Total,,Male,,Group self-invested personal pension
+5.3,,1.5,Year,2016,K02000001,,,All employees,,Total,,Male,,Group stakeholder pension
+1.4,,3.0,Year,2016,K02000001,,,All employees,,Total,,Male,,Unknown pension provision
+31.2,,0.5,Year,2016,K02000001,,,All employees,,Total,,Male,,No pension provisiond
+5.4,,7.0,Year,2016,K02000001,,,All employees,,Less than £100,,Male,,Defined benefit
+8.6,,5.2,Year,2016,K02000001,,,All employees,,Less than £100,,Male,,Defined contribution
+2.4,,10.0,Year,2016,K02000001,,,All employees,,Less than £100,,Male,,Group personal pension
+,x,39.0,Year,2016,K02000001,,,All employees,,Less than £100,,Male,,Group self-invested personal pension
+1.0,,16.0,Year,2016,K02000001,,,All employees,,Less than £100,,Male,,Group stakeholder pension
+,x,42.0,Year,2016,K02000001,,,All employees,,Less than £100,,Male,,Unknown pension provision
+82.2,,0.8,Year,2016,K02000001,,,All employees,,Less than £100,,Male,,No pension provisiond
+7.3,,4.8,Year,2016,K02000001,,,All employees,,£100 - £200,,Male,,Defined benefit
+14.1,,3.1,Year,2016,K02000001,,,All employees,,£100 - £200,,Male,,Defined contribution
+3.8,,6.8,Year,2016,K02000001,,,All employees,,£100 - £200,,Male,,Group personal pension
+,x,27.0,Year,2016,K02000001,,,All employees,,£100 - £200,,Male,,Group self-invested personal pension
+2.0,,8.6,Year,2016,K02000001,,,All employees,,£100 - £200,,Male,,Group stakeholder pension
+0.6,,17.0,Year,2016,K02000001,,,All employees,,£100 - £200,,Male,,Unknown pension provision
+72.0,,0.8,Year,2016,K02000001,,,All employees,,£100 - £200,,Male,,No pension provisiond
+9.5,,3.4,Year,2016,K02000001,,,All employees,,£200 - £300,,Male,,Defined benefit
+25.3,,1.8,Year,2016,K02000001,,,All employees,,£200 - £300,,Male,,Defined contribution
+9.3,,3.5,Year,2016,K02000001,,,All employees,,£200 - £300,,Male,,Group personal pension
+0.5,,17.0,Year,2016,K02000001,,,All employees,,£200 - £300,,Male,,Group self-invested personal pension
+3.9,,5.2,Year,2016,K02000001,,,All employees,,£200 - £300,,Male,,Group stakeholder pension
+1.1,,10.0,Year,2016,K02000001,,,All employees,,£200 - £300,,Male,,Unknown pension provision
+50.5,,1.1,Year,2016,K02000001,,,All employees,,£200 - £300,,Male,,No pension provisiond
+15.0,,2.0,Year,2016,K02000001,,,All employees,,£300 - £400,,Male,,Defined benefit
+25.1,,1.4,Year,2016,K02000001,,,All employees,,£300 - £400,,Male,,Defined contribution
+15.6,,2.0,Year,2016,K02000001,,,All employees,,£300 - £400,,Male,,Group personal pension
+0.5,,13.0,Year,2016,K02000001,,,All employees,,£300 - £400,,Male,,Group self-invested personal pension
+5.4,,3.5,Year,2016,K02000001,,,All employees,,£300 - £400,,Male,,Group stakeholder pension
+1.6,,6.6,Year,2016,K02000001,,,All employees,,£300 - £400,,Male,,Unknown pension provision
+36.8,,1.1,Year,2016,K02000001,,,All employees,,£300 - £400,,Male,,No pension provisiond
+20.2,,1.7,Year,2016,K02000001,,,All employees,,£400 - £500,,Male,,Defined benefit
+23.0,,1.6,Year,2016,K02000001,,,All employees,,£400 - £500,,Male,,Defined contribution
+17.9,,1.9,Year,2016,K02000001,,,All employees,,£400 - £500,,Male,,Group personal pension
+0.8,,10.0,Year,2016,K02000001,,,All employees,,£400 - £500,,Male,,Group self-invested personal pension
+5.8,,3.6,Year,2016,K02000001,,,All employees,,£400 - £500,,Male,,Group stakeholder pension
+1.6,,7.0,Year,2016,K02000001,,,All employees,,£400 - £500,,Male,,Unknown pension provision
+30.7,,1.4,Year,2016,K02000001,,,All employees,,£400 - £500,,Male,,No pension provisiond
+24.4,,1.8,Year,2016,K02000001,,,All employees,,£500 - £600,,Male,,Defined benefit
+22.6,,1.8,Year,2016,K02000001,,,All employees,,£500 - £600,,Male,,Defined contribution
+19.1,,2.1,Year,2016,K02000001,,,All employees,,£500 - £600,,Male,,Group personal pension
+0.8,,11.0,Year,2016,K02000001,,,All employees,,£500 - £600,,Male,,Group self-invested personal pension
+6.2,,3.9,Year,2016,K02000001,,,All employees,,£500 - £600,,Male,,Group stakeholder pension
+1.5,,8.2,Year,2016,K02000001,,,All employees,,£500 - £600,,Male,,Unknown pension provision
+25.4,,1.8,Year,2016,K02000001,,,All employees,,£500 - £600,,Male,,No pension provisiond
+34.0,,0.8,Year,2016,K02000001,,,All employees,,£600 and over,,Male,,Defined benefit
+20.4,,1.2,Year,2016,K02000001,,,All employees,,£600 and over,,Male,,Defined contribution
+21.4,,1.1,Year,2016,K02000001,,,All employees,,£600 and over,,Male,,Group personal pension
+1.2,,5.5,Year,2016,K02000001,,,All employees,,£600 and over,,Male,,Group self-invested personal pension
+6.0,,2.3,Year,2016,K02000001,,,All employees,,£600 and over,,Male,,Group stakeholder pension
+1.4,,5.0,Year,2016,K02000001,,,All employees,,£600 and over,,Male,,Unknown pension provision
+15.6,,1.4,Year,2016,K02000001,,,All employees,,£600 and over,,Male,,No pension provisiond
+4.4,,6.7,Year,2016,K02000001,,,16 - 21,,Total,,Male,,Defined benefit
+8.8,,4.3,Year,2016,K02000001,,,16 - 21,,Total,,Male,,Defined contribution
+3.9,,7.2,Year,2016,K02000001,,,16 - 21,,Total,,Male,,Group personal pension
+,x,30.0,Year,2016,K02000001,,,16 - 21,,Total,,Male,,Group self-invested personal pension
+1.2,,12.0,Year,2016,K02000001,,,16 - 21,,Total,,Male,,Group stakeholder pension
+,x,52.0,Year,2016,K02000001,,,16 - 21,,Total,,Male,,Unknown pension provision
+81.4,,0.7,Year,2016,K02000001,,,16 - 21,,Total,,Male,,No pension provisiond
+1.6,,20.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,Male,,Defined benefit
+7.0,,8.7,Year,2016,K02000001,,,16 - 21,,Less than £100,,Male,,Defined contribution
+,x,21.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,Male,,Group personal pension
+,x,59.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,Male,,Group self-invested personal pension
+,x,38.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,Male,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,Male,,Unknown pension provision
+89.3,,0.8,Year,2016,K02000001,,,16 - 21,,Less than £100,,Male,,No pension provisiond
+3.2,,16.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Male,,Defined benefit
+8.8,,8.5,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Male,,Defined contribution
+,x,22.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Male,,Group personal pension
+,x,70.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Male,,Group self-invested personal pension
+,x,36.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Male,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Male,,Unknown pension provision
+85.3,,1.1,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Male,,No pension provisiond
+4.1,,13.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Male,,Defined benefit
+8.0,,9.7,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Male,,Defined contribution
+4.8,,14.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Male,,Group personal pension
+,x,,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Male,,Group self-invested personal pension
+,x,25.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Male,,Group stakeholder pension
+,x,70.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Male,,Unknown pension provision
+81.7,,1.4,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Male,,No pension provisiond
+6.9,,14.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Male,,Defined benefit
+10.5,,9.7,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Male,,Defined contribution
+8.0,,12.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Male,,Group personal pension
+,x,58.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Male,,Group self-invested personal pension
+,x,23.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Male,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Male,,Unknown pension provision
+72.4,,2.1,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Male,,No pension provisiond
+9.6,,18.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Male,,Defined benefit
+10.7,,17.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Male,,Defined contribution
+,x,23.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Male,,Group personal pension
+,x,59.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Male,,Group self-invested personal pension
+,x,31.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Male,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Male,,Unknown pension provision
+68.5,,4.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Male,,No pension provisiond
+,x,31.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Male,,Defined benefit
+,x,25.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Male,,Defined contribution
+,x,76.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Male,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Male,,Group self-invested personal pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Male,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Male,,Unknown pension provision
+65.8,,8.5,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Male,,No pension provisiond
+,x,33.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Male,,Defined benefit
+,x,27.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Male,,Defined contribution
+,x,46.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Male,,Group personal pension
+,x,96.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Male,,Group self-invested personal pension
+,x,45.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Male,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Male,,Unknown pension provision
+67.0,,7.4,Year,2016,K02000001,,,16 - 21,,£600 and over,,Male,,No pension provisiond
+14.7,,2.0,Year,2016,K02000001,,,22 - 29,,Total,,Male,,Defined benefit
+26.5,,1.3,Year,2016,K02000001,,,22 - 29,,Total,,Male,,Defined contribution
+17.3,,1.8,Year,2016,K02000001,,,22 - 29,,Total,,Male,,Group personal pension
+0.6,,11.0,Year,2016,K02000001,,,22 - 29,,Total,,Male,,Group self-invested personal pension
+5.6,,3.4,Year,2016,K02000001,,,22 - 29,,Total,,Male,,Group stakeholder pension
+1.5,,6.7,Year,2016,K02000001,,,22 - 29,,Total,,Male,,Unknown pension provision
+33.8,,1.2,Year,2016,K02000001,,,22 - 29,,Total,,Male,,No pension provisiond
+7.3,,16.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,Male,,Defined benefit
+10.7,,11.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,Male,,Defined contribution
+,x,24.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,Male,,Group personal pension
+,x,73.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,Male,,Group self-invested personal pension
+,x,34.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,Male,,Group stakeholder pension
+,x,58.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,Male,,Unknown pension provision
+76.7,,2.3,Year,2016,K02000001,,,22 - 29,,Less than £100,,Male,,No pension provisiond
+7.8,,11.0,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Male,,Defined benefit
+22.8,,5.3,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Male,,Defined contribution
+4.4,,14.0,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Male,,Group personal pension
+,x,,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Male,,Group self-invested personal pension
+3.0,,16.0,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Male,,Group stakeholder pension
+,x,35.0,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Male,,Unknown pension provision
+61.3,,2.3,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Male,,No pension provisiond
+8.7,,6.9,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Male,,Defined benefit
+33.0,,2.9,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Male,,Defined contribution
+11.5,,5.9,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Male,,Group personal pension
+,x,33.0,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Male,,Group self-invested personal pension
+4.2,,9.5,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Male,,Group stakeholder pension
+1.2,,19.0,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Male,,Unknown pension provision
+40.9,,2.6,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Male,,No pension provisiond
+9.7,,4.9,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Male,,Defined benefit
+30.1,,2.5,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Male,,Defined contribution
+17.2,,3.6,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Male,,Group personal pension
+,x,27.0,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Male,,Group self-invested personal pension
+5.3,,6.6,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Male,,Group stakeholder pension
+1.6,,12.0,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Male,,Unknown pension provision
+35.8,,2.2,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Male,,No pension provisiond
+14.9,,4.5,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Male,,Defined benefit
+25.1,,3.2,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Male,,Defined contribution
+19.4,,3.8,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Male,,Group personal pension
+,x,22.0,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Male,,Group self-invested personal pension
+6.4,,7.1,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Male,,Group stakeholder pension
+1.7,,14.0,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Male,,Unknown pension provision
+31.8,,2.8,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Male,,No pension provisiond
+21.9,,4.5,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Male,,Defined benefit
+22.6,,4.3,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Male,,Defined contribution
+21.8,,4.5,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Male,,Group personal pension
+,x,24.0,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Male,,Group self-invested personal pension
+6.6,,8.8,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Male,,Group stakeholder pension
+2.0,,17.0,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Male,,Unknown pension provision
+24.0,,4.2,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Male,,No pension provisiond
+22.2,,3.7,Year,2016,K02000001,,,22 - 29,,£600 and over,,Male,,Defined benefit
+26.0,,3.3,Year,2016,K02000001,,,22 - 29,,£600 and over,,Male,,Defined contribution
+21.8,,3.8,Year,2016,K02000001,,,22 - 29,,£600 and over,,Male,,Group personal pension
+,x,22.0,Year,2016,K02000001,,,22 - 29,,£600 and over,,Male,,Group self-invested personal pension
+6.5,,7.4,Year,2016,K02000001,,,22 - 29,,£600 and over,,Male,,Group stakeholder pension
+1.5,,16.0,Year,2016,K02000001,,,22 - 29,,£600 and over,,Male,,Unknown pension provision
+21.2,,3.8,Year,2016,K02000001,,,22 - 29,,£600 and over,,Male,,No pension provisiond
+21.6,,1.4,Year,2016,K02000001,,,30 - 39,,Total,,Male,,Defined benefit
+24.2,,1.3,Year,2016,K02000001,,,30 - 39,,Total,,Male,,Defined contribution
+19.2,,1.5,Year,2016,K02000001,,,30 - 39,,Total,,Male,,Group personal pension
+0.9,,8.2,Year,2016,K02000001,,,30 - 39,,Total,,Male,,Group self-invested personal pension
+5.9,,2.9,Year,2016,K02000001,,,30 - 39,,Total,,Male,,Group stakeholder pension
+1.5,,6.0,Year,2016,K02000001,,,30 - 39,,Total,,Male,,Unknown pension provision
+26.8,,1.2,Year,2016,K02000001,,,30 - 39,,Total,,Male,,No pension provisiond
+7.2,,20.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,Male,,Defined benefit
+12.9,,14.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,Male,,Defined contribution
+,x,22.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,Male,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,Male,,Group self-invested personal pension
+,x,39.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,Male,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,30 - 39,,Less than £100,,Male,,Unknown pension provision
+71.8,,3.4,Year,2016,K02000001,,,30 - 39,,Less than £100,,Male,,No pension provisiond
+6.9,,13.0,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Male,,Defined benefit
+17.1,,7.2,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Male,,Defined contribution
+5.4,,14.0,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Male,,Group personal pension
+,x,,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Male,,Group self-invested personal pension
+2.9,,17.0,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Male,,Group stakeholder pension
+,x,36.0,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Male,,Unknown pension provision
+66.6,,2.4,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Male,,No pension provisiond
+8.9,,8.7,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Male,,Defined benefit
+33.9,,3.5,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Male,,Defined contribution
+9.4,,7.9,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Male,,Group personal pension
+,x,35.0,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Male,,Group self-invested personal pension
+5.5,,10.0,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Male,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Male,,Unknown pension provision
+40.5,,3.2,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Male,,No pension provisiond
+13.3,,4.5,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Male,,Defined benefit
+27.2,,2.9,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Male,,Defined contribution
+17.1,,4.0,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Male,,Group personal pension
+,x,34.0,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Male,,Group self-invested personal pension
+7.5,,6.3,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Male,,Group stakeholder pension
+1.9,,13.0,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Male,,Unknown pension provision
+32.8,,2.6,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Male,,No pension provisiond
+16.4,,4.0,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Male,,Defined benefit
+26.3,,3.0,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Male,,Defined contribution
+18.4,,3.8,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Male,,Group personal pension
+0.8,,20.0,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Male,,Group self-invested personal pension
+5.9,,7.0,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Male,,Group stakeholder pension
+2.0,,13.0,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Male,,Unknown pension provision
+30.3,,2.8,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Male,,No pension provisiond
+21.4,,3.7,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Male,,Defined benefit
+24.3,,3.4,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Male,,Defined contribution
+19.9,,3.9,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Male,,Group personal pension
+,x,26.0,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Male,,Group self-invested personal pension
+6.4,,7.4,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Male,,Group stakeholder pension
+1.2,,17.0,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Male,,Unknown pension provision
+26.2,,3.3,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Male,,No pension provisiond
+29.7,,1.8,Year,2016,K02000001,,,30 - 39,,£600 and over,,Male,,Defined benefit
+22.1,,2.1,Year,2016,K02000001,,,30 - 39,,£600 and over,,Male,,Defined contribution
+22.9,,2.1,Year,2016,K02000001,,,30 - 39,,£600 and over,,Male,,Group personal pension
+1.3,,10.0,Year,2016,K02000001,,,30 - 39,,£600 and over,,Male,,Group self-invested personal pension
+5.6,,4.7,Year,2016,K02000001,,,30 - 39,,£600 and over,,Male,,Group stakeholder pension
+1.4,,9.7,Year,2016,K02000001,,,30 - 39,,£600 and over,,Male,,Unknown pension provision
+17.0,,2.6,Year,2016,K02000001,,,30 - 39,,£600 and over,,Male,,No pension provisiond
+29.0,,1.1,Year,2016,K02000001,,,40 - 49,,Total,,Male,,Defined benefit
+21.0,,1.4,Year,2016,K02000001,,,40 - 49,,Total,,Male,,Defined contribution
+18.6,,1.6,Year,2016,K02000001,,,40 - 49,,Total,,Male,,Group personal pension
+1.1,,7.1,Year,2016,K02000001,,,40 - 49,,Total,,Male,,Group self-invested personal pension
+5.7,,3.0,Year,2016,K02000001,,,40 - 49,,Total,,Male,,Group stakeholder pension
+1.6,,5.9,Year,2016,K02000001,,,40 - 49,,Total,,Male,,Unknown pension provision
+23.1,,1.3,Year,2016,K02000001,,,40 - 49,,Total,,Male,,No pension provisiond
+9.4,,17.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,Male,,Defined benefit
+12.5,,15.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,Male,,Defined contribution
+,x,27.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,Male,,Group personal pension
+,x,71.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,Male,,Group self-invested personal pension
+,x,38.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,Male,,Group stakeholder pension
+,x,99.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,Male,,Unknown pension provision
+71.1,,3.5,Year,2016,K02000001,,,40 - 49,,Less than £100,,Male,,No pension provisiond
+8.6,,12.0,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Male,,Defined benefit
+14.9,,8.4,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Male,,Defined contribution
+3.5,,19.0,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Male,,Group personal pension
+,x,50.0,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Male,,Group self-invested personal pension
+,x,23.0,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Male,,Group stakeholder pension
+,x,37.0,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Male,,Unknown pension provision
+69.1,,2.4,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Male,,No pension provisiond
+11.2,,8.3,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Male,,Defined benefit
+27.0,,4.7,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Male,,Defined contribution
+10.2,,8.7,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Male,,Group personal pension
+,x,39.0,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Male,,Group self-invested personal pension
+4.7,,13.0,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Male,,Group stakeholder pension
+,x,21.0,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Male,,Unknown pension provision
+44.4,,3.3,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Male,,No pension provisiond
+18.1,,4.1,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Male,,Defined benefit
+25.2,,3.4,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Male,,Defined contribution
+16.3,,4.5,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Male,,Group personal pension
+,x,27.0,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Male,,Group self-invested personal pension
+5.6,,8.1,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Male,,Group stakeholder pension
+2.2,,13.0,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Male,,Unknown pension provision
+32.0,,3.0,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Male,,No pension provisiond
+23.6,,3.4,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Male,,Defined benefit
+21.8,,3.6,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Male,,Defined contribution
+18.6,,4.0,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Male,,Group personal pension
+1.2,,19.0,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Male,,Group self-invested personal pension
+5.6,,7.9,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Male,,Group stakeholder pension
+1.5,,16.0,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Male,,Unknown pension provision
+27.8,,3.2,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Male,,No pension provisiond
+24.8,,3.5,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Male,,Defined benefit
+23.4,,3.7,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Male,,Defined contribution
+18.8,,4.3,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Male,,Group personal pension
+,x,21.0,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Male,,Group self-invested personal pension
+5.5,,8.5,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Male,,Group stakeholder pension
+1.8,,16.0,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Male,,Unknown pension provision
+24.8,,3.6,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Male,,No pension provisiond
+37.4,,1.4,Year,2016,K02000001,,,40 - 49,,£600 and over,,Male,,Defined benefit
+19.5,,2.1,Year,2016,K02000001,,,40 - 49,,£600 and over,,Male,,Defined contribution
+21.2,,2.1,Year,2016,K02000001,,,40 - 49,,£600 and over,,Male,,Group personal pension
+1.3,,9.2,Year,2016,K02000001,,,40 - 49,,£600 and over,,Male,,Group self-invested personal pension
+6.2,,4.1,Year,2016,K02000001,,,40 - 49,,£600 and over,,Male,,Group stakeholder pension
+1.4,,8.9,Year,2016,K02000001,,,40 - 49,,£600 and over,,Male,,Unknown pension provision
+13.1,,2.7,Year,2016,K02000001,,,40 - 49,,£600 and over,,Male,,No pension provisiond
+33.0,,1.4,Year,2016,K02000001,,,50 - 54,,Total,,Male,,Defined benefit
+19.9,,2.0,Year,2016,K02000001,,,50 - 54,,Total,,Male,,Defined contribution
+17.5,,2.3,Year,2016,K02000001,,,50 - 54,,Total,,Male,,Group personal pension
+0.9,,11.0,Year,2016,K02000001,,,50 - 54,,Total,,Male,,Group self-invested personal pension
+5.8,,4.2,Year,2016,K02000001,,,50 - 54,,Total,,Male,,Group stakeholder pension
+1.3,,9.0,Year,2016,K02000001,,,50 - 54,,Total,,Male,,Unknown pension provision
+21.6,,2.0,Year,2016,K02000001,,,50 - 54,,Total,,Male,,No pension provisiond
+13.7,,18.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,Male,,Defined benefit
+,x,24.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,Male,,Defined contribution
+,x,50.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,Male,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,Male,,Group self-invested personal pension
+,x,99.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,Male,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,Male,,Unknown pension provision
+76.8,,3.9,Year,2016,K02000001,,,50 - 54,,Less than £100,,Male,,No pension provisiond
+11.2,,15.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Male,,Defined benefit
+16.0,,11.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Male,,Defined contribution
+,x,27.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Male,,Group personal pension
+,x,70.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Male,,Group self-invested personal pension
+,x,30.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Male,,Group stakeholder pension
+,x,47.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Male,,Unknown pension provision
+64.7,,3.9,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Male,,No pension provisiond
+14.7,,10.0,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Male,,Defined benefit
+26.6,,6.5,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Male,,Defined contribution
+11.2,,12.0,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Male,,Group personal pension
+,x,72.0,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Male,,Group self-invested personal pension
+3.2,,20.0,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Male,,Group stakeholder pension
+,x,31.0,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Male,,Unknown pension provision
+42.2,,4.9,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Male,,No pension provisiond
+23.2,,5.1,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Male,,Defined benefit
+25.0,,4.8,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Male,,Defined contribution
+14.6,,6.8,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Male,,Group personal pension
+,x,32.0,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Male,,Group self-invested personal pension
+4.7,,12.0,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Male,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Male,,Unknown pension provision
+30.3,,4.4,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Male,,No pension provisiond
+27.8,,4.3,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Male,,Defined benefit
+21.3,,5.1,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Male,,Defined contribution
+18.3,,5.7,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Male,,Group personal pension
+,x,38.0,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Male,,Group self-invested personal pension
+5.8,,11.0,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Male,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Male,,Unknown pension provision
+24.8,,4.8,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Male,,No pension provisiond
+32.6,,4.1,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Male,,Defined benefit
+19.9,,5.7,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Male,,Defined contribution
+16.5,,6.5,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Male,,Group personal pension
+,x,32.0,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Male,,Group self-invested personal pension
+7.4,,10.0,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Male,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Male,,Unknown pension provision
+21.5,,5.5,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Male,,No pension provisiond
+40.7,,1.8,Year,2016,K02000001,,,50 - 54,,£600 and over,,Male,,Defined benefit
+18.5,,3.1,Year,2016,K02000001,,,50 - 54,,£600 and over,,Male,,Defined contribution
+20.2,,3.0,Year,2016,K02000001,,,50 - 54,,£600 and over,,Male,,Group personal pension
+1.2,,14.0,Year,2016,K02000001,,,50 - 54,,£600 and over,,Male,,Group self-invested personal pension
+6.3,,5.9,Year,2016,K02000001,,,50 - 54,,£600 and over,,Male,,Group stakeholder pension
+1.3,,13.0,Year,2016,K02000001,,,50 - 54,,£600 and over,,Male,,Unknown pension provision
+11.9,,4.1,Year,2016,K02000001,,,50 - 54,,£600 and over,,Male,,No pension provisiond
+32.1,,1.7,Year,2016,K02000001,,,55 - 59,,Total,,Male,,Defined benefit
+19.2,,2.3,Year,2016,K02000001,,,55 - 59,,Total,,Male,,Defined contribution
+17.2,,2.6,Year,2016,K02000001,,,55 - 59,,Total,,Male,,Group personal pension
+0.9,,13.0,Year,2016,K02000001,,,55 - 59,,Total,,Male,,Group self-invested personal pension
+5.5,,4.8,Year,2016,K02000001,,,55 - 59,,Total,,Male,,Group stakeholder pension
+1.4,,9.8,Year,2016,K02000001,,,55 - 59,,Total,,Male,,Unknown pension provision
+23.6,,2.1,Year,2016,K02000001,,,55 - 59,,Total,,Male,,No pension provisiond
+15.7,,18.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,Male,,Defined benefit
+,x,23.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,Male,,Defined contribution
+,x,44.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,Male,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,Male,,Group self-invested personal pension
+,x,51.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,Male,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,Male,,Unknown pension provision
+70.5,,4.8,Year,2016,K02000001,,,55 - 59,,Less than £100,,Male,,No pension provisiond
+8.5,,17.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Male,,Defined benefit
+13.2,,12.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Male,,Defined contribution
+,x,21.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Male,,Group personal pension
+,x,49.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Male,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Male,,Group stakeholder pension
+,x,60.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Male,,Unknown pension provision
+69.3,,3.3,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Male,,No pension provisiond
+16.0,,9.8,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Male,,Defined benefit
+25.1,,7.1,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Male,,Defined contribution
+10.2,,13.0,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Male,,Group personal pension
+,x,51.0,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Male,,Group self-invested personal pension
+5.4,,17.0,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Male,,Group stakeholder pension
+,x,34.0,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Male,,Unknown pension provision
+41.0,,5.3,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Male,,No pension provisiond
+24.9,,5.3,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Male,,Defined benefit
+22.1,,5.5,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Male,,Defined contribution
+16.0,,7.0,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Male,,Group personal pension
+,x,34.0,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Male,,Group self-invested personal pension
+5.0,,13.0,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Male,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Male,,Unknown pension provision
+29.5,,4.8,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Male,,No pension provisiond
+30.9,,4.4,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Male,,Defined benefit
+20.2,,5.8,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Male,,Defined contribution
+16.3,,6.7,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Male,,Group personal pension
+,x,34.0,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Male,,Group self-invested personal pension
+6.5,,11.0,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Male,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Male,,Unknown pension provision
+24.0,,5.4,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Male,,No pension provisiond
+30.0,,4.8,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Male,,Defined benefit
+21.7,,6.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Male,,Defined contribution
+18.4,,6.8,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Male,,Group personal pension
+,x,35.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Male,,Group self-invested personal pension
+5.7,,13.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Male,,Group stakeholder pension
+,x,28.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Male,,Unknown pension provision
+22.1,,6.2,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Male,,No pension provisiond
+39.9,,2.1,Year,2016,K02000001,,,55 - 59,,£600 and over,,Male,,Defined benefit
+17.8,,3.8,Year,2016,K02000001,,,55 - 59,,£600 and over,,Male,,Defined contribution
+20.2,,3.5,Year,2016,K02000001,,,55 - 59,,£600 and over,,Male,,Group personal pension
+1.1,,18.0,Year,2016,K02000001,,,55 - 59,,£600 and over,,Male,,Group self-invested personal pension
+5.9,,7.1,Year,2016,K02000001,,,55 - 59,,£600 and over,,Male,,Group stakeholder pension
+1.5,,15.0,Year,2016,K02000001,,,55 - 59,,£600 and over,,Male,,Unknown pension provision
+13.6,,4.5,Year,2016,K02000001,,,55 - 59,,£600 and over,,Male,,No pension provisiond
+24.6,,2.6,Year,2016,K02000001,,,60 - 64,,Total,,Male,,Defined benefit
+20.0,,2.9,Year,2016,K02000001,,,60 - 64,,Total,,Male,,Defined contribution
+16.7,,3.4,Year,2016,K02000001,,,60 - 64,,Total,,Male,,Group personal pension
+0.9,,17.0,Year,2016,K02000001,,,60 - 64,,Total,,Male,,Group self-invested personal pension
+5.4,,6.2,Year,2016,K02000001,,,60 - 64,,Total,,Male,,Group stakeholder pension
+1.3,,13.0,Year,2016,K02000001,,,60 - 64,,Total,,Male,,Unknown pension provision
+31.1,,2.2,Year,2016,K02000001,,,60 - 64,,Total,,Male,,No pension provisiond
+,x,28.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,Male,,Defined benefit
+13.3,,19.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,Male,,Defined contribution
+,x,41.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,Male,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,Male,,Group self-invested personal pension
+,x,45.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,Male,,Group stakeholder pension
+,x,99.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,Male,,Unknown pension provision
+72.6,,4.7,Year,2016,K02000001,,,60 - 64,,Less than £100,,Male,,No pension provisiond
+12.3,,14.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Male,,Defined benefit
+12.8,,13.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Male,,Defined contribution
+,x,25.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Male,,Group personal pension
+,x,99.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Male,,Group self-invested personal pension
+,x,35.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Male,,Group stakeholder pension
+,x,45.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Male,,Unknown pension provision
+66.8,,3.6,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Male,,No pension provisiond
+14.1,,11.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Male,,Defined benefit
+22.6,,8.1,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Male,,Defined contribution
+10.5,,13.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Male,,Group personal pension
+,x,45.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Male,,Group self-invested personal pension
+,x,22.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Male,,Group stakeholder pension
+,x,58.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Male,,Unknown pension provision
+47.8,,4.7,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Male,,No pension provisiond
+24.9,,6.3,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Male,,Defined benefit
+22.2,,6.6,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Male,,Defined contribution
+13.1,,9.2,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Male,,Group personal pension
+,x,43.0,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Male,,Group self-invested personal pension
+4.8,,16.0,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Male,,Group stakeholder pension
+,x,26.0,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Male,,Unknown pension provision
+32.6,,5.3,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Male,,No pension provisiond
+25.7,,6.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Male,,Defined benefit
+20.6,,6.9,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Male,,Defined contribution
+17.6,,7.8,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Male,,Group personal pension
+,x,38.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Male,,Group self-invested personal pension
+4.8,,16.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Male,,Group stakeholder pension
+,x,26.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Male,,Unknown pension provision
+28.7,,5.7,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Male,,No pension provisiond
+23.5,,7.5,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Male,,Defined benefit
+22.2,,7.7,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Male,,Defined contribution
+19.7,,8.5,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Male,,Group personal pension
+,x,45.0,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Male,,Group self-invested personal pension
+6.6,,16.0,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Male,,Group stakeholder pension
+,x,34.0,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Male,,Unknown pension provision
+25.7,,7.2,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Male,,No pension provisiond
+31.1,,3.8,Year,2016,K02000001,,,60 - 64,,£600 and over,,Male,,Defined benefit
+19.4,,5.2,Year,2016,K02000001,,,60 - 64,,£600 and over,,Male,,Defined contribution
+21.9,,5.0,Year,2016,K02000001,,,60 - 64,,£600 and over,,Male,,Group personal pension
+,x,27.0,Year,2016,K02000001,,,60 - 64,,£600 and over,,Male,,Group self-invested personal pension
+6.9,,9.6,Year,2016,K02000001,,,60 - 64,,£600 and over,,Male,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,60 - 64,,£600 and over,,Male,,Unknown pension provision
+18.5,,5.5,Year,2016,K02000001,,,60 - 64,,£600 and over,,Male,,No pension provisiond
+12.1,,5.9,Year,2016,K02000001,,,65 and over,,Total,,Male,,Defined benefit
+8.5,,7.0,Year,2016,K02000001,,,65 and over,,Total,,Male,,Defined contribution
+7.1,,8.0,Year,2016,K02000001,,,65 and over,,Total,,Male,,Group personal pension
+,x,39.0,Year,2016,K02000001,,,65 and over,,Total,,Male,,Group self-invested personal pension
+2.7,,13.0,Year,2016,K02000001,,,65 and over,,Total,,Male,,Group stakeholder pension
+,x,30.0,Year,2016,K02000001,,,65 and over,,Total,,Male,,Unknown pension provision
+68.7,,1.5,Year,2016,K02000001,,,65 and over,,Total,,Male,,No pension provisiond
+,x,28.0,Year,2016,K02000001,,,65 and over,,Less than £100,,Male,,Defined benefit
+,x,31.0,Year,2016,K02000001,,,65 and over,,Less than £100,,Male,,Defined contribution
+,x,50.0,Year,2016,K02000001,,,65 and over,,Less than £100,,Male,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,65 and over,,Less than £100,,Male,,Group self-invested personal pension
+0.0,,0.0,Year,2016,K02000001,,,65 and over,,Less than £100,,Male,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,65 and over,,Less than £100,,Male,,Unknown pension provision
+92.9,,1.4,Year,2016,K02000001,,,65 and over,,Less than £100,,Male,,No pension provisiond
+8.8,,15.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,Male,,Defined benefit
+,x,21.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,Male,,Defined contribution
+,x,25.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,Male,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,Male,,Group self-invested personal pension
+,x,39.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,Male,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,Male,,Unknown pension provision
+81.9,,2.2,Year,2016,K02000001,,,65 and over,,£100 - £200,,Male,,No pension provisiond
+9.0,,18.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,Male,,Defined benefit
+7.6,,19.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,Male,,Defined contribution
+,x,26.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,Male,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,Male,,Group self-invested personal pension
+,x,41.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,Male,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,65 and over,,£200 - £300,,Male,,Unknown pension provision
+77.0,,3.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,Male,,No pension provisiond
+12.0,,16.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,Male,,Defined benefit
+8.6,,18.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,Male,,Defined contribution
+10.1,,17.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,Male,,Group personal pension
+,x,70.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,Male,,Group self-invested personal pension
+,x,31.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,Male,,Group stakeholder pension
+,x,58.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,Male,,Unknown pension provision
+64.2,,4.3,Year,2016,K02000001,,,65 and over,,£300 - £400,,Male,,No pension provisiond
+13.5,,16.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,Male,,Defined benefit
+10.6,,19.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,Male,,Defined contribution
+,x,23.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,Male,,Group personal pension
+,x,,Year,2016,K02000001,,,65 and over,,£400 - £500,,Male,,Group self-invested personal pension
+,x,45.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,Male,,Group stakeholder pension
+,x,70.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,Male,,Unknown pension provision
+65.7,,4.7,Year,2016,K02000001,,,65 and over,,£400 - £500,,Male,,No pension provisiond
+17.0,,17.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Male,,Defined benefit
+12.2,,20.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Male,,Defined contribution
+,x,30.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Male,,Group personal pension
+,x,99.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Male,,Group self-invested personal pension
+,x,31.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Male,,Group stakeholder pension
+,x,74.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Male,,Unknown pension provision
+55.5,,7.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Male,,No pension provisiond
+20.2,,10.0,Year,2016,K02000001,,,65 and over,,£600 and over,,Male,,Defined benefit
+14.3,,12.0,Year,2016,K02000001,,,65 and over,,£600 and over,,Male,,Defined contribution
+14.1,,13.0,Year,2016,K02000001,,,65 and over,,£600 and over,,Male,,Group personal pension
+,x,57.0,Year,2016,K02000001,,,65 and over,,£600 and over,,Male,,Group self-invested personal pension
+,x,23.0,Year,2016,K02000001,,,65 and over,,£600 and over,,Male,,Group stakeholder pension
+,x,50.0,Year,2016,K02000001,,,65 and over,,£600 and over,,Male,,Unknown pension provision
+44.6,,5.7,Year,2016,K02000001,,,65 and over,,£600 and over,,Male,,No pension provisiond
+34.4,,0.4,Year,2016,K02000001,,,All employees,,Total,,Female,,Defined benefit
+16.0,,0.7,Year,2016,K02000001,,,All employees,,Total,,Female,,Defined contribution
+10.9,,0.9,Year,2016,K02000001,,,All employees,,Total,,Female,,Group personal pension
+0.4,,5.3,Year,2016,K02000001,,,All employees,,Total,,Female,,Group self-invested personal pension
+3.5,,1.7,Year,2016,K02000001,,,All employees,,Total,,Female,,Group stakeholder pension
+1.2,,3.1,Year,2016,K02000001,,,All employees,,Total,,Female,,Unknown pension provision
+33.6,,0.4,Year,2016,K02000001,,,All employees,,Total,,Female,,No pension provisiond
+14.4,,2.4,Year,2016,K02000001,,,All employees,,Less than £100,,Female,,Defined benefit
+6.4,,3.8,Year,2016,K02000001,,,All employees,,Less than £100,,Female,,Defined contribution
+1.8,,7.7,Year,2016,K02000001,,,All employees,,Less than £100,,Female,,Group personal pension
+,x,38.0,Year,2016,K02000001,,,All employees,,Less than £100,,Female,,Group self-invested personal pension
+0.7,,12.0,Year,2016,K02000001,,,All employees,,Less than £100,,Female,,Group stakeholder pension
+0.3,,19.0,Year,2016,K02000001,,,All employees,,Less than £100,,Female,,Unknown pension provision
+76.3,,0.6,Year,2016,K02000001,,,All employees,,Less than £100,,Female,,No pension provisiond
+19.2,,1.5,Year,2016,K02000001,,,All employees,,£100 - £200,,Female,,Defined benefit
+13.7,,1.8,Year,2016,K02000001,,,All employees,,£100 - £200,,Female,,Defined contribution
+4.9,,3.4,Year,2016,K02000001,,,All employees,,£100 - £200,,Female,,Group personal pension
+0.2,,16.0,Year,2016,K02000001,,,All employees,,£100 - £200,,Female,,Group self-invested personal pension
+2.7,,4.4,Year,2016,K02000001,,,All employees,,£100 - £200,,Female,,Group stakeholder pension
+0.6,,9.8,Year,2016,K02000001,,,All employees,,£100 - £200,,Female,,Unknown pension provision
+58.7,,0.6,Year,2016,K02000001,,,All employees,,£100 - £200,,Female,,No pension provisiond
+28.5,,1.2,Year,2016,K02000001,,,All employees,,£200 - £300,,Female,,Defined benefit
+20.8,,1.5,Year,2016,K02000001,,,All employees,,£200 - £300,,Female,,Defined contribution
+9.2,,2.4,Year,2016,K02000001,,,All employees,,£200 - £300,,Female,,Group personal pension
+0.2,,17.0,Year,2016,K02000001,,,All employees,,£200 - £300,,Female,,Group self-invested personal pension
+3.8,,3.8,Year,2016,K02000001,,,All employees,,£200 - £300,,Female,,Group stakeholder pension
+1.4,,6.6,Year,2016,K02000001,,,All employees,,£200 - £300,,Female,,Unknown pension provision
+36.2,,1.0,Year,2016,K02000001,,,All employees,,£200 - £300,,Female,,No pension provisiond
+32.6,,1.1,Year,2016,K02000001,,,All employees,,£300 - £400,,Female,,Defined benefit
+20.7,,1.5,Year,2016,K02000001,,,All employees,,£300 - £400,,Female,,Defined contribution
+13.8,,2.0,Year,2016,K02000001,,,All employees,,£300 - £400,,Female,,Group personal pension
+0.4,,12.0,Year,2016,K02000001,,,All employees,,£300 - £400,,Female,,Group self-invested personal pension
+4.3,,3.7,Year,2016,K02000001,,,All employees,,£300 - £400,,Female,,Group stakeholder pension
+1.6,,6.3,Year,2016,K02000001,,,All employees,,£300 - £400,,Female,,Unknown pension provision
+26.6,,1.3,Year,2016,K02000001,,,All employees,,£300 - £400,,Female,,No pension provisiond
+41.6,,1.1,Year,2016,K02000001,,,All employees,,£400 - £500,,Female,,Defined benefit
+16.9,,2.1,Year,2016,K02000001,,,All employees,,£400 - £500,,Female,,Defined contribution
+15.2,,2.3,Year,2016,K02000001,,,All employees,,£400 - £500,,Female,,Group personal pension
+0.5,,14.0,Year,2016,K02000001,,,All employees,,£400 - £500,,Female,,Group self-invested personal pension
+4.2,,4.5,Year,2016,K02000001,,,All employees,,£400 - £500,,Female,,Group stakeholder pension
+1.6,,7.8,Year,2016,K02000001,,,All employees,,£400 - £500,,Female,,Unknown pension provision
+20.1,,1.9,Year,2016,K02000001,,,All employees,,£400 - £500,,Female,,No pension provisiond
+48.1,,1.2,Year,2016,K02000001,,,All employees,,£500 - £600,,Female,,Defined benefit
+14.9,,2.8,Year,2016,K02000001,,,All employees,,£500 - £600,,Female,,Defined contribution
+14.9,,2.9,Year,2016,K02000001,,,All employees,,£500 - £600,,Female,,Group personal pension
+0.6,,16.0,Year,2016,K02000001,,,All employees,,£500 - £600,,Female,,Group self-invested personal pension
+4.1,,5.7,Year,2016,K02000001,,,All employees,,£500 - £600,,Female,,Group stakeholder pension
+1.4,,10.0,Year,2016,K02000001,,,All employees,,£500 - £600,,Female,,Unknown pension provision
+16.1,,2.7,Year,2016,K02000001,,,All employees,,£500 - £600,,Female,,No pension provisiond
+53.4,,0.7,Year,2016,K02000001,,,All employees,,£600 and over,,Female,,Defined benefit
+14.6,,1.9,Year,2016,K02000001,,,All employees,,£600 and over,,Female,,Defined contribution
+15.3,,1.9,Year,2016,K02000001,,,All employees,,£600 and over,,Female,,Group personal pension
+0.7,,9.5,Year,2016,K02000001,,,All employees,,£600 and over,,Female,,Group self-invested personal pension
+3.9,,4.0,Year,2016,K02000001,,,All employees,,£600 and over,,Female,,Group stakeholder pension
+1.1,,7.6,Year,2016,K02000001,,,All employees,,£600 and over,,Female,,Unknown pension provision
+11.0,,2.3,Year,2016,K02000001,,,All employees,,£600 and over,,Female,,No pension provisiond
+6.0,,5.1,Year,2016,K02000001,,,16 - 21,,Total,,Female,,Defined benefit
+7.0,,4.6,Year,2016,K02000001,,,16 - 21,,Total,,Female,,Defined contribution
+3.0,,8.1,Year,2016,K02000001,,,16 - 21,,Total,,Female,,Group personal pension
+,x,34.0,Year,2016,K02000001,,,16 - 21,,Total,,Female,,Group self-invested personal pension
+0.9,,15.0,Year,2016,K02000001,,,16 - 21,,Total,,Female,,Group stakeholder pension
+,x,25.0,Year,2016,K02000001,,,16 - 21,,Total,,Female,,Unknown pension provision
+82.7,,0.6,Year,2016,K02000001,,,16 - 21,,Total,,Female,,No pension provisiond
+2.9,,11.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,Female,,Defined benefit
+5.8,,7.7,Year,2016,K02000001,,,16 - 21,,Less than £100,,Female,,Defined contribution
+1.1,,19.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,Female,,Group personal pension
+,x,70.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,Female,,Group self-invested personal pension
+,x,58.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,Female,,Group stakeholder pension
+,x,58.0,Year,2016,K02000001,,,16 - 21,,Less than £100,,Female,,Unknown pension provision
+89.9,,0.6,Year,2016,K02000001,,,16 - 21,,Less than £100,,Female,,No pension provisiond
+4.4,,11.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Female,,Defined benefit
+6.4,,8.7,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Female,,Defined contribution
+,x,22.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Female,,Group personal pension
+,x,50.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Female,,Group self-invested personal pension
+,x,29.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Female,,Group stakeholder pension
+,x,50.0,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Female,,Unknown pension provision
+86.8,,0.9,Year,2016,K02000001,,,16 - 21,,£100 - £200,,Female,,No pension provisiond
+7.2,,11.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Female,,Defined benefit
+8.1,,9.9,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Female,,Defined contribution
+3.9,,16.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Female,,Group personal pension
+,x,70.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Female,,Group self-invested personal pension
+,x,25.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Female,,Group stakeholder pension
+,x,45.0,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Female,,Unknown pension provision
+78.4,,1.6,Year,2016,K02000001,,,16 - 21,,£200 - £300,,Female,,No pension provisiond
+12.2,,11.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Female,,Defined benefit
+10.1,,13.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Female,,Defined contribution
+8.7,,14.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Female,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Female,,Group self-invested personal pension
+,x,29.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Female,,Group stakeholder pension
+,x,51.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Female,,Unknown pension provision
+66.3,,3.0,Year,2016,K02000001,,,16 - 21,,£300 - £400,,Female,,No pension provisiond
+18.5,,16.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Female,,Defined benefit
+,x,25.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Female,,Defined contribution
+,x,28.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Female,,Group personal pension
+,x,99.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Female,,Group self-invested personal pension
+,x,50.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Female,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Female,,Unknown pension provision
+58.8,,6.9,Year,2016,K02000001,,,16 - 21,,£400 - £500,,Female,,No pension provisiond
+,x,21.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Female,,Defined benefit
+,x,40.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Female,,Defined contribution
+,x,40.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Female,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Female,,Group self-invested personal pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Female,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Female,,Unknown pension provision
+41.9,,18.0,Year,2016,K02000001,,,16 - 21,,£500 - £600,,Female,,No pension provisiond
+,x,35.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Female,,Defined benefit
+,x,44.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Female,,Defined contribution
+,x,56.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Female,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Female,,Group self-invested personal pension
+,x,70.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Female,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Female,,Unknown pension provision
+62.3,,12.0,Year,2016,K02000001,,,16 - 21,,£600 and over,,Female,,No pension provisiond
+24.3,,1.4,Year,2016,K02000001,,,22 - 29,,Total,,Female,,Defined benefit
+21.6,,1.5,Year,2016,K02000001,,,22 - 29,,Total,,Female,,Defined contribution
+14.4,,1.9,Year,2016,K02000001,,,22 - 29,,Total,,Female,,Group personal pension
+0.5,,11.0,Year,2016,K02000001,,,22 - 29,,Total,,Female,,Group self-invested personal pension
+3.7,,3.9,Year,2016,K02000001,,,22 - 29,,Total,,Female,,Group stakeholder pension
+1.5,,6.5,Year,2016,K02000001,,,22 - 29,,Total,,Female,,Unknown pension provision
+34.0,,1.1,Year,2016,K02000001,,,22 - 29,,Total,,Female,,No pension provisiond
+11.8,,7.9,Year,2016,K02000001,,,22 - 29,,Less than £100,,Female,,Defined benefit
+9.8,,8.5,Year,2016,K02000001,,,22 - 29,,Less than £100,,Female,,Defined contribution
+2.1,,20.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,Female,,Group personal pension
+,x,,Year,2016,K02000001,,,22 - 29,,Less than £100,,Female,,Group self-invested personal pension
+,x,45.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,Female,,Group stakeholder pension
+,x,71.0,Year,2016,K02000001,,,22 - 29,,Less than £100,,Female,,Unknown pension provision
+75.6,,1.6,Year,2016,K02000001,,,22 - 29,,Less than £100,,Female,,No pension provisiond
+11.0,,5.5,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Female,,Defined benefit
+20.3,,3.7,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Female,,Defined contribution
+6.8,,7.2,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Female,,Group personal pension
+,x,41.0,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Female,,Group self-invested personal pension
+2.9,,11.0,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Female,,Group stakeholder pension
+0.9,,20.0,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Female,,Unknown pension provision
+57.9,,1.6,Year,2016,K02000001,,,22 - 29,,£100 - £200,,Female,,No pension provisiond
+17.1,,4.0,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Female,,Defined benefit
+28.9,,2.8,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Female,,Defined contribution
+11.4,,5.1,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Female,,Group personal pension
+,x,38.0,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Female,,Group self-invested personal pension
+3.6,,8.9,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Female,,Group stakeholder pension
+2.0,,13.0,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Female,,Unknown pension provision
+36.8,,2.4,Year,2016,K02000001,,,22 - 29,,£200 - £300,,Female,,No pension provisiond
+19.6,,3.4,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Female,,Defined benefit
+25.7,,2.8,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Female,,Defined contribution
+17.5,,3.7,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Female,,Group personal pension
+,x,21.0,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Female,,Group self-invested personal pension
+4.4,,7.5,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Female,,Group stakeholder pension
+1.9,,12.0,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Female,,Unknown pension provision
+30.3,,2.6,Year,2016,K02000001,,,22 - 29,,£300 - £400,,Female,,No pension provisiond
+31.5,,2.9,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Female,,Defined benefit
+20.1,,3.8,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Female,,Defined contribution
+18.2,,4.2,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Female,,Group personal pension
+,x,25.0,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Female,,Group self-invested personal pension
+4.8,,8.7,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Female,,Group stakeholder pension
+1.6,,16.0,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Female,,Unknown pension provision
+23.2,,3.6,Year,2016,K02000001,,,22 - 29,,£400 - £500,,Female,,No pension provisiond
+43.0,,2.8,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Female,,Defined benefit
+16.8,,5.4,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Female,,Defined contribution
+16.6,,5.6,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Female,,Group personal pension
+,x,32.0,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Female,,Group self-invested personal pension
+3.2,,13.0,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Female,,Group stakeholder pension
+,x,21.0,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Female,,Unknown pension provision
+18.5,,5.2,Year,2016,K02000001,,,22 - 29,,£500 - £600,,Female,,No pension provisiond
+38.4,,2.9,Year,2016,K02000001,,,22 - 29,,£600 and over,,Female,,Defined benefit
+18.9,,4.8,Year,2016,K02000001,,,22 - 29,,£600 and over,,Female,,Defined contribution
+21.7,,4.5,Year,2016,K02000001,,,22 - 29,,£600 and over,,Female,,Group personal pension
+,x,25.0,Year,2016,K02000001,,,22 - 29,,£600 and over,,Female,,Group self-invested personal pension
+4.4,,11.0,Year,2016,K02000001,,,22 - 29,,£600 and over,,Female,,Group stakeholder pension
+,x,22.0,Year,2016,K02000001,,,22 - 29,,£600 and over,,Female,,Unknown pension provision
+14.6,,5.7,Year,2016,K02000001,,,22 - 29,,£600 and over,,Female,,No pension provisiond
+35.3,,0.9,Year,2016,K02000001,,,30 - 39,,Total,,Female,,Defined benefit
+17.6,,1.5,Year,2016,K02000001,,,30 - 39,,Total,,Female,,Defined contribution
+13.4,,1.8,Year,2016,K02000001,,,30 - 39,,Total,,Female,,Group personal pension
+0.5,,10.0,Year,2016,K02000001,,,30 - 39,,Total,,Female,,Group self-invested personal pension
+4.2,,3.4,Year,2016,K02000001,,,30 - 39,,Total,,Female,,Group stakeholder pension
+1.2,,6.5,Year,2016,K02000001,,,30 - 39,,Total,,Female,,Unknown pension provision
+27.8,,1.1,Year,2016,K02000001,,,30 - 39,,Total,,Female,,No pension provisiond
+21.1,,5.4,Year,2016,K02000001,,,30 - 39,,Less than £100,,Female,,Defined benefit
+8.2,,9.3,Year,2016,K02000001,,,30 - 39,,Less than £100,,Female,,Defined contribution
+2.7,,18.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,Female,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,Female,,Group self-invested personal pension
+,x,30.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,Female,,Group stakeholder pension
+,x,41.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,Female,,Unknown pension provision
+66.6,,2.0,Year,2016,K02000001,,,30 - 39,,Less than £100,,Female,,No pension provisiond
+21.3,,3.2,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Female,,Defined benefit
+15.0,,3.9,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Female,,Defined contribution
+7.0,,6.2,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Female,,Group personal pension
+,x,28.0,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Female,,Group self-invested personal pension
+3.3,,8.8,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Female,,Group stakeholder pension
+,x,21.0,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Female,,Unknown pension provision
+52.4,,1.6,Year,2016,K02000001,,,30 - 39,,£100 - £200,,Female,,No pension provisiond
+28.9,,2.8,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Female,,Defined benefit
+21.9,,3.3,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Female,,Defined contribution
+10.3,,5.3,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Female,,Group personal pension
+,x,41.0,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Female,,Group self-invested personal pension
+4.3,,8.3,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Female,,Group stakeholder pension
+1.3,,16.0,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Female,,Unknown pension provision
+33.0,,2.5,Year,2016,K02000001,,,30 - 39,,£200 - £300,,Female,,No pension provisiond
+31.9,,2.6,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Female,,Defined benefit
+23.1,,3.2,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Female,,Defined contribution
+14.3,,4.4,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Female,,Group personal pension
+,x,22.0,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Female,,Group self-invested personal pension
+4.8,,7.9,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Female,,Group stakeholder pension
+1.6,,14.0,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Female,,Unknown pension provision
+23.6,,3.3,Year,2016,K02000001,,,30 - 39,,£300 - £400,,Female,,No pension provisiond
+39.2,,2.5,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Female,,Defined benefit
+18.1,,4.2,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Female,,Defined contribution
+17.0,,4.4,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Female,,Group personal pension
+,x,32.0,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Female,,Group self-invested personal pension
+4.5,,9.2,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Female,,Group stakeholder pension
+1.5,,17.0,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Female,,Unknown pension provision
+19.3,,4.2,Year,2016,K02000001,,,30 - 39,,£400 - £500,,Female,,No pension provisiond
+44.6,,2.6,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Female,,Defined benefit
+15.6,,5.4,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Female,,Defined contribution
+16.3,,5.3,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Female,,Group personal pension
+,x,30.0,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Female,,Group self-invested personal pension
+5.1,,10.0,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Female,,Group stakeholder pension
+1.5,,19.0,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Female,,Unknown pension provision
+16.4,,5.3,Year,2016,K02000001,,,30 - 39,,£500 - £600,,Female,,No pension provisiond
+47.2,,1.5,Year,2016,K02000001,,,30 - 39,,£600 and over,,Female,,Defined benefit
+16.2,,3.3,Year,2016,K02000001,,,30 - 39,,£600 and over,,Female,,Defined contribution
+17.9,,3.1,Year,2016,K02000001,,,30 - 39,,£600 and over,,Female,,Group personal pension
+0.8,,17.0,Year,2016,K02000001,,,30 - 39,,£600 and over,,Female,,Group self-invested personal pension
+4.6,,6.6,Year,2016,K02000001,,,30 - 39,,£600 and over,,Female,,Group stakeholder pension
+1.2,,14.0,Year,2016,K02000001,,,30 - 39,,£600 and over,,Female,,Unknown pension provision
+12.1,,4.0,Year,2016,K02000001,,,30 - 39,,£600 and over,,Female,,No pension provisiond
+42.2,,0.8,Year,2016,K02000001,,,40 - 49,,Total,,Female,,Defined benefit
+15.9,,1.5,Year,2016,K02000001,,,40 - 49,,Total,,Female,,Defined contribution
+10.7,,2.0,Year,2016,K02000001,,,40 - 49,,Total,,Female,,Group personal pension
+0.4,,11.0,Year,2016,K02000001,,,40 - 49,,Total,,Female,,Group self-invested personal pension
+3.6,,3.4,Year,2016,K02000001,,,40 - 49,,Total,,Female,,Group stakeholder pension
+1.2,,6.2,Year,2016,K02000001,,,40 - 49,,Total,,Female,,Unknown pension provision
+26.0,,1.1,Year,2016,K02000001,,,40 - 49,,Total,,Female,,No pension provisiond
+26.2,,4.1,Year,2016,K02000001,,,40 - 49,,Less than £100,,Female,,Defined benefit
+5.6,,9.9,Year,2016,K02000001,,,40 - 49,,Less than £100,,Female,,Defined contribution
+2.2,,17.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,Female,,Group personal pension
+,x,,Year,2016,K02000001,,,40 - 49,,Less than £100,,Female,,Group self-invested personal pension
+1.5,,20.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,Female,,Group stakeholder pension
+,x,38.0,Year,2016,K02000001,,,40 - 49,,Less than £100,,Female,,Unknown pension provision
+64.2,,1.8,Year,2016,K02000001,,,40 - 49,,Less than £100,,Female,,No pension provisiond
+26.1,,2.8,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Female,,Defined benefit
+13.1,,4.2,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Female,,Defined contribution
+4.4,,7.8,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Female,,Group personal pension
+,x,38.0,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Female,,Group self-invested personal pension
+2.5,,9.9,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Female,,Group stakeholder pension
+0.8,,19.0,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Female,,Unknown pension provision
+53.0,,1.6,Year,2016,K02000001,,,40 - 49,,£100 - £200,,Female,,No pension provisiond
+36.3,,2.1,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Female,,Defined benefit
+19.6,,3.1,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Female,,Defined contribution
+9.4,,4.9,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Female,,Group personal pension
+,x,29.0,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Female,,Group self-invested personal pension
+4.0,,7.4,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Female,,Group stakeholder pension
+1.3,,14.0,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Female,,Unknown pension provision
+29.2,,2.5,Year,2016,K02000001,,,40 - 49,,£200 - £300,,Female,,No pension provisiond
+40.6,,2.0,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Female,,Defined benefit
+20.2,,3.3,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Female,,Defined contribution
+12.1,,4.5,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Female,,Group personal pension
+,x,36.0,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Female,,Group self-invested personal pension
+4.5,,7.5,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Female,,Group stakeholder pension
+1.6,,13.0,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Female,,Unknown pension provision
+20.7,,3.3,Year,2016,K02000001,,,40 - 49,,£300 - £400,,Female,,No pension provisiond
+47.3,,2.1,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Female,,Defined benefit
+16.0,,4.5,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Female,,Defined contribution
+14.2,,4.9,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Female,,Group personal pension
+,x,30.0,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Female,,Group self-invested personal pension
+4.0,,9.7,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Female,,Group stakeholder pension
+1.6,,16.0,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Female,,Unknown pension provision
+16.6,,4.5,Year,2016,K02000001,,,40 - 49,,£400 - £500,,Female,,No pension provisiond
+50.1,,2.4,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Female,,Defined benefit
+16.6,,5.4,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Female,,Defined contribution
+13.7,,6.0,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Female,,Group personal pension
+,x,32.0,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Female,,Group self-invested personal pension
+4.6,,11.0,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Female,,Group stakeholder pension
+,x,21.0,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Female,,Unknown pension provision
+13.3,,6.1,Year,2016,K02000001,,,40 - 49,,£500 - £600,,Female,,No pension provisiond
+56.2,,1.2,Year,2016,K02000001,,,40 - 49,,£600 and over,,Female,,Defined benefit
+14.7,,3.4,Year,2016,K02000001,,,40 - 49,,£600 and over,,Female,,Defined contribution
+14.2,,3.5,Year,2016,K02000001,,,40 - 49,,£600 and over,,Female,,Group personal pension
+0.7,,17.0,Year,2016,K02000001,,,40 - 49,,£600 and over,,Female,,Group self-invested personal pension
+3.6,,7.4,Year,2016,K02000001,,,40 - 49,,£600 and over,,Female,,Group stakeholder pension
+0.9,,15.0,Year,2016,K02000001,,,40 - 49,,£600 and over,,Female,,Unknown pension provision
+9.6,,4.4,Year,2016,K02000001,,,40 - 49,,£600 and over,,Female,,No pension provisiond
+45.2,,1.0,Year,2016,K02000001,,,50 - 54,,Total,,Female,,Defined benefit
+14.9,,2.1,Year,2016,K02000001,,,50 - 54,,Total,,Female,,Defined contribution
+9.9,,2.8,Year,2016,K02000001,,,50 - 54,,Total,,Female,,Group personal pension
+0.3,,17.0,Year,2016,K02000001,,,50 - 54,,Total,,Female,,Group self-invested personal pension
+3.4,,4.9,Year,2016,K02000001,,,50 - 54,,Total,,Female,,Group stakeholder pension
+1.4,,7.8,Year,2016,K02000001,,,50 - 54,,Total,,Female,,Unknown pension provision
+24.9,,1.5,Year,2016,K02000001,,,50 - 54,,Total,,Female,,No pension provisiond
+20.4,,6.5,Year,2016,K02000001,,,50 - 54,,Less than £100,,Female,,Defined benefit
+6.8,,13.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,Female,,Defined contribution
+,x,24.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,Female,,Group personal pension
+,x,,Year,2016,K02000001,,,50 - 54,,Less than £100,,Female,,Group self-invested personal pension
+,x,39.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,Female,,Group stakeholder pension
+,x,42.0,Year,2016,K02000001,,,50 - 54,,Less than £100,,Female,,Unknown pension provision
+68.7,,2.3,Year,2016,K02000001,,,50 - 54,,Less than £100,,Female,,No pension provisiond
+27.2,,3.6,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Female,,Defined benefit
+13.1,,5.4,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Female,,Defined contribution
+4.1,,11.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Female,,Group personal pension
+,x,,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Female,,Group self-invested personal pension
+2.8,,12.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Female,,Group stakeholder pension
+,x,28.0,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Female,,Unknown pension provision
+52.0,,2.1,Year,2016,K02000001,,,50 - 54,,£100 - £200,,Female,,No pension provisiond
+36.9,,2.8,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Female,,Defined benefit
+21.5,,3.9,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Female,,Defined contribution
+9.0,,6.7,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Female,,Group personal pension
+,x,41.0,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Female,,Group self-invested personal pension
+3.5,,11.0,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Female,,Group stakeholder pension
+1.4,,18.0,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Female,,Unknown pension provision
+27.4,,3.5,Year,2016,K02000001,,,50 - 54,,£200 - £300,,Female,,No pension provisiond
+43.0,,2.5,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Female,,Defined benefit
+19.6,,4.4,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Female,,Defined contribution
+12.1,,5.9,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Female,,Group personal pension
+,x,38.0,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Female,,Group self-invested personal pension
+4.3,,10.0,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Female,,Group stakeholder pension
+1.9,,16.0,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Female,,Unknown pension provision
+18.8,,4.6,Year,2016,K02000001,,,50 - 54,,£300 - £400,,Female,,No pension provisiond
+49.3,,2.6,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Female,,Defined benefit
+14.7,,6.2,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Female,,Defined contribution
+13.8,,6.5,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Female,,Group personal pension
+,x,45.0,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Female,,Group self-invested personal pension
+4.1,,13.0,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Female,,Group stakeholder pension
+1.9,,19.0,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Female,,Unknown pension provision
+15.8,,6.1,Year,2016,K02000001,,,50 - 54,,£400 - £500,,Female,,No pension provisiond
+59.7,,2.8,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Female,,Defined benefit
+10.9,,9.3,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Female,,Defined contribution
+12.1,,9.2,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Female,,Group personal pension
+,x,71.0,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Female,,Group self-invested personal pension
+2.9,,19.0,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Female,,Group stakeholder pension
+,x,28.0,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Female,,Unknown pension provision
+12.8,,8.9,Year,2016,K02000001,,,50 - 54,,£500 - £600,,Female,,No pension provisiond
+63.6,,1.5,Year,2016,K02000001,,,50 - 54,,£600 and over,,Female,,Defined benefit
+11.4,,5.6,Year,2016,K02000001,,,50 - 54,,£600 and over,,Female,,Defined contribution
+12.0,,5.6,Year,2016,K02000001,,,50 - 54,,£600 and over,,Female,,Group personal pension
+,x,26.0,Year,2016,K02000001,,,50 - 54,,£600 and over,,Female,,Group self-invested personal pension
+3.4,,11.0,Year,2016,K02000001,,,50 - 54,,£600 and over,,Female,,Group stakeholder pension
+1.5,,17.0,Year,2016,K02000001,,,50 - 54,,£600 and over,,Female,,Unknown pension provision
+7.5,,7.2,Year,2016,K02000001,,,50 - 54,,£600 and over,,Female,,No pension provisiond
+43.7,,1.2,Year,2016,K02000001,,,55 - 59,,Total,,Female,,Defined benefit
+14.9,,2.5,Year,2016,K02000001,,,55 - 59,,Total,,Female,,Defined contribution
+9.6,,3.3,Year,2016,K02000001,,,55 - 59,,Total,,Female,,Group personal pension
+0.4,,17.0,Year,2016,K02000001,,,55 - 59,,Total,,Female,,Group self-invested personal pension
+3.6,,5.4,Year,2016,K02000001,,,55 - 59,,Total,,Female,,Group stakeholder pension
+1.1,,10.0,Year,2016,K02000001,,,55 - 59,,Total,,Female,,Unknown pension provision
+26.9,,1.7,Year,2016,K02000001,,,55 - 59,,Total,,Female,,No pension provisiond
+21.9,,6.8,Year,2016,K02000001,,,55 - 59,,Less than £100,,Female,,Defined benefit
+6.7,,13.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,Female,,Defined contribution
+,x,28.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,Female,,Group personal pension
+,x,,Year,2016,K02000001,,,55 - 59,,Less than £100,,Female,,Group self-invested personal pension
+,x,28.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,Female,,Group stakeholder pension
+,x,73.0,Year,2016,K02000001,,,55 - 59,,Less than £100,,Female,,Unknown pension provision
+67.5,,2.5,Year,2016,K02000001,,,55 - 59,,Less than £100,,Female,,No pension provisiond
+24.7,,4.3,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Female,,Defined benefit
+14.8,,5.7,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Female,,Defined contribution
+4.9,,11.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Female,,Group personal pension
+,x,50.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Female,,Group self-invested personal pension
+3.6,,12.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Female,,Group stakeholder pension
+,x,45.0,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Female,,Unknown pension provision
+51.4,,2.4,Year,2016,K02000001,,,55 - 59,,£100 - £200,,Female,,No pension provisiond
+35.1,,3.2,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Female,,Defined benefit
+21.2,,4.4,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Female,,Defined contribution
+8.4,,7.7,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Female,,Group personal pension
+,x,58.0,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Female,,Group self-invested personal pension
+4.8,,10.0,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Female,,Group stakeholder pension
+1.4,,20.0,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Female,,Unknown pension provision
+29.0,,3.7,Year,2016,K02000001,,,55 - 59,,£200 - £300,,Female,,No pension provisiond
+43.3,,2.9,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Female,,Defined benefit
+16.2,,5.6,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Female,,Defined contribution
+14.2,,6.3,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Female,,Group personal pension
+,x,41.0,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Female,,Group self-invested personal pension
+3.9,,12.0,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Female,,Group stakeholder pension
+1.6,,20.0,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Female,,Unknown pension provision
+20.5,,5.0,Year,2016,K02000001,,,55 - 59,,£300 - £400,,Female,,No pension provisiond
+52.4,,2.9,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Female,,Defined benefit
+16.0,,7.0,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Female,,Defined contribution
+10.1,,9.2,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Female,,Group personal pension
+,x,42.0,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Female,,Group self-invested personal pension
+3.6,,16.0,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Female,,Group stakeholder pension
+,x,28.0,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Female,,Unknown pension provision
+16.2,,7.0,Year,2016,K02000001,,,55 - 59,,£400 - £500,,Female,,No pension provisiond
+54.9,,3.6,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Female,,Defined benefit
+11.5,,11.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Female,,Defined contribution
+14.7,,9.5,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Female,,Group personal pension
+,x,42.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Female,,Group self-invested personal pension
+4.0,,19.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Female,,Group stakeholder pension
+,x,38.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Female,,Unknown pension provision
+12.9,,11.0,Year,2016,K02000001,,,55 - 59,,£500 - £600,,Female,,No pension provisiond
+65.5,,1.8,Year,2016,K02000001,,,55 - 59,,£600 and over,,Female,,Defined benefit
+11.3,,7.1,Year,2016,K02000001,,,55 - 59,,£600 and over,,Female,,Defined contribution
+10.9,,7.4,Year,2016,K02000001,,,55 - 59,,£600 and over,,Female,,Group personal pension
+,x,34.0,Year,2016,K02000001,,,55 - 59,,£600 and over,,Female,,Group self-invested personal pension
+2.6,,16.0,Year,2016,K02000001,,,55 - 59,,£600 and over,,Female,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,55 - 59,,£600 and over,,Female,,Unknown pension provision
+7.9,,8.8,Year,2016,K02000001,,,55 - 59,,£600 and over,,Female,,No pension provisiond
+34.5,,2.0,Year,2016,K02000001,,,60 - 64,,Total,,Female,,Defined benefit
+13.1,,3.7,Year,2016,K02000001,,,60 - 64,,Total,,Female,,Defined contribution
+9.2,,4.7,Year,2016,K02000001,,,60 - 64,,Total,,Female,,Group personal pension
+,x,28.0,Year,2016,K02000001,,,60 - 64,,Total,,Female,,Group self-invested personal pension
+3.6,,7.3,Year,2016,K02000001,,,60 - 64,,Total,,Female,,Group stakeholder pension
+0.8,,16.0,Year,2016,K02000001,,,60 - 64,,Total,,Female,,Unknown pension provision
+38.5,,1.8,Year,2016,K02000001,,,60 - 64,,Total,,Female,,No pension provisiond
+17.1,,9.2,Year,2016,K02000001,,,60 - 64,,Less than £100,,Female,,Defined benefit
+4.5,,19.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,Female,,Defined contribution
+,x,29.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,Female,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,Female,,Group self-invested personal pension
+,x,45.0,Year,2016,K02000001,,,60 - 64,,Less than £100,,Female,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,60 - 64,,Less than £100,,Female,,Unknown pension provision
+75.3,,2.4,Year,2016,K02000001,,,60 - 64,,Less than £100,,Female,,No pension provisiond
+20.7,,5.8,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Female,,Defined benefit
+13.1,,7.3,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Female,,Defined contribution
+4.5,,14.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Female,,Group personal pension
+,x,70.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Female,,Group self-invested personal pension
+3.6,,14.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Female,,Group stakeholder pension
+,x,41.0,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Female,,Unknown pension provision
+57.3,,2.5,Year,2016,K02000001,,,60 - 64,,£100 - £200,,Female,,No pension provisiond
+32.9,,4.4,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Female,,Defined benefit
+18.4,,6.5,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Female,,Defined contribution
+8.8,,10.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Female,,Group personal pension
+,x,75.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Female,,Group self-invested personal pension
+3.3,,15.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Female,,Group stakeholder pension
+,x,30.0,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Female,,Unknown pension provision
+35.3,,4.2,Year,2016,K02000001,,,60 - 64,,£200 - £300,,Female,,No pension provisiond
+35.2,,4.8,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Female,,Defined benefit
+16.2,,8.0,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Female,,Defined contribution
+13.9,,8.9,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Female,,Group personal pension
+,x,,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Female,,Group self-invested personal pension
+4.6,,16.0,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Female,,Group stakeholder pension
+,x,35.0,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Female,,Unknown pension provision
+29.1,,5.6,Year,2016,K02000001,,,60 - 64,,£300 - £400,,Female,,No pension provisiond
+44.6,,4.8,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Female,,Defined benefit
+12.2,,12.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Female,,Defined contribution
+13.3,,11.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Female,,Group personal pension
+,x,58.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Female,,Group self-invested personal pension
+,x,23.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Female,,Group stakeholder pension
+,x,36.0,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Female,,Unknown pension provision
+24.3,,7.7,Year,2016,K02000001,,,60 - 64,,£400 - £500,,Female,,No pension provisiond
+47.8,,6.4,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Female,,Defined benefit
+9.9,,18.0,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Female,,Defined contribution
+13.9,,16.0,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Female,,Group personal pension
+,x,71.0,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Female,,Group self-invested personal pension
+,x,26.0,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Female,,Group stakeholder pension
+,x,50.0,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Female,,Unknown pension provision
+21.2,,12.0,Year,2016,K02000001,,,60 - 64,,£500 - £600,,Female,,No pension provisiond
+60.1,,3.8,Year,2016,K02000001,,,60 - 64,,£600 and over,,Female,,Defined benefit
+9.5,,14.0,Year,2016,K02000001,,,60 - 64,,£600 and over,,Female,,Defined contribution
+10.8,,14.0,Year,2016,K02000001,,,60 - 64,,£600 and over,,Female,,Group personal pension
+,x,57.0,Year,2016,K02000001,,,60 - 64,,£600 and over,,Female,,Group self-invested personal pension
+,x,22.0,Year,2016,K02000001,,,60 - 64,,£600 and over,,Female,,Group stakeholder pension
+,x,70.0,Year,2016,K02000001,,,60 - 64,,£600 and over,,Female,,Unknown pension provision
+14.4,,11.0,Year,2016,K02000001,,,60 - 64,,£600 and over,,Female,,No pension provisiond
+13.4,,5.4,Year,2016,K02000001,,,65 and over,,Total,,Female,,Defined benefit
+4.8,,9.4,Year,2016,K02000001,,,65 and over,,Total,,Female,,Defined contribution
+2.8,,13.0,Year,2016,K02000001,,,65 and over,,Total,,Female,,Group personal pension
+,x,38.0,Year,2016,K02000001,,,65 and over,,Total,,Female,,Group self-invested personal pension
+1.9,,15.0,Year,2016,K02000001,,,65 and over,,Total,,Female,,Group stakeholder pension
+,x,32.0,Year,2016,K02000001,,,65 and over,,Total,,Female,,Unknown pension provision
+76.4,,1.2,Year,2016,K02000001,,,65 and over,,Total,,Female,,No pension provisiond
+8.1,,13.0,Year,2016,K02000001,,,65 and over,,Less than £100,,Female,,Defined benefit
+,x,24.0,Year,2016,K02000001,,,65 and over,,Less than £100,,Female,,Defined contribution
+,x,38.0,Year,2016,K02000001,,,65 and over,,Less than £100,,Female,,Group personal pension
+,x,,Year,2016,K02000001,,,65 and over,,Less than £100,,Female,,Group self-invested personal pension
+,x,50.0,Year,2016,K02000001,,,65 and over,,Less than £100,,Female,,Group stakeholder pension
+,x,70.0,Year,2016,K02000001,,,65 and over,,Less than £100,,Female,,Unknown pension provision
+87.4,,1.5,Year,2016,K02000001,,,65 and over,,Less than £100,,Female,,No pension provisiond
+8.4,,12.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,Female,,Defined benefit
+4.8,,16.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,Female,,Defined contribution
+,x,30.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,Female,,Group personal pension
+,x,70.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,Female,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,Female,,Group stakeholder pension
+,x,71.0,Year,2016,K02000001,,,65 and over,,£100 - £200,,Female,,Unknown pension provision
+83.3,,1.6,Year,2016,K02000001,,,65 and over,,£100 - £200,,Female,,No pension provisiond
+17.3,,11.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,Female,,Defined benefit
+6.1,,20.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,Female,,Defined contribution
+,x,26.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,Female,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,Female,,Group self-invested personal pension
+,x,28.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,Female,,Group stakeholder pension
+,x,70.0,Year,2016,K02000001,,,65 and over,,£200 - £300,,Female,,Unknown pension provision
+69.0,,3.4,Year,2016,K02000001,,,65 and over,,£200 - £300,,Female,,No pension provisiond
+19.0,,14.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,Female,,Defined benefit
+,x,22.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,Female,,Defined contribution
+,x,31.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,Female,,Group personal pension
+,x,57.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,Female,,Group self-invested personal pension
+,x,39.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,Female,,Group stakeholder pension
+,x,71.0,Year,2016,K02000001,,,65 and over,,£300 - £400,,Female,,Unknown pension provision
+64.5,,4.8,Year,2016,K02000001,,,65 and over,,£300 - £400,,Female,,No pension provisiond
+28.7,,15.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,Female,,Defined benefit
+,x,58.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,Female,,Defined contribution
+,x,37.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,Female,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,Female,,Group self-invested personal pension
+,x,44.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,Female,,Group stakeholder pension
+,x,99.0,Year,2016,K02000001,,,65 and over,,£400 - £500,,Female,,Unknown pension provision
+58.1,,8.1,Year,2016,K02000001,,,65 and over,,£400 - £500,,Female,,No pension provisiond
+,x,30.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Female,,Defined benefit
+,x,39.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Female,,Defined contribution
+,x,49.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Female,,Group personal pension
+,x,99.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Female,,Group self-invested personal pension
+,x,57.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Female,,Group stakeholder pension
+,x,99.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Female,,Unknown pension provision
+58.4,,11.0,Year,2016,K02000001,,,65 and over,,£500 - £600,,Female,,No pension provisiond
+26.9,,17.0,Year,2016,K02000001,,,65 and over,,£600 and over,,Female,,Defined benefit
+,x,56.0,Year,2016,K02000001,,,65 and over,,£600 and over,,Female,,Defined contribution
+,x,32.0,Year,2016,K02000001,,,65 and over,,£600 and over,,Female,,Group personal pension
+0.0,,0.0,Year,2016,K02000001,,,65 and over,,£600 and over,,Female,,Group self-invested personal pension
+,x,70.0,Year,2016,K02000001,,,65 and over,,£600 and over,,Female,,Group stakeholder pension
+0.0,,0.0,Year,2016,K02000001,,,65 and over,,£600 and over,,Female,,Unknown pension provision
+57.3,,9.1,Year,2016,K02000001,,,65 and over,,£600 and over,,Female,,No pension provisiond
