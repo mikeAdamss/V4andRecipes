@@ -22,7 +22,7 @@ full details are provided in the form of the attached details.json. Contents sho
                            },
                      "2": {
                            "format": "xls",
-                           "distinctiveTexat": "CV",
+                           "distinctiveText": "CV",
                            "name": "ASHE Pensions 1 CV"
                            }
                     },
