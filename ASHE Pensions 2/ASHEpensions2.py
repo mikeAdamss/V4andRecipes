@@ -26,9 +26,9 @@ for i in range(0, 2):
 
         pension = tab.excel_ref('C3').expand(RIGHT).is_not_blank().is_not_whitespace()
 
-        ageGroup = tab.excel_ref('A6:A77').is_bold()
+        ageGroup = tab.excel_ref('A6:A205').is_bold()
 
-        provision = tab.excel_ref('A6:A77')
+        provision = tab.excel_ref('A6:A205')
 
 
         # cell value overrides for agegroup (i.e bold values to Total)
@@ -45,7 +45,7 @@ for i in range(0, 2):
         }
 
         # Get all ons (including blanks and whistespace!)
-        obs = pension.waffle(tab.excel_ref('A6:A77'))
+        obs = pension.waffle(tab.excel_ref('A6:A205'))
 
         if percent:
             obs = obs.shift(RIGHT)
@@ -54,7 +54,7 @@ for i in range(0, 2):
             HDimConst(TIME, "2016"),
             HDimConst("Geography", "K02000001"),
             HDim(pension, "Provision", CLOSEST, LEFT),  # slower, but allows conditional percentage obs
-            HDim(ageGroup, "Age Group", CLOSEST, ABOVE),
+            HDim(ageGroup, "Industry", CLOSEST, ABOVE),
             HDim(provision, "Earnings", DIRECTLY, LEFT, cellvalueoverride=cvProv),
             HDimConst("Gender", tab.name)
         ]
@@ -74,7 +74,7 @@ for i in range(0, 2):
 
         # get the cvObs
         cvObs = cvTab.excel_ref('C3').expand(RIGHT).is_not_blank().is_not_whitespace()
-        cvObs = cvObs.waffle(tab.excel_ref('A6:A77'))
+        cvObs = cvObs.waffle(tab.excel_ref('A6:A205'))
         if percent:
             cvObs = cvObs.shift(RIGHT)
 
@@ -101,6 +101,6 @@ for i in range(0, 2):
         
         
     if percent:
-        writeCSV('ASHE Pensions Table 1 Percentages {p}{y}.csv'.format(y=year,p=prov), conversionsegments)
+        writeCSV('ASHE Pensions Table 2 Percentages {p}{y}.csv'.format(y=year,p=prov), conversionsegments)
     else:
-        writeCSV('ASHE Pensions Table 1 Values {p}{y}.csv'.format(y=year, p=prov), conversionsegments)
+        writeCSV('ASHE Pensions Table 2 Values {p}{y}.csv'.format(y=year, p=prov), conversionsegments)
