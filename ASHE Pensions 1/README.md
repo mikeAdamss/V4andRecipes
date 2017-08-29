@@ -1,6 +1,6 @@
-# ASHE Pensions Table 1 'recipe
+# ASHE Pensions Table 1 'recipe'
 
-Takes 2 input file (sone of data points one of Cv values for those data points). Created two output files: one of values with Cvs and one of percentages with Cvs.
+Takes 2 input file (one of data points, one of Cv values for those data points). Created two output files: one of values with Cvs and one of percentages with Cvs.
 
 # usage
 
