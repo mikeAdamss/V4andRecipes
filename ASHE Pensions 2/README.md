@@ -1,10 +1,10 @@
-# ASHE Pensions Table 1 'recipe'
+# ASHE Pensions Table 2 'recipe'
 
 Takes 2 input file (one of data points, one of Cv values for those data points). Created two output files: one of values with Cvs and one of percentages with Cvs.
 
 # usage
 
-```python ASHEpensions1 <values.xls> <CV.xls>```
+```python ASHEpensions2 <values.xls> <CV.xls>```
 
 
 ## details
@@ -18,18 +18,18 @@ full details are provided in the form of the attached details.json. Contents sho
                      "1": {
                            "format": "xls",
                            "distinctiveText": "",
-                           "name": "ASHE Pensions 1 data"
+                           "name": "ASHE Pensions 2 data"
                            },
                      "2": {
                            "format": "xls",
                            "distinctiveText": "CV",
-                           "name": "ASHE Pensions 1 CV"
+                           "name": "ASHE Pensions 2 CV"
                            }
                     },
-          "transformName": "ASHE Pensions 1",
+          "transformName": "ASHE Pensions 2",
           "outputs": [
-                      "ASHE Pensions 1 Values <year>.csv",
-                      "ASHE Pensions 1 Percentages <year>.csv"
+                      "ASHE Pensions 2 Values <year>.csv",
+                      "ASHE Pensions 2 Percentages <year>.csv"
                       ],
           "transformType": "many-to-many"}
 ```
