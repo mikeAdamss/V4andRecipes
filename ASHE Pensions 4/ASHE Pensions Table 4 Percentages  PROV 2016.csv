@@ -55,13 +55,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 5.3,,2.0,Year,2016,K02000001,,,£600 and over,,All,,Group stakeholder pension,,All employees
 1.3,,4.2,Year,2016,K02000001,,,£600 and over,,All,,Unknown pension provision,,All employees
 14.1,,1.2,Year,2016,K02000001,,,£600 and over,,All,,No pension provision,,All employees
-1.8,,5.6,Year,2016,K02000001,,,1 to 12 employees,,All,,Defined benefit,,1 to 12 employees
-6.3,,3.0,Year,2016,K02000001,,,1 to 12 employees,,All,,Defined contribution,,1 to 12 employees
-3.8,,4.0,Year,2016,K02000001,,,1 to 12 employees,,All,,Group personal pension,,1 to 12 employees
-0.6,,10.0,Year,2016,K02000001,,,1 to 12 employees,,All,,Group self-invested personal pension,,1 to 12 employees
-2.0,,5.5,Year,2016,K02000001,,,1 to 12 employees,,All,,Group stakeholder pension,,1 to 12 employees
-0.6,,10.0,Year,2016,K02000001,,,1 to 12 employees,,All,,Unknown pension provision,,1 to 12 employees
-84.8,,0.3,Year,2016,K02000001,,,1 to 12 employees,,All,,No pension provision,,1 to 12 employees
+1.8,,5.6,Year,2016,K02000001,,,Total,,All,,Defined benefit,,1 to 12 employees
+6.3,,3.0,Year,2016,K02000001,,,Total,,All,,Defined contribution,,1 to 12 employees
+3.8,,4.0,Year,2016,K02000001,,,Total,,All,,Group personal pension,,1 to 12 employees
+0.6,,10.0,Year,2016,K02000001,,,Total,,All,,Group self-invested personal pension,,1 to 12 employees
+2.0,,5.5,Year,2016,K02000001,,,Total,,All,,Group stakeholder pension,,1 to 12 employees
+0.6,,10.0,Year,2016,K02000001,,,Total,,All,,Unknown pension provision,,1 to 12 employees
+84.8,,0.3,Year,2016,K02000001,,,Total,,All,,No pension provision,,1 to 12 employees
 ,x,29.0,Year,2016,K02000001,,,Less than £100,,All,,Defined benefit,,1 to 12 employees
 2.2,,14.0,Year,2016,K02000001,,,Less than £100,,All,,Defined contribution,,1 to 12 employees
 ,x,34.0,Year,2016,K02000001,,,Less than £100,,All,,Group personal pension,,1 to 12 employees
@@ -111,13 +111,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 5.3,,9.5,Year,2016,K02000001,,,£600 and over,,All,,Group stakeholder pension,,1 to 12 employees
 ,x,23.0,Year,2016,K02000001,,,£600 and over,,All,,Unknown pension provision,,1 to 12 employees
 65.6,,1.6,Year,2016,K02000001,,,£600 and over,,All,,No pension provision,,1 to 12 employees
-8.0,,1.9,Year,2016,K02000001,,,13 to 99 employees,,All,,Defined benefit,,13 to 99 employees
-14.6,,1.4,Year,2016,K02000001,,,13 to 99 employees,,All,,Defined contribution,,13 to 99 employees
-18.3,,1.2,Year,2016,K02000001,,,13 to 99 employees,,All,,Group personal pension,,13 to 99 employees
-0.9,,6.4,Year,2016,K02000001,,,13 to 99 employees,,All,,Group self-invested personal pension,,13 to 99 employees
-5.3,,2.5,Year,2016,K02000001,,,13 to 99 employees,,All,,Group stakeholder pension,,13 to 99 employees
-2.0,,4.1,Year,2016,K02000001,,,13 to 99 employees,,All,,Unknown pension provision,,13 to 99 employees
-50.9,,0.6,Year,2016,K02000001,,,13 to 99 employees,,All,,No pension provision,,13 to 99 employees
+8.0,,1.9,Year,2016,K02000001,,,Total,,All,,Defined benefit,,13 to 99 employees
+14.6,,1.4,Year,2016,K02000001,,,Total,,All,,Defined contribution,,13 to 99 employees
+18.3,,1.2,Year,2016,K02000001,,,Total,,All,,Group personal pension,,13 to 99 employees
+0.9,,6.4,Year,2016,K02000001,,,Total,,All,,Group self-invested personal pension,,13 to 99 employees
+5.3,,2.5,Year,2016,K02000001,,,Total,,All,,Group stakeholder pension,,13 to 99 employees
+2.0,,4.1,Year,2016,K02000001,,,Total,,All,,Unknown pension provision,,13 to 99 employees
+50.9,,0.6,Year,2016,K02000001,,,Total,,All,,No pension provision,,13 to 99 employees
 4.5,,9.0,Year,2016,K02000001,,,Less than £100,,All,,Defined benefit,,13 to 99 employees
 4.8,,9.2,Year,2016,K02000001,,,Less than £100,,All,,Defined contribution,,13 to 99 employees
 1.9,,15.0,Year,2016,K02000001,,,Less than £100,,All,,Group personal pension,,13 to 99 employees
@@ -167,13 +167,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 8.1,,4.1,Year,2016,K02000001,,,£600 and over,,All,,Group stakeholder pension,,13 to 99 employees
 2.3,,7.9,Year,2016,K02000001,,,£600 and over,,All,,Unknown pension provision,,13 to 99 employees
 33.5,,1.7,Year,2016,K02000001,,,£600 and over,,All,,No pension provision,,13 to 99 employees
-18.7,,1.4,Year,2016,K02000001,,,100 to 499 employees,,All,,Defined benefit,,100 to 499 employees
-20.3,,1.3,Year,2016,K02000001,,,100 to 499 employees,,All,,Defined contribution,,100 to 499 employees
-27.6,,1.1,Year,2016,K02000001,,,100 to 499 employees,,All,,Group personal pension,,100 to 499 employees
-1.2,,6.1,Year,2016,K02000001,,,100 to 499 employees,,All,,Group self-invested personal pension,,100 to 499 employees
-6.8,,2.4,Year,2016,K02000001,,,100 to 499 employees,,All,,Group stakeholder pension,,100 to 499 employees
-2.0,,4.5,Year,2016,K02000001,,,100 to 499 employees,,All,,Unknown pension provision,,100 to 499 employees
-23.4,,1.1,Year,2016,K02000001,,,100 to 499 employees,,All,,No pension provision,,100 to 499 employees
+18.7,,1.4,Year,2016,K02000001,,,Total,,All,,Defined benefit,,100 to 499 employees
+20.3,,1.3,Year,2016,K02000001,,,Total,,All,,Defined contribution,,100 to 499 employees
+27.6,,1.1,Year,2016,K02000001,,,Total,,All,,Group personal pension,,100 to 499 employees
+1.2,,6.1,Year,2016,K02000001,,,Total,,All,,Group self-invested personal pension,,100 to 499 employees
+6.8,,2.4,Year,2016,K02000001,,,Total,,All,,Group stakeholder pension,,100 to 499 employees
+2.0,,4.5,Year,2016,K02000001,,,Total,,All,,Unknown pension provision,,100 to 499 employees
+23.4,,1.1,Year,2016,K02000001,,,Total,,All,,No pension provision,,100 to 499 employees
 9.8,,7.7,Year,2016,K02000001,,,Less than £100,,All,,Defined benefit,,100 to 499 employees
 7.9,,8.3,Year,2016,K02000001,,,Less than £100,,All,,Defined contribution,,100 to 499 employees
 4.9,,11.0,Year,2016,K02000001,,,Less than £100,,All,,Group personal pension,,100 to 499 employees
@@ -223,13 +223,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 8.5,,3.9,Year,2016,K02000001,,,£600 and over,,All,,Group stakeholder pension,,100 to 499 employees
 1.8,,8.9,Year,2016,K02000001,,,£600 and over,,All,,Unknown pension provision,,100 to 499 employees
 10.0,,3.6,Year,2016,K02000001,,,£600 and over,,All,,No pension provision,,100 to 499 employees
-23.4,,1.8,Year,2016,K02000001,,,500 to 999 employees,,All,,Defined benefit,,500 to 999 employees
-21.6,,1.9,Year,2016,K02000001,,,500 to 999 employees,,All,,Defined contribution,,500 to 999 employees
-25.1,,1.7,Year,2016,K02000001,,,500 to 999 employees,,All,,Group personal pension,,500 to 999 employees
-1.0,,10.0,Year,2016,K02000001,,,500 to 999 employees,,All,,Group self-invested personal pension,,500 to 999 employees
-6.2,,4.0,Year,2016,K02000001,,,500 to 999 employees,,All,,Group stakeholder pension,,500 to 999 employees
-1.8,,7.4,Year,2016,K02000001,,,500 to 999 employees,,All,,Unknown pension provision,,500 to 999 employees
-21.0,,1.9,Year,2016,K02000001,,,500 to 999 employees,,All,,No pension provision,,500 to 999 employees
+23.4,,1.8,Year,2016,K02000001,,,Total,,All,,Defined benefit,,500 to 999 employees
+21.6,,1.9,Year,2016,K02000001,,,Total,,All,,Defined contribution,,500 to 999 employees
+25.1,,1.7,Year,2016,K02000001,,,Total,,All,,Group personal pension,,500 to 999 employees
+1.0,,10.0,Year,2016,K02000001,,,Total,,All,,Group self-invested personal pension,,500 to 999 employees
+6.2,,4.0,Year,2016,K02000001,,,Total,,All,,Group stakeholder pension,,500 to 999 employees
+1.8,,7.4,Year,2016,K02000001,,,Total,,All,,Unknown pension provision,,500 to 999 employees
+21.0,,1.9,Year,2016,K02000001,,,Total,,All,,No pension provision,,500 to 999 employees
 8.1,,14.0,Year,2016,K02000001,,,Less than £100,,All,,Defined benefit,,500 to 999 employees
 8.0,,13.0,Year,2016,K02000001,,,Less than £100,,All,,Defined contribution,,500 to 999 employees
 5.8,,16.0,Year,2016,K02000001,,,Less than £100,,All,,Group personal pension,,500 to 999 employees
@@ -279,13 +279,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 7.2,,6.5,Year,2016,K02000001,,,£600 and over,,All,,Group stakeholder pension,,500 to 999 employees
 1.9,,13.0,Year,2016,K02000001,,,£600 and over,,All,,Unknown pension provision,,500 to 999 employees
 8.0,,6.2,Year,2016,K02000001,,,£600 and over,,All,,No pension provision,,500 to 999 employees
-45.1,,0.3,Year,2016,K02000001,,,"1,000 employees or more",,All,,Defined benefit,,"1,000 employees or more"
-21.9,,0.6,Year,2016,K02000001,,,"1,000 employees or more",,All,,Defined contribution,,"1,000 employees or more"
-9.1,,1.1,Year,2016,K02000001,,,"1,000 employees or more",,All,,Group personal pension,,"1,000 employees or more"
-0.3,,6.1,Year,2016,K02000001,,,"1,000 employees or more",,All,,Group self-invested personal pension,,"1,000 employees or more"
-3.7,,1.6,Year,2016,K02000001,,,"1,000 employees or more",,All,,Group stakeholder pension,,"1,000 employees or more"
-0.9,,3.7,Year,2016,K02000001,,,"1,000 employees or more",,All,,Unknown pension provision,,"1,000 employees or more"
-19.1,,0.6,Year,2016,K02000001,,,"1,000 employees or more",,All,,No pension provision,,"1,000 employees or more"
+45.1,,0.3,Year,2016,K02000001,,,Total,,All,,Defined benefit,,"1,000 employees or more"
+21.9,,0.6,Year,2016,K02000001,,,Total,,All,,Defined contribution,,"1,000 employees or more"
+9.1,,1.1,Year,2016,K02000001,,,Total,,All,,Group personal pension,,"1,000 employees or more"
+0.3,,6.1,Year,2016,K02000001,,,Total,,All,,Group self-invested personal pension,,"1,000 employees or more"
+3.7,,1.6,Year,2016,K02000001,,,Total,,All,,Group stakeholder pension,,"1,000 employees or more"
+0.9,,3.7,Year,2016,K02000001,,,Total,,All,,Unknown pension provision,,"1,000 employees or more"
+19.1,,0.6,Year,2016,K02000001,,,Total,,All,,No pension provision,,"1,000 employees or more"
 20.3,,2.4,Year,2016,K02000001,,,Less than £100,,All,,Defined benefit,,"1,000 employees or more"
 9.7,,3.7,Year,2016,K02000001,,,Less than £100,,All,,Defined contribution,,"1,000 employees or more"
 1.5,,11.0,Year,2016,K02000001,,,Less than £100,,All,,Group personal pension,,"1,000 employees or more"
@@ -391,13 +391,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 6.0,,2.3,Year,2016,K02000001,,,£600 and over,,Male,,Group stakeholder pension,,All employees
 1.4,,5.0,Year,2016,K02000001,,,£600 and over,,Male,,Unknown pension provision,,All employees
 15.6,,1.4,Year,2016,K02000001,,,£600 and over,,Male,,No pension provision,,All employees
-1.5,,9.2,Year,2016,K02000001,,,1 to 12 employees,,Male,,Defined benefit,,1 to 12 employees
-7.3,,4.0,Year,2016,K02000001,,,1 to 12 employees,,Male,,Defined contribution,,1 to 12 employees
-4.2,,5.5,Year,2016,K02000001,,,1 to 12 employees,,Male,,Group personal pension,,1 to 12 employees
-0.8,,13.0,Year,2016,K02000001,,,1 to 12 employees,,Male,,Group self-invested personal pension,,1 to 12 employees
-2.4,,7.2,Year,2016,K02000001,,,1 to 12 employees,,Male,,Group stakeholder pension,,1 to 12 employees
-0.6,,14.0,Year,2016,K02000001,,,1 to 12 employees,,Male,,Unknown pension provision,,1 to 12 employees
-83.3,,0.5,Year,2016,K02000001,,,1 to 12 employees,,Male,,No pension provision,,1 to 12 employees
+1.5,,9.2,Year,2016,K02000001,,,Total,,Male,,Defined benefit,,1 to 12 employees
+7.3,,4.0,Year,2016,K02000001,,,Total,,Male,,Defined contribution,,1 to 12 employees
+4.2,,5.5,Year,2016,K02000001,,,Total,,Male,,Group personal pension,,1 to 12 employees
+0.8,,13.0,Year,2016,K02000001,,,Total,,Male,,Group self-invested personal pension,,1 to 12 employees
+2.4,,7.2,Year,2016,K02000001,,,Total,,Male,,Group stakeholder pension,,1 to 12 employees
+0.6,,14.0,Year,2016,K02000001,,,Total,,Male,,Unknown pension provision,,1 to 12 employees
+83.3,,0.5,Year,2016,K02000001,,,Total,,Male,,No pension provision,,1 to 12 employees
 ,x,,Year,2016,K02000001,,,Less than £100,,Male,,Defined benefit,,1 to 12 employees
 ,x,28.0,Year,2016,K02000001,,,Less than £100,,Male,,Defined contribution,,1 to 12 employees
 ,x,51.0,Year,2016,K02000001,,,Less than £100,,Male,,Group personal pension,,1 to 12 employees
@@ -447,13 +447,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 5.3,,11.0,Year,2016,K02000001,,,£600 and over,,Male,,Group stakeholder pension,,1 to 12 employees
 ,x,26.0,Year,2016,K02000001,,,£600 and over,,Male,,Unknown pension provision,,1 to 12 employees
 66.1,,1.9,Year,2016,K02000001,,,£600 and over,,Male,,No pension provision,,1 to 12 employees
-4.8,,3.6,Year,2016,K02000001,,,13 to 99 employees,,Male,,Defined benefit,,13 to 99 employees
-15.6,,1.9,Year,2016,K02000001,,,13 to 99 employees,,Male,,Defined contribution,,13 to 99 employees
-21.0,,1.6,Year,2016,K02000001,,,13 to 99 employees,,Male,,Group personal pension,,13 to 99 employees
-1.1,,7.9,Year,2016,K02000001,,,13 to 99 employees,,Male,,Group self-invested personal pension,,13 to 99 employees
-5.9,,3.2,Year,2016,K02000001,,,13 to 99 employees,,Male,,Group stakeholder pension,,13 to 99 employees
-2.0,,5.6,Year,2016,K02000001,,,13 to 99 employees,,Male,,Unknown pension provision,,13 to 99 employees
-49.6,,0.8,Year,2016,K02000001,,,13 to 99 employees,,Male,,No pension provision,,13 to 99 employees
+4.8,,3.6,Year,2016,K02000001,,,Total,,Male,,Defined benefit,,13 to 99 employees
+15.6,,1.9,Year,2016,K02000001,,,Total,,Male,,Defined contribution,,13 to 99 employees
+21.0,,1.6,Year,2016,K02000001,,,Total,,Male,,Group personal pension,,13 to 99 employees
+1.1,,7.9,Year,2016,K02000001,,,Total,,Male,,Group self-invested personal pension,,13 to 99 employees
+5.9,,3.2,Year,2016,K02000001,,,Total,,Male,,Group stakeholder pension,,13 to 99 employees
+2.0,,5.6,Year,2016,K02000001,,,Total,,Male,,Unknown pension provision,,13 to 99 employees
+49.6,,0.8,Year,2016,K02000001,,,Total,,Male,,No pension provision,,13 to 99 employees
 ,x,26.0,Year,2016,K02000001,,,Less than £100,,Male,,Defined benefit,,13 to 99 employees
 5.3,,15.0,Year,2016,K02000001,,,Less than £100,,Male,,Defined contribution,,13 to 99 employees
 ,x,27.0,Year,2016,K02000001,,,Less than £100,,Male,,Group personal pension,,13 to 99 employees
@@ -503,13 +503,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 8.4,,4.7,Year,2016,K02000001,,,£600 and over,,Male,,Group stakeholder pension,,13 to 99 employees
 2.3,,9.4,Year,2016,K02000001,,,£600 and over,,Male,,Unknown pension provision,,13 to 99 employees
 35.3,,1.9,Year,2016,K02000001,,,£600 and over,,Male,,No pension provision,,13 to 99 employees
-14.8,,2.2,Year,2016,K02000001,,,100 to 499 employees,,Male,,Defined benefit,,100 to 499 employees
-21.4,,1.7,Year,2016,K02000001,,,100 to 499 employees,,Male,,Defined contribution,,100 to 499 employees
-31.5,,1.3,Year,2016,K02000001,,,100 to 499 employees,,Male,,Group personal pension,,100 to 499 employees
-1.4,,7.8,Year,2016,K02000001,,,100 to 499 employees,,Male,,Group self-invested personal pension,,100 to 499 employees
-8.0,,3.1,Year,2016,K02000001,,,100 to 499 employees,,Male,,Group stakeholder pension,,100 to 499 employees
-2.1,,5.9,Year,2016,K02000001,,,100 to 499 employees,,Male,,Unknown pension provision,,100 to 499 employees
-20.7,,1.7,Year,2016,K02000001,,,100 to 499 employees,,Male,,No pension provision,,100 to 499 employees
+14.8,,2.2,Year,2016,K02000001,,,Total,,Male,,Defined benefit,,100 to 499 employees
+21.4,,1.7,Year,2016,K02000001,,,Total,,Male,,Defined contribution,,100 to 499 employees
+31.5,,1.3,Year,2016,K02000001,,,Total,,Male,,Group personal pension,,100 to 499 employees
+1.4,,7.8,Year,2016,K02000001,,,Total,,Male,,Group self-invested personal pension,,100 to 499 employees
+8.0,,3.1,Year,2016,K02000001,,,Total,,Male,,Group stakeholder pension,,100 to 499 employees
+2.1,,5.9,Year,2016,K02000001,,,Total,,Male,,Unknown pension provision,,100 to 499 employees
+20.7,,1.7,Year,2016,K02000001,,,Total,,Male,,No pension provision,,100 to 499 employees
 6.5,,19.0,Year,2016,K02000001,,,Less than £100,,Male,,Defined benefit,,100 to 499 employees
 8.0,,15.0,Year,2016,K02000001,,,Less than £100,,Male,,Defined contribution,,100 to 499 employees
 5.8,,18.0,Year,2016,K02000001,,,Less than £100,,Male,,Group personal pension,,100 to 499 employees
@@ -559,13 +559,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 9.2,,4.5,Year,2016,K02000001,,,£600 and over,,Male,,Group stakeholder pension,,100 to 499 employees
 1.8,,11.0,Year,2016,K02000001,,,£600 and over,,Male,,Unknown pension provision,,100 to 499 employees
 10.2,,4.3,Year,2016,K02000001,,,£600 and over,,Male,,No pension provision,,100 to 499 employees
-21.2,,2.7,Year,2016,K02000001,,,500 to 999 employees,,Male,,Defined benefit,,500 to 999 employees
-23.5,,2.5,Year,2016,K02000001,,,500 to 999 employees,,Male,,Defined contribution,,500 to 999 employees
-26.7,,2.3,Year,2016,K02000001,,,500 to 999 employees,,Male,,Group personal pension,,500 to 999 employees
-1.2,,12.0,Year,2016,K02000001,,,500 to 999 employees,,Male,,Group self-invested personal pension,,500 to 999 employees
-7.0,,5.1,Year,2016,K02000001,,,500 to 999 employees,,Male,,Group stakeholder pension,,500 to 999 employees
-1.9,,9.9,Year,2016,K02000001,,,500 to 999 employees,,Male,,Unknown pension provision,,500 to 999 employees
-18.4,,2.8,Year,2016,K02000001,,,500 to 999 employees,,Male,,No pension provision,,500 to 999 employees
+21.2,,2.7,Year,2016,K02000001,,,Total,,Male,,Defined benefit,,500 to 999 employees
+23.5,,2.5,Year,2016,K02000001,,,Total,,Male,,Defined contribution,,500 to 999 employees
+26.7,,2.3,Year,2016,K02000001,,,Total,,Male,,Group personal pension,,500 to 999 employees
+1.2,,12.0,Year,2016,K02000001,,,Total,,Male,,Group self-invested personal pension,,500 to 999 employees
+7.0,,5.1,Year,2016,K02000001,,,Total,,Male,,Group stakeholder pension,,500 to 999 employees
+1.9,,9.9,Year,2016,K02000001,,,Total,,Male,,Unknown pension provision,,500 to 999 employees
+18.4,,2.8,Year,2016,K02000001,,,Total,,Male,,No pension provision,,500 to 999 employees
 ,x,25.0,Year,2016,K02000001,,,Less than £100,,Male,,Defined benefit,,500 to 999 employees
 ,x,21.0,Year,2016,K02000001,,,Less than £100,,Male,,Defined contribution,,500 to 999 employees
 ,x,24.0,Year,2016,K02000001,,,Less than £100,,Male,,Group personal pension,,500 to 999 employees
@@ -615,13 +615,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 7.4,,7.7,Year,2016,K02000001,,,£600 and over,,Male,,Group stakeholder pension,,500 to 999 employees
 2.3,,14.0,Year,2016,K02000001,,,£600 and over,,Male,,Unknown pension provision,,500 to 999 employees
 8.5,,7.3,Year,2016,K02000001,,,£600 and over,,Male,,No pension provision,,500 to 999 employees
-38.9,,0.6,Year,2016,K02000001,,,"1,000 employees or more",,Male,,Defined benefit,,"1,000 employees or more"
-26.7,,0.8,Year,2016,K02000001,,,"1,000 employees or more",,Male,,Defined contribution,,"1,000 employees or more"
-11.7,,1.4,Year,2016,K02000001,,,"1,000 employees or more",,Male,,Group personal pension,,"1,000 employees or more"
-0.5,,7.4,Year,2016,K02000001,,,"1,000 employees or more",,Male,,Group self-invested personal pension,,"1,000 employees or more"
-4.6,,2.2,Year,2016,K02000001,,,"1,000 employees or more",,Male,,Group stakeholder pension,,"1,000 employees or more"
-0.9,,5.4,Year,2016,K02000001,,,"1,000 employees or more",,Male,,Unknown pension provision,,"1,000 employees or more"
-16.8,,1.0,Year,2016,K02000001,,,"1,000 employees or more",,Male,,No pension provision,,"1,000 employees or more"
+38.9,,0.6,Year,2016,K02000001,,,Total,,Male,,Defined benefit,,"1,000 employees or more"
+26.7,,0.8,Year,2016,K02000001,,,Total,,Male,,Defined contribution,,"1,000 employees or more"
+11.7,,1.4,Year,2016,K02000001,,,Total,,Male,,Group personal pension,,"1,000 employees or more"
+0.5,,7.4,Year,2016,K02000001,,,Total,,Male,,Group self-invested personal pension,,"1,000 employees or more"
+4.6,,2.2,Year,2016,K02000001,,,Total,,Male,,Group stakeholder pension,,"1,000 employees or more"
+0.9,,5.4,Year,2016,K02000001,,,Total,,Male,,Unknown pension provision,,"1,000 employees or more"
+16.8,,1.0,Year,2016,K02000001,,,Total,,Male,,No pension provision,,"1,000 employees or more"
 8.8,,8.2,Year,2016,K02000001,,,Less than £100,,Male,,Defined benefit,,"1,000 employees or more"
 13.3,,6.1,Year,2016,K02000001,,,Less than £100,,Male,,Defined contribution,,"1,000 employees or more"
 1.7,,19.0,Year,2016,K02000001,,,Less than £100,,Male,,Group personal pension,,"1,000 employees or more"
@@ -727,13 +727,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 3.9,,4.0,Year,2016,K02000001,,,£600 and over,,Female,,Group stakeholder pension,,All employees
 1.1,,7.6,Year,2016,K02000001,,,£600 and over,,Female,,Unknown pension provision,,All employees
 11.0,,2.3,Year,2016,K02000001,,,£600 and over,,Female,,No pension provision,,All employees
-2.2,,7.0,Year,2016,K02000001,,,1 to 12 employees,,Female,,Defined benefit,,1 to 12 employees
-5.3,,4.5,Year,2016,K02000001,,,1 to 12 employees,,Female,,Defined contribution,,1 to 12 employees
-3.4,,5.8,Year,2016,K02000001,,,1 to 12 employees,,Female,,Group personal pension,,1 to 12 employees
-0.5,,16.0,Year,2016,K02000001,,,1 to 12 employees,,Female,,Group self-invested personal pension,,1 to 12 employees
-1.7,,8.3,Year,2016,K02000001,,,1 to 12 employees,,Female,,Group stakeholder pension,,1 to 12 employees
-0.6,,14.0,Year,2016,K02000001,,,1 to 12 employees,,Female,,Unknown pension provision,,1 to 12 employees
-86.4,,0.4,Year,2016,K02000001,,,1 to 12 employees,,Female,,No pension provision,,1 to 12 employees
+2.2,,7.0,Year,2016,K02000001,,,Total,,Female,,Defined benefit,,1 to 12 employees
+5.3,,4.5,Year,2016,K02000001,,,Total,,Female,,Defined contribution,,1 to 12 employees
+3.4,,5.8,Year,2016,K02000001,,,Total,,Female,,Group personal pension,,1 to 12 employees
+0.5,,16.0,Year,2016,K02000001,,,Total,,Female,,Group self-invested personal pension,,1 to 12 employees
+1.7,,8.3,Year,2016,K02000001,,,Total,,Female,,Group stakeholder pension,,1 to 12 employees
+0.6,,14.0,Year,2016,K02000001,,,Total,,Female,,Unknown pension provision,,1 to 12 employees
+86.4,,0.4,Year,2016,K02000001,,,Total,,Female,,No pension provision,,1 to 12 employees
 ,x,30.0,Year,2016,K02000001,,,Less than £100,,Female,,Defined benefit,,1 to 12 employees
 2.3,,16.0,Year,2016,K02000001,,,Less than £100,,Female,,Defined contribution,,1 to 12 employees
 ,x,45.0,Year,2016,K02000001,,,Less than £100,,Female,,Group personal pension,,1 to 12 employees
@@ -783,13 +783,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 5.3,,19.0,Year,2016,K02000001,,,£600 and over,,Female,,Group stakeholder pension,,1 to 12 employees
 ,x,50.0,Year,2016,K02000001,,,£600 and over,,Female,,Unknown pension provision,,1 to 12 employees
 63.8,,3.5,Year,2016,K02000001,,,£600 and over,,Female,,No pension provision,,1 to 12 employees
-11.8,,2.2,Year,2016,K02000001,,,13 to 99 employees,,Female,,Defined benefit,,13 to 99 employees
-13.5,,2.0,Year,2016,K02000001,,,13 to 99 employees,,Female,,Defined contribution,,13 to 99 employees
-15.2,,1.9,Year,2016,K02000001,,,13 to 99 employees,,Female,,Group personal pension,,13 to 99 employees
-0.6,,11.0,Year,2016,K02000001,,,13 to 99 employees,,Female,,Group self-invested personal pension,,13 to 99 employees
-4.6,,3.8,Year,2016,K02000001,,,13 to 99 employees,,Female,,Group stakeholder pension,,13 to 99 employees
-1.9,,5.9,Year,2016,K02000001,,,13 to 99 employees,,Female,,Unknown pension provision,,13 to 99 employees
-52.5,,0.8,Year,2016,K02000001,,,13 to 99 employees,,Female,,No pension provision,,13 to 99 employees
+11.8,,2.2,Year,2016,K02000001,,,Total,,Female,,Defined benefit,,13 to 99 employees
+13.5,,2.0,Year,2016,K02000001,,,Total,,Female,,Defined contribution,,13 to 99 employees
+15.2,,1.9,Year,2016,K02000001,,,Total,,Female,,Group personal pension,,13 to 99 employees
+0.6,,11.0,Year,2016,K02000001,,,Total,,Female,,Group self-invested personal pension,,13 to 99 employees
+4.6,,3.8,Year,2016,K02000001,,,Total,,Female,,Group stakeholder pension,,13 to 99 employees
+1.9,,5.9,Year,2016,K02000001,,,Total,,Female,,Unknown pension provision,,13 to 99 employees
+52.5,,0.8,Year,2016,K02000001,,,Total,,Female,,No pension provision,,13 to 99 employees
 5.9,,9.6,Year,2016,K02000001,,,Less than £100,,Female,,Defined benefit,,13 to 99 employees
 4.5,,12.0,Year,2016,K02000001,,,Less than £100,,Female,,Defined contribution,,13 to 99 employees
 2.0,,18.0,Year,2016,K02000001,,,Less than £100,,Female,,Group personal pension,,13 to 99 employees
@@ -839,13 +839,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 7.2,,8.1,Year,2016,K02000001,,,£600 and over,,Female,,Group stakeholder pension,,13 to 99 employees
 2.4,,15.0,Year,2016,K02000001,,,£600 and over,,Female,,Unknown pension provision,,13 to 99 employees
 28.4,,3.6,Year,2016,K02000001,,,£600 and over,,Female,,No pension provision,,13 to 99 employees
-23.5,,1.7,Year,2016,K02000001,,,100 to 499 employees,,Female,,Defined benefit,,100 to 499 employees
-18.9,,1.9,Year,2016,K02000001,,,100 to 499 employees,,Female,,Defined contribution,,100 to 499 employees
-22.9,,1.7,Year,2016,K02000001,,,100 to 499 employees,,Female,,Group personal pension,,100 to 499 employees
-0.9,,9.7,Year,2016,K02000001,,,100 to 499 employees,,Female,,Group self-invested personal pension,,100 to 499 employees
-5.4,,3.9,Year,2016,K02000001,,,100 to 499 employees,,Female,,Group stakeholder pension,,100 to 499 employees
-1.9,,6.7,Year,2016,K02000001,,,100 to 499 employees,,Female,,Unknown pension provision,,100 to 499 employees
-26.6,,1.5,Year,2016,K02000001,,,100 to 499 employees,,Female,,No pension provision,,100 to 499 employees
+23.5,,1.7,Year,2016,K02000001,,,Total,,Female,,Defined benefit,,100 to 499 employees
+18.9,,1.9,Year,2016,K02000001,,,Total,,Female,,Defined contribution,,100 to 499 employees
+22.9,,1.7,Year,2016,K02000001,,,Total,,Female,,Group personal pension,,100 to 499 employees
+0.9,,9.7,Year,2016,K02000001,,,Total,,Female,,Group self-invested personal pension,,100 to 499 employees
+5.4,,3.9,Year,2016,K02000001,,,Total,,Female,,Group stakeholder pension,,100 to 499 employees
+1.9,,6.7,Year,2016,K02000001,,,Total,,Female,,Unknown pension provision,,100 to 499 employees
+26.6,,1.5,Year,2016,K02000001,,,Total,,Female,,No pension provision,,100 to 499 employees
 11.3,,8.4,Year,2016,K02000001,,,Less than £100,,Female,,Defined benefit,,100 to 499 employees
 7.8,,9.9,Year,2016,K02000001,,,Less than £100,,Female,,Defined contribution,,100 to 499 employees
 4.5,,14.0,Year,2016,K02000001,,,Less than £100,,Female,,Group personal pension,,100 to 499 employees
@@ -895,13 +895,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 6.8,,8.0,Year,2016,K02000001,,,£600 and over,,Female,,Group stakeholder pension,,100 to 499 employees
 1.6,,17.0,Year,2016,K02000001,,,£600 and over,,Female,,Unknown pension provision,,100 to 499 employees
 9.5,,6.6,Year,2016,K02000001,,,£600 and over,,Female,,No pension provision,,100 to 499 employees
-26.1,,2.5,Year,2016,K02000001,,,500 to 999 employees,,Female,,Defined benefit,,500 to 999 employees
-19.2,,2.9,Year,2016,K02000001,,,500 to 999 employees,,Female,,Defined contribution,,500 to 999 employees
-23.0,,2.7,Year,2016,K02000001,,,500 to 999 employees,,Female,,Group personal pension,,500 to 999 employees
-0.7,,17.0,Year,2016,K02000001,,,500 to 999 employees,,Female,,Group self-invested personal pension,,500 to 999 employees
-5.0,,6.4,Year,2016,K02000001,,,500 to 999 employees,,Female,,Group stakeholder pension,,500 to 999 employees
-1.6,,11.0,Year,2016,K02000001,,,500 to 999 employees,,Female,,Unknown pension provision,,500 to 999 employees
-24.3,,2.5,Year,2016,K02000001,,,500 to 999 employees,,Female,,No pension provision,,500 to 999 employees
+26.1,,2.5,Year,2016,K02000001,,,Total,,Female,,Defined benefit,,500 to 999 employees
+19.2,,2.9,Year,2016,K02000001,,,Total,,Female,,Defined contribution,,500 to 999 employees
+23.0,,2.7,Year,2016,K02000001,,,Total,,Female,,Group personal pension,,500 to 999 employees
+0.7,,17.0,Year,2016,K02000001,,,Total,,Female,,Group self-invested personal pension,,500 to 999 employees
+5.0,,6.4,Year,2016,K02000001,,,Total,,Female,,Group stakeholder pension,,500 to 999 employees
+1.6,,11.0,Year,2016,K02000001,,,Total,,Female,,Unknown pension provision,,500 to 999 employees
+24.3,,2.5,Year,2016,K02000001,,,Total,,Female,,No pension provision,,500 to 999 employees
 8.8,,16.0,Year,2016,K02000001,,,Less than £100,,Female,,Defined benefit,,500 to 999 employees
 7.5,,17.0,Year,2016,K02000001,,,Less than £100,,Female,,Defined contribution,,500 to 999 employees
 ,x,21.0,Year,2016,K02000001,,,Less than £100,,Female,,Group personal pension,,500 to 999 employees
@@ -951,13 +951,13 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Earnings_co
 6.7,,12.0,Year,2016,K02000001,,,£600 and over,,Female,,Group stakeholder pension,,500 to 999 employees
 ,x,33.0,Year,2016,K02000001,,,£600 and over,,Female,,Unknown pension provision,,500 to 999 employees
 6.9,,12.0,Year,2016,K02000001,,,£600 and over,,Female,,No pension provision,,500 to 999 employees
-50.4,,0.4,Year,2016,K02000001,,,"1,000 employees or more",,Female,,Defined benefit,,"1,000 employees or more"
-17.8,,0.9,Year,2016,K02000001,,,"1,000 employees or more",,Female,,Defined contribution,,"1,000 employees or more"
-6.9,,1.6,Year,2016,K02000001,,,"1,000 employees or more",,Female,,Group personal pension,,"1,000 employees or more"
-0.2,,11.0,Year,2016,K02000001,,,"1,000 employees or more",,Female,,Group self-invested personal pension,,"1,000 employees or more"
-2.9,,2.4,Year,2016,K02000001,,,"1,000 employees or more",,Female,,Group stakeholder pension,,"1,000 employees or more"
-0.8,,5.0,Year,2016,K02000001,,,"1,000 employees or more",,Female,,Unknown pension provision,,"1,000 employees or more"
-21.0,,0.8,Year,2016,K02000001,,,"1,000 employees or more",,Female,,No pension provision,,"1,000 employees or more"
+50.4,,0.4,Year,2016,K02000001,,,Total,,Female,,Defined benefit,,"1,000 employees or more"
+17.8,,0.9,Year,2016,K02000001,,,Total,,Female,,Defined contribution,,"1,000 employees or more"
+6.9,,1.6,Year,2016,K02000001,,,Total,,Female,,Group personal pension,,"1,000 employees or more"
+0.2,,11.0,Year,2016,K02000001,,,Total,,Female,,Group self-invested personal pension,,"1,000 employees or more"
+2.9,,2.4,Year,2016,K02000001,,,Total,,Female,,Group stakeholder pension,,"1,000 employees or more"
+0.8,,5.0,Year,2016,K02000001,,,Total,,Female,,Unknown pension provision,,"1,000 employees or more"
+21.0,,0.8,Year,2016,K02000001,,,Total,,Female,,No pension provision,,"1,000 employees or more"
 24.5,,2.5,Year,2016,K02000001,,,Less than £100,,Female,,Defined benefit,,"1,000 employees or more"
 8.3,,4.7,Year,2016,K02000001,,,Less than £100,,Female,,Defined contribution,,"1,000 employees or more"
 1.4,,13.0,Year,2016,K02000001,,,Less than £100,,Female,,Group personal pension,,"1,000 employees or more"
