@@ -10,16 +10,16 @@ import sys
 
 # table 5
 details1 = {
-    "lastRow":"59",
-    "focus":"Age Group",
+    "lastRow":"155",
+    "focus":"Industry",
     "extraDim":"Contributor",
     "extraItem":"Employee"
          
     }
 # table 9  
 details2 = {
-    "lastRow":"59",
-    "focus":"Age Group",
+    "lastRow":"155",
+    "focus":"Industry",
     "extraDim":"Contributor",
     "extraItem":"Employer"
            }
@@ -164,7 +164,7 @@ else:
 valFirst = processOne(inputFile1, inputFile2, details1, year)
 valSecond = processOne(inputFile3, inputFile4, details2, year)
 valDset = pd.concat(valFirst + valSecond)
-writeCSV('ASHE Pensions Tables 5 and 9 Values {p}{y}.csv'.format(y=year, p=addLab), valDset)
+writeCSV('ASHE Pensions Tables 6 and 10 Values {p}{y}.csv'.format(y=year, p=addLab), valDset)
         
 
 # ############
@@ -175,5 +175,5 @@ writeCSV('ASHE Pensions Tables 5 and 9 Values {p}{y}.csv'.format(y=year, p=addLa
 perFirst = processOne(inputFile1, inputFile2, details1, year, percent=True)
 perSecond = processOne(inputFile3, inputFile4, details2, year, percent=True)
 perDset = pd.concat(valFirst + valSecond)
-writeCSV('ASHE Pensions Tables 5 and 9 Percentages {p}{y}.csv'.format(y=year, p=addLab), perDset)
+writeCSV('ASHE Pensions Tables 6 and 10 Percentages {p}{y}.csv'.format(y=year, p=addLab), perDset)
   
