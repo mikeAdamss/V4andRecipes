@@ -11,6 +11,10 @@ year = int(year.strip())
 tabs = loadxlstabs(inputFile1)
 
 
+lastRow = "205"
+focus = "Industry"
+
+
 # get rid of notes and glossary tabs
 tabs = [tab for tab in tabs if tab.name.lower().strip() not in ['notes','glossary']]
 
@@ -26,9 +30,9 @@ for i in range(0, 2):
 
         pension = tab.excel_ref('C3').expand(RIGHT).is_not_blank().is_not_whitespace()
 
-        ageGroup = tab.excel_ref('A6:A205').is_bold()
+        ageGroup = tab.excel_ref('A6:A' + lastRow).is_bold()
 
-        provision = tab.excel_ref('A6:A205')
+        provision = tab.excel_ref('A6:A' + lastRow)
 
 
         # cell value overrides for agegroup (i.e bold values to Total)
@@ -45,7 +49,7 @@ for i in range(0, 2):
         }
 
         # Get all ons (including blanks and whistespace!)
-        obs = pension.waffle(tab.excel_ref('A6:A205'))
+        obs = pension.waffle(tab.excel_ref('A6:A' + lastRow))
 
         if percent:
             obs = obs.shift(RIGHT)
@@ -54,7 +58,7 @@ for i in range(0, 2):
             HDimConst(TIME, "2016"),
             HDimConst("Geography", "K02000001"),
             HDim(pension, "Provision", CLOSEST, LEFT),  # slower, but allows conditional percentage obs
-            HDim(ageGroup, "Industry", CLOSEST, ABOVE),
+            HDim(ageGroup, focus, CLOSEST, ABOVE),
             HDim(provision, "Earnings", DIRECTLY, LEFT, cellvalueoverride=cvProv),
             HDimConst("Gender", tab.name)
         ]
@@ -75,7 +79,7 @@ for i in range(0, 2):
 
         # get the cvObs
         cvObs = cvTab.excel_ref('C3').expand(RIGHT).is_not_blank().is_not_whitespace()
-        cvObs = cvObs.waffle(tab.excel_ref('A6:A205'))
+        cvObs = cvObs.waffle(tab.excel_ref('A6:A' + lastRow))
         if percent:
             cvObs = cvObs.shift(RIGHT)
 
@@ -102,6 +106,6 @@ for i in range(0, 2):
         
         
     if percent:
-        writeCSV('ASHE Pensions Table 2 Percentages {p}{y}.csv'.format(y=year,p=prov), conversionsegments)
+        writeCSV('ASHE Pensions Table 3 Percentages {p}{y}.csv'.format(y=year,p=prov), conversionsegments)
     else:
-        writeCSV('ASHE Pensions Table 2 Values {p}{y}.csv'.format(y=year, p=prov), conversionsegments)
+        writeCSV('ASHE Pensions Table 3 Values {p}{y}.csv'.format(y=year, p=prov), conversionsegments)
