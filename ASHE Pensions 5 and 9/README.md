@@ -1,10 +1,10 @@
-# ASHE Pensions Table 1 'recipe'
+# ASHE Pensions Tables 5 & 9 'recipe'
 
-Takes 2 input file (one of data points, one of Cv values for those data points). Created two output files: one of values with Cvs and one of percentages with Cvs - each output file is built using BOTH input files.
+Takes 4 input files. One each of data and CV values for table 5 and table 9. Outputs a value file and a spercentages file, each uses all 4 inpupts in its creation.
 
 # usage
 
-```python ASHEpensions1 <values.xls> <CV.xls>```
+```python ASHEpensions5and9.py <values1.xls> <CV1.xls> <values2.xls> <CV2.xls>```
 
 
 ## details
@@ -12,24 +12,38 @@ full details are provided in the form of the attached details.json. Contents sho
 
 ```json
 {
-          "uses": ["databaker","pandas"],
-          "description": "Takes 2 files: 1 containing values, 1 containing CVs. Creates 2 files: one values with Cvs, one percentages with Cvs.",
+          "transformName": "ASHE Pensions: Tables 5 & 9",
           "inputs": {
-                     "1": {
-                           "format": "xls",
-                           "distinctiveText": "",
-                           "name": "ASHE Pensions 1 data"
-                           },
-                     "2": {
-                           "format": "xls",
-                           "distinctiveText": "CV",
-                           "name": "ASHE Pensions 1 CV"
-                           }
+                    "1": {
+                              "distinctiveText": "5.1a",
+                              "format": "xls",
+                              "name": "ASHE Pensions 5 data"
                     },
-          "transformName": "ASHE Pensions 1",
+                    "2": {
+                              "format": "xls",
+                              "name": "ASHE Pensions 5 CV",
+                              "distinctiveTexat": "5.1b"
+                    },
+                    "3": {
+                              "distinctiveText": "9.1a",
+                              "format": "xls",
+                              "name": "ASHE Pensions 9 data"
+                    },
+                    "4": {
+                              "format": "xls",
+                              "name": "ASHE Pensions 9 CV",
+                              "distinctiveTexat": "9.1b"
+                    }
+                    },
+          "description": "Takes 4 files: Values for tables 5 and 9, and CVs for tables 5 and 9. Generates a 1 percentage and 1 values output. Both outputs require all 4 inputs.",
           "outputs": [
-                      "ASHE Pensions 1 Values <year>.csv",
-                      "ASHE Pensions 1 Percentages <year>.csv"
-                      ],
-          "transformType": "many-to-many"}
+                    "ASHE Pensions Tables 5 and 9 Values <year>.csv",
+                    "ASHE Pensions Tables 5 and 9 Percentages <year>.csv"
+                    ],
+          "uses": [
+                    "databaker",
+                    "pandas"
+                    ],
+          "transformType": "many-to-many"
+}
 ```
