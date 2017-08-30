@@ -1,12 +1,12 @@
 V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_codelist,Age Group,Contribution_codelist,Contribution,Contributor_codelist,Contributor,Gender_codelist,Gender,Provision_codelist,Provision
-1008.0,,1.3,Year,2016,K02000001,,,All employees,,Zero,,Employee,,All,,Total
-4545.0,,0.5,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,All,,Total
-1008.0,,1.3,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,All,,Total
-1130.0,,1.2,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,All,,Total
-1189.0,,1.2,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,All,,Total
-2708.0,,0.7,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,All,,Total
-1216.0,,1.2,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,All,,Total
-4143.0,,0.5,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,All,,Total
+1008.0,,1.3,Year,2016,K02000001,,,All employees,,Zero,,Employee,,All,,All
+4545.0,,0.5,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,All,,All
+1008.0,,1.3,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,All,,All
+1130.0,,1.2,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,All,,All
+1189.0,,1.2,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,All,,All
+2708.0,,0.7,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,All,,All
+1216.0,,1.2,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,All,,All
+4143.0,,0.5,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,All,,All
 302.0,,2.2,Year,2016,K02000001,,,All employees,,Zero,,Employee,,All,,Defined benefit
 273.0,,2.5,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,All,,Defined benefit
 73.0,,5.0,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,All,,Defined benefit
@@ -47,14 +47,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 10.0,,15.0,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,All,,Group self-invested personal pension
 ,x,23.0,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,All,,Group self-invested personal pension
 16.0,,11.0,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,All,,Group self-invested personal pension
-18.0,,11.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,All,,Total
-35.0,,7.8,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,All,,Total
-13.0,,13.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,All,,Total
-15.0,,12.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,All,,Total
-19.0,,11.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,All,,Total
-56.0,,5.8,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,All,,Total
-5.0,,20.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,All,,Total
-17.0,,11.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,All,,Total
+18.0,,11.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,All,,All
+35.0,,7.8,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,All,,All
+13.0,,13.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,All,,All
+15.0,,12.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,All,,All
+19.0,,11.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,All,,All
+56.0,,5.8,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,All,,All
+5.0,,20.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,All,,All
+17.0,,11.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,All,,All
 ,x,26.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,All,,Defined benefit
 ,x,25.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,All,,Defined benefit
 ,x,75.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,All,,Defined benefit
@@ -95,14 +95,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,All,,Group self-invested personal pension
 ,-,0.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,All,,Group self-invested personal pension
 ,-,0.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,All,,Group self-invested personal pension
-166.0,,3.3,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,All,,Total
-1243.0,,1.1,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,All,,Total
-200.0,,3.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,All,,Total
-195.0,,3.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,All,,Total
-170.0,,3.2,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,All,,Total
-313.0,,2.3,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,All,,Total
-101.0,,4.3,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,All,,Total
-475.0,,1.9,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,All,,Total
+166.0,,3.3,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,All,,All
+1243.0,,1.1,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,All,,All
+200.0,,3.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,All,,All
+195.0,,3.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,All,,All
+170.0,,3.2,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,All,,All
+313.0,,2.3,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,All,,All
+101.0,,4.3,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,All,,All
+475.0,,1.9,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,All,,All
 28.0,,7.8,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,All,,Defined benefit
 72.0,,4.9,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,All,,Defined benefit
 13.0,,12.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,All,,Defined benefit
@@ -143,14 +143,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,47.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,All,,Group self-invested personal pension
 ,x,,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,All,,Group self-invested personal pension
 ,x,47.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,All,,Group self-invested personal pension
-241.0,,2.8,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,All,,Total
-1216.0,,1.2,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,All,,Total
-303.0,,2.5,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,All,,Total
-309.0,,2.4,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,All,,Total
-308.0,,2.4,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,All,,Total
-541.0,,1.8,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,All,,Total
-263.0,,2.7,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,All,,Total
-998.0,,1.3,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,All,,Total
+241.0,,2.8,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,All,,All
+1216.0,,1.2,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,All,,All
+303.0,,2.5,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,All,,All
+309.0,,2.4,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,All,,All
+308.0,,2.4,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,All,,All
+541.0,,1.8,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,All,,All
+263.0,,2.7,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,All,,All
+998.0,,1.3,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,All,,All
 55.0,,5.6,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,All,,Defined benefit
 64.0,,5.2,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,All,,Defined benefit
 20.0,,9.8,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,All,,Defined benefit
@@ -191,14 +191,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,27.0,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,All,,Group self-invested personal pension
 ,x,47.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,All,,Group self-invested personal pension
 ,x,26.0,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,All,,Group self-invested personal pension
-285.0,,2.5,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,All,,Total
-1037.0,,1.3,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,All,,Total
-250.0,,2.7,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,All,,Total
-298.0,,2.5,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,All,,Total
-341.0,,2.3,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,All,,Total
-806.0,,1.4,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,All,,Total
-366.0,,2.2,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,All,,Total
-1253.0,,1.2,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,All,,Total
+285.0,,2.5,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,All,,All
+1037.0,,1.3,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,All,,All
+250.0,,2.7,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,All,,All
+298.0,,2.5,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,All,,All
+341.0,,2.3,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,All,,All
+806.0,,1.4,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,All,,All
+366.0,,2.2,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,All,,All
+1253.0,,1.2,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,All,,All
 98.0,,4.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,All,,Defined benefit
 59.0,,5.5,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,All,,Defined benefit
 20.0,,9.5,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,All,,Defined benefit
@@ -239,14 +239,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,23.0,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,All,,Group self-invested personal pension
 ,x,40.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,All,,Group self-invested personal pension
 5.0,,20.0,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,All,,Group self-invested personal pension
-132.0,,3.5,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,All,,Total
-460.0,,1.8,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,All,,Total
-111.0,,4.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,All,,Total
-147.0,,3.4,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,All,,Total
-161.0,,3.2,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,All,,Total
-444.0,,1.8,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,All,,Total
-226.0,,2.8,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,All,,Total
-670.0,,1.5,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,All,,Total
+132.0,,3.5,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,All,,All
+460.0,,1.8,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,All,,All
+111.0,,4.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,All,,All
+147.0,,3.4,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,All,,All
+161.0,,3.2,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,All,,All
+444.0,,1.8,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,All,,All
+226.0,,2.8,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,All,,All
+670.0,,1.5,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,All,,All
 56.0,,5.1,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,All,,Defined benefit
 32.0,,7.1,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,All,,Defined benefit
 10.0,,13.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,All,,Defined benefit
@@ -287,14 +287,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,37.0,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,All,,Group self-invested personal pension
 ,x,47.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,All,,Group self-invested personal pension
 ,x,32.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,All,,Group self-invested personal pension
-100.0,,4.1,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,All,,Total
-346.0,,2.1,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,All,,Total
-85.0,,4.5,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,All,,Total
-99.0,,4.1,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,All,,Total
-121.0,,3.7,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,All,,Total
-350.0,,2.1,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,All,,Total
-171.0,,3.2,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,All,,Total
-491.0,,1.9,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,All,,Total
+100.0,,4.1,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,All,,All
+346.0,,2.1,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,All,,All
+85.0,,4.5,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,All,,All
+99.0,,4.1,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,All,,All
+121.0,,3.7,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,All,,All
+350.0,,2.1,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,All,,All
+171.0,,3.2,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,All,,All
+491.0,,1.9,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,All,,All
 42.0,,5.9,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,All,,Defined benefit
 27.0,,7.7,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,All,,Defined benefit
 6.0,,17.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,All,,Defined benefit
@@ -335,14 +335,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,74.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,All,,Group self-invested personal pension
 ,x,60.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,All,,Group self-invested personal pension
 ,x,26.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,All,,Group self-invested personal pension
-53.0,,5.6,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,All,,Total
-188.0,,2.9,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,All,,Total
-39.0,,6.6,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,All,,Total
-58.0,,5.3,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,All,,Total
-60.0,,5.3,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,All,,Total
-165.0,,3.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,All,,Total
-74.0,,4.9,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,All,,Total
-200.0,,3.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,All,,Total
+53.0,,5.6,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,All,,All
+188.0,,2.9,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,All,,All
+39.0,,6.6,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,All,,All
+58.0,,5.3,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,All,,All
+60.0,,5.3,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,All,,All
+165.0,,3.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,All,,All
+74.0,,4.9,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,All,,All
+200.0,,3.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,All,,All
 18.0,,9.1,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,All,,Defined benefit
 13.0,,11.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,All,,Defined benefit
 ,x,23.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,All,,Defined benefit
@@ -383,14 +383,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,All,,Group self-invested personal pension
 ,x,,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,All,,Group self-invested personal pension
 ,x,31.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,All,,Group self-invested personal pension
-13.0,,12.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,All,,Total
-20.0,,8.8,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,All,,Total
-6.0,,16.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,All,,Total
-10.0,,13.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,All,,Total
-9.0,,13.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,All,,Total
-34.0,,6.7,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,All,,Total
-11.0,,13.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,All,,Total
-38.0,,7.2,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,All,,Total
+13.0,,12.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,All,,All
+20.0,,8.8,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,All,,All
+6.0,,16.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,All,,All
+10.0,,13.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,All,,All
+9.0,,13.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,All,,All
+34.0,,6.7,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,All,,All
+11.0,,13.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,All,,All
+38.0,,7.2,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,All,,All
 3.0,,20.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,All,,Defined benefit
 ,x,27.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,All,,Defined benefit
 ,x,78.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,All,,Defined benefit
@@ -431,14 +431,878 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,-,0.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,All,,Group self-invested personal pension
 ,-,0.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,All,,Group self-invested personal pension
 ,x,,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,All,,Group self-invested personal pension
-1008.0,,1.3,Year,2016,K02000001,,,All employees,,Zero,,Employer,,All,,Total
-4545.0,,0.5,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,All,,Total
-1008.0,,1.3,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,All,,Total
-1130.0,,1.2,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,All,,Total
-1189.0,,1.2,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,All,,Total
-2708.0,,0.7,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,All,,Total
-1216.0,,1.2,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,All,,Total
-4143.0,,0.5,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,All,,Total
+607.0,,1.7,Year,2016,K02000001,,,All employees,,Zero,,Employee,,Male,,All
+2663.0,,0.7,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,Male,,All
+619.0,,1.7,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,Male,,All
+667.0,,1.7,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,Male,,All
+716.0,,1.6,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,Male,,All
+1000.0,,1.3,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,Male,,All
+648.0,,1.7,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,Male,,All
+1822.0,,0.9,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,Male,,All
+184.0,,2.9,Year,2016,K02000001,,,All employees,,Zero,,Employee,,Male,,Defined benefit
+166.0,,3.3,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,Male,,Defined benefit
+43.0,,6.7,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,Male,,Defined benefit
+66.0,,5.4,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,Male,,Defined benefit
+175.0,,3.2,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,Male,,Defined benefit
+592.0,,1.7,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,Male,,Defined benefit
+445.0,,2.0,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,Male,,Defined benefit
+1363.0,,1.1,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,Male,,Defined benefit
+166.0,,3.3,Year,2016,K02000001,,,All employees,,Zero,,Employee,,Male,,Defined contribution
+1307.0,,1.1,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,Male,,Defined contribution
+197.0,,3.1,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,Male,,Defined contribution
+264.0,,2.6,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,Male,,Defined contribution
+246.0,,2.7,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,Male,,Defined contribution
+177.0,,3.3,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,Male,,Defined contribution
+92.0,,4.6,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,Male,,Defined contribution
+173.0,,3.4,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,Male,,Defined contribution
+171.0,,3.5,Year,2016,K02000001,,,All employees,,Zero,,Employee,,Male,,Group personal pension
+800.0,,1.5,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,Male,,Group personal pension
+277.0,,2.6,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,Male,,Group personal pension
+245.0,,2.8,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,Male,,Group personal pension
+216.0,,3.0,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,Male,,Group personal pension
+170.0,,3.4,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,Male,,Group personal pension
+78.0,,5.2,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,Male,,Group personal pension
+201.0,,3.2,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,Male,,Group personal pension
+51.0,,6.3,Year,2016,K02000001,,,All employees,,Zero,,Employee,,Male,,Group stakeholder pension
+258.0,,2.6,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,Male,,Group stakeholder pension
+82.0,,4.9,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,Male,,Group stakeholder pension
+70.0,,5.2,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,Male,,Group stakeholder pension
+64.0,,5.6,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,Male,,Group stakeholder pension
+47.0,,6.5,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,Male,,Group stakeholder pension
+26.0,,8.7,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,Male,,Group stakeholder pension
+54.0,,6.1,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,Male,,Group stakeholder pension
+18.0,,11.0,Year,2016,K02000001,,,All employees,,Zero,,Employee,,Male,,Group self-invested personal pension
+32.0,,7.7,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,Male,,Group self-invested personal pension
+8.0,,16.0,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,Male,,Group self-invested personal pension
+12.0,,13.0,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,Male,,Group self-invested personal pension
+8.0,,16.0,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,Male,,Group self-invested personal pension
+7.0,,18.0,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,Male,,Group self-invested personal pension
+,x,26.0,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,Male,,Group self-invested personal pension
+12.0,,13.0,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,Male,,Group self-invested personal pension
+9.0,,16.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,Male,,All
+20.0,,11.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,Male,,All
+8.0,,15.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,Male,,All
+10.0,,15.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,Male,,All
+9.0,,15.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,Male,,All
+23.0,,9.3,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,Male,,All
+,x,29.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,Male,,All
+7.0,,19.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,Male,,All
+,x,41.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,Male,,Defined benefit
+,x,39.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,Male,,Defined benefit
+,x,,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,Male,,Defined benefit
+,x,45.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,Male,,Defined benefit
+,x,31.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,Male,,Defined benefit
+20.0,,10.0,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,Male,,Defined benefit
+,x,48.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,Male,,Defined benefit
+,x,26.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,Male,,Defined benefit
+,x,25.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,Male,,Defined contribution
+9.0,,15.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,Male,,Defined contribution
+,x,21.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,Male,,Defined contribution
+,x,26.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,Male,,Defined contribution
+,x,21.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,Male,,Defined contribution
+,x,30.0,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,Male,,Defined contribution
+,x,60.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,Male,,Defined contribution
+,x,39.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,Male,,Defined contribution
+,x,28.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,Male,,Group personal pension
+7.0,,18.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,Male,,Group personal pension
+,x,28.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,Male,,Group personal pension
+,x,24.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,Male,,Group personal pension
+,x,41.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,Male,,Group personal pension
+,x,75.0,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,Male,,Group personal pension
+,x,54.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,Male,,Group personal pension
+,x,40.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,Male,,Group personal pension
+,x,61.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,Male,,Group stakeholder pension
+,x,39.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,Male,,Group stakeholder pension
+,x,44.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,Male,,Group stakeholder pension
+,x,44.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,Male,,Group stakeholder pension
+,x,43.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,Male,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,Male,,Group stakeholder pension
+,x,74.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,Male,,Group stakeholder pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,Male,,Group stakeholder pension
+,x,62.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,Male,,Group self-invested personal pension
+89.0,,4.6,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,Male,,All
+697.0,,1.5,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,Male,,All
+112.0,,4.1,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,Male,,All
+113.0,,4.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,Male,,All
+102.0,,4.3,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,Male,,All
+128.0,,3.7,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,Male,,All
+51.0,,6.3,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,Male,,All
+169.0,,3.5,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,Male,,All
+13.0,,12.0,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,Male,,Defined benefit
+44.0,,6.3,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,Male,,Defined benefit
+7.0,,17.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,Male,,Defined benefit
+9.0,,15.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,Male,,Defined benefit
+18.0,,9.9,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,Male,,Defined benefit
+76.0,,4.7,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,Male,,Defined benefit
+33.0,,7.8,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,Male,,Defined benefit
+134.0,,4.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,Male,,Defined benefit
+32.0,,7.4,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,Male,,Defined contribution
+353.0,,2.1,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,Male,,Defined contribution
+37.0,,7.1,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,Male,,Defined contribution
+52.0,,5.7,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,Male,,Defined contribution
+48.0,,6.1,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,Male,,Defined contribution
+26.0,,8.6,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,Male,,Defined contribution
+9.0,,15.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,Male,,Defined contribution
+14.0,,12.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,Male,,Defined contribution
+31.0,,8.1,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,Male,,Group personal pension
+203.0,,3.0,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,Male,,Group personal pension
+49.0,,6.3,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,Male,,Group personal pension
+39.0,,7.2,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,Male,,Group personal pension
+26.0,,8.9,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,Male,,Group personal pension
+19.0,,10.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,Male,,Group personal pension
+7.0,,18.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,Male,,Group personal pension
+14.0,,12.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,Male,,Group personal pension
+9.0,,15.0,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,Male,,Group stakeholder pension
+66.0,,5.1,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,Male,,Group stakeholder pension
+16.0,,11.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,Male,,Group stakeholder pension
+9.0,,15.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,Male,,Group stakeholder pension
+7.0,,16.0,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,Male,,Group stakeholder pension
+6.0,,19.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,Male,,Group stakeholder pension
+,x,33.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,Male,,Group stakeholder pension
+,x,25.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,Male,,Group stakeholder pension
+,x,36.0,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,Male,,Group self-invested personal pension
+7.0,,17.0,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,Male,,Group self-invested personal pension
+,x,44.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,Male,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,Male,,Group self-invested personal pension
+,x,62.0,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,Male,,Group self-invested personal pension
+,x,61.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,Male,,Group self-invested personal pension
+,x,47.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,Male,,Group self-invested personal pension
+144.0,,3.7,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,Male,,All
+756.0,,1.5,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,Male,,All
+188.0,,3.2,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,Male,,All
+183.0,,3.3,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,Male,,All
+189.0,,3.2,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,Male,,All
+222.0,,2.9,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,Male,,All
+138.0,,3.8,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,Male,,All
+421.0,,2.2,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,Male,,All
+32.0,,7.4,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,Male,,Defined benefit
+40.0,,6.8,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,Male,,Defined benefit
+12.0,,13.0,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,Male,,Defined benefit
+14.0,,12.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,Male,,Defined benefit
+40.0,,6.8,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,Male,,Defined benefit
+113.0,,4.0,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,Male,,Defined benefit
+90.0,,4.7,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,Male,,Defined benefit
+333.0,,2.5,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,Male,,Defined benefit
+43.0,,6.6,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,Male,,Defined contribution
+371.0,,2.1,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,Male,,Defined contribution
+66.0,,5.4,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,Male,,Defined contribution
+75.0,,5.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,Male,,Defined contribution
+68.0,,5.4,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,Male,,Defined contribution
+50.0,,6.4,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,Male,,Defined contribution
+22.0,,9.6,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,Male,,Defined contribution
+36.0,,7.5,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,Male,,Defined contribution
+47.0,,6.7,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,Male,,Group personal pension
+231.0,,2.8,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,Male,,Group personal pension
+81.0,,5.0,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,Male,,Group personal pension
+69.0,,5.4,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,Male,,Group personal pension
+60.0,,5.9,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,Male,,Group personal pension
+46.0,,6.7,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,Male,,Group personal pension
+17.0,,11.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,Male,,Group personal pension
+38.0,,7.5,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,Male,,Group personal pension
+13.0,,13.0,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,Male,,Group stakeholder pension
+78.0,,4.8,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,Male,,Group stakeholder pension
+23.0,,9.1,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,Male,,Group stakeholder pension
+19.0,,10.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,Male,,Group stakeholder pension
+16.0,,12.0,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,Male,,Group stakeholder pension
+10.0,,15.0,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,Male,,Group stakeholder pension
+6.0,,18.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,Male,,Group stakeholder pension
+7.0,,17.0,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,Male,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,Male,,Group self-invested personal pension
+9.0,,15.0,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,Male,,Group self-invested personal pension
+,x,33.0,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,Male,,Group self-invested personal pension
+,x,26.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,Male,,Group self-invested personal pension
+,x,29.0,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,Male,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,Male,,Group self-invested personal pension
+,x,52.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,Male,,Group self-invested personal pension
+,x,30.0,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,Male,,Group self-invested personal pension
+181.0,,3.2,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,Male,,All
+613.0,,1.7,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,Male,,All
+157.0,,3.5,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,Male,,All
+177.0,,3.3,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,Male,,All
+209.0,,3.0,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,Male,,All
+277.0,,2.6,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,Male,,All
+193.0,,3.2,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,Male,,All
+584.0,,1.8,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,Male,,All
+65.0,,5.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,Male,,Defined benefit
+36.0,,7.3,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,Male,,Defined benefit
+11.0,,13.0,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,Male,,Defined benefit
+17.0,,11.0,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,Male,,Defined benefit
+54.0,,5.8,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,Male,,Defined benefit
+158.0,,3.3,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,Male,,Defined benefit
+130.0,,3.9,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,Male,,Defined benefit
+449.0,,2.1,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,Male,,Defined benefit
+43.0,,6.8,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,Male,,Defined contribution
+290.0,,2.4,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,Male,,Defined contribution
+47.0,,6.5,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,Male,,Defined contribution
+68.0,,5.3,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,Male,,Defined contribution
+69.0,,5.3,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,Male,,Defined contribution
+48.0,,6.5,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,Male,,Defined contribution
+28.0,,8.7,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,Male,,Defined contribution
+51.0,,6.4,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,Male,,Defined contribution
+48.0,,6.7,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,Male,,Group personal pension
+189.0,,3.2,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,Male,,Group personal pension
+73.0,,5.3,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,Male,,Group personal pension
+67.0,,5.5,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,Male,,Group personal pension
+64.0,,5.7,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,Male,,Group personal pension
+51.0,,6.3,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,Male,,Group personal pension
+25.0,,9.3,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,Male,,Group personal pension
+60.0,,6.0,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,Male,,Group personal pension
+14.0,,12.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,Male,,Group stakeholder pension
+62.0,,5.5,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,Male,,Group stakeholder pension
+19.0,,10.0,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,Male,,Group stakeholder pension
+18.0,,11.0,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,Male,,Group stakeholder pension
+18.0,,10.0,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,Male,,Group stakeholder pension
+16.0,,12.0,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,Male,,Group stakeholder pension
+8.0,,16.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,Male,,Group stakeholder pension
+16.0,,11.0,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,Male,,Group stakeholder pension
+6.0,,19.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,Male,,Group self-invested personal pension
+10.0,,14.0,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,Male,,Group self-invested personal pension
+,x,27.0,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,Male,,Group self-invested personal pension
+,x,26.0,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,Male,,Group self-invested personal pension
+,x,27.0,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,Male,,Group self-invested personal pension
+,x,27.0,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,Male,,Group self-invested personal pension
+,x,47.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,Male,,Group self-invested personal pension
+,x,24.0,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,Male,,Group self-invested personal pension
+78.0,,4.7,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,Male,,All
+247.0,,2.5,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,Male,,All
+69.0,,5.1,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,Male,,All
+84.0,,4.6,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,Male,,All
+94.0,,4.3,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,Male,,All
+151.0,,3.3,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,Male,,All
+116.0,,3.9,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,Male,,All
+293.0,,2.4,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,Male,,All
+32.0,,6.7,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,Male,,Defined benefit
+20.0,,9.1,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,Male,,Defined benefit
+6.0,,18.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,Male,,Defined benefit
+10.0,,14.0,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,Male,,Defined benefit
+27.0,,7.9,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,Male,,Defined benefit
+96.0,,4.1,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,Male,,Defined benefit
+83.0,,4.6,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,Male,,Defined benefit
+214.0,,2.9,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,Male,,Defined benefit
+18.0,,10.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,Male,,Defined contribution
+117.0,,3.7,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,Male,,Defined contribution
+18.0,,10.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,Male,,Defined contribution
+30.0,,7.7,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,Male,,Defined contribution
+28.0,,8.1,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,Male,,Defined contribution
+23.0,,9.2,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,Male,,Defined contribution
+15.0,,11.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,Male,,Defined contribution
+30.0,,8.1,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,Male,,Defined contribution
+19.0,,10.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,Male,,Group personal pension
+76.0,,4.8,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,Male,,Group personal pension
+33.0,,7.5,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,Male,,Group personal pension
+30.0,,7.9,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,Male,,Group personal pension
+27.0,,8.4,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,Male,,Group personal pension
+22.0,,9.2,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,Male,,Group personal pension
+12.0,,13.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,Male,,Group personal pension
+33.0,,7.8,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,Male,,Group personal pension
+,x,21.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,Male,,Group stakeholder pension
+24.0,,8.6,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,Male,,Group stakeholder pension
+10.0,,13.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,Male,,Group stakeholder pension
+10.0,,13.0,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,Male,,Group stakeholder pension
+11.0,,13.0,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,Male,,Group stakeholder pension
+8.0,,16.0,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,Male,,Group stakeholder pension
+,x,21.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,Male,,Group stakeholder pension
+11.0,,14.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,Male,,Group stakeholder pension
+,x,27.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,Male,,Group self-invested personal pension
+,x,25.0,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,Male,,Group self-invested personal pension
+,x,44.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,Male,,Group self-invested personal pension
+,x,34.0,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,Male,,Group self-invested personal pension
+,x,44.0,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,Male,,Group self-invested personal pension
+,x,47.0,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,Male,,Group self-invested personal pension
+,x,52.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,Male,,Group self-invested personal pension
+,x,43.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,Male,,Group self-invested personal pension
+63.0,,5.2,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,Male,,All
+195.0,,2.8,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,Male,,All
+55.0,,5.7,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,Male,,All
+58.0,,5.6,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,Male,,All
+69.0,,5.1,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,Male,,All
+123.0,,3.7,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,Male,,All
+96.0,,4.3,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,Male,,All
+216.0,,2.9,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,Male,,All
+26.0,,7.4,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,Male,,Defined benefit
+16.0,,10.0,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,Male,,Defined benefit
+,x,21.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,Male,,Defined benefit
+7.0,,17.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,Male,,Defined benefit
+21.0,,9.1,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,Male,,Defined benefit
+79.0,,4.5,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,Male,,Defined benefit
+72.0,,5.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,Male,,Defined benefit
+151.0,,3.5,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,Male,,Defined benefit
+14.0,,12.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,Male,,Defined contribution
+94.0,,4.1,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,Male,,Defined contribution
+17.0,,10.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,Male,,Defined contribution
+22.0,,8.9,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,Male,,Defined contribution
+18.0,,10.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,Male,,Defined contribution
+17.0,,10.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,Male,,Defined contribution
+10.0,,14.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,Male,,Defined contribution
+23.0,,9.1,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,Male,,Defined contribution
+15.0,,12.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,Male,,Group personal pension
+55.0,,5.6,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,Male,,Group personal pension
+24.0,,8.7,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,Male,,Group personal pension
+20.0,,9.6,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,Male,,Group personal pension
+22.0,,9.3,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,Male,,Group personal pension
+21.0,,9.6,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,Male,,Group personal pension
+10.0,,14.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,Male,,Group personal pension
+30.0,,8.2,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,Male,,Group personal pension
+,x,21.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,Male,,Group stakeholder pension
+19.0,,9.2,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,Male,,Group stakeholder pension
+8.0,,15.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,Male,,Group stakeholder pension
+7.0,,16.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,Male,,Group stakeholder pension
+7.0,,16.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,Male,,Group stakeholder pension
+5.0,,19.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,Male,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,Male,,Group stakeholder pension
+8.0,,15.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,Male,,Group stakeholder pension
+,x,35.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,Male,,Group self-invested personal pension
+,x,27.0,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,Male,,Group self-invested personal pension
+,x,52.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,Male,,Group self-invested personal pension
+,x,41.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,Male,,Group self-invested personal pension
+,x,61.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,Male,,Group self-invested personal pension
+,x,74.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,Male,,Group self-invested personal pension
+,x,74.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,Male,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,Male,,Group self-invested personal pension
+36.0,,7.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,Male,,All
+118.0,,3.7,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,Male,,All
+26.0,,8.3,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,Male,,All
+37.0,,6.9,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,Male,,All
+37.0,,6.9,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,Male,,All
+62.0,,5.1,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,Male,,All
+44.0,,6.4,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,Male,,All
+107.0,,4.3,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,Male,,All
+12.0,,11.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,Male,,Defined benefit
+7.0,,15.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,Male,,Defined benefit
+,x,29.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,Male,,Defined benefit
+6.0,,17.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,Male,,Defined benefit
+11.0,,13.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,Male,,Defined benefit
+42.0,,6.2,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,Male,,Defined benefit
+32.0,,7.6,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,Male,,Defined benefit
+62.0,,5.6,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,Male,,Defined benefit
+10.0,,13.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,Male,,Defined contribution
+64.0,,5.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,Male,,Defined contribution
+7.0,,15.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,Male,,Defined contribution
+12.0,,12.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,Male,,Defined contribution
+10.0,,13.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,Male,,Defined contribution
+9.0,,14.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,Male,,Defined contribution
+7.0,,17.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,Male,,Defined contribution
+13.0,,12.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,Male,,Defined contribution
+7.0,,17.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,Male,,Group personal pension
+36.0,,6.9,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,Male,,Group personal pension
+13.0,,12.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,Male,,Group personal pension
+13.0,,12.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,Male,,Group personal pension
+13.0,,12.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,Male,,Group personal pension
+8.0,,15.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,Male,,Group personal pension
+,x,23.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,Male,,Group personal pension
+20.0,,10.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,Male,,Group personal pension
+,x,22.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,Male,,Group stakeholder pension
+7.0,,15.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,Male,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,Male,,Group stakeholder pension
+4.0,,19.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,Male,,Group stakeholder pension
+,x,25.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,Male,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,Male,,Group stakeholder pension
+,x,32.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,Male,,Group stakeholder pension
+8.0,,16.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,Male,,Group stakeholder pension
+,x,47.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,Male,,Group self-invested personal pension
+,x,48.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,Male,,Group self-invested personal pension
+,x,53.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,Male,,Group self-invested personal pension
+,x,54.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,Male,,Group self-invested personal pension
+,x,38.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,Male,,Group self-invested personal pension
+8.0,,15.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,Male,,All
+17.0,,9.7,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,Male,,All
+,x,23.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,Male,,All
+6.0,,18.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,Male,,All
+6.0,,17.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,Male,,All
+14.0,,11.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,Male,,All
+7.0,,16.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,Male,,All
+25.0,,9.2,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,Male,,All
+,x,32.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,Male,,Defined benefit
+,x,28.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,Male,,Defined benefit
+,x,,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,Male,,Defined benefit
+,x,41.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,Male,,Defined benefit
+,x,31.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,Male,,Defined benefit
+9.0,,13.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,Male,,Defined benefit
+,x,21.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,Male,,Defined benefit
+16.0,,12.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,Male,,Defined benefit
+,x,30.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,Male,,Defined contribution
+9.0,,13.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,Male,,Defined contribution
+,x,33.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,Male,,Defined contribution
+,x,28.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,Male,,Defined contribution
+,x,28.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,Male,,Defined contribution
+,x,29.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,Male,,Defined contribution
+,x,48.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,Male,,Defined contribution
+,x,25.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,Male,,Defined contribution
+,x,30.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,Male,,Group personal pension
+,x,21.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,Male,,Group personal pension
+,x,36.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,Male,,Group personal pension
+,x,35.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,Male,,Group personal pension
+,x,35.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,Male,,Group personal pension
+,x,31.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,Male,,Group personal pension
+,x,38.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,Male,,Group personal pension
+,x,21.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,Male,,Group personal pension
+,x,35.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,Male,,Group stakeholder pension
+,x,33.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,Male,,Group stakeholder pension
+,x,74.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,Male,,Group stakeholder pension
+,x,54.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,Male,,Group stakeholder pension
+,x,78.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,Male,,Group stakeholder pension
+,x,61.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,Male,,Group stakeholder pension
+,x,54.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,Male,,Group stakeholder pension
+,x,55.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,Male,,Group stakeholder pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,Male,,Group self-invested personal pension
+401.0,,2.0,Year,2016,K02000001,,,All employees,,Zero,,Employee,,Female,,All
+1882.0,,0.8,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,Female,,All
+389.0,,2.0,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,Female,,All
+463.0,,1.8,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,Female,,All
+474.0,,1.8,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,Female,,All
+1708.0,,0.9,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,Female,,All
+568.0,,1.7,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,Female,,All
+2321.0,,0.7,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,Female,,All
+118.0,,3.6,Year,2016,K02000001,,,All employees,,Zero,,Employee,,Female,,Defined benefit
+107.0,,3.9,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,Female,,Defined benefit
+30.0,,7.4,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,Female,,Defined benefit
+60.0,,5.1,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,Female,,Defined benefit
+167.0,,3.0,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,Female,,Defined benefit
+1436.0,,0.9,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,Female,,Defined benefit
+457.0,,1.9,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,Female,,Defined benefit
+2052.0,,0.7,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,Female,,Defined benefit
+101.0,,4.0,Year,2016,K02000001,,,All employees,,Zero,,Employee,,Female,,Defined contribution
+1013.0,,1.2,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,Female,,Defined contribution
+132.0,,3.5,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,Female,,Defined contribution
+196.0,,2.7,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,Female,,Defined contribution
+130.0,,3.6,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,Female,,Defined contribution
+112.0,,3.8,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,Female,,Defined contribution
+48.0,,6.0,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,Female,,Defined contribution
+95.0,,4.2,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,Female,,Defined contribution
+128.0,,3.7,Year,2016,K02000001,,,All employees,,Zero,,Employee,,Female,,Group personal pension
+502.0,,1.8,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,Female,,Group personal pension
+174.0,,3.1,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,Female,,Group personal pension
+151.0,,3.3,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,Female,,Group personal pension
+131.0,,3.6,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,Female,,Group personal pension
+104.0,,4.0,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,Female,,Group personal pension
+42.0,,6.4,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,Female,,Group personal pension
+111.0,,4.0,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,Female,,Group personal pension
+31.0,,7.4,Year,2016,K02000001,,,All employees,,Zero,,Employee,,Female,,Group stakeholder pension
+164.0,,3.0,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,Female,,Group stakeholder pension
+44.0,,6.2,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,Female,,Group stakeholder pension
+47.0,,5.9,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,Female,,Group stakeholder pension
+38.0,,6.6,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,Female,,Group stakeholder pension
+37.0,,6.7,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,Female,,Group stakeholder pension
+16.0,,10.0,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,Female,,Group stakeholder pension
+34.0,,7.1,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,Female,,Group stakeholder pension
+8.0,,14.0,Year,2016,K02000001,,,All employees,,Zero,,Employee,,Female,,Group self-invested personal pension
+16.0,,10.0,Year,2016,K02000001,,,All employees,,Under 2%,,Employee,,Female,,Group self-invested personal pension
+5.0,,20.0,Year,2016,K02000001,,,All employees,,2% to 3%,,Employee,,Female,,Group self-invested personal pension
+4.0,,20.0,Year,2016,K02000001,,,All employees,,3% to 4%,,Employee,,Female,,Group self-invested personal pension
+,x,21.0,Year,2016,K02000001,,,All employees,,4% to 5%,,Employee,,Female,,Group self-invested personal pension
+,x,26.0,Year,2016,K02000001,,,All employees,,5% to 6%,,Employee,,Female,,Group self-invested personal pension
+,x,47.0,Year,2016,K02000001,,,All employees,,6% to 7%,,Employee,,Female,,Group self-invested personal pension
+,x,21.0,Year,2016,K02000001,,,All employees,,7% and over,,Employee,,Female,,Group self-invested personal pension
+9.0,,15.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,Female,,All
+15.0,,12.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,Female,,All
+,x,21.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,Female,,All
+5.0,,19.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,Female,,All
+9.0,,17.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,Female,,All
+32.0,,7.5,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,Female,,All
+,x,28.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,Female,,All
+10.0,,14.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,Female,,All
+,x,32.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,Female,,Defined benefit
+,x,33.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,Female,,Defined benefit
+,x,,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,Female,,Defined benefit
+,x,,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,Female,,Defined benefit
+,x,22.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,Female,,Defined benefit
+30.0,,7.6,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,Female,,Defined benefit
+,x,35.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,Female,,Defined benefit
+8.0,,15.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,Female,,Defined benefit
+,x,24.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,Female,,Defined contribution
+7.0,,17.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,Female,,Defined contribution
+,x,30.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,Female,,Defined contribution
+,x,27.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,Female,,Defined contribution
+,x,36.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,Female,,Defined contribution
+,x,56.0,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,Female,,Defined contribution
+,-,0.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,Female,,Defined contribution
+,x,,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,Female,,Defined contribution
+,x,28.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,Female,,Group personal pension
+,x,21.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,Female,,Group personal pension
+,x,35.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,Female,,Group personal pension
+,x,31.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,Female,,Group personal pension
+,x,47.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,Female,,Group personal pension
+,x,62.0,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,Female,,Group personal pension
+,x,47.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,Female,,Group personal pension
+,x,36.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,Female,,Group personal pension
+,x,53.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,Female,,Group stakeholder pension
+,x,48.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,Female,,Group stakeholder pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,Female,,Group stakeholder pension
+,x,62.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,Female,,Group stakeholder pension
+,x,80.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,Female,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,Female,,Group stakeholder pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,Female,,Group stakeholder pension
+,x,74.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,Female,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,16 - 21,,Zero,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employee,,Female,,Group self-invested personal pension
+78.0,,4.6,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,Female,,All
+547.0,,1.6,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,Female,,All
+88.0,,4.4,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,Female,,All
+82.0,,4.4,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,Female,,All
+68.0,,4.9,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,Female,,All
+185.0,,2.9,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,Female,,All
+50.0,,5.9,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,Female,,All
+306.0,,2.3,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,Female,,All
+14.0,,10.0,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,Female,,Defined benefit
+27.0,,7.6,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,Female,,Defined benefit
+7.0,,16.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,Female,,Defined benefit
+7.0,,16.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,Female,,Defined benefit
+20.0,,8.7,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,Female,,Defined benefit
+153.0,,3.2,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,Female,,Defined benefit
+38.0,,6.7,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,Female,,Defined benefit
+274.0,,2.4,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,Female,,Defined benefit
+25.0,,7.9,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,Female,,Defined contribution
+290.0,,2.3,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,Female,,Defined contribution
+31.0,,7.3,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,Female,,Defined contribution
+37.0,,6.4,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,Female,,Defined contribution
+21.0,,8.8,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,Female,,Defined contribution
+13.0,,12.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,Female,,Defined contribution
+6.0,,17.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,Female,,Defined contribution
+11.0,,13.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,Female,,Defined contribution
+28.0,,7.9,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,Female,,Group personal pension
+156.0,,3.2,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,Female,,Group personal pension
+42.0,,6.5,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,Female,,Group personal pension
+30.0,,7.5,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,Female,,Group personal pension
+22.0,,9.0,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,Female,,Group personal pension
+13.0,,12.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,Female,,Group personal pension
+5.0,,19.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,Female,,Group personal pension
+15.0,,11.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,Female,,Group personal pension
+6.0,,17.0,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,Female,,Group stakeholder pension
+46.0,,5.8,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,Female,,Group stakeholder pension
+7.0,,16.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,Female,,Group stakeholder pension
+6.0,,17.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,Female,,Group stakeholder pension
+,x,22.0,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,Female,,Group stakeholder pension
+,x,22.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,Female,,Group stakeholder pension
+,x,36.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,Female,,Group stakeholder pension
+,x,29.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,Female,,Group stakeholder pension
+,x,34.0,Year,2016,K02000001,,,22 - 29,,Zero,,Employee,,Female,,Group self-invested personal pension
+5.0,,18.0,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employee,,Female,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employee,,Female,,Group self-invested personal pension
+,x,43.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employee,,Female,,Group self-invested personal pension
+,x,40.0,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employee,,Female,,Group self-invested personal pension
+,x,74.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employee,,Female,,Group self-invested personal pension
+97.0,,4.2,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,Female,,All
+460.0,,1.8,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,Female,,All
+115.0,,3.8,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,Female,,All
+126.0,,3.6,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,Female,,All
+119.0,,3.7,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,Female,,All
+319.0,,2.2,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,Female,,All
+125.0,,3.7,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,Female,,All
+577.0,,1.6,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,Female,,All
+23.0,,8.5,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,Female,,Defined benefit
+24.0,,8.2,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,Female,,Defined benefit
+7.0,,16.0,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,Female,,Defined benefit
+14.0,,11.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,Female,,Defined benefit
+36.0,,6.6,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,Female,,Defined benefit
+251.0,,2.4,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,Female,,Defined benefit
+97.0,,4.2,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,Female,,Defined benefit
+520.0,,1.7,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,Female,,Defined benefit
+28.0,,7.8,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,Female,,Defined contribution
+236.0,,2.6,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,Female,,Defined contribution
+39.0,,6.4,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,Female,,Defined contribution
+50.0,,5.6,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,Female,,Defined contribution
+37.0,,6.8,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,Female,,Defined contribution
+30.0,,7.6,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,Female,,Defined contribution
+13.0,,12.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,Female,,Defined contribution
+20.0,,9.4,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,Female,,Defined contribution
+36.0,,6.9,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,Female,,Group personal pension
+130.0,,3.6,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,Female,,Group personal pension
+50.0,,5.9,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,Female,,Group personal pension
+44.0,,6.3,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,Female,,Group personal pension
+36.0,,7.0,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,Female,,Group personal pension
+27.0,,8.1,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,Female,,Group personal pension
+10.0,,14.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,Female,,Group personal pension
+23.0,,8.8,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,Female,,Group personal pension
+6.0,,18.0,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,Female,,Group stakeholder pension
+47.0,,5.8,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,Female,,Group stakeholder pension
+15.0,,11.0,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,Female,,Group stakeholder pension
+14.0,,11.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,Female,,Group stakeholder pension
+9.0,,14.0,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,Female,,Group stakeholder pension
+8.0,,15.0,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,Female,,Group stakeholder pension
+5.0,,20.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,Female,,Group stakeholder pension
+6.0,,18.0,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,Female,,Group stakeholder pension
+,x,29.0,Year,2016,K02000001,,,30 - 39,,Zero,,Employee,,Female,,Group self-invested personal pension
+5.0,,19.0,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employee,,Female,,Group self-invested personal pension
+,x,35.0,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employee,,Female,,Group self-invested personal pension
+,x,29.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employee,,Female,,Group self-invested personal pension
+,x,61.0,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employee,,Female,,Group self-invested personal pension
+,x,47.0,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employee,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employee,,Female,,Group self-invested personal pension
+,x,53.0,Year,2016,K02000001,,,30 - 39,,7% and over,,Employee,,Female,,Group self-invested personal pension
+104.0,,3.9,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,Female,,All
+423.0,,1.9,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,Female,,All
+93.0,,4.2,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,Female,,All
+121.0,,3.6,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,Female,,All
+131.0,,3.5,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,Female,,All
+529.0,,1.6,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,Female,,All
+173.0,,3.1,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,Female,,All
+669.0,,1.5,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,Female,,All
+33.0,,6.7,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,Female,,Defined benefit
+23.0,,8.2,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,Female,,Defined benefit
+8.0,,14.0,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,Female,,Defined benefit
+18.0,,9.3,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,Female,,Defined benefit
+48.0,,5.6,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,Female,,Defined benefit
+447.0,,1.8,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,Female,,Defined benefit
+143.0,,3.4,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,Female,,Defined benefit
+594.0,,1.6,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,Female,,Defined benefit
+25.0,,8.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,Female,,Defined contribution
+236.0,,2.6,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,Female,,Defined contribution
+29.0,,7.4,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,Female,,Defined contribution
+52.0,,5.4,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,Female,,Defined contribution
+34.0,,6.9,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,Female,,Defined contribution
+33.0,,7.1,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,Female,,Defined contribution
+15.0,,11.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,Female,,Defined contribution
+30.0,,7.6,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,Female,,Defined contribution
+30.0,,7.6,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,Female,,Group personal pension
+109.0,,3.9,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,Female,,Group personal pension
+41.0,,6.5,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,Female,,Group personal pension
+39.0,,6.6,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,Female,,Group personal pension
+36.0,,6.9,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,Female,,Group personal pension
+31.0,,7.3,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,Female,,Group personal pension
+11.0,,13.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,Female,,Group personal pension
+28.0,,8.1,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,Female,,Group personal pension
+9.0,,13.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,Female,,Group stakeholder pension
+34.0,,6.7,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,Female,,Group stakeholder pension
+13.0,,12.0,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,Female,,Group stakeholder pension
+11.0,,12.0,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,Female,,Group stakeholder pension
+11.0,,12.0,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,Female,,Group stakeholder pension
+12.0,,12.0,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,Female,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,Female,,Group stakeholder pension
+11.0,,12.0,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,Female,,Group stakeholder pension
+,x,25.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employee,,Female,,Group self-invested personal pension
+,x,23.0,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employee,,Female,,Group self-invested personal pension
+,x,53.0,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employee,,Female,,Group self-invested personal pension
+,x,43.0,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employee,,Female,,Group self-invested personal pension
+,x,38.0,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employee,,Female,,Group self-invested personal pension
+,x,43.0,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employee,,Female,,Group self-invested personal pension
+,x,74.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employee,,Female,,Group self-invested personal pension
+,x,37.0,Year,2016,K02000001,,,40 - 49,,7% and over,,Employee,,Female,,Group self-invested personal pension
+54.0,,5.5,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,Female,,All
+212.0,,2.6,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,Female,,All
+42.0,,6.3,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,Female,,All
+63.0,,4.8,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,Female,,All
+68.0,,4.8,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,Female,,All
+293.0,,2.2,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,Female,,All
+110.0,,3.9,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,Female,,All
+376.0,,2.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,Female,,All
+23.0,,8.1,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,Female,,Defined benefit
+13.0,,11.0,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,Female,,Defined benefit
+4.0,,20.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,Female,,Defined benefit
+10.0,,12.0,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,Female,,Defined benefit
+25.0,,7.7,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,Female,,Defined benefit
+252.0,,2.3,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,Female,,Defined benefit
+91.0,,4.3,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,Female,,Defined benefit
+334.0,,2.1,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,Female,,Defined benefit
+10.0,,13.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,Female,,Defined contribution
+118.0,,3.5,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,Female,,Defined contribution
+12.0,,11.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,Female,,Defined contribution
+28.0,,7.1,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,Female,,Defined contribution
+19.0,,9.3,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,Female,,Defined contribution
+16.0,,9.9,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,Female,,Defined contribution
+6.0,,16.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,Female,,Defined contribution
+16.0,,11.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,Female,,Defined contribution
+13.0,,12.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,Female,,Group personal pension
+53.0,,5.5,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,Female,,Group personal pension
+20.0,,9.2,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,Female,,Group personal pension
+17.0,,9.8,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,Female,,Group personal pension
+17.0,,9.9,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,Female,,Group personal pension
+16.0,,10.0,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,Female,,Group personal pension
+8.0,,15.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,Female,,Group personal pension
+15.0,,11.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,Female,,Group personal pension
+4.0,,20.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,Female,,Group stakeholder pension
+16.0,,9.9,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,Female,,Group stakeholder pension
+,x,21.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,Female,,Group stakeholder pension
+7.0,,15.0,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,Female,,Group stakeholder pension
+5.0,,18.0,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,Female,,Group stakeholder pension
+6.0,,18.0,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,Female,,Group stakeholder pension
+,x,22.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,Female,,Group stakeholder pension
+6.0,,16.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,Female,,Group stakeholder pension
+,x,45.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employee,,Female,,Group self-invested personal pension
+,x,34.0,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employee,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employee,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employee,,Female,,Group self-invested personal pension
+,x,48.0,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employee,,Female,,Group self-invested personal pension
+,x,61.0,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employee,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employee,,Female,,Group self-invested personal pension
+,x,48.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employee,,Female,,Group self-invested personal pension
+37.0,,6.5,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,Female,,All
+151.0,,3.2,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,Female,,All
+30.0,,7.4,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,Female,,All
+41.0,,6.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,Female,,All
+52.0,,5.5,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,Female,,All
+227.0,,2.5,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,Female,,All
+74.0,,4.7,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,Female,,All
+275.0,,2.4,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,Female,,All
+16.0,,9.7,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,Female,,Defined benefit
+11.0,,12.0,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,Female,,Defined benefit
+,x,29.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,Female,,Defined benefit
+6.0,,16.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,Female,,Defined benefit
+21.0,,8.5,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,Female,,Defined benefit
+196.0,,2.7,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,Female,,Defined benefit
+62.0,,5.2,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,Female,,Defined benefit
+237.0,,2.6,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,Female,,Defined benefit
+7.0,,15.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,Female,,Defined contribution
+85.0,,4.2,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,Female,,Defined contribution
+11.0,,12.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,Female,,Defined contribution
+19.0,,8.5,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,Female,,Defined contribution
+12.0,,12.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,Female,,Defined contribution
+12.0,,11.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,Female,,Defined contribution
+4.0,,20.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,Female,,Defined contribution
+13.0,,12.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,Female,,Defined contribution
+9.0,,14.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,Female,,Group personal pension
+35.0,,6.7,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,Female,,Group personal pension
+12.0,,12.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,Female,,Group personal pension
+12.0,,12.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,Female,,Group personal pension
+12.0,,12.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,Female,,Group personal pension
+11.0,,12.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,Female,,Group personal pension
+5.0,,19.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,Female,,Group personal pension
+18.0,,10.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,Female,,Group personal pension
+,x,23.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,Female,,Group stakeholder pension
+12.0,,11.0,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,Female,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,Female,,Group stakeholder pension
+,x,21.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,Female,,Group stakeholder pension
+6.0,,17.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,Female,,Group stakeholder pension
+5.0,,17.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,Female,,Group stakeholder pension
+,x,32.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,Female,,Group stakeholder pension
+5.0,,18.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,Female,,Group stakeholder pension
+,x,54.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employee,,Female,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employee,,Female,,Group self-invested personal pension
+,x,61.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employee,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employee,,Female,,Group self-invested personal pension
+,x,62.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employee,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employee,,Female,,Group self-invested personal pension
+,x,44.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employee,,Female,,Group self-invested personal pension
+17.0,,9.4,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,Female,,All
+70.0,,4.7,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,Female,,All
+14.0,,11.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,Female,,All
+21.0,,8.4,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,Female,,All
+23.0,,8.1,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,Female,,All
+103.0,,3.7,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,Female,,All
+30.0,,7.5,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,Female,,All
+93.0,,4.3,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,Female,,All
+6.0,,16.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,Female,,Defined benefit
+6.0,,15.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,Female,,Defined benefit
+,x,36.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,Female,,Defined benefit
+4.0,,19.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,Female,,Defined benefit
+11.0,,12.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,Female,,Defined benefit
+89.0,,4.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,Female,,Defined benefit
+22.0,,8.8,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,Female,,Defined benefit
+76.0,,4.8,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,Female,,Defined benefit
+,x,22.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,Female,,Defined contribution
+39.0,,6.3,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,Female,,Defined contribution
+5.0,,18.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,Female,,Defined contribution
+8.0,,13.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,Female,,Defined contribution
+4.0,,20.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,Female,,Defined contribution
+5.0,,17.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,Female,,Defined contribution
+,x,24.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,Female,,Defined contribution
+5.0,,18.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,Female,,Defined contribution
+6.0,,17.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,Female,,Group personal pension
+14.0,,11.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,Female,,Group personal pension
+6.0,,16.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,Female,,Group personal pension
+6.0,,16.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,Female,,Group personal pension
+5.0,,18.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,Female,,Group personal pension
+6.0,,16.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,Female,,Group personal pension
+,x,24.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,Female,,Group personal pension
+8.0,,15.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,Female,,Group personal pension
+,x,29.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,Female,,Group stakeholder pension
+7.0,,14.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,Female,,Group stakeholder pension
+,x,32.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,Female,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,Female,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,Female,,Group stakeholder pension
+,x,27.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,Female,,Group stakeholder pension
+,x,32.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,Female,,Group stakeholder pension
+,x,25.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,Female,,Group stakeholder pension
+,x,78.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employee,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employee,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employee,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employee,,Female,,Group self-invested personal pension
+,x,54.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employee,,Female,,Group self-invested personal pension
+5.0,,18.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,Female,,All
+,x,21.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,Female,,All
+,x,24.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,Female,,All
+,x,21.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,Female,,All
+,x,21.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,Female,,All
+20.0,,8.5,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,Female,,All
+4.0,,20.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,Female,,All
+14.0,,12.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,Female,,All
+,x,26.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,Female,,Defined benefit
+,x,76.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,Female,,Defined benefit
+,x,,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,Female,,Defined benefit
+,x,32.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,Female,,Defined benefit
+,x,32.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,Female,,Defined benefit
+17.0,,9.1,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,Female,,Defined benefit
+,x,23.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,Female,,Defined benefit
+9.0,,14.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,Female,,Defined benefit
+,x,47.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,Female,,Defined contribution
+,x,28.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,Female,,Defined contribution
+,x,34.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,Female,,Defined contribution
+,x,39.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,Female,,Defined contribution
+,x,,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,Female,,Defined contribution
+,x,36.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,Female,,Defined contribution
+,x,77.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,Female,,Defined contribution
+,x,38.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,Female,,Defined contribution
+,x,41.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,Female,,Group personal pension
+,x,53.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,Female,,Group personal pension
+,x,47.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,Female,,Group personal pension
+,x,76.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,Female,,Group personal pension
+,x,35.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,Female,,Group personal pension
+,x,61.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,Female,,Group personal pension
+,x,60.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,Female,,Group personal pension
+,x,31.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,Female,,Group personal pension
+,x,61.0,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,Female,,Group stakeholder pension
+,x,62.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,Female,,Group stakeholder pension
+,x,49.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,Female,,Group stakeholder pension
+,x,44.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,Female,,Group stakeholder pension
+,x,48.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,Female,,Group stakeholder pension
+,x,48.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,Female,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,Female,,Group stakeholder pension
+,x,47.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,Female,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,65 and over,,Zero,,Employee,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,65 and over,,Under 2%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employee,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employee,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employee,,Female,,Group self-invested personal pension
+1008.0,,1.3,Year,2016,K02000001,,,All employees,,Zero,,Employer,,All,,All
+4545.0,,0.5,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,All,,All
+1008.0,,1.3,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,All,,All
+1130.0,,1.2,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,All,,All
+1189.0,,1.2,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,All,,All
+2708.0,,0.7,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,All,,All
+1216.0,,1.2,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,All,,All
+4143.0,,0.5,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,All,,All
 302.0,,2.2,Year,2016,K02000001,,,All employees,,Zero,,Employer,,All,,Defined benefit
 273.0,,2.5,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,All,,Defined benefit
 73.0,,5.0,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,All,,Defined benefit
@@ -479,14 +1343,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 10.0,,15.0,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,All,,Group self-invested personal pension
 ,x,23.0,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,All,,Group self-invested personal pension
 16.0,,11.0,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,All,,Group self-invested personal pension
-18.0,,11.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,All,,Total
-35.0,,7.8,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,All,,Total
-13.0,,13.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,All,,Total
-15.0,,12.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,All,,Total
-19.0,,11.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,All,,Total
-56.0,,5.8,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,All,,Total
-5.0,,20.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,All,,Total
-17.0,,11.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,All,,Total
+18.0,,11.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,All,,All
+35.0,,7.8,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,All,,All
+13.0,,13.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,All,,All
+15.0,,12.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,All,,All
+19.0,,11.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,All,,All
+56.0,,5.8,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,All,,All
+5.0,,20.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,All,,All
+17.0,,11.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,All,,All
 ,x,26.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,All,,Defined benefit
 ,x,25.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,All,,Defined benefit
 ,x,75.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,All,,Defined benefit
@@ -527,14 +1391,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,All,,Group self-invested personal pension
 ,-,0.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,All,,Group self-invested personal pension
 ,-,0.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,All,,Group self-invested personal pension
-166.0,,3.3,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,All,,Total
-1243.0,,1.1,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,All,,Total
-200.0,,3.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,All,,Total
-195.0,,3.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,All,,Total
-170.0,,3.2,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,All,,Total
-313.0,,2.3,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,All,,Total
-101.0,,4.3,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,All,,Total
-475.0,,1.9,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,All,,Total
+166.0,,3.3,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,All,,All
+1243.0,,1.1,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,All,,All
+200.0,,3.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,All,,All
+195.0,,3.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,All,,All
+170.0,,3.2,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,All,,All
+313.0,,2.3,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,All,,All
+101.0,,4.3,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,All,,All
+475.0,,1.9,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,All,,All
 28.0,,7.8,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,All,,Defined benefit
 72.0,,4.9,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,All,,Defined benefit
 13.0,,12.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,All,,Defined benefit
@@ -575,14 +1439,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,47.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,All,,Group self-invested personal pension
 ,x,,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,All,,Group self-invested personal pension
 ,x,47.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,All,,Group self-invested personal pension
-241.0,,2.8,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,All,,Total
-1216.0,,1.2,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,All,,Total
-303.0,,2.5,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,All,,Total
-309.0,,2.4,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,All,,Total
-308.0,,2.4,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,All,,Total
-541.0,,1.8,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,All,,Total
-263.0,,2.7,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,All,,Total
-998.0,,1.3,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,All,,Total
+241.0,,2.8,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,All,,All
+1216.0,,1.2,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,All,,All
+303.0,,2.5,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,All,,All
+309.0,,2.4,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,All,,All
+308.0,,2.4,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,All,,All
+541.0,,1.8,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,All,,All
+263.0,,2.7,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,All,,All
+998.0,,1.3,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,All,,All
 55.0,,5.6,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,All,,Defined benefit
 64.0,,5.2,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,All,,Defined benefit
 20.0,,9.8,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,All,,Defined benefit
@@ -623,14 +1487,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,27.0,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,All,,Group self-invested personal pension
 ,x,47.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,All,,Group self-invested personal pension
 ,x,26.0,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,All,,Group self-invested personal pension
-285.0,,2.5,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,All,,Total
-1037.0,,1.3,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,All,,Total
-250.0,,2.7,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,All,,Total
-298.0,,2.5,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,All,,Total
-341.0,,2.3,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,All,,Total
-806.0,,1.4,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,All,,Total
-366.0,,2.2,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,All,,Total
-1253.0,,1.2,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,All,,Total
+285.0,,2.5,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,All,,All
+1037.0,,1.3,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,All,,All
+250.0,,2.7,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,All,,All
+298.0,,2.5,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,All,,All
+341.0,,2.3,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,All,,All
+806.0,,1.4,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,All,,All
+366.0,,2.2,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,All,,All
+1253.0,,1.2,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,All,,All
 98.0,,4.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,All,,Defined benefit
 59.0,,5.5,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,All,,Defined benefit
 20.0,,9.5,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,All,,Defined benefit
@@ -671,14 +1535,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,23.0,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,All,,Group self-invested personal pension
 ,x,40.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,All,,Group self-invested personal pension
 5.0,,20.0,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,All,,Group self-invested personal pension
-132.0,,3.5,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,All,,Total
-460.0,,1.8,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,All,,Total
-111.0,,4.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,All,,Total
-147.0,,3.4,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,All,,Total
-161.0,,3.2,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,All,,Total
-444.0,,1.8,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,All,,Total
-226.0,,2.8,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,All,,Total
-670.0,,1.5,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,All,,Total
+132.0,,3.5,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,All,,All
+460.0,,1.8,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,All,,All
+111.0,,4.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,All,,All
+147.0,,3.4,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,All,,All
+161.0,,3.2,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,All,,All
+444.0,,1.8,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,All,,All
+226.0,,2.8,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,All,,All
+670.0,,1.5,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,All,,All
 56.0,,5.1,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,All,,Defined benefit
 32.0,,7.1,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,All,,Defined benefit
 10.0,,13.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,All,,Defined benefit
@@ -719,14 +1583,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,37.0,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,All,,Group self-invested personal pension
 ,x,47.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,All,,Group self-invested personal pension
 ,x,32.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,All,,Group self-invested personal pension
-100.0,,4.1,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,All,,Total
-346.0,,2.1,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,All,,Total
-85.0,,4.5,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,All,,Total
-99.0,,4.1,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,All,,Total
-121.0,,3.7,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,All,,Total
-350.0,,2.1,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,All,,Total
-171.0,,3.2,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,All,,Total
-491.0,,1.9,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,All,,Total
+100.0,,4.1,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,All,,All
+346.0,,2.1,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,All,,All
+85.0,,4.5,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,All,,All
+99.0,,4.1,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,All,,All
+121.0,,3.7,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,All,,All
+350.0,,2.1,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,All,,All
+171.0,,3.2,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,All,,All
+491.0,,1.9,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,All,,All
 42.0,,5.9,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,All,,Defined benefit
 27.0,,7.7,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,All,,Defined benefit
 6.0,,17.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,All,,Defined benefit
@@ -767,14 +1631,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,74.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,All,,Group self-invested personal pension
 ,x,60.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,All,,Group self-invested personal pension
 ,x,26.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,All,,Group self-invested personal pension
-53.0,,5.6,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,All,,Total
-188.0,,2.9,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,All,,Total
-39.0,,6.6,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,All,,Total
-58.0,,5.3,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,All,,Total
-60.0,,5.3,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,All,,Total
-165.0,,3.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,All,,Total
-74.0,,4.9,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,All,,Total
-200.0,,3.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,All,,Total
+53.0,,5.6,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,All,,All
+188.0,,2.9,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,All,,All
+39.0,,6.6,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,All,,All
+58.0,,5.3,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,All,,All
+60.0,,5.3,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,All,,All
+165.0,,3.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,All,,All
+74.0,,4.9,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,All,,All
+200.0,,3.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,All,,All
 18.0,,9.1,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,All,,Defined benefit
 13.0,,11.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,All,,Defined benefit
 ,x,23.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,All,,Defined benefit
@@ -815,14 +1679,14 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,x,,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,All,,Group self-invested personal pension
 ,x,,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,All,,Group self-invested personal pension
 ,x,31.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,All,,Group self-invested personal pension
-13.0,,12.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,All,,Total
-20.0,,8.8,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,All,,Total
-6.0,,16.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,All,,Total
-10.0,,13.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,All,,Total
-9.0,,13.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,All,,Total
-34.0,,6.7,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,All,,Total
-11.0,,13.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,All,,Total
-38.0,,7.2,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,All,,Total
+13.0,,12.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,All,,All
+20.0,,8.8,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,All,,All
+6.0,,16.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,All,,All
+10.0,,13.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,All,,All
+9.0,,13.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,All,,All
+34.0,,6.7,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,All,,All
+11.0,,13.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,All,,All
+38.0,,7.2,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,All,,All
 3.0,,20.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,All,,Defined benefit
 ,x,27.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,All,,Defined benefit
 ,x,78.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,All,,Defined benefit
@@ -863,3 +1727,867 @@ V4_2,Data_Marking,CV,Time_codelist,Time,Geography_codelist,Geography,Age Group_c
 ,-,0.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,All,,Group self-invested personal pension
 ,-,0.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,All,,Group self-invested personal pension
 ,x,,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,All,,Group self-invested personal pension
+607.0,,1.7,Year,2016,K02000001,,,All employees,,Zero,,Employer,,Male,,All
+2663.0,,0.7,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,Male,,All
+619.0,,1.7,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,Male,,All
+667.0,,1.7,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,Male,,All
+716.0,,1.6,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,Male,,All
+1000.0,,1.3,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,Male,,All
+648.0,,1.7,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,Male,,All
+1822.0,,0.9,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,Male,,All
+184.0,,2.9,Year,2016,K02000001,,,All employees,,Zero,,Employer,,Male,,Defined benefit
+166.0,,3.3,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,Male,,Defined benefit
+43.0,,6.7,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,Male,,Defined benefit
+66.0,,5.4,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,Male,,Defined benefit
+175.0,,3.2,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,Male,,Defined benefit
+592.0,,1.7,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,Male,,Defined benefit
+445.0,,2.0,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,Male,,Defined benefit
+1363.0,,1.1,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,Male,,Defined benefit
+166.0,,3.3,Year,2016,K02000001,,,All employees,,Zero,,Employer,,Male,,Defined contribution
+1307.0,,1.1,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,Male,,Defined contribution
+197.0,,3.1,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,Male,,Defined contribution
+264.0,,2.6,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,Male,,Defined contribution
+246.0,,2.7,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,Male,,Defined contribution
+177.0,,3.3,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,Male,,Defined contribution
+92.0,,4.6,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,Male,,Defined contribution
+173.0,,3.4,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,Male,,Defined contribution
+171.0,,3.5,Year,2016,K02000001,,,All employees,,Zero,,Employer,,Male,,Group personal pension
+800.0,,1.5,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,Male,,Group personal pension
+277.0,,2.6,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,Male,,Group personal pension
+245.0,,2.8,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,Male,,Group personal pension
+216.0,,3.0,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,Male,,Group personal pension
+170.0,,3.4,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,Male,,Group personal pension
+78.0,,5.2,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,Male,,Group personal pension
+201.0,,3.2,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,Male,,Group personal pension
+51.0,,6.3,Year,2016,K02000001,,,All employees,,Zero,,Employer,,Male,,Group stakeholder pension
+258.0,,2.6,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,Male,,Group stakeholder pension
+82.0,,4.9,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,Male,,Group stakeholder pension
+70.0,,5.2,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,Male,,Group stakeholder pension
+64.0,,5.6,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,Male,,Group stakeholder pension
+47.0,,6.5,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,Male,,Group stakeholder pension
+26.0,,8.7,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,Male,,Group stakeholder pension
+54.0,,6.1,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,Male,,Group stakeholder pension
+18.0,,11.0,Year,2016,K02000001,,,All employees,,Zero,,Employer,,Male,,Group self-invested personal pension
+32.0,,7.7,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,Male,,Group self-invested personal pension
+8.0,,16.0,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,Male,,Group self-invested personal pension
+12.0,,13.0,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,Male,,Group self-invested personal pension
+8.0,,16.0,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,Male,,Group self-invested personal pension
+7.0,,18.0,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,Male,,Group self-invested personal pension
+,x,26.0,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,Male,,Group self-invested personal pension
+12.0,,13.0,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,Male,,Group self-invested personal pension
+9.0,,16.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,Male,,All
+20.0,,11.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,Male,,All
+8.0,,15.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,Male,,All
+10.0,,15.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,Male,,All
+9.0,,15.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,Male,,All
+23.0,,9.3,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,Male,,All
+,x,29.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,Male,,All
+7.0,,19.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,Male,,All
+,x,41.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,Male,,Defined benefit
+,x,39.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,Male,,Defined benefit
+,x,,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,Male,,Defined benefit
+,x,45.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,Male,,Defined benefit
+,x,31.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,Male,,Defined benefit
+20.0,,10.0,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,Male,,Defined benefit
+,x,48.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,Male,,Defined benefit
+,x,26.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,Male,,Defined benefit
+,x,25.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,Male,,Defined contribution
+9.0,,15.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,Male,,Defined contribution
+,x,21.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,Male,,Defined contribution
+,x,26.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,Male,,Defined contribution
+,x,21.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,Male,,Defined contribution
+,x,30.0,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,Male,,Defined contribution
+,x,60.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,Male,,Defined contribution
+,x,39.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,Male,,Defined contribution
+,x,28.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,Male,,Group personal pension
+7.0,,18.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,Male,,Group personal pension
+,x,28.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,Male,,Group personal pension
+,x,24.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,Male,,Group personal pension
+,x,41.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,Male,,Group personal pension
+,x,75.0,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,Male,,Group personal pension
+,x,54.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,Male,,Group personal pension
+,x,40.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,Male,,Group personal pension
+,x,61.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,Male,,Group stakeholder pension
+,x,39.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,Male,,Group stakeholder pension
+,x,44.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,Male,,Group stakeholder pension
+,x,44.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,Male,,Group stakeholder pension
+,x,43.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,Male,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,Male,,Group stakeholder pension
+,x,74.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,Male,,Group stakeholder pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,Male,,Group stakeholder pension
+,x,62.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,Male,,Group self-invested personal pension
+89.0,,4.6,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,Male,,All
+697.0,,1.5,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,Male,,All
+112.0,,4.1,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,Male,,All
+113.0,,4.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,Male,,All
+102.0,,4.3,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,Male,,All
+128.0,,3.7,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,Male,,All
+51.0,,6.3,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,Male,,All
+169.0,,3.5,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,Male,,All
+13.0,,12.0,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,Male,,Defined benefit
+44.0,,6.3,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,Male,,Defined benefit
+7.0,,17.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,Male,,Defined benefit
+9.0,,15.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,Male,,Defined benefit
+18.0,,9.9,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,Male,,Defined benefit
+76.0,,4.7,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,Male,,Defined benefit
+33.0,,7.8,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,Male,,Defined benefit
+134.0,,4.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,Male,,Defined benefit
+32.0,,7.4,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,Male,,Defined contribution
+353.0,,2.1,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,Male,,Defined contribution
+37.0,,7.1,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,Male,,Defined contribution
+52.0,,5.7,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,Male,,Defined contribution
+48.0,,6.1,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,Male,,Defined contribution
+26.0,,8.6,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,Male,,Defined contribution
+9.0,,15.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,Male,,Defined contribution
+14.0,,12.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,Male,,Defined contribution
+31.0,,8.1,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,Male,,Group personal pension
+203.0,,3.0,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,Male,,Group personal pension
+49.0,,6.3,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,Male,,Group personal pension
+39.0,,7.2,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,Male,,Group personal pension
+26.0,,8.9,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,Male,,Group personal pension
+19.0,,10.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,Male,,Group personal pension
+7.0,,18.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,Male,,Group personal pension
+14.0,,12.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,Male,,Group personal pension
+9.0,,15.0,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,Male,,Group stakeholder pension
+66.0,,5.1,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,Male,,Group stakeholder pension
+16.0,,11.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,Male,,Group stakeholder pension
+9.0,,15.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,Male,,Group stakeholder pension
+7.0,,16.0,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,Male,,Group stakeholder pension
+6.0,,19.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,Male,,Group stakeholder pension
+,x,33.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,Male,,Group stakeholder pension
+,x,25.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,Male,,Group stakeholder pension
+,x,36.0,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,Male,,Group self-invested personal pension
+7.0,,17.0,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,Male,,Group self-invested personal pension
+,x,44.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,Male,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,Male,,Group self-invested personal pension
+,x,62.0,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,Male,,Group self-invested personal pension
+,x,61.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,Male,,Group self-invested personal pension
+,x,47.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,Male,,Group self-invested personal pension
+144.0,,3.7,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,Male,,All
+756.0,,1.5,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,Male,,All
+188.0,,3.2,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,Male,,All
+183.0,,3.3,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,Male,,All
+189.0,,3.2,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,Male,,All
+222.0,,2.9,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,Male,,All
+138.0,,3.8,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,Male,,All
+421.0,,2.2,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,Male,,All
+32.0,,7.4,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,Male,,Defined benefit
+40.0,,6.8,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,Male,,Defined benefit
+12.0,,13.0,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,Male,,Defined benefit
+14.0,,12.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,Male,,Defined benefit
+40.0,,6.8,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,Male,,Defined benefit
+113.0,,4.0,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,Male,,Defined benefit
+90.0,,4.7,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,Male,,Defined benefit
+333.0,,2.5,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,Male,,Defined benefit
+43.0,,6.6,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,Male,,Defined contribution
+371.0,,2.1,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,Male,,Defined contribution
+66.0,,5.4,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,Male,,Defined contribution
+75.0,,5.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,Male,,Defined contribution
+68.0,,5.4,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,Male,,Defined contribution
+50.0,,6.4,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,Male,,Defined contribution
+22.0,,9.6,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,Male,,Defined contribution
+36.0,,7.5,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,Male,,Defined contribution
+47.0,,6.7,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,Male,,Group personal pension
+231.0,,2.8,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,Male,,Group personal pension
+81.0,,5.0,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,Male,,Group personal pension
+69.0,,5.4,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,Male,,Group personal pension
+60.0,,5.9,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,Male,,Group personal pension
+46.0,,6.7,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,Male,,Group personal pension
+17.0,,11.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,Male,,Group personal pension
+38.0,,7.5,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,Male,,Group personal pension
+13.0,,13.0,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,Male,,Group stakeholder pension
+78.0,,4.8,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,Male,,Group stakeholder pension
+23.0,,9.1,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,Male,,Group stakeholder pension
+19.0,,10.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,Male,,Group stakeholder pension
+16.0,,12.0,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,Male,,Group stakeholder pension
+10.0,,15.0,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,Male,,Group stakeholder pension
+6.0,,18.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,Male,,Group stakeholder pension
+7.0,,17.0,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,Male,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,Male,,Group self-invested personal pension
+9.0,,15.0,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,Male,,Group self-invested personal pension
+,x,33.0,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,Male,,Group self-invested personal pension
+,x,26.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,Male,,Group self-invested personal pension
+,x,29.0,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,Male,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,Male,,Group self-invested personal pension
+,x,52.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,Male,,Group self-invested personal pension
+,x,30.0,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,Male,,Group self-invested personal pension
+181.0,,3.2,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,Male,,All
+613.0,,1.7,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,Male,,All
+157.0,,3.5,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,Male,,All
+177.0,,3.3,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,Male,,All
+209.0,,3.0,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,Male,,All
+277.0,,2.6,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,Male,,All
+193.0,,3.2,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,Male,,All
+584.0,,1.8,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,Male,,All
+65.0,,5.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,Male,,Defined benefit
+36.0,,7.3,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,Male,,Defined benefit
+11.0,,13.0,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,Male,,Defined benefit
+17.0,,11.0,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,Male,,Defined benefit
+54.0,,5.8,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,Male,,Defined benefit
+158.0,,3.3,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,Male,,Defined benefit
+130.0,,3.9,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,Male,,Defined benefit
+449.0,,2.1,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,Male,,Defined benefit
+43.0,,6.8,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,Male,,Defined contribution
+290.0,,2.4,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,Male,,Defined contribution
+47.0,,6.5,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,Male,,Defined contribution
+68.0,,5.3,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,Male,,Defined contribution
+69.0,,5.3,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,Male,,Defined contribution
+48.0,,6.5,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,Male,,Defined contribution
+28.0,,8.7,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,Male,,Defined contribution
+51.0,,6.4,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,Male,,Defined contribution
+48.0,,6.7,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,Male,,Group personal pension
+189.0,,3.2,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,Male,,Group personal pension
+73.0,,5.3,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,Male,,Group personal pension
+67.0,,5.5,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,Male,,Group personal pension
+64.0,,5.7,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,Male,,Group personal pension
+51.0,,6.3,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,Male,,Group personal pension
+25.0,,9.3,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,Male,,Group personal pension
+60.0,,6.0,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,Male,,Group personal pension
+14.0,,12.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,Male,,Group stakeholder pension
+62.0,,5.5,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,Male,,Group stakeholder pension
+19.0,,10.0,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,Male,,Group stakeholder pension
+18.0,,11.0,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,Male,,Group stakeholder pension
+18.0,,10.0,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,Male,,Group stakeholder pension
+16.0,,12.0,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,Male,,Group stakeholder pension
+8.0,,16.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,Male,,Group stakeholder pension
+16.0,,11.0,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,Male,,Group stakeholder pension
+6.0,,19.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,Male,,Group self-invested personal pension
+10.0,,14.0,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,Male,,Group self-invested personal pension
+,x,27.0,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,Male,,Group self-invested personal pension
+,x,26.0,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,Male,,Group self-invested personal pension
+,x,27.0,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,Male,,Group self-invested personal pension
+,x,27.0,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,Male,,Group self-invested personal pension
+,x,47.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,Male,,Group self-invested personal pension
+,x,24.0,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,Male,,Group self-invested personal pension
+78.0,,4.7,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,Male,,All
+247.0,,2.5,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,Male,,All
+69.0,,5.1,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,Male,,All
+84.0,,4.6,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,Male,,All
+94.0,,4.3,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,Male,,All
+151.0,,3.3,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,Male,,All
+116.0,,3.9,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,Male,,All
+293.0,,2.4,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,Male,,All
+32.0,,6.7,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,Male,,Defined benefit
+20.0,,9.1,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,Male,,Defined benefit
+6.0,,18.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,Male,,Defined benefit
+10.0,,14.0,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,Male,,Defined benefit
+27.0,,7.9,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,Male,,Defined benefit
+96.0,,4.1,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,Male,,Defined benefit
+83.0,,4.6,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,Male,,Defined benefit
+214.0,,2.9,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,Male,,Defined benefit
+18.0,,10.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,Male,,Defined contribution
+117.0,,3.7,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,Male,,Defined contribution
+18.0,,10.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,Male,,Defined contribution
+30.0,,7.7,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,Male,,Defined contribution
+28.0,,8.1,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,Male,,Defined contribution
+23.0,,9.2,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,Male,,Defined contribution
+15.0,,11.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,Male,,Defined contribution
+30.0,,8.1,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,Male,,Defined contribution
+19.0,,10.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,Male,,Group personal pension
+76.0,,4.8,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,Male,,Group personal pension
+33.0,,7.5,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,Male,,Group personal pension
+30.0,,7.9,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,Male,,Group personal pension
+27.0,,8.4,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,Male,,Group personal pension
+22.0,,9.2,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,Male,,Group personal pension
+12.0,,13.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,Male,,Group personal pension
+33.0,,7.8,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,Male,,Group personal pension
+,x,21.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,Male,,Group stakeholder pension
+24.0,,8.6,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,Male,,Group stakeholder pension
+10.0,,13.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,Male,,Group stakeholder pension
+10.0,,13.0,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,Male,,Group stakeholder pension
+11.0,,13.0,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,Male,,Group stakeholder pension
+8.0,,16.0,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,Male,,Group stakeholder pension
+,x,21.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,Male,,Group stakeholder pension
+11.0,,14.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,Male,,Group stakeholder pension
+,x,27.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,Male,,Group self-invested personal pension
+,x,25.0,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,Male,,Group self-invested personal pension
+,x,44.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,Male,,Group self-invested personal pension
+,x,34.0,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,Male,,Group self-invested personal pension
+,x,44.0,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,Male,,Group self-invested personal pension
+,x,47.0,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,Male,,Group self-invested personal pension
+,x,52.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,Male,,Group self-invested personal pension
+,x,43.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,Male,,Group self-invested personal pension
+63.0,,5.2,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,Male,,All
+195.0,,2.8,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,Male,,All
+55.0,,5.7,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,Male,,All
+58.0,,5.6,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,Male,,All
+69.0,,5.1,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,Male,,All
+123.0,,3.7,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,Male,,All
+96.0,,4.3,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,Male,,All
+216.0,,2.9,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,Male,,All
+26.0,,7.4,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,Male,,Defined benefit
+16.0,,10.0,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,Male,,Defined benefit
+,x,21.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,Male,,Defined benefit
+7.0,,17.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,Male,,Defined benefit
+21.0,,9.1,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,Male,,Defined benefit
+79.0,,4.5,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,Male,,Defined benefit
+72.0,,5.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,Male,,Defined benefit
+151.0,,3.5,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,Male,,Defined benefit
+14.0,,12.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,Male,,Defined contribution
+94.0,,4.1,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,Male,,Defined contribution
+17.0,,10.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,Male,,Defined contribution
+22.0,,8.9,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,Male,,Defined contribution
+18.0,,10.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,Male,,Defined contribution
+17.0,,10.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,Male,,Defined contribution
+10.0,,14.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,Male,,Defined contribution
+23.0,,9.1,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,Male,,Defined contribution
+15.0,,12.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,Male,,Group personal pension
+55.0,,5.6,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,Male,,Group personal pension
+24.0,,8.7,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,Male,,Group personal pension
+20.0,,9.6,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,Male,,Group personal pension
+22.0,,9.3,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,Male,,Group personal pension
+21.0,,9.6,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,Male,,Group personal pension
+10.0,,14.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,Male,,Group personal pension
+30.0,,8.2,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,Male,,Group personal pension
+,x,21.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,Male,,Group stakeholder pension
+19.0,,9.2,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,Male,,Group stakeholder pension
+8.0,,15.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,Male,,Group stakeholder pension
+7.0,,16.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,Male,,Group stakeholder pension
+7.0,,16.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,Male,,Group stakeholder pension
+5.0,,19.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,Male,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,Male,,Group stakeholder pension
+8.0,,15.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,Male,,Group stakeholder pension
+,x,35.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,Male,,Group self-invested personal pension
+,x,27.0,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,Male,,Group self-invested personal pension
+,x,52.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,Male,,Group self-invested personal pension
+,x,41.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,Male,,Group self-invested personal pension
+,x,61.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,Male,,Group self-invested personal pension
+,x,74.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,Male,,Group self-invested personal pension
+,x,74.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,Male,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,Male,,Group self-invested personal pension
+36.0,,7.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,Male,,All
+118.0,,3.7,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,Male,,All
+26.0,,8.3,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,Male,,All
+37.0,,6.9,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,Male,,All
+37.0,,6.9,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,Male,,All
+62.0,,5.1,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,Male,,All
+44.0,,6.4,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,Male,,All
+107.0,,4.3,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,Male,,All
+12.0,,11.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,Male,,Defined benefit
+7.0,,15.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,Male,,Defined benefit
+,x,29.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,Male,,Defined benefit
+6.0,,17.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,Male,,Defined benefit
+11.0,,13.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,Male,,Defined benefit
+42.0,,6.2,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,Male,,Defined benefit
+32.0,,7.6,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,Male,,Defined benefit
+62.0,,5.6,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,Male,,Defined benefit
+10.0,,13.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,Male,,Defined contribution
+64.0,,5.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,Male,,Defined contribution
+7.0,,15.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,Male,,Defined contribution
+12.0,,12.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,Male,,Defined contribution
+10.0,,13.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,Male,,Defined contribution
+9.0,,14.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,Male,,Defined contribution
+7.0,,17.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,Male,,Defined contribution
+13.0,,12.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,Male,,Defined contribution
+7.0,,17.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,Male,,Group personal pension
+36.0,,6.9,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,Male,,Group personal pension
+13.0,,12.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,Male,,Group personal pension
+13.0,,12.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,Male,,Group personal pension
+13.0,,12.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,Male,,Group personal pension
+8.0,,15.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,Male,,Group personal pension
+,x,23.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,Male,,Group personal pension
+20.0,,10.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,Male,,Group personal pension
+,x,22.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,Male,,Group stakeholder pension
+7.0,,15.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,Male,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,Male,,Group stakeholder pension
+4.0,,19.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,Male,,Group stakeholder pension
+,x,25.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,Male,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,Male,,Group stakeholder pension
+,x,32.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,Male,,Group stakeholder pension
+8.0,,16.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,Male,,Group stakeholder pension
+,x,47.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,Male,,Group self-invested personal pension
+,x,48.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,Male,,Group self-invested personal pension
+,x,53.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,Male,,Group self-invested personal pension
+,x,54.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,Male,,Group self-invested personal pension
+,x,38.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,Male,,Group self-invested personal pension
+8.0,,15.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,Male,,All
+17.0,,9.7,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,Male,,All
+,x,23.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,Male,,All
+6.0,,18.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,Male,,All
+6.0,,17.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,Male,,All
+14.0,,11.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,Male,,All
+7.0,,16.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,Male,,All
+25.0,,9.2,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,Male,,All
+,x,32.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,Male,,Defined benefit
+,x,28.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,Male,,Defined benefit
+,x,,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,Male,,Defined benefit
+,x,41.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,Male,,Defined benefit
+,x,31.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,Male,,Defined benefit
+9.0,,13.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,Male,,Defined benefit
+,x,21.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,Male,,Defined benefit
+16.0,,12.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,Male,,Defined benefit
+,x,30.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,Male,,Defined contribution
+9.0,,13.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,Male,,Defined contribution
+,x,33.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,Male,,Defined contribution
+,x,28.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,Male,,Defined contribution
+,x,28.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,Male,,Defined contribution
+,x,29.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,Male,,Defined contribution
+,x,48.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,Male,,Defined contribution
+,x,25.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,Male,,Defined contribution
+,x,30.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,Male,,Group personal pension
+,x,21.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,Male,,Group personal pension
+,x,36.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,Male,,Group personal pension
+,x,35.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,Male,,Group personal pension
+,x,35.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,Male,,Group personal pension
+,x,31.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,Male,,Group personal pension
+,x,38.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,Male,,Group personal pension
+,x,21.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,Male,,Group personal pension
+,x,35.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,Male,,Group stakeholder pension
+,x,33.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,Male,,Group stakeholder pension
+,x,74.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,Male,,Group stakeholder pension
+,x,54.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,Male,,Group stakeholder pension
+,x,78.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,Male,,Group stakeholder pension
+,x,61.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,Male,,Group stakeholder pension
+,x,54.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,Male,,Group stakeholder pension
+,x,55.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,Male,,Group stakeholder pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,Male,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,Male,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,Male,,Group self-invested personal pension
+401.0,,2.0,Year,2016,K02000001,,,All employees,,Zero,,Employer,,Female,,All
+1882.0,,0.8,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,Female,,All
+389.0,,2.0,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,Female,,All
+463.0,,1.8,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,Female,,All
+474.0,,1.8,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,Female,,All
+1708.0,,0.9,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,Female,,All
+568.0,,1.7,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,Female,,All
+2321.0,,0.7,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,Female,,All
+118.0,,3.6,Year,2016,K02000001,,,All employees,,Zero,,Employer,,Female,,Defined benefit
+107.0,,3.9,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,Female,,Defined benefit
+30.0,,7.4,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,Female,,Defined benefit
+60.0,,5.1,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,Female,,Defined benefit
+167.0,,3.0,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,Female,,Defined benefit
+1436.0,,0.9,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,Female,,Defined benefit
+457.0,,1.9,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,Female,,Defined benefit
+2052.0,,0.7,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,Female,,Defined benefit
+101.0,,4.0,Year,2016,K02000001,,,All employees,,Zero,,Employer,,Female,,Defined contribution
+1013.0,,1.2,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,Female,,Defined contribution
+132.0,,3.5,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,Female,,Defined contribution
+196.0,,2.7,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,Female,,Defined contribution
+130.0,,3.6,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,Female,,Defined contribution
+112.0,,3.8,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,Female,,Defined contribution
+48.0,,6.0,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,Female,,Defined contribution
+95.0,,4.2,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,Female,,Defined contribution
+128.0,,3.7,Year,2016,K02000001,,,All employees,,Zero,,Employer,,Female,,Group personal pension
+502.0,,1.8,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,Female,,Group personal pension
+174.0,,3.1,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,Female,,Group personal pension
+151.0,,3.3,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,Female,,Group personal pension
+131.0,,3.6,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,Female,,Group personal pension
+104.0,,4.0,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,Female,,Group personal pension
+42.0,,6.4,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,Female,,Group personal pension
+111.0,,4.0,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,Female,,Group personal pension
+31.0,,7.4,Year,2016,K02000001,,,All employees,,Zero,,Employer,,Female,,Group stakeholder pension
+164.0,,3.0,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,Female,,Group stakeholder pension
+44.0,,6.2,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,Female,,Group stakeholder pension
+47.0,,5.9,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,Female,,Group stakeholder pension
+38.0,,6.6,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,Female,,Group stakeholder pension
+37.0,,6.7,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,Female,,Group stakeholder pension
+16.0,,10.0,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,Female,,Group stakeholder pension
+34.0,,7.1,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,Female,,Group stakeholder pension
+8.0,,14.0,Year,2016,K02000001,,,All employees,,Zero,,Employer,,Female,,Group self-invested personal pension
+16.0,,10.0,Year,2016,K02000001,,,All employees,,Under 2%,,Employer,,Female,,Group self-invested personal pension
+5.0,,20.0,Year,2016,K02000001,,,All employees,,2% to 3%,,Employer,,Female,,Group self-invested personal pension
+4.0,,20.0,Year,2016,K02000001,,,All employees,,3% to 4%,,Employer,,Female,,Group self-invested personal pension
+,x,21.0,Year,2016,K02000001,,,All employees,,4% to 5%,,Employer,,Female,,Group self-invested personal pension
+,x,26.0,Year,2016,K02000001,,,All employees,,5% to 6%,,Employer,,Female,,Group self-invested personal pension
+,x,47.0,Year,2016,K02000001,,,All employees,,6% to 7%,,Employer,,Female,,Group self-invested personal pension
+,x,21.0,Year,2016,K02000001,,,All employees,,7% and over,,Employer,,Female,,Group self-invested personal pension
+9.0,,15.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,Female,,All
+15.0,,12.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,Female,,All
+,x,21.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,Female,,All
+5.0,,19.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,Female,,All
+9.0,,17.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,Female,,All
+32.0,,7.5,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,Female,,All
+,x,28.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,Female,,All
+10.0,,14.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,Female,,All
+,x,32.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,Female,,Defined benefit
+,x,33.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,Female,,Defined benefit
+,x,,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,Female,,Defined benefit
+,x,,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,Female,,Defined benefit
+,x,22.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,Female,,Defined benefit
+30.0,,7.6,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,Female,,Defined benefit
+,x,35.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,Female,,Defined benefit
+8.0,,15.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,Female,,Defined benefit
+,x,24.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,Female,,Defined contribution
+7.0,,17.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,Female,,Defined contribution
+,x,30.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,Female,,Defined contribution
+,x,27.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,Female,,Defined contribution
+,x,36.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,Female,,Defined contribution
+,x,56.0,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,Female,,Defined contribution
+,-,0.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,Female,,Defined contribution
+,x,,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,Female,,Defined contribution
+,x,28.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,Female,,Group personal pension
+,x,21.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,Female,,Group personal pension
+,x,35.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,Female,,Group personal pension
+,x,31.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,Female,,Group personal pension
+,x,47.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,Female,,Group personal pension
+,x,62.0,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,Female,,Group personal pension
+,x,47.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,Female,,Group personal pension
+,x,36.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,Female,,Group personal pension
+,x,53.0,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,Female,,Group stakeholder pension
+,x,48.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,Female,,Group stakeholder pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,Female,,Group stakeholder pension
+,x,62.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,Female,,Group stakeholder pension
+,x,80.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,Female,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,Female,,Group stakeholder pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,Female,,Group stakeholder pension
+,x,74.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,Female,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,16 - 21,,Zero,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,Under 2%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,2% to 3%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,3% to 4%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,4% to 5%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,5% to 6%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,6% to 7%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,16 - 21,,7% and over,,Employer,,Female,,Group self-invested personal pension
+78.0,,4.6,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,Female,,All
+547.0,,1.6,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,Female,,All
+88.0,,4.4,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,Female,,All
+82.0,,4.4,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,Female,,All
+68.0,,4.9,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,Female,,All
+185.0,,2.9,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,Female,,All
+50.0,,5.9,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,Female,,All
+306.0,,2.3,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,Female,,All
+14.0,,10.0,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,Female,,Defined benefit
+27.0,,7.6,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,Female,,Defined benefit
+7.0,,16.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,Female,,Defined benefit
+7.0,,16.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,Female,,Defined benefit
+20.0,,8.7,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,Female,,Defined benefit
+153.0,,3.2,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,Female,,Defined benefit
+38.0,,6.7,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,Female,,Defined benefit
+274.0,,2.4,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,Female,,Defined benefit
+25.0,,7.9,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,Female,,Defined contribution
+290.0,,2.3,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,Female,,Defined contribution
+31.0,,7.3,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,Female,,Defined contribution
+37.0,,6.4,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,Female,,Defined contribution
+21.0,,8.8,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,Female,,Defined contribution
+13.0,,12.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,Female,,Defined contribution
+6.0,,17.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,Female,,Defined contribution
+11.0,,13.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,Female,,Defined contribution
+28.0,,7.9,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,Female,,Group personal pension
+156.0,,3.2,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,Female,,Group personal pension
+42.0,,6.5,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,Female,,Group personal pension
+30.0,,7.5,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,Female,,Group personal pension
+22.0,,9.0,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,Female,,Group personal pension
+13.0,,12.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,Female,,Group personal pension
+5.0,,19.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,Female,,Group personal pension
+15.0,,11.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,Female,,Group personal pension
+6.0,,17.0,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,Female,,Group stakeholder pension
+46.0,,5.8,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,Female,,Group stakeholder pension
+7.0,,16.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,Female,,Group stakeholder pension
+6.0,,17.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,Female,,Group stakeholder pension
+,x,22.0,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,Female,,Group stakeholder pension
+,x,22.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,Female,,Group stakeholder pension
+,x,36.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,Female,,Group stakeholder pension
+,x,29.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,Female,,Group stakeholder pension
+,x,34.0,Year,2016,K02000001,,,22 - 29,,Zero,,Employer,,Female,,Group self-invested personal pension
+5.0,,18.0,Year,2016,K02000001,,,22 - 29,,Under 2%,,Employer,,Female,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,22 - 29,,2% to 3%,,Employer,,Female,,Group self-invested personal pension
+,x,43.0,Year,2016,K02000001,,,22 - 29,,3% to 4%,,Employer,,Female,,Group self-invested personal pension
+,x,40.0,Year,2016,K02000001,,,22 - 29,,4% to 5%,,Employer,,Female,,Group self-invested personal pension
+,x,74.0,Year,2016,K02000001,,,22 - 29,,5% to 6%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,22 - 29,,6% to 7%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,22 - 29,,7% and over,,Employer,,Female,,Group self-invested personal pension
+97.0,,4.2,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,Female,,All
+460.0,,1.8,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,Female,,All
+115.0,,3.8,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,Female,,All
+126.0,,3.6,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,Female,,All
+119.0,,3.7,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,Female,,All
+319.0,,2.2,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,Female,,All
+125.0,,3.7,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,Female,,All
+577.0,,1.6,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,Female,,All
+23.0,,8.5,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,Female,,Defined benefit
+24.0,,8.2,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,Female,,Defined benefit
+7.0,,16.0,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,Female,,Defined benefit
+14.0,,11.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,Female,,Defined benefit
+36.0,,6.6,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,Female,,Defined benefit
+251.0,,2.4,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,Female,,Defined benefit
+97.0,,4.2,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,Female,,Defined benefit
+520.0,,1.7,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,Female,,Defined benefit
+28.0,,7.8,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,Female,,Defined contribution
+236.0,,2.6,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,Female,,Defined contribution
+39.0,,6.4,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,Female,,Defined contribution
+50.0,,5.6,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,Female,,Defined contribution
+37.0,,6.8,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,Female,,Defined contribution
+30.0,,7.6,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,Female,,Defined contribution
+13.0,,12.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,Female,,Defined contribution
+20.0,,9.4,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,Female,,Defined contribution
+36.0,,6.9,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,Female,,Group personal pension
+130.0,,3.6,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,Female,,Group personal pension
+50.0,,5.9,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,Female,,Group personal pension
+44.0,,6.3,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,Female,,Group personal pension
+36.0,,7.0,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,Female,,Group personal pension
+27.0,,8.1,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,Female,,Group personal pension
+10.0,,14.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,Female,,Group personal pension
+23.0,,8.8,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,Female,,Group personal pension
+6.0,,18.0,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,Female,,Group stakeholder pension
+47.0,,5.8,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,Female,,Group stakeholder pension
+15.0,,11.0,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,Female,,Group stakeholder pension
+14.0,,11.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,Female,,Group stakeholder pension
+9.0,,14.0,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,Female,,Group stakeholder pension
+8.0,,15.0,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,Female,,Group stakeholder pension
+5.0,,20.0,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,Female,,Group stakeholder pension
+6.0,,18.0,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,Female,,Group stakeholder pension
+,x,29.0,Year,2016,K02000001,,,30 - 39,,Zero,,Employer,,Female,,Group self-invested personal pension
+5.0,,19.0,Year,2016,K02000001,,,30 - 39,,Under 2%,,Employer,,Female,,Group self-invested personal pension
+,x,35.0,Year,2016,K02000001,,,30 - 39,,2% to 3%,,Employer,,Female,,Group self-invested personal pension
+,x,29.0,Year,2016,K02000001,,,30 - 39,,3% to 4%,,Employer,,Female,,Group self-invested personal pension
+,x,61.0,Year,2016,K02000001,,,30 - 39,,4% to 5%,,Employer,,Female,,Group self-invested personal pension
+,x,47.0,Year,2016,K02000001,,,30 - 39,,5% to 6%,,Employer,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,30 - 39,,6% to 7%,,Employer,,Female,,Group self-invested personal pension
+,x,53.0,Year,2016,K02000001,,,30 - 39,,7% and over,,Employer,,Female,,Group self-invested personal pension
+104.0,,3.9,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,Female,,All
+423.0,,1.9,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,Female,,All
+93.0,,4.2,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,Female,,All
+121.0,,3.6,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,Female,,All
+131.0,,3.5,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,Female,,All
+529.0,,1.6,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,Female,,All
+173.0,,3.1,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,Female,,All
+669.0,,1.5,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,Female,,All
+33.0,,6.7,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,Female,,Defined benefit
+23.0,,8.2,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,Female,,Defined benefit
+8.0,,14.0,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,Female,,Defined benefit
+18.0,,9.3,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,Female,,Defined benefit
+48.0,,5.6,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,Female,,Defined benefit
+447.0,,1.8,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,Female,,Defined benefit
+143.0,,3.4,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,Female,,Defined benefit
+594.0,,1.6,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,Female,,Defined benefit
+25.0,,8.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,Female,,Defined contribution
+236.0,,2.6,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,Female,,Defined contribution
+29.0,,7.4,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,Female,,Defined contribution
+52.0,,5.4,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,Female,,Defined contribution
+34.0,,6.9,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,Female,,Defined contribution
+33.0,,7.1,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,Female,,Defined contribution
+15.0,,11.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,Female,,Defined contribution
+30.0,,7.6,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,Female,,Defined contribution
+30.0,,7.6,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,Female,,Group personal pension
+109.0,,3.9,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,Female,,Group personal pension
+41.0,,6.5,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,Female,,Group personal pension
+39.0,,6.6,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,Female,,Group personal pension
+36.0,,6.9,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,Female,,Group personal pension
+31.0,,7.3,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,Female,,Group personal pension
+11.0,,13.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,Female,,Group personal pension
+28.0,,8.1,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,Female,,Group personal pension
+9.0,,13.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,Female,,Group stakeholder pension
+34.0,,6.7,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,Female,,Group stakeholder pension
+13.0,,12.0,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,Female,,Group stakeholder pension
+11.0,,12.0,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,Female,,Group stakeholder pension
+11.0,,12.0,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,Female,,Group stakeholder pension
+12.0,,12.0,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,Female,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,Female,,Group stakeholder pension
+11.0,,12.0,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,Female,,Group stakeholder pension
+,x,25.0,Year,2016,K02000001,,,40 - 49,,Zero,,Employer,,Female,,Group self-invested personal pension
+,x,23.0,Year,2016,K02000001,,,40 - 49,,Under 2%,,Employer,,Female,,Group self-invested personal pension
+,x,53.0,Year,2016,K02000001,,,40 - 49,,2% to 3%,,Employer,,Female,,Group self-invested personal pension
+,x,43.0,Year,2016,K02000001,,,40 - 49,,3% to 4%,,Employer,,Female,,Group self-invested personal pension
+,x,38.0,Year,2016,K02000001,,,40 - 49,,4% to 5%,,Employer,,Female,,Group self-invested personal pension
+,x,43.0,Year,2016,K02000001,,,40 - 49,,5% to 6%,,Employer,,Female,,Group self-invested personal pension
+,x,74.0,Year,2016,K02000001,,,40 - 49,,6% to 7%,,Employer,,Female,,Group self-invested personal pension
+,x,37.0,Year,2016,K02000001,,,40 - 49,,7% and over,,Employer,,Female,,Group self-invested personal pension
+54.0,,5.5,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,Female,,All
+212.0,,2.6,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,Female,,All
+42.0,,6.3,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,Female,,All
+63.0,,4.8,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,Female,,All
+68.0,,4.8,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,Female,,All
+293.0,,2.2,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,Female,,All
+110.0,,3.9,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,Female,,All
+376.0,,2.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,Female,,All
+23.0,,8.1,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,Female,,Defined benefit
+13.0,,11.0,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,Female,,Defined benefit
+4.0,,20.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,Female,,Defined benefit
+10.0,,12.0,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,Female,,Defined benefit
+25.0,,7.7,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,Female,,Defined benefit
+252.0,,2.3,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,Female,,Defined benefit
+91.0,,4.3,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,Female,,Defined benefit
+334.0,,2.1,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,Female,,Defined benefit
+10.0,,13.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,Female,,Defined contribution
+118.0,,3.5,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,Female,,Defined contribution
+12.0,,11.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,Female,,Defined contribution
+28.0,,7.1,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,Female,,Defined contribution
+19.0,,9.3,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,Female,,Defined contribution
+16.0,,9.9,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,Female,,Defined contribution
+6.0,,16.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,Female,,Defined contribution
+16.0,,11.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,Female,,Defined contribution
+13.0,,12.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,Female,,Group personal pension
+53.0,,5.5,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,Female,,Group personal pension
+20.0,,9.2,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,Female,,Group personal pension
+17.0,,9.8,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,Female,,Group personal pension
+17.0,,9.9,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,Female,,Group personal pension
+16.0,,10.0,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,Female,,Group personal pension
+8.0,,15.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,Female,,Group personal pension
+15.0,,11.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,Female,,Group personal pension
+4.0,,20.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,Female,,Group stakeholder pension
+16.0,,9.9,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,Female,,Group stakeholder pension
+,x,21.0,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,Female,,Group stakeholder pension
+7.0,,15.0,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,Female,,Group stakeholder pension
+5.0,,18.0,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,Female,,Group stakeholder pension
+6.0,,18.0,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,Female,,Group stakeholder pension
+,x,22.0,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,Female,,Group stakeholder pension
+6.0,,16.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,Female,,Group stakeholder pension
+,x,45.0,Year,2016,K02000001,,,50 - 54,,Zero,,Employer,,Female,,Group self-invested personal pension
+,x,34.0,Year,2016,K02000001,,,50 - 54,,Under 2%,,Employer,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,50 - 54,,2% to 3%,,Employer,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,50 - 54,,3% to 4%,,Employer,,Female,,Group self-invested personal pension
+,x,48.0,Year,2016,K02000001,,,50 - 54,,4% to 5%,,Employer,,Female,,Group self-invested personal pension
+,x,61.0,Year,2016,K02000001,,,50 - 54,,5% to 6%,,Employer,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,50 - 54,,6% to 7%,,Employer,,Female,,Group self-invested personal pension
+,x,48.0,Year,2016,K02000001,,,50 - 54,,7% and over,,Employer,,Female,,Group self-invested personal pension
+37.0,,6.5,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,Female,,All
+151.0,,3.2,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,Female,,All
+30.0,,7.4,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,Female,,All
+41.0,,6.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,Female,,All
+52.0,,5.5,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,Female,,All
+227.0,,2.5,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,Female,,All
+74.0,,4.7,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,Female,,All
+275.0,,2.4,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,Female,,All
+16.0,,9.7,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,Female,,Defined benefit
+11.0,,12.0,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,Female,,Defined benefit
+,x,29.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,Female,,Defined benefit
+6.0,,16.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,Female,,Defined benefit
+21.0,,8.5,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,Female,,Defined benefit
+196.0,,2.7,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,Female,,Defined benefit
+62.0,,5.2,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,Female,,Defined benefit
+237.0,,2.6,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,Female,,Defined benefit
+7.0,,15.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,Female,,Defined contribution
+85.0,,4.2,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,Female,,Defined contribution
+11.0,,12.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,Female,,Defined contribution
+19.0,,8.5,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,Female,,Defined contribution
+12.0,,12.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,Female,,Defined contribution
+12.0,,11.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,Female,,Defined contribution
+4.0,,20.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,Female,,Defined contribution
+13.0,,12.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,Female,,Defined contribution
+9.0,,14.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,Female,,Group personal pension
+35.0,,6.7,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,Female,,Group personal pension
+12.0,,12.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,Female,,Group personal pension
+12.0,,12.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,Female,,Group personal pension
+12.0,,12.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,Female,,Group personal pension
+11.0,,12.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,Female,,Group personal pension
+5.0,,19.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,Female,,Group personal pension
+18.0,,10.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,Female,,Group personal pension
+,x,23.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,Female,,Group stakeholder pension
+12.0,,11.0,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,Female,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,Female,,Group stakeholder pension
+,x,21.0,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,Female,,Group stakeholder pension
+6.0,,17.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,Female,,Group stakeholder pension
+5.0,,17.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,Female,,Group stakeholder pension
+,x,32.0,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,Female,,Group stakeholder pension
+5.0,,18.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,Female,,Group stakeholder pension
+,x,54.0,Year,2016,K02000001,,,55 - 59,,Zero,,Employer,,Female,,Group self-invested personal pension
+,x,32.0,Year,2016,K02000001,,,55 - 59,,Under 2%,,Employer,,Female,,Group self-invested personal pension
+,x,61.0,Year,2016,K02000001,,,55 - 59,,2% to 3%,,Employer,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,55 - 59,,3% to 4%,,Employer,,Female,,Group self-invested personal pension
+,x,62.0,Year,2016,K02000001,,,55 - 59,,4% to 5%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,55 - 59,,5% to 6%,,Employer,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,55 - 59,,6% to 7%,,Employer,,Female,,Group self-invested personal pension
+,x,44.0,Year,2016,K02000001,,,55 - 59,,7% and over,,Employer,,Female,,Group self-invested personal pension
+17.0,,9.4,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,Female,,All
+70.0,,4.7,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,Female,,All
+14.0,,11.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,Female,,All
+21.0,,8.4,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,Female,,All
+23.0,,8.1,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,Female,,All
+103.0,,3.7,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,Female,,All
+30.0,,7.5,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,Female,,All
+93.0,,4.3,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,Female,,All
+6.0,,16.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,Female,,Defined benefit
+6.0,,15.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,Female,,Defined benefit
+,x,36.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,Female,,Defined benefit
+4.0,,19.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,Female,,Defined benefit
+11.0,,12.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,Female,,Defined benefit
+89.0,,4.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,Female,,Defined benefit
+22.0,,8.8,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,Female,,Defined benefit
+76.0,,4.8,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,Female,,Defined benefit
+,x,22.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,Female,,Defined contribution
+39.0,,6.3,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,Female,,Defined contribution
+5.0,,18.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,Female,,Defined contribution
+8.0,,13.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,Female,,Defined contribution
+4.0,,20.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,Female,,Defined contribution
+5.0,,17.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,Female,,Defined contribution
+,x,24.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,Female,,Defined contribution
+5.0,,18.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,Female,,Defined contribution
+6.0,,17.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,Female,,Group personal pension
+14.0,,11.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,Female,,Group personal pension
+6.0,,16.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,Female,,Group personal pension
+6.0,,16.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,Female,,Group personal pension
+5.0,,18.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,Female,,Group personal pension
+6.0,,16.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,Female,,Group personal pension
+,x,24.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,Female,,Group personal pension
+8.0,,15.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,Female,,Group personal pension
+,x,29.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,Female,,Group stakeholder pension
+7.0,,14.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,Female,,Group stakeholder pension
+,x,32.0,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,Female,,Group stakeholder pension
+,x,24.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,Female,,Group stakeholder pension
+,x,23.0,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,Female,,Group stakeholder pension
+,x,27.0,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,Female,,Group stakeholder pension
+,x,32.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,Female,,Group stakeholder pension
+,x,25.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,Female,,Group stakeholder pension
+,x,78.0,Year,2016,K02000001,,,60 - 64,,Zero,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,60 - 64,,Under 2%,,Employer,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,60 - 64,,2% to 3%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,60 - 64,,3% to 4%,,Employer,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,60 - 64,,4% to 5%,,Employer,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,60 - 64,,5% to 6%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,60 - 64,,6% to 7%,,Employer,,Female,,Group self-invested personal pension
+,x,54.0,Year,2016,K02000001,,,60 - 64,,7% and over,,Employer,,Female,,Group self-invested personal pension
+5.0,,18.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,Female,,All
+,x,21.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,Female,,All
+,x,24.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,Female,,All
+,x,21.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,Female,,All
+,x,21.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,Female,,All
+20.0,,8.5,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,Female,,All
+4.0,,20.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,Female,,All
+14.0,,12.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,Female,,All
+,x,26.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,Female,,Defined benefit
+,x,76.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,Female,,Defined benefit
+,x,,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,Female,,Defined benefit
+,x,32.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,Female,,Defined benefit
+,x,32.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,Female,,Defined benefit
+17.0,,9.1,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,Female,,Defined benefit
+,x,23.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,Female,,Defined benefit
+9.0,,14.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,Female,,Defined benefit
+,x,47.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,Female,,Defined contribution
+,x,28.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,Female,,Defined contribution
+,x,34.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,Female,,Defined contribution
+,x,39.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,Female,,Defined contribution
+,x,,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,Female,,Defined contribution
+,x,36.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,Female,,Defined contribution
+,x,77.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,Female,,Defined contribution
+,x,38.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,Female,,Defined contribution
+,x,41.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,Female,,Group personal pension
+,x,53.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,Female,,Group personal pension
+,x,47.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,Female,,Group personal pension
+,x,76.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,Female,,Group personal pension
+,x,35.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,Female,,Group personal pension
+,x,61.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,Female,,Group personal pension
+,x,60.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,Female,,Group personal pension
+,x,31.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,Female,,Group personal pension
+,x,61.0,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,Female,,Group stakeholder pension
+,x,62.0,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,Female,,Group stakeholder pension
+,x,49.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,Female,,Group stakeholder pension
+,x,44.0,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,Female,,Group stakeholder pension
+,x,48.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,Female,,Group stakeholder pension
+,x,48.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,Female,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,Female,,Group stakeholder pension
+,x,47.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,Female,,Group stakeholder pension
+,x,,Year,2016,K02000001,,,65 and over,,Zero,,Employer,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,65 and over,,Under 2%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,2% to 3%,,Employer,,Female,,Group self-invested personal pension
+,x,,Year,2016,K02000001,,,65 and over,,3% to 4%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,4% to 5%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,5% to 6%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,6% to 7%,,Employer,,Female,,Group self-invested personal pension
+,-,0.0,Year,2016,K02000001,,,65 and over,,7% and over,,Employer,,Female,,Group self-invested personal pension

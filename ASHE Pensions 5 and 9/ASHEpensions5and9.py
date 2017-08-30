@@ -75,7 +75,7 @@ def processOne(valxls, cvXls, details, year, percent=False):
             Cv = {}
             for val in [x.value for x in boldGroup]:
                 if val in [x.value for x in contribution]:
-                    Cv.update({val:'Total'})    
+                    Cv.update({val:'All'})    
             return Cv
 
         # cell value overrides for agegroup (i.e bold values to Total)
@@ -132,7 +132,7 @@ def processOne(valxls, cvXls, details, year, percent=False):
         # This tab is done - append to list of done tabs
         conversionsegments.append(conversionsegment)
             
-        return conversionsegments
+    return conversionsegments
     
             
 # #####

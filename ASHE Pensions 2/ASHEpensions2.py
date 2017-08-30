@@ -39,7 +39,7 @@ for i in range(0, 2):
             Cv = {}
             for val in [x.value for x in boldGroup]:
                 if val in [x.value for x in provision]:
-                    Cv.update({val:'Total'})    
+                    Cv.update({val:'All'})    
             return Cv
 
         # cell value overrides for agegroup (i.e bold values to Total)
