@@ -1,6 +1,6 @@
 # ASHE Pensions Tables 5 & 9 'recipe'
 
-Takes 4 input files. One each of data and CV values for table 5 and table 9. Outputs a value file and a spercentages file, each uses all 4 inpupts in its creation.
+Takes 4 input files. One each of data and CV values for table 5 and table 9. Outputs a value file and a percentages file, each uses all 4 inpupts in its creation.
 
 # usage
 
