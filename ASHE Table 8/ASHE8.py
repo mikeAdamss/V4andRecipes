@@ -146,8 +146,6 @@ def makeV4(cvDf, df):
     # remove any blank obs (data makers and obs are still in one column at this point)
     oldLen = len(df)
     obs_file = obs_file[obs_file['V4_2'].astype(str) != '']
-    
-    print('Original Dataset Len:', oldLen, 'reduced by ', oldLen-len(df) ,'blank data points.')
                         
     # split obs and data markers
     dMarkers = ['x', '..', ':', '-']
@@ -256,4 +254,4 @@ for dset in [hoursFiles, earningsFiles]:
     else:
         prov = ''
         
-    df.to_csv('ASHE_{ds}{p}{t}.csv'.format(ds=ds, t=time, p=prov), encoding="utf-8", index=False)
+    df.to_csv('ASHE_8_{ds}{p}{t}.csv'.format(ds=ds, t=time, p=prov), encoding="utf-8", index=False)
