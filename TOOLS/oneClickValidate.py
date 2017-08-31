@@ -21,8 +21,7 @@ def run():
 
 def runfiles(source):  
 
-    df = pd.read_csv(source)
-    df.fillna('', inplace=True)
+    df = pd.read_csv(source, dtype=object)
     
     feedback = validateV4(df)
     
