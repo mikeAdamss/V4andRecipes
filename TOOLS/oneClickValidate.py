@@ -22,6 +22,10 @@ def run():
 def runfiles(source):  
 
     df = pd.read_csv(source, dtype=object)
+    df.fillna('', inplace=True)
+    for col in df.columns.values:
+        if col != 'Time':
+            df[col] = df[col].astype(str)
     
     feedback = validateV4(df)
     
