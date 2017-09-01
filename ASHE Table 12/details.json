@@ -1,0 +1,1 @@
+{"transformName": "ASHE Table 12", "inputs": {"1": {"format": "zip", "distinctiveText": "", "name": "ASHE Table 12 Zip"}}, "transformType": "many-to-many", "description": "Creates 2 load files from a zip containing 22 xls files", "uses": ["pandas"], "outputs": ["ASHE Hours <year>.csv", "ASHE Earnings <year>.csv"]}
