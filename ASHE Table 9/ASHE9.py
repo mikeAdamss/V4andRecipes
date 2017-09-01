@@ -192,7 +192,7 @@ for dset in [hoursFiles, earningsFiles]:
 
                 # get rid of footer and below
                 footer = df[df['delete1'] == 'Northern Ireland']
-                assert len(footer) == 1, "Cannot find 'Not Classified'. Unable to find end of data table"
+                assert len(footer) == 1, "Cannot find 'Northern Ireland'. Unable to find end of data table"
                 footY = footer.index[0] + 1  # its a tuple-like object (int, type). +1 as its the row below
                 df = df[:footY]
                 
