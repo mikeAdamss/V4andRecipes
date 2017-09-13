@@ -31,7 +31,7 @@ full details are provided in the form of the attached details.json. Contents sho
                       "UKBAA01a-Enterprise-local units by 4 Digit SIC and UK Regions.csv",
                       "UKBAA01b-Enterprise-local units by Broad Industry Group and UK Local Authority Districts.csv",
                       "UKBAA03-Enterprise-local units by Industry and Parliamentary Constituency.csv",
-                      "UKBABa-Enterprise3local units by 2 Digit SIC, Employment size band and Region.csv",
+                      "UKBABa-Enterprise-local units by 2 Digit SIC, Employment size band and Region.csv",
                       "UKBABb-Enterprise-local units by 4 Digit SIC and Employment size band.csv",
                       "UKBAC-Enterprise-local units by Industry, Employment size band and Legal status.csv",
                       "UKBAD01-Enterprise-local units by Employment size band and UK Local Authority Districts.csv",
