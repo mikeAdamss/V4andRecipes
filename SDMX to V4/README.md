@@ -18,3 +18,29 @@ The "dimension=" part of the above is how you specify which dimensions you want 
 # Other Functionality
 
 The rest of the functionality is based around getting you to the point where you can run a transform like the above example.
+
+```python SMXtoV4.py -raw <SOURCE SDMX>```
+
+Writes the while SDMX file to simple flat file CSV.
+
+```python SMXtoV4.py -tran <SOURCE SDMX>```
+
+Writes the while SDMX file to simple flat file CSV and uses codelists hosted on sdmx.org to translate the codes into labels.
+
+```python SMXtoV4.py -list <SOURCE SDMX>```
+
+Prints to screen a summary of the dimensions inside the SDMX dataset. This inludes whether or not the observations, time and geography dimensions have been automatically identified (if not - see below) as well as a list of all optional dimensions along with a idplay of the number of unique items in each.
+
+
+# Obs, Time and Geography
+
+The aim is for these to be automatially detected by the tool (you can check by using the -list swtich).
+
+If for any reason they arent you can pass this information in the the options string (the bit that contains "dimensions=X,Y").
+
+Example:
+
+```python SDMXtoV4.py -v4 <SOURCE SDMX> "time=2014 Q1 obs=obs_column dimensions=Industry,Age geo=K2000001"```
+
+The order does not matter but they must be delimited by spaces and no other spaces should be included in the string (except for time whivh has handling for it).
+
