@@ -38,7 +38,7 @@ Prints to screen a summary of the dimensions inside the SDMX dataset. This inlud
 
 # Obs, Time and Geography
 
-The aim is for these to be automatially detected by the tool (you can check by using the -list swtich).
+The aim is for these to be automatially detected by the tool (you can check by using the -list switch).
 
 If for any reason they arent you can pass this information in the the options string (the bit that contains "dimensions=X,Y").
 
