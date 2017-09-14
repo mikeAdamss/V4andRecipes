@@ -18,7 +18,7 @@ The "dimension=" part of the above is how you specify which dimensions you want 
 
 # Other Functionality
 
-The rest of the functionality is based around getting you to the point where you can run a transform like the above example.
+The rest of the functionality is based around helping you explore the data and getting you to the point where you can run a transform like the above example.
 
 ```python SMXtoV4.py -raw <SOURCE SDMX>```
 
