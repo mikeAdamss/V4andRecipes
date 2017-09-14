@@ -226,7 +226,7 @@ try:
     time = sys.argv[2]
 except:
     time = datetime.datetime.now()
-    time = time.year
+    time = time.year - 1 # always assuming data is for previous year
     print('No time specified. Auto-setting year from server clock as: ', time)
 
 # Extract everything    
