@@ -15,21 +15,25 @@ The point of this tool then is to help us identify and quickly transform dataset
 The "dimension=" part of the above is how you specify which dimensions you want to convert (observation, time and geography are included automatically).
 
 
+
 # Other Functionality
 
 The rest of the functionality is based around getting you to the point where you can run a transform like the above example.
 
 ```python SMXtoV4.py -raw <SOURCE SDMX>```
 
-Writes the while SDMX file to simple flat file CSV.
+
+Writes the whole SDMX file to simple flat file CSV.
 
 ```python SMXtoV4.py -tran <SOURCE SDMX>```
 
-Writes the while SDMX file to simple flat file CSV and uses codelists hosted on sdmx.org to translate the codes into labels.
+
+Writes the whole SDMX file to simple flat file CSV and uses codelists hosted on sdmx.org to translate the codes into labels.
 
 ```python SMXtoV4.py -list <SOURCE SDMX>```
 
 Prints to screen a summary of the dimensions inside the SDMX dataset. This inludes whether or not the observations, time and geography dimensions have been automatically identified (if not - see below) as well as a list of all optional dimensions along with a idplay of the number of unique items in each.
+
 
 
 # Obs, Time and Geography
