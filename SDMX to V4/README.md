@@ -46,5 +46,5 @@ Example:
 
 ```python SDMXtoV4.py -v4 <SOURCE SDMX> "time=my_time_column obs=obs_column dimensions=Industry,Age geo=K2000001"```
 
-The order does not matter but they must be delimited by spaces and no other spaces should be included in the string (except for time whivh has handling for it).
+The order does not matter but they must be delimited by spaces and no other spaces should be included in the string.
 
