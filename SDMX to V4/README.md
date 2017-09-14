@@ -44,7 +44,7 @@ If for any reason they arent you can pass this information in the the options st
 
 Example:
 
-```python SDMXtoV4.py -v4 <SOURCE SDMX> "time=2014 Q1 obs=obs_column dimensions=Industry,Age geo=K2000001"```
+```python SDMXtoV4.py -v4 <SOURCE SDMX> "time=my_time_column obs=obs_column dimensions=Industry,Age geo=K2000001"```
 
 The order does not matter but they must be delimited by spaces and no other spaces should be included in the string (except for time whivh has handling for it).
 
