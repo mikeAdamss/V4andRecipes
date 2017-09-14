@@ -32,7 +32,7 @@ Writes the whole SDMX file to simple flat file CSV and uses codelists hosted on 
 
 ```python SMXtoV4.py -list <SOURCE SDMX>```
 
-Prints to screen a summary of the dimensions inside the SDMX dataset. This inludes whether or not the observations, time and geography dimensions have been automatically identified (if not - see below) as well as a list of all optional dimensions along with a idplay of the number of unique items in each.
+Prints to screen a summary of the dimensions inside the SDMX dataset. This inludes whether or not the observations, time and geography dimensions have been automatically identified (if not - see below) as well as a list of all optional dimensions along with a count of the number of unique items in each.
 
 
 
