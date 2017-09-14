@@ -2,7 +2,7 @@
 
 Intended to allow us to quickly create simple SDMX to V4 pipelines for CMD.
 
-SDMX is a very well structured data source with fully provisioned codelists begind it. While we could convert *everything* from within an SDMX dataset into V4 for loading onto CMD, what you end up with is an awful lot of one-item-only dimensions containing what we regard metadata, inside a structurally sound but user-unfriendly mess of a datacube.
+SDMX is a very well structured data source with fully provisioned codelists behind it. While we could convert *everything* from within an SDMX dataset into V4 for loading onto CMD, what you end up with is an awful lot of one-item-only dimensions containing what we regard metadata, inside a structurally sound but user-unfriendly mess of a datacube.
 
 The point of this tool then is to help us identify and quickly transform datasets using only those dimensions we want to expose as V4.
 
