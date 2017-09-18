@@ -1,0 +1,764 @@
+V4_0,Time_codelist,Time,Geography_codelist,Geography,Housing_codelist,Housing
+37.0,Year,2015,J01000001,,,Income Deprivation 
+35.0,Year,2015,J01000001,,,Employment Deprivation 
+26.0,Year,2015,J01000001,,,Health Deprivation and Disability 
+16.0,Year,2015,J01000001,,,"Education, Skills and Training Deprivation "
+59.0,Year,2015,J01000001,,,Crime 
+95.0,Year,2015,J01000001,,,Barriers to Housing and Services 
+86.0,Year,2015,J01000001,,,Living Environment Deprivation 
+21.0,Year,2015,J01000002,,,Income Deprivation 
+37.0,Year,2015,J01000002,,,Employment Deprivation 
+80.0,Year,2015,J01000002,,,Health Deprivation and Disability 
+1.0,Year,2015,J01000002,,,"Education, Skills and Training Deprivation "
+4.0,Year,2015,J01000002,,,Crime 
+5.0,Year,2015,J01000002,,,Barriers to Housing and Services 
+99.0,Year,2015,J01000002,,,Living Environment Deprivation 
+106.0,Year,2015,J01000003,,,Income Deprivation 
+99.0,Year,2015,J01000003,,,Employment Deprivation 
+103.0,Year,2015,J01000003,,,Health Deprivation and Disability 
+68.0,Year,2015,J01000003,,,"Education, Skills and Training Deprivation "
+87.0,Year,2015,J01000003,,,Crime 
+59.0,Year,2015,J01000003,,,Barriers to Housing and Services 
+100.0,Year,2015,J01000003,,,Living Environment Deprivation 
+92.0,Year,2015,J01000004,,,Income Deprivation 
+87.0,Year,2015,J01000004,,,Employment Deprivation 
+83.0,Year,2015,J01000004,,,Health Deprivation and Disability 
+94.0,Year,2015,J01000004,,,"Education, Skills and Training Deprivation "
+98.0,Year,2015,J01000004,,,Crime 
+68.0,Year,2015,J01000004,,,Barriers to Housing and Services 
+68.0,Year,2015,J01000004,,,Living Environment Deprivation 
+48.0,Year,2015,J01000005,,,Income Deprivation 
+53.0,Year,2015,J01000005,,,Employment Deprivation 
+74.0,Year,2015,J01000005,,,Health Deprivation and Disability 
+58.0,Year,2015,J01000005,,,"Education, Skills and Training Deprivation "
+75.0,Year,2015,J01000005,,,Crime 
+12.0,Year,2015,J01000005,,,Barriers to Housing and Services 
+45.0,Year,2015,J01000005,,,Living Environment Deprivation 
+8.0,Year,2015,J01000006,,,Income Deprivation 
+2.0,Year,2015,J01000006,,,Employment Deprivation 
+8.0,Year,2015,J01000006,,,Health Deprivation and Disability 
+23.0,Year,2015,J01000006,,,"Education, Skills and Training Deprivation "
+29.0,Year,2015,J01000006,,,Crime 
+81.0,Year,2015,J01000006,,,Barriers to Housing and Services 
+37.0,Year,2015,J01000006,,,Living Environment Deprivation 
+6.0,Year,2015,J01000007,,,Income Deprivation 
+10.0,Year,2015,J01000007,,,Employment Deprivation 
+34.0,Year,2015,J01000007,,,Health Deprivation and Disability 
+21.0,Year,2015,J01000007,,,"Education, Skills and Training Deprivation "
+24.0,Year,2015,J01000007,,,Crime 
+1.0,Year,2015,J01000007,,,Barriers to Housing and Services 
+2.0,Year,2015,J01000007,,,Living Environment Deprivation 
+16.0,Year,2015,J01000008,,,Income Deprivation 
+20.0,Year,2015,J01000008,,,Employment Deprivation 
+16.0,Year,2015,J01000008,,,Health Deprivation and Disability 
+10.0,Year,2015,J01000008,,,"Education, Skills and Training Deprivation "
+25.0,Year,2015,J01000008,,,Crime 
+71.0,Year,2015,J01000008,,,Barriers to Housing and Services 
+21.0,Year,2015,J01000008,,,Living Environment Deprivation 
+23.0,Year,2015,J01000009,,,Income Deprivation 
+25.0,Year,2015,J01000009,,,Employment Deprivation 
+1.0,Year,2015,J01000009,,,Health Deprivation and Disability 
+39.0,Year,2015,J01000009,,,"Education, Skills and Training Deprivation "
+9.0,Year,2015,J01000009,,,Crime 
+91.0,Year,2015,J01000009,,,Barriers to Housing and Services 
+5.0,Year,2015,J01000009,,,Living Environment Deprivation 
+26.0,Year,2015,J01000010,,,Income Deprivation 
+23.0,Year,2015,J01000010,,,Employment Deprivation 
+24.0,Year,2015,J01000010,,,Health Deprivation and Disability 
+49.0,Year,2015,J01000010,,,"Education, Skills and Training Deprivation "
+26.0,Year,2015,J01000010,,,Crime 
+93.0,Year,2015,J01000010,,,Barriers to Housing and Services 
+27.0,Year,2015,J01000010,,,Living Environment Deprivation 
+87.0,Year,2015,J01000011,,,Income Deprivation 
+81.0,Year,2015,J01000011,,,Employment Deprivation 
+75.0,Year,2015,J01000011,,,Health Deprivation and Disability 
+86.0,Year,2015,J01000011,,,"Education, Skills and Training Deprivation "
+38.0,Year,2015,J01000011,,,Crime 
+52.0,Year,2015,J01000011,,,Barriers to Housing and Services 
+35.0,Year,2015,J01000011,,,Living Environment Deprivation 
+108.0,Year,2015,J01000012,,,Income Deprivation 
+106.0,Year,2015,J01000012,,,Employment Deprivation 
+104.0,Year,2015,J01000012,,,Health Deprivation and Disability 
+103.0,Year,2015,J01000012,,,"Education, Skills and Training Deprivation "
+107.0,Year,2015,J01000012,,,Crime 
+14.0,Year,2015,J01000012,,,Barriers to Housing and Services 
+104.0,Year,2015,J01000012,,,Living Environment Deprivation 
+12.0,Year,2015,J01000013,,,Income Deprivation 
+22.0,Year,2015,J01000013,,,Employment Deprivation 
+23.0,Year,2015,J01000013,,,Health Deprivation and Disability 
+5.0,Year,2015,J01000013,,,"Education, Skills and Training Deprivation "
+2.0,Year,2015,J01000013,,,Crime 
+76.0,Year,2015,J01000013,,,Barriers to Housing and Services 
+3.0,Year,2015,J01000013,,,Living Environment Deprivation 
+79.0,Year,2015,J01000014,,,Income Deprivation 
+74.0,Year,2015,J01000014,,,Employment Deprivation 
+63.0,Year,2015,J01000014,,,Health Deprivation and Disability 
+87.0,Year,2015,J01000014,,,"Education, Skills and Training Deprivation "
+70.0,Year,2015,J01000014,,,Crime 
+17.0,Year,2015,J01000014,,,Barriers to Housing and Services 
+6.0,Year,2015,J01000014,,,Living Environment Deprivation 
+59.0,Year,2015,J01000015,,,Income Deprivation 
+60.0,Year,2015,J01000015,,,Employment Deprivation 
+62.0,Year,2015,J01000015,,,Health Deprivation and Disability 
+61.0,Year,2015,J01000015,,,"Education, Skills and Training Deprivation "
+39.0,Year,2015,J01000015,,,Crime 
+40.0,Year,2015,J01000015,,,Barriers to Housing and Services 
+29.0,Year,2015,J01000015,,,Living Environment Deprivation 
+27.0,Year,2015,J01000016,,,Income Deprivation 
+14.0,Year,2015,J01000016,,,Employment Deprivation 
+5.0,Year,2015,J01000016,,,Health Deprivation and Disability 
+20.0,Year,2015,J01000016,,,"Education, Skills and Training Deprivation "
+7.0,Year,2015,J01000016,,,Crime 
+96.0,Year,2015,J01000016,,,Barriers to Housing and Services 
+8.0,Year,2015,J01000016,,,Living Environment Deprivation 
+71.0,Year,2015,J01000017,,,Income Deprivation 
+69.0,Year,2015,J01000017,,,Employment Deprivation 
+65.0,Year,2015,J01000017,,,Health Deprivation and Disability 
+34.0,Year,2015,J01000017,,,"Education, Skills and Training Deprivation "
+78.0,Year,2015,J01000017,,,Crime 
+58.0,Year,2015,J01000017,,,Barriers to Housing and Services 
+13.0,Year,2015,J01000017,,,Living Environment Deprivation 
+54.0,Year,2015,J01000018,,,Income Deprivation 
+57.0,Year,2015,J01000018,,,Employment Deprivation 
+52.0,Year,2015,J01000018,,,Health Deprivation and Disability 
+92.0,Year,2015,J01000018,,,"Education, Skills and Training Deprivation "
+69.0,Year,2015,J01000018,,,Crime 
+97.0,Year,2015,J01000018,,,Barriers to Housing and Services 
+39.0,Year,2015,J01000018,,,Living Environment Deprivation 
+107.0,Year,2015,J01000019,,,Income Deprivation 
+105.0,Year,2015,J01000019,,,Employment Deprivation 
+97.0,Year,2015,J01000019,,,Health Deprivation and Disability 
+101.0,Year,2015,J01000019,,,"Education, Skills and Training Deprivation "
+97.0,Year,2015,J01000019,,,Crime 
+26.0,Year,2015,J01000019,,,Barriers to Housing and Services 
+30.0,Year,2015,J01000019,,,Living Environment Deprivation 
+82.0,Year,2015,J01000021,,,Income Deprivation 
+66.0,Year,2015,J01000021,,,Employment Deprivation 
+27.0,Year,2015,J01000021,,,Health Deprivation and Disability 
+11.0,Year,2015,J01000021,,,"Education, Skills and Training Deprivation "
+71.0,Year,2015,J01000021,,,Crime 
+74.0,Year,2015,J01000021,,,Barriers to Housing and Services 
+58.0,Year,2015,J01000021,,,Living Environment Deprivation 
+40.0,Year,2015,J01000022,,,Income Deprivation 
+44.0,Year,2015,J01000022,,,Employment Deprivation 
+86.0,Year,2015,J01000022,,,Health Deprivation and Disability 
+41.0,Year,2015,J01000022,,,"Education, Skills and Training Deprivation "
+21.0,Year,2015,J01000022,,,Crime 
+21.0,Year,2015,J01000022,,,Barriers to Housing and Services 
+44.0,Year,2015,J01000022,,,Living Environment Deprivation 
+95.0,Year,2015,J01000023,,,Income Deprivation 
+93.0,Year,2015,J01000023,,,Employment Deprivation 
+96.0,Year,2015,J01000023,,,Health Deprivation and Disability 
+97.0,Year,2015,J01000023,,,"Education, Skills and Training Deprivation "
+102.0,Year,2015,J01000023,,,Crime 
+28.0,Year,2015,J01000023,,,Barriers to Housing and Services 
+101.0,Year,2015,J01000023,,,Living Environment Deprivation 
+80.0,Year,2015,J01000024,,,Income Deprivation 
+85.0,Year,2015,J01000024,,,Employment Deprivation 
+79.0,Year,2015,J01000024,,,Health Deprivation and Disability 
+80.0,Year,2015,J01000024,,,"Education, Skills and Training Deprivation "
+51.0,Year,2015,J01000024,,,Crime 
+72.0,Year,2015,J01000024,,,Barriers to Housing and Services 
+66.0,Year,2015,J01000024,,,Living Environment Deprivation 
+66.0,Year,2015,J01000025,,,Income Deprivation 
+61.0,Year,2015,J01000025,,,Employment Deprivation 
+64.0,Year,2015,J01000025,,,Health Deprivation and Disability 
+74.0,Year,2015,J01000025,,,"Education, Skills and Training Deprivation "
+79.0,Year,2015,J01000025,,,Crime 
+66.0,Year,2015,J01000025,,,Barriers to Housing and Services 
+74.0,Year,2015,J01000025,,,Living Environment Deprivation 
+64.0,Year,2015,J01000026,,,Income Deprivation 
+50.0,Year,2015,J01000026,,,Employment Deprivation 
+29.0,Year,2015,J01000026,,,Health Deprivation and Disability 
+76.0,Year,2015,J01000026,,,"Education, Skills and Training Deprivation "
+86.0,Year,2015,J01000026,,,Crime 
+67.0,Year,2015,J01000026,,,Barriers to Housing and Services 
+82.0,Year,2015,J01000026,,,Living Environment Deprivation 
+75.0,Year,2015,J01000027,,,Income Deprivation 
+79.0,Year,2015,J01000027,,,Employment Deprivation 
+72.0,Year,2015,J01000027,,,Health Deprivation and Disability 
+71.0,Year,2015,J01000027,,,"Education, Skills and Training Deprivation "
+43.0,Year,2015,J01000027,,,Crime 
+33.0,Year,2015,J01000027,,,Barriers to Housing and Services 
+78.0,Year,2015,J01000027,,,Living Environment Deprivation 
+46.0,Year,2015,J01000028,,,Income Deprivation 
+55.0,Year,2015,J01000028,,,Employment Deprivation 
+46.0,Year,2015,J01000028,,,Health Deprivation and Disability 
+62.0,Year,2015,J01000028,,,"Education, Skills and Training Deprivation "
+46.0,Year,2015,J01000028,,,Crime 
+20.0,Year,2015,J01000028,,,Barriers to Housing and Services 
+22.0,Year,2015,J01000028,,,Living Environment Deprivation 
+103.0,Year,2015,J01000029,,,Income Deprivation 
+104.0,Year,2015,J01000029,,,Employment Deprivation 
+101.0,Year,2015,J01000029,,,Health Deprivation and Disability 
+67.0,Year,2015,J01000029,,,"Education, Skills and Training Deprivation "
+76.0,Year,2015,J01000029,,,Crime 
+9.0,Year,2015,J01000029,,,Barriers to Housing and Services 
+105.0,Year,2015,J01000029,,,Living Environment Deprivation 
+42.0,Year,2015,J01000030,,,Income Deprivation 
+40.0,Year,2015,J01000030,,,Employment Deprivation 
+36.0,Year,2015,J01000030,,,Health Deprivation and Disability 
+65.0,Year,2015,J01000030,,,"Education, Skills and Training Deprivation "
+60.0,Year,2015,J01000030,,,Crime 
+98.0,Year,2015,J01000030,,,Barriers to Housing and Services 
+96.0,Year,2015,J01000030,,,Living Environment Deprivation 
+49.0,Year,2015,J01000031,,,Income Deprivation 
+47.0,Year,2015,J01000031,,,Employment Deprivation 
+54.0,Year,2015,J01000031,,,Health Deprivation and Disability 
+42.0,Year,2015,J01000031,,,"Education, Skills and Training Deprivation "
+37.0,Year,2015,J01000031,,,Crime 
+78.0,Year,2015,J01000031,,,Barriers to Housing and Services 
+31.0,Year,2015,J01000031,,,Living Environment Deprivation 
+31.0,Year,2015,J01000032,,,Income Deprivation 
+30.0,Year,2015,J01000032,,,Employment Deprivation 
+32.0,Year,2015,J01000032,,,Health Deprivation and Disability 
+28.0,Year,2015,J01000032,,,"Education, Skills and Training Deprivation "
+18.0,Year,2015,J01000032,,,Crime 
+88.0,Year,2015,J01000032,,,Barriers to Housing and Services 
+53.0,Year,2015,J01000032,,,Living Environment Deprivation 
+3.0,Year,2015,J01000033,,,Income Deprivation 
+5.0,Year,2015,J01000033,,,Employment Deprivation 
+33.0,Year,2015,J01000033,,,Health Deprivation and Disability 
+4.0,Year,2015,J01000033,,,"Education, Skills and Training Deprivation "
+82.0,Year,2015,J01000033,,,Crime 
+62.0,Year,2015,J01000033,,,Barriers to Housing and Services 
+32.0,Year,2015,J01000033,,,Living Environment Deprivation 
+65.0,Year,2015,J01000034,,,Income Deprivation 
+64.0,Year,2015,J01000034,,,Employment Deprivation 
+78.0,Year,2015,J01000034,,,Health Deprivation and Disability 
+73.0,Year,2015,J01000034,,,"Education, Skills and Training Deprivation "
+84.0,Year,2015,J01000034,,,Crime 
+49.0,Year,2015,J01000034,,,Barriers to Housing and Services 
+71.0,Year,2015,J01000034,,,Living Environment Deprivation 
+88.0,Year,2015,J01000035,,,Income Deprivation 
+84.0,Year,2015,J01000035,,,Employment Deprivation 
+88.0,Year,2015,J01000035,,,Health Deprivation and Disability 
+89.0,Year,2015,J01000035,,,"Education, Skills and Training Deprivation "
+77.0,Year,2015,J01000035,,,Crime 
+64.0,Year,2015,J01000035,,,Barriers to Housing and Services 
+18.0,Year,2015,J01000035,,,Living Environment Deprivation 
+29.0,Year,2015,J01000036,,,Income Deprivation 
+12.0,Year,2015,J01000036,,,Employment Deprivation 
+11.0,Year,2015,J01000036,,,Health Deprivation and Disability 
+37.0,Year,2015,J01000036,,,"Education, Skills and Training Deprivation "
+94.0,Year,2015,J01000036,,,Crime 
+65.0,Year,2015,J01000036,,,Barriers to Housing and Services 
+87.0,Year,2015,J01000036,,,Living Environment Deprivation 
+78.0,Year,2015,J01000037,,,Income Deprivation 
+76.0,Year,2015,J01000037,,,Employment Deprivation 
+87.0,Year,2015,J01000037,,,Health Deprivation and Disability 
+69.0,Year,2015,J01000037,,,"Education, Skills and Training Deprivation "
+47.0,Year,2015,J01000037,,,Crime 
+69.0,Year,2015,J01000037,,,Barriers to Housing and Services 
+38.0,Year,2015,J01000037,,,Living Environment Deprivation 
+60.0,Year,2015,J01000038,,,Income Deprivation 
+65.0,Year,2015,J01000038,,,Employment Deprivation 
+61.0,Year,2015,J01000038,,,Health Deprivation and Disability 
+64.0,Year,2015,J01000038,,,"Education, Skills and Training Deprivation "
+72.0,Year,2015,J01000038,,,Crime 
+29.0,Year,2015,J01000038,,,Barriers to Housing and Services 
+50.0,Year,2015,J01000038,,,Living Environment Deprivation 
+14.0,Year,2015,J01000039,,,Income Deprivation 
+16.0,Year,2015,J01000039,,,Employment Deprivation 
+48.0,Year,2015,J01000039,,,Health Deprivation and Disability 
+6.0,Year,2015,J01000039,,,"Education, Skills and Training Deprivation "
+1.0,Year,2015,J01000039,,,Crime 
+85.0,Year,2015,J01000039,,,Barriers to Housing and Services 
+23.0,Year,2015,J01000039,,,Living Environment Deprivation 
+98.0,Year,2015,J01000040,,,Income Deprivation 
+107.0,Year,2015,J01000040,,,Employment Deprivation 
+105.0,Year,2015,J01000040,,,Health Deprivation and Disability 
+98.0,Year,2015,J01000040,,,"Education, Skills and Training Deprivation "
+95.0,Year,2015,J01000040,,,Crime 
+56.0,Year,2015,J01000040,,,Barriers to Housing and Services 
+81.0,Year,2015,J01000040,,,Living Environment Deprivation 
+22.0,Year,2015,J01000041,,,Income Deprivation 
+19.0,Year,2015,J01000041,,,Employment Deprivation 
+31.0,Year,2015,J01000041,,,Health Deprivation and Disability 
+35.0,Year,2015,J01000041,,,"Education, Skills and Training Deprivation "
+17.0,Year,2015,J01000041,,,Crime 
+83.0,Year,2015,J01000041,,,Barriers to Housing and Services 
+4.0,Year,2015,J01000041,,,Living Environment Deprivation 
+84.0,Year,2015,J01000042,,,Income Deprivation 
+89.0,Year,2015,J01000042,,,Employment Deprivation 
+84.0,Year,2015,J01000042,,,Health Deprivation and Disability 
+55.0,Year,2015,J01000042,,,"Education, Skills and Training Deprivation "
+31.0,Year,2015,J01000042,,,Crime 
+10.0,Year,2015,J01000042,,,Barriers to Housing and Services 
+106.0,Year,2015,J01000042,,,Living Environment Deprivation 
+101.0,Year,2015,J01000043,,,Income Deprivation 
+97.0,Year,2015,J01000043,,,Employment Deprivation 
+94.0,Year,2015,J01000043,,,Health Deprivation and Disability 
+106.0,Year,2015,J01000043,,,"Education, Skills and Training Deprivation "
+104.0,Year,2015,J01000043,,,Crime 
+77.0,Year,2015,J01000043,,,Barriers to Housing and Services 
+73.0,Year,2015,J01000043,,,Living Environment Deprivation 
+13.0,Year,2015,J01000044,,,Income Deprivation 
+7.0,Year,2015,J01000044,,,Employment Deprivation 
+13.0,Year,2015,J01000044,,,Health Deprivation and Disability 
+31.0,Year,2015,J01000044,,,"Education, Skills and Training Deprivation "
+52.0,Year,2015,J01000044,,,Crime 
+99.0,Year,2015,J01000044,,,Barriers to Housing and Services 
+95.0,Year,2015,J01000044,,,Living Environment Deprivation 
+34.0,Year,2015,J01000045,,,Income Deprivation 
+34.0,Year,2015,J01000045,,,Employment Deprivation 
+47.0,Year,2015,J01000045,,,Health Deprivation and Disability 
+38.0,Year,2015,J01000045,,,"Education, Skills and Training Deprivation "
+32.0,Year,2015,J01000045,,,Crime 
+79.0,Year,2015,J01000045,,,Barriers to Housing and Services 
+17.0,Year,2015,J01000045,,,Living Environment Deprivation 
+91.0,Year,2015,J01000046,,,Income Deprivation 
+102.0,Year,2015,J01000046,,,Employment Deprivation 
+106.0,Year,2015,J01000046,,,Health Deprivation and Disability 
+91.0,Year,2015,J01000046,,,"Education, Skills and Training Deprivation "
+92.0,Year,2015,J01000046,,,Crime 
+35.0,Year,2015,J01000046,,,Barriers to Housing and Services 
+97.0,Year,2015,J01000046,,,Living Environment Deprivation 
+105.0,Year,2015,J01000047,,,Income Deprivation 
+108.0,Year,2015,J01000047,,,Employment Deprivation 
+107.0,Year,2015,J01000047,,,Health Deprivation and Disability 
+95.0,Year,2015,J01000047,,,"Education, Skills and Training Deprivation "
+108.0,Year,2015,J01000047,,,Crime 
+55.0,Year,2015,J01000047,,,Barriers to Housing and Services 
+88.0,Year,2015,J01000047,,,Living Environment Deprivation 
+55.0,Year,2015,J01000048,,,Income Deprivation 
+46.0,Year,2015,J01000048,,,Employment Deprivation 
+66.0,Year,2015,J01000048,,,Health Deprivation and Disability 
+77.0,Year,2015,J01000048,,,"Education, Skills and Training Deprivation "
+81.0,Year,2015,J01000048,,,Crime 
+70.0,Year,2015,J01000048,,,Barriers to Housing and Services 
+10.0,Year,2015,J01000048,,,Living Environment Deprivation 
+62.0,Year,2015,J01000049,,,Income Deprivation 
+63.0,Year,2015,J01000049,,,Employment Deprivation 
+58.0,Year,2015,J01000049,,,Health Deprivation and Disability 
+27.0,Year,2015,J01000049,,,"Education, Skills and Training Deprivation "
+62.0,Year,2015,J01000049,,,Crime 
+46.0,Year,2015,J01000049,,,Barriers to Housing and Services 
+33.0,Year,2015,J01000049,,,Living Environment Deprivation 
+24.0,Year,2015,J01000050,,,Income Deprivation 
+29.0,Year,2015,J01000050,,,Employment Deprivation 
+30.0,Year,2015,J01000050,,,Health Deprivation and Disability 
+13.0,Year,2015,J01000050,,,"Education, Skills and Training Deprivation "
+12.0,Year,2015,J01000050,,,Crime 
+23.0,Year,2015,J01000050,,,Barriers to Housing and Services 
+19.0,Year,2015,J01000050,,,Living Environment Deprivation 
+28.0,Year,2015,J01000051,,,Income Deprivation 
+33.0,Year,2015,J01000051,,,Employment Deprivation 
+21.0,Year,2015,J01000051,,,Health Deprivation and Disability 
+25.0,Year,2015,J01000051,,,"Education, Skills and Training Deprivation "
+10.0,Year,2015,J01000051,,,Crime 
+36.0,Year,2015,J01000051,,,Barriers to Housing and Services 
+7.0,Year,2015,J01000051,,,Living Environment Deprivation 
+36.0,Year,2015,J01000052,,,Income Deprivation 
+54.0,Year,2015,J01000052,,,Employment Deprivation 
+53.0,Year,2015,J01000052,,,Health Deprivation and Disability 
+24.0,Year,2015,J01000052,,,"Education, Skills and Training Deprivation "
+30.0,Year,2015,J01000052,,,Crime 
+61.0,Year,2015,J01000052,,,Barriers to Housing and Services 
+15.0,Year,2015,J01000052,,,Living Environment Deprivation 
+44.0,Year,2015,J01000053,,,Income Deprivation 
+48.0,Year,2015,J01000053,,,Employment Deprivation 
+35.0,Year,2015,J01000053,,,Health Deprivation and Disability 
+66.0,Year,2015,J01000053,,,"Education, Skills and Training Deprivation "
+40.0,Year,2015,J01000053,,,Crime 
+43.0,Year,2015,J01000053,,,Barriers to Housing and Services 
+36.0,Year,2015,J01000053,,,Living Environment Deprivation 
+5.0,Year,2015,J01000054,,,Income Deprivation 
+6.0,Year,2015,J01000054,,,Employment Deprivation 
+3.0,Year,2015,J01000054,,,Health Deprivation and Disability 
+22.0,Year,2015,J01000054,,,"Education, Skills and Training Deprivation "
+27.0,Year,2015,J01000054,,,Crime 
+57.0,Year,2015,J01000054,,,Barriers to Housing and Services 
+11.0,Year,2015,J01000054,,,Living Environment Deprivation 
+56.0,Year,2015,J01000055,,,Income Deprivation 
+78.0,Year,2015,J01000055,,,Employment Deprivation 
+89.0,Year,2015,J01000055,,,Health Deprivation and Disability 
+104.0,Year,2015,J01000055,,,"Education, Skills and Training Deprivation "
+19.0,Year,2015,J01000055,,,Crime 
+4.0,Year,2015,J01000055,,,Barriers to Housing and Services 
+16.0,Year,2015,J01000055,,,Living Environment Deprivation 
+51.0,Year,2015,J01000056,,,Income Deprivation 
+73.0,Year,2015,J01000056,,,Employment Deprivation 
+70.0,Year,2015,J01000056,,,Health Deprivation and Disability 
+82.0,Year,2015,J01000056,,,"Education, Skills and Training Deprivation "
+20.0,Year,2015,J01000056,,,Crime 
+2.0,Year,2015,J01000056,,,Barriers to Housing and Services 
+55.0,Year,2015,J01000056,,,Living Environment Deprivation 
+86.0,Year,2015,J01000057,,,Income Deprivation 
+86.0,Year,2015,J01000057,,,Employment Deprivation 
+92.0,Year,2015,J01000057,,,Health Deprivation and Disability 
+84.0,Year,2015,J01000057,,,"Education, Skills and Training Deprivation "
+74.0,Year,2015,J01000057,,,Crime 
+45.0,Year,2015,J01000057,,,Barriers to Housing and Services 
+69.0,Year,2015,J01000057,,,Living Environment Deprivation 
+18.0,Year,2015,J01000058,,,Income Deprivation 
+31.0,Year,2015,J01000058,,,Employment Deprivation 
+4.0,Year,2015,J01000058,,,Health Deprivation and Disability 
+50.0,Year,2015,J01000058,,,"Education, Skills and Training Deprivation "
+5.0,Year,2015,J01000058,,,Crime 
+11.0,Year,2015,J01000058,,,Barriers to Housing and Services 
+14.0,Year,2015,J01000058,,,Living Environment Deprivation 
+43.0,Year,2015,J01000059,,,Income Deprivation 
+28.0,Year,2015,J01000059,,,Employment Deprivation 
+38.0,Year,2015,J01000059,,,Health Deprivation and Disability 
+19.0,Year,2015,J01000059,,,"Education, Skills and Training Deprivation "
+53.0,Year,2015,J01000059,,,Crime 
+47.0,Year,2015,J01000059,,,Barriers to Housing and Services 
+72.0,Year,2015,J01000059,,,Living Environment Deprivation 
+7.0,Year,2015,J01000060,,,Income Deprivation 
+9.0,Year,2015,J01000060,,,Employment Deprivation 
+14.0,Year,2015,J01000060,,,Health Deprivation and Disability 
+9.0,Year,2015,J01000060,,,"Education, Skills and Training Deprivation "
+8.0,Year,2015,J01000060,,,Crime 
+94.0,Year,2015,J01000060,,,Barriers to Housing and Services 
+79.0,Year,2015,J01000060,,,Living Environment Deprivation 
+76.0,Year,2015,J01000061,,,Income Deprivation 
+80.0,Year,2015,J01000061,,,Employment Deprivation 
+85.0,Year,2015,J01000061,,,Health Deprivation and Disability 
+90.0,Year,2015,J01000061,,,"Education, Skills and Training Deprivation "
+64.0,Year,2015,J01000061,,,Crime 
+8.0,Year,2015,J01000061,,,Barriers to Housing and Services 
+93.0,Year,2015,J01000061,,,Living Environment Deprivation 
+35.0,Year,2015,J01000062,,,Income Deprivation 
+36.0,Year,2015,J01000062,,,Employment Deprivation 
+22.0,Year,2015,J01000062,,,Health Deprivation and Disability 
+36.0,Year,2015,J01000062,,,"Education, Skills and Training Deprivation "
+65.0,Year,2015,J01000062,,,Crime 
+51.0,Year,2015,J01000062,,,Barriers to Housing and Services 
+89.0,Year,2015,J01000062,,,Living Environment Deprivation 
+77.0,Year,2015,J01000063,,,Income Deprivation 
+62.0,Year,2015,J01000063,,,Employment Deprivation 
+56.0,Year,2015,J01000063,,,Health Deprivation and Disability 
+70.0,Year,2015,J01000063,,,"Education, Skills and Training Deprivation "
+85.0,Year,2015,J01000063,,,Crime 
+100.0,Year,2015,J01000063,,,Barriers to Housing and Services 
+91.0,Year,2015,J01000063,,,Living Environment Deprivation 
+61.0,Year,2015,J01000065,,,Income Deprivation 
+72.0,Year,2015,J01000065,,,Employment Deprivation 
+60.0,Year,2015,J01000065,,,Health Deprivation and Disability 
+51.0,Year,2015,J01000065,,,"Education, Skills and Training Deprivation "
+28.0,Year,2015,J01000065,,,Crime 
+7.0,Year,2015,J01000065,,,Barriers to Housing and Services 
+52.0,Year,2015,J01000065,,,Living Environment Deprivation 
+50.0,Year,2015,J01000066,,,Income Deprivation 
+51.0,Year,2015,J01000066,,,Employment Deprivation 
+49.0,Year,2015,J01000066,,,Health Deprivation and Disability 
+52.0,Year,2015,J01000066,,,"Education, Skills and Training Deprivation "
+68.0,Year,2015,J01000066,,,Crime 
+63.0,Year,2015,J01000066,,,Barriers to Housing and Services 
+48.0,Year,2015,J01000066,,,Living Environment Deprivation 
+11.0,Year,2015,J01000067,,,Income Deprivation 
+21.0,Year,2015,J01000067,,,Employment Deprivation 
+15.0,Year,2015,J01000067,,,Health Deprivation and Disability 
+7.0,Year,2015,J01000067,,,"Education, Skills and Training Deprivation "
+11.0,Year,2015,J01000067,,,Crime 
+13.0,Year,2015,J01000067,,,Barriers to Housing and Services 
+24.0,Year,2015,J01000067,,,Living Environment Deprivation 
+70.0,Year,2015,J01000068,,,Income Deprivation 
+67.0,Year,2015,J01000068,,,Employment Deprivation 
+68.0,Year,2015,J01000068,,,Health Deprivation and Disability 
+59.0,Year,2015,J01000068,,,"Education, Skills and Training Deprivation "
+33.0,Year,2015,J01000068,,,Crime 
+82.0,Year,2015,J01000068,,,Barriers to Housing and Services 
+56.0,Year,2015,J01000068,,,Living Environment Deprivation 
+2.0,Year,2015,J01000069,,,Income Deprivation 
+4.0,Year,2015,J01000069,,,Employment Deprivation 
+9.0,Year,2015,J01000069,,,Health Deprivation and Disability 
+3.0,Year,2015,J01000069,,,"Education, Skills and Training Deprivation "
+16.0,Year,2015,J01000069,,,Crime 
+101.0,Year,2015,J01000069,,,Barriers to Housing and Services 
+65.0,Year,2015,J01000069,,,Living Environment Deprivation 
+85.0,Year,2015,J01000070,,,Income Deprivation 
+92.0,Year,2015,J01000070,,,Employment Deprivation 
+77.0,Year,2015,J01000070,,,Health Deprivation and Disability 
+85.0,Year,2015,J01000070,,,"Education, Skills and Training Deprivation "
+55.0,Year,2015,J01000070,,,Crime 
+24.0,Year,2015,J01000070,,,Barriers to Housing and Services 
+46.0,Year,2015,J01000070,,,Living Environment Deprivation 
+32.0,Year,2015,J01000071,,,Income Deprivation 
+38.0,Year,2015,J01000071,,,Employment Deprivation 
+43.0,Year,2015,J01000071,,,Health Deprivation and Disability 
+17.0,Year,2015,J01000071,,,"Education, Skills and Training Deprivation "
+35.0,Year,2015,J01000071,,,Crime 
+25.0,Year,2015,J01000071,,,Barriers to Housing and Services 
+59.0,Year,2015,J01000071,,,Living Environment Deprivation 
+57.0,Year,2015,J01000072,,,Income Deprivation 
+49.0,Year,2015,J01000072,,,Employment Deprivation 
+37.0,Year,2015,J01000072,,,Health Deprivation and Disability 
+57.0,Year,2015,J01000072,,,"Education, Skills and Training Deprivation "
+45.0,Year,2015,J01000072,,,Crime 
+44.0,Year,2015,J01000072,,,Barriers to Housing and Services 
+26.0,Year,2015,J01000072,,,Living Environment Deprivation 
+94.0,Year,2015,J01000073,,,Income Deprivation 
+98.0,Year,2015,J01000073,,,Employment Deprivation 
+93.0,Year,2015,J01000073,,,Health Deprivation and Disability 
+81.0,Year,2015,J01000073,,,"Education, Skills and Training Deprivation "
+101.0,Year,2015,J01000073,,,Crime 
+39.0,Year,2015,J01000073,,,Barriers to Housing and Services 
+102.0,Year,2015,J01000073,,,Living Environment Deprivation 
+68.0,Year,2015,J01000074,,,Income Deprivation 
+82.0,Year,2015,J01000074,,,Employment Deprivation 
+69.0,Year,2015,J01000074,,,Health Deprivation and Disability 
+46.0,Year,2015,J01000074,,,"Education, Skills and Training Deprivation "
+44.0,Year,2015,J01000074,,,Crime 
+16.0,Year,2015,J01000074,,,Barriers to Housing and Services 
+1.0,Year,2015,J01000074,,,Living Environment Deprivation 
+52.0,Year,2015,J01000075,,,Income Deprivation 
+52.0,Year,2015,J01000075,,,Employment Deprivation 
+18.0,Year,2015,J01000075,,,Health Deprivation and Disability 
+54.0,Year,2015,J01000075,,,"Education, Skills and Training Deprivation "
+34.0,Year,2015,J01000075,,,Crime 
+90.0,Year,2015,J01000075,,,Barriers to Housing and Services 
+20.0,Year,2015,J01000075,,,Living Environment Deprivation 
+89.0,Year,2015,J01000076,,,Income Deprivation 
+95.0,Year,2015,J01000076,,,Employment Deprivation 
+99.0,Year,2015,J01000076,,,Health Deprivation and Disability 
+93.0,Year,2015,J01000076,,,"Education, Skills and Training Deprivation "
+83.0,Year,2015,J01000076,,,Crime 
+32.0,Year,2015,J01000076,,,Barriers to Housing and Services 
+49.0,Year,2015,J01000076,,,Living Environment Deprivation 
+63.0,Year,2015,J01000077,,,Income Deprivation 
+77.0,Year,2015,J01000077,,,Employment Deprivation 
+67.0,Year,2015,J01000077,,,Health Deprivation and Disability 
+47.0,Year,2015,J01000077,,,"Education, Skills and Training Deprivation "
+90.0,Year,2015,J01000077,,,Crime 
+3.0,Year,2015,J01000077,,,Barriers to Housing and Services 
+94.0,Year,2015,J01000077,,,Living Environment Deprivation 
+9.0,Year,2015,J01000078,,,Income Deprivation 
+13.0,Year,2015,J01000078,,,Employment Deprivation 
+12.0,Year,2015,J01000078,,,Health Deprivation and Disability 
+14.0,Year,2015,J01000078,,,"Education, Skills and Training Deprivation "
+3.0,Year,2015,J01000078,,,Crime 
+38.0,Year,2015,J01000078,,,Barriers to Housing and Services 
+76.0,Year,2015,J01000078,,,Living Environment Deprivation 
+25.0,Year,2015,J01000079,,,Income Deprivation 
+18.0,Year,2015,J01000079,,,Employment Deprivation 
+25.0,Year,2015,J01000079,,,Health Deprivation and Disability 
+18.0,Year,2015,J01000079,,,"Education, Skills and Training Deprivation "
+14.0,Year,2015,J01000079,,,Crime 
+89.0,Year,2015,J01000079,,,Barriers to Housing and Services 
+84.0,Year,2015,J01000079,,,Living Environment Deprivation 
+20.0,Year,2015,J01000080,,,Income Deprivation 
+24.0,Year,2015,J01000080,,,Employment Deprivation 
+2.0,Year,2015,J01000080,,,Health Deprivation and Disability 
+12.0,Year,2015,J01000080,,,"Education, Skills and Training Deprivation "
+6.0,Year,2015,J01000080,,,Crime 
+31.0,Year,2015,J01000080,,,Barriers to Housing and Services 
+25.0,Year,2015,J01000080,,,Living Environment Deprivation 
+38.0,Year,2015,J01000081,,,Income Deprivation 
+41.0,Year,2015,J01000081,,,Employment Deprivation 
+57.0,Year,2015,J01000081,,,Health Deprivation and Disability 
+26.0,Year,2015,J01000081,,,"Education, Skills and Training Deprivation "
+22.0,Year,2015,J01000081,,,Crime 
+75.0,Year,2015,J01000081,,,Barriers to Housing and Services 
+64.0,Year,2015,J01000081,,,Living Environment Deprivation 
+39.0,Year,2015,J01000082,,,Income Deprivation 
+42.0,Year,2015,J01000082,,,Employment Deprivation 
+41.0,Year,2015,J01000082,,,Health Deprivation and Disability 
+33.0,Year,2015,J01000082,,,"Education, Skills and Training Deprivation "
+48.0,Year,2015,J01000082,,,Crime 
+15.0,Year,2015,J01000082,,,Barriers to Housing and Services 
+70.0,Year,2015,J01000082,,,Living Environment Deprivation 
+83.0,Year,2015,J01000083,,,Income Deprivation 
+83.0,Year,2015,J01000083,,,Employment Deprivation 
+82.0,Year,2015,J01000083,,,Health Deprivation and Disability 
+72.0,Year,2015,J01000083,,,"Education, Skills and Training Deprivation "
+103.0,Year,2015,J01000083,,,Crime 
+102.0,Year,2015,J01000083,,,Barriers to Housing and Services 
+75.0,Year,2015,J01000083,,,Living Environment Deprivation 
+93.0,Year,2015,J01000084,,,Income Deprivation 
+101.0,Year,2015,J01000084,,,Employment Deprivation 
+98.0,Year,2015,J01000084,,,Health Deprivation and Disability 
+100.0,Year,2015,J01000084,,,"Education, Skills and Training Deprivation "
+13.0,Year,2015,J01000084,,,Crime 
+6.0,Year,2015,J01000084,,,Barriers to Housing and Services 
+62.0,Year,2015,J01000084,,,Living Environment Deprivation 
+99.0,Year,2015,J01000085,,,Income Deprivation 
+91.0,Year,2015,J01000085,,,Employment Deprivation 
+91.0,Year,2015,J01000085,,,Health Deprivation and Disability 
+108.0,Year,2015,J01000085,,,"Education, Skills and Training Deprivation "
+88.0,Year,2015,J01000085,,,Crime 
+60.0,Year,2015,J01000085,,,Barriers to Housing and Services 
+90.0,Year,2015,J01000085,,,Living Environment Deprivation 
+10.0,Year,2015,J01000086,,,Income Deprivation 
+3.0,Year,2015,J01000086,,,Employment Deprivation 
+6.0,Year,2015,J01000086,,,Health Deprivation and Disability 
+48.0,Year,2015,J01000086,,,"Education, Skills and Training Deprivation "
+105.0,Year,2015,J01000086,,,Crime 
+50.0,Year,2015,J01000086,,,Barriers to Housing and Services 
+107.0,Year,2015,J01000086,,,Living Environment Deprivation 
+67.0,Year,2015,J01000087,,,Income Deprivation 
+70.0,Year,2015,J01000087,,,Employment Deprivation 
+50.0,Year,2015,J01000087,,,Health Deprivation and Disability 
+53.0,Year,2015,J01000087,,,"Education, Skills and Training Deprivation "
+15.0,Year,2015,J01000087,,,Crime 
+42.0,Year,2015,J01000087,,,Barriers to Housing and Services 
+12.0,Year,2015,J01000087,,,Living Environment Deprivation 
+58.0,Year,2015,J01000088,,,Income Deprivation 
+59.0,Year,2015,J01000088,,,Employment Deprivation 
+71.0,Year,2015,J01000088,,,Health Deprivation and Disability 
+63.0,Year,2015,J01000088,,,"Education, Skills and Training Deprivation "
+41.0,Year,2015,J01000088,,,Crime 
+92.0,Year,2015,J01000088,,,Barriers to Housing and Services 
+43.0,Year,2015,J01000088,,,Living Environment Deprivation 
+81.0,Year,2015,J01000089,,,Income Deprivation 
+58.0,Year,2015,J01000089,,,Employment Deprivation 
+55.0,Year,2015,J01000089,,,Health Deprivation and Disability 
+102.0,Year,2015,J01000089,,,"Education, Skills and Training Deprivation "
+99.0,Year,2015,J01000089,,,Crime 
+103.0,Year,2015,J01000089,,,Barriers to Housing and Services 
+51.0,Year,2015,J01000089,,,Living Environment Deprivation 
+109.0,Year,2015,J01000090,,,Income Deprivation 
+109.0,Year,2015,J01000090,,,Employment Deprivation 
+108.0,Year,2015,J01000090,,,Health Deprivation and Disability 
+109.0,Year,2015,J01000090,,,"Education, Skills and Training Deprivation "
+109.0,Year,2015,J01000090,,,Crime 
+48.0,Year,2015,J01000090,,,Barriers to Housing and Services 
+83.0,Year,2015,J01000090,,,Living Environment Deprivation 
+19.0,Year,2015,J01000091,,,Income Deprivation 
+11.0,Year,2015,J01000091,,,Employment Deprivation 
+7.0,Year,2015,J01000091,,,Health Deprivation and Disability 
+45.0,Year,2015,J01000091,,,"Education, Skills and Training Deprivation "
+54.0,Year,2015,J01000091,,,Crime 
+104.0,Year,2015,J01000091,,,Barriers to Housing and Services 
+47.0,Year,2015,J01000091,,,Living Environment Deprivation 
+96.0,Year,2015,J01000092,,,Income Deprivation 
+94.0,Year,2015,J01000092,,,Employment Deprivation 
+100.0,Year,2015,J01000092,,,Health Deprivation and Disability 
+60.0,Year,2015,J01000092,,,"Education, Skills and Training Deprivation "
+80.0,Year,2015,J01000092,,,Crime 
+41.0,Year,2015,J01000092,,,Barriers to Housing and Services 
+108.0,Year,2015,J01000092,,,Living Environment Deprivation 
+74.0,Year,2015,J01000093,,,Income Deprivation 
+71.0,Year,2015,J01000093,,,Employment Deprivation 
+42.0,Year,2015,J01000093,,,Health Deprivation and Disability 
+83.0,Year,2015,J01000093,,,"Education, Skills and Training Deprivation "
+49.0,Year,2015,J01000093,,,Crime 
+105.0,Year,2015,J01000093,,,Barriers to Housing and Services 
+54.0,Year,2015,J01000093,,,Living Environment Deprivation 
+30.0,Year,2015,J01000094,,,Income Deprivation 
+26.0,Year,2015,J01000094,,,Employment Deprivation 
+20.0,Year,2015,J01000094,,,Health Deprivation and Disability 
+30.0,Year,2015,J01000094,,,"Education, Skills and Training Deprivation "
+42.0,Year,2015,J01000094,,,Crime 
+106.0,Year,2015,J01000094,,,Barriers to Housing and Services 
+92.0,Year,2015,J01000094,,,Living Environment Deprivation 
+33.0,Year,2015,J01000095,,,Income Deprivation 
+27.0,Year,2015,J01000095,,,Employment Deprivation 
+19.0,Year,2015,J01000095,,,Health Deprivation and Disability 
+15.0,Year,2015,J01000095,,,"Education, Skills and Training Deprivation "
+23.0,Year,2015,J01000095,,,Crime 
+84.0,Year,2015,J01000095,,,Barriers to Housing and Services 
+40.0,Year,2015,J01000095,,,Living Environment Deprivation 
+15.0,Year,2015,J01000096,,,Income Deprivation 
+15.0,Year,2015,J01000096,,,Employment Deprivation 
+10.0,Year,2015,J01000096,,,Health Deprivation and Disability 
+32.0,Year,2015,J01000096,,,"Education, Skills and Training Deprivation "
+89.0,Year,2015,J01000096,,,Crime 
+107.0,Year,2015,J01000096,,,Barriers to Housing and Services 
+103.0,Year,2015,J01000096,,,Living Environment Deprivation 
+100.0,Year,2015,J01000097,,,Income Deprivation 
+96.0,Year,2015,J01000097,,,Employment Deprivation 
+102.0,Year,2015,J01000097,,,Health Deprivation and Disability 
+107.0,Year,2015,J01000097,,,"Education, Skills and Training Deprivation "
+106.0,Year,2015,J01000097,,,Crime 
+30.0,Year,2015,J01000097,,,Barriers to Housing and Services 
+77.0,Year,2015,J01000097,,,Living Environment Deprivation 
+72.0,Year,2015,J01000099,,,Income Deprivation 
+68.0,Year,2015,J01000099,,,Employment Deprivation 
+76.0,Year,2015,J01000099,,,Health Deprivation and Disability 
+56.0,Year,2015,J01000099,,,"Education, Skills and Training Deprivation "
+56.0,Year,2015,J01000099,,,Crime 
+86.0,Year,2015,J01000099,,,Barriers to Housing and Services 
+80.0,Year,2015,J01000099,,,Living Environment Deprivation 
+41.0,Year,2015,J01000100,,,Income Deprivation 
+39.0,Year,2015,J01000100,,,Employment Deprivation 
+40.0,Year,2015,J01000100,,,Health Deprivation and Disability 
+44.0,Year,2015,J01000100,,,"Education, Skills and Training Deprivation "
+57.0,Year,2015,J01000100,,,Crime 
+27.0,Year,2015,J01000100,,,Barriers to Housing and Services 
+109.0,Year,2015,J01000100,,,Living Environment Deprivation 
+45.0,Year,2015,J01000101,,,Income Deprivation 
+43.0,Year,2015,J01000101,,,Employment Deprivation 
+39.0,Year,2015,J01000101,,,Health Deprivation and Disability 
+40.0,Year,2015,J01000101,,,"Education, Skills and Training Deprivation "
+63.0,Year,2015,J01000101,,,Crime 
+87.0,Year,2015,J01000101,,,Barriers to Housing and Services 
+63.0,Year,2015,J01000101,,,Living Environment Deprivation 
+4.0,Year,2015,J01000102,,,Income Deprivation 
+8.0,Year,2015,J01000102,,,Employment Deprivation 
+45.0,Year,2015,J01000102,,,Health Deprivation and Disability 
+8.0,Year,2015,J01000102,,,"Education, Skills and Training Deprivation "
+36.0,Year,2015,J01000102,,,Crime 
+34.0,Year,2015,J01000102,,,Barriers to Housing and Services 
+9.0,Year,2015,J01000102,,,Living Environment Deprivation 
+69.0,Year,2015,J01000103,,,Income Deprivation 
+56.0,Year,2015,J01000103,,,Employment Deprivation 
+44.0,Year,2015,J01000103,,,Health Deprivation and Disability 
+75.0,Year,2015,J01000103,,,"Education, Skills and Training Deprivation "
+66.0,Year,2015,J01000103,,,Crime 
+80.0,Year,2015,J01000103,,,Barriers to Housing and Services 
+60.0,Year,2015,J01000103,,,Living Environment Deprivation 
+97.0,Year,2015,J01000104,,,Income Deprivation 
+100.0,Year,2015,J01000104,,,Employment Deprivation 
+95.0,Year,2015,J01000104,,,Health Deprivation and Disability 
+96.0,Year,2015,J01000104,,,"Education, Skills and Training Deprivation "
+96.0,Year,2015,J01000104,,,Crime 
+19.0,Year,2015,J01000104,,,Barriers to Housing and Services 
+67.0,Year,2015,J01000104,,,Living Environment Deprivation 
+1.0,Year,2015,J01000105,,,Income Deprivation 
+1.0,Year,2015,J01000105,,,Employment Deprivation 
+17.0,Year,2015,J01000105,,,Health Deprivation and Disability 
+2.0,Year,2015,J01000105,,,"Education, Skills and Training Deprivation "
+50.0,Year,2015,J01000105,,,Crime 
+22.0,Year,2015,J01000105,,,Barriers to Housing and Services 
+28.0,Year,2015,J01000105,,,Living Environment Deprivation 
+53.0,Year,2015,J01000106,,,Income Deprivation 
+45.0,Year,2015,J01000106,,,Employment Deprivation 
+59.0,Year,2015,J01000106,,,Health Deprivation and Disability 
+78.0,Year,2015,J01000106,,,"Education, Skills and Training Deprivation "
+73.0,Year,2015,J01000106,,,Crime 
+53.0,Year,2015,J01000106,,,Barriers to Housing and Services 
+61.0,Year,2015,J01000106,,,Living Environment Deprivation 
+47.0,Year,2015,J01000107,,,Income Deprivation 
+32.0,Year,2015,J01000107,,,Employment Deprivation 
+28.0,Year,2015,J01000107,,,Health Deprivation and Disability 
+43.0,Year,2015,J01000107,,,"Education, Skills and Training Deprivation "
+58.0,Year,2015,J01000107,,,Crime 
+108.0,Year,2015,J01000107,,,Barriers to Housing and Services 
+85.0,Year,2015,J01000107,,,Living Environment Deprivation 
+102.0,Year,2015,J01000108,,,Income Deprivation 
+103.0,Year,2015,J01000108,,,Employment Deprivation 
+109.0,Year,2015,J01000108,,,Health Deprivation and Disability 
+105.0,Year,2015,J01000108,,,"Education, Skills and Training Deprivation "
+100.0,Year,2015,J01000108,,,Crime 
+54.0,Year,2015,J01000108,,,Barriers to Housing and Services 
+98.0,Year,2015,J01000108,,,Living Environment Deprivation 
+17.0,Year,2015,J01000109,,,Income Deprivation 
+17.0,Year,2015,J01000109,,,Employment Deprivation 
+51.0,Year,2015,J01000109,,,Health Deprivation and Disability 
+29.0,Year,2015,J01000109,,,"Education, Skills and Training Deprivation "
+61.0,Year,2015,J01000109,,,Crime 
+37.0,Year,2015,J01000109,,,Barriers to Housing and Services 
+57.0,Year,2015,J01000109,,,Living Environment Deprivation 
+73.0,Year,2015,J01000110,,,Income Deprivation 
+75.0,Year,2015,J01000110,,,Employment Deprivation 
+73.0,Year,2015,J01000110,,,Health Deprivation and Disability 
+79.0,Year,2015,J01000110,,,"Education, Skills and Training Deprivation "
+67.0,Year,2015,J01000110,,,Crime 
+18.0,Year,2015,J01000110,,,Barriers to Housing and Services 
+34.0,Year,2015,J01000110,,,Living Environment Deprivation 
+104.0,Year,2015,J01000111,,,Income Deprivation 
+90.0,Year,2015,J01000111,,,Employment Deprivation 
+81.0,Year,2015,J01000111,,,Health Deprivation and Disability 
+99.0,Year,2015,J01000111,,,"Education, Skills and Training Deprivation "
+91.0,Year,2015,J01000111,,,Crime 
+109.0,Year,2015,J01000111,,,Barriers to Housing and Services 
+42.0,Year,2015,J01000111,,,Living Environment Deprivation 
+90.0,Year,2015,J01000112,,,Income Deprivation 
+88.0,Year,2015,J01000112,,,Employment Deprivation 
+90.0,Year,2015,J01000112,,,Health Deprivation and Disability 
+88.0,Year,2015,J01000112,,,"Education, Skills and Training Deprivation "
+93.0,Year,2015,J01000112,,,Crime 
+73.0,Year,2015,J01000112,,,Barriers to Housing and Services 
+41.0,Year,2015,J01000112,,,Living Environment Deprivation 
