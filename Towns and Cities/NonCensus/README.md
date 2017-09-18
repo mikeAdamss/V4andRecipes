@@ -4,7 +4,7 @@ Takes a 1 xls file as input. Outputs 4 datasets.
 
 
 ## usage: 
-```python Towns&Cities.py "NoCensus" <inputFile>```
+```python Towns&Cities.py <inputFile>```
 
 
 ## details
