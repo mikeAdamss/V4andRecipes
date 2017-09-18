@@ -1,6 +1,6 @@
 # Towns and Cities Census Data 'recipe'
 
-The file named "EVERYTHING" is literally that. The other files are the same same broken down into more themed datasets.
+The file named "EVERYTHING" is literally that. The other files are the same data broken down into more themed datasets.
 
 note- the "students" data is only included in EVERYTHING as a student-datacube is not viable, due to it lacking a third dimension with more than one item.
 
