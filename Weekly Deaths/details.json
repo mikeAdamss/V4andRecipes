@@ -1,0 +1,1 @@
+{"inputs": {"1": {"name": "Weekly Deaths by Age Group", "format": "xls", "distinctiveText": ""}}, "outputs": ["Weekly Deaths By Age Group.csv"], "transformName": "Weekly Deaths", "uses": ["databaker"], "description": "Takes 1 xls input file, produces 1 csv output files.", "transformType": "one-to-one"}
