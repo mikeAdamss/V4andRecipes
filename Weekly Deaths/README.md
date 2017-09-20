@@ -23,7 +23,7 @@ full details are provided in the form of the attached details.json. Contents sho
                     },
           "transformName": "Weekly Deaths",
           "outputs": [
-                      "Weekly Deaths By Age Group.csv"
+                      "Weekly Deaths By Age Group <year>.csv"
                       ],
           "transformType": "one-to-one"}
 ```
