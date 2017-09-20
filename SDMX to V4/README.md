@@ -74,7 +74,7 @@ from SDMXtoV4 import BUILDraw, BUILDtran, PRINTlist
 
 BUILDraw(file)
 BUILDtran(file)
-PRINTLIST(file)
+PRINTlist(file)
 
 ```
 
