@@ -62,7 +62,7 @@ import SDMXtoV4 from SDMXtoV4
 SDMXtoV4(file, [dimensions])
 ```
 
-If the script cannot autoatically identify observations, time or geography (it'll tell you) you can pass in the relevevt columnsas optional keyword arguments.
+If the script cannot automatically identify observations, time or geography (it'll tell you) you can pass in the relevevt columns as optional keyword arguments.
 
 ```
 SDMXTOV4(file, [dimensions], obs="ons_column")
