@@ -6,22 +6,10 @@ SDMX is a very well structured data source with fully provisioned codelists behi
 
 The point of this tool then is to help us identify and quickly transform datasets using only those dimensions we want to expose as V4.
 
-# Use as a Module
 
-```
-import SDMXtoV4 from SDMXtoV4
+# Usage
 
-# To build a standard V4
-SDMXtoV4(file, [dimensions])
-
-
-
-```
-
-
-
-
-# Command Line Usage
+These section covers usage on the command line. Use as a python module is simpler and covered at the end.
 
 ```python SDMXtoV4.py -v4 <SOURCE SDMX> "dimensions=Industry,Age"```
 
@@ -60,4 +48,34 @@ Example:
 ```python SDMXtoV4.py -v4 <SOURCE SDMX> "time=my_time_column obs=obs_column dimensions=Industry,Age geo=area_dimension"```
 
 The order does not matter but they must be delimited by spaces and no other spaces should be included in the string.
+
+
+
+# Use as a Module
+
+To run as part of a python script.
+
+```
+import SDMXtoV4 from SDMXtoV4
+
+# To build a standard V4
+SDMXtoV4(file, [dimensions])
+```
+
+If the script cannot autoatically identify observations, time or geography (it'll tell you) you can pass in the relevevt columnsas optional keyword arguments.
+
+```
+SDMXTOV4(file, [dimensions], obs="ons_column")
+```
+The helper function can be called from within a script as follows:
+
+```
+from SDMXtoV4 import BUILDraw, BUILDtran, PRINTlist
+
+BUILDraw(file)
+BUILDtran(file)
+PRINTLIST(file)
+
+```
+
 
