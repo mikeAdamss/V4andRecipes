@@ -6,9 +6,22 @@ SDMX is a very well structured data source with fully provisioned codelists behi
 
 The point of this tool then is to help us identify and quickly transform datasets using only those dimensions we want to expose as V4.
 
+# Use as a Module
+
+```
+import SDMXtoV4 from SDMXtoV4
+
+# To build a standard V4
+SDMXtoV4(file, [dimensions])
 
 
-# Usage
+
+```
+
+
+
+
+# Command Line Usage
 
 ```python SDMXtoV4.py -v4 <SOURCE SDMX> "dimensions=Industry,Age"```
 
