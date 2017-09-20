@@ -12,7 +12,7 @@ The point of this tool then is to help us identify and quickly transform dataset
 
 ```python SDMXtoV4.py -v4 <SOURCE SDMX> "dimensions=Industry,Age"```
 
-The "dimension=" part of the above is how you specify which dimensions you want to convert (observation, time and geography are included automatically).
+The "dimension=" part of the above is how you specify which dimensions you want to convert (observation, time and geography are included automatically - in this example we've also decided to inlcude Industry and Age as dimensions).
 
 
 
