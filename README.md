@@ -11,7 +11,7 @@ Branched here: https://github.com/MikeData/databaker
 
 ## Pandas
 
-Standard. ``` pip isntall pandas```
+Standard, just ``` pip install pandas```
 
 ## SDMXtoV4
 
