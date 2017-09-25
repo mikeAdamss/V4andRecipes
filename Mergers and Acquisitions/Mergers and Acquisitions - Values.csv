@@ -1,0 +1,1157 @@
+V4_0,Time_codelist,Time,Geography_codelist,Geography,Transactions_codelist,Transactions,Flow_codelist,Flow
+1077,Year,1986,K02000001,,,Direct Transactions,,Acquisition
+1935,Year,1987,K02000001,,,Direct Transactions,,Acquisition
+2301,Year,1988,K02000001,,,Direct Transactions,,Acquisition
+6196,Year,1989,K02000001,,,Direct Transactions,,Acquisition
+7006,Year,1990,K02000001,,,Direct Transactions,,Acquisition
+3679,Year,1991,K02000001,,,Direct Transactions,,Acquisition
+3157,Year,1992,K02000001,,,Direct Transactions,,Acquisition
+3874,Year,1993,K02000001,,,Direct Transactions,,Acquisition
+3615,Year,1994,K02000001,,,Direct Transactions,,Acquisition
+8697,Year,1995,K02000001,,,Direct Transactions,,Acquisition
+4555,Year,1996,K02000001,,,Direct Transactions,,Acquisition
+8594,Year,1997,K02000001,,,Direct Transactions,,Acquisition
+21052,Year,1998,K02000001,,,Direct Transactions,,Acquisition
+34888,Year,1999,K02000001,,,Direct Transactions,,Acquisition
+56892,Year,2000,K02000001,,,Direct Transactions,,Acquisition
+11697,Year,2001,K02000001,,,Direct Transactions,,Acquisition
+13729,Year,2002,K02000001,,,Direct Transactions,,Acquisition
+2978,Year,2003,K02000001,,,Direct Transactions,,Acquisition
+23527,Year,2004,K02000001,,,Direct Transactions,,Acquisition
+32193,Year,2005,K02000001,,,Direct Transactions,,Acquisition
+53578,Year,2006,K02000001,,,Direct Transactions,,Acquisition
+62475,Year,2007,K02000001,,,Direct Transactions,,Acquisition
+36101,Year,2008,K02000001,,,Direct Transactions,,Acquisition
+21091,Year,2009,K02000001,,,Direct Transactions,,Acquisition
+33540,Year,2010,K02000001,,,Direct Transactions,,Acquisition
+17112,Year,2011,K02000001,,,Direct Transactions,,Acquisition
+11659,Year,2012,K02000001,,,Direct Transactions,,Acquisition
+8391,Year,2013,K02000001,,,Direct Transactions,,Acquisition
+10404,Year,2014,K02000001,,,Direct Transactions,,Acquisition
+29009,Year,2015,K02000001,,,Direct Transactions,,Acquisition
+184656,Year,2016,K02000001,,,Direct Transactions,,Acquisition
+1198,Year,1987,K02000001,,,Total Value,,Disposal
+668,Year,1988,K02000001,,,Total Value,,Disposal
+3017,Year,1989,K02000001,,,Total Value,,Disposal
+1200,Year,1990,K02000001,,,Total Value,,Disposal
+1027,Year,1991,K02000001,,,Total Value,,Disposal
+1407,Year,1992,K02000001,,,Total Value,,Disposal
+1111,Year,1993,K02000001,,,Total Value,,Disposal
+1476,Year,1994,K02000001,,,Total Value,,Disposal
+1511,Year,1995,K02000001,,,Total Value,,Disposal
+1033,Year,1996,K02000001,,,Total Value,,Disposal
+1478,Year,1997,K02000001,,,Total Value,,Disposal
+3471,Year,1998,K02000001,,,Total Value,,Disposal
+5518,Year,1999,K02000001,,,Total Value,,Disposal
+4464,Year,2001,K02000001,,,Total Value,,Disposal
+7912,Year,2002,K02000001,,,Total Value,,Disposal
+3620,Year,2003,K02000001,,,Total Value,,Disposal
+5514,Year,2004,K02000001,,,Total Value,,Disposal
+8387,Year,2005,K02000001,,,Total Value,,Disposal
+14208,Year,2006,K02000001,,,Total Value,,Disposal
+7524,Year,2007,K02000001,,,Total Value,,Disposal
+5139,Year,2008,K02000001,,,Total Value,,Disposal
+7820,Year,2009,K02000001,,,Total Value,,Disposal
+9891,Year,2010,K02000001,,,Total Value,,Disposal
+11748,Year,2011,K02000001,,,Total Value,,Disposal
+1913,Year,2013,K02000001,,,Total Value,,Disposal
+2794,Year,2014,K02000001,,,Total Value,,Disposal
+7451,Year,2015,K02000001,,,Total Value,,Disposal
+6143,Year,2016,K02000001,,,Total Value,,Disposal
+683,Quarter,1987 Q1,K02000001,,,Total Value,,Disposal
+267,Quarter,1987 Q2,K02000001,,,Total Value,,Disposal
+71,Quarter,1987 Q3,K02000001,,,Total Value,,Disposal
+177,Quarter,1987 Q4,K02000001,,,Total Value,,Disposal
+139,Quarter,1988 Q1,K02000001,,,Total Value,,Disposal
+331,Quarter,1988 Q2,K02000001,,,Total Value,,Disposal
+27,Quarter,1988 Q3,K02000001,,,Total Value,,Disposal
+171,Quarter,1988 Q4,K02000001,,,Total Value,,Disposal
+66,Quarter,1989 Q1,K02000001,,,Total Value,,Disposal
+1431,Quarter,1989 Q2,K02000001,,,Total Value,,Disposal
+662,Quarter,1989 Q3,K02000001,,,Total Value,,Disposal
+858,Quarter,1989 Q4,K02000001,,,Total Value,,Disposal
+264,Quarter,1990 Q1,K02000001,,,Total Value,,Disposal
+760,Quarter,1990 Q2,K02000001,,,Total Value,,Disposal
+127,Quarter,1990 Q3,K02000001,,,Total Value,,Disposal
+49,Quarter,1990 Q4,K02000001,,,Total Value,,Disposal
+47,Quarter,1991 Q1,K02000001,,,Total Value,,Disposal
+318,Quarter,1991 Q2,K02000001,,,Total Value,,Disposal
+536,Quarter,1991 Q3,K02000001,,,Total Value,,Disposal
+126,Quarter,1991 Q4,K02000001,,,Total Value,,Disposal
+556,Quarter,1992 Q1,K02000001,,,Total Value,,Disposal
+113,Quarter,1992 Q2,K02000001,,,Total Value,,Disposal
+377,Quarter,1992 Q3,K02000001,,,Total Value,,Disposal
+361,Quarter,1992 Q4,K02000001,,,Total Value,,Disposal
+343,Quarter,1993 Q1,K02000001,,,Total Value,,Disposal
+158,Quarter,1993 Q2,K02000001,,,Total Value,,Disposal
+272,Quarter,1993 Q3,K02000001,,,Total Value,,Disposal
+338,Quarter,1993 Q4,K02000001,,,Total Value,,Disposal
+747,Quarter,1994 Q1,K02000001,,,Total Value,,Disposal
+289,Quarter,1994 Q2,K02000001,,,Total Value,,Disposal
+328,Quarter,1994 Q3,K02000001,,,Total Value,,Disposal
+112,Quarter,1994 Q4,K02000001,,,Total Value,,Disposal
+84,Quarter,1995 Q1,K02000001,,,Total Value,,Disposal
+219,Quarter,1995 Q2,K02000001,,,Total Value,,Disposal
+182,Quarter,1995 Q3,K02000001,,,Total Value,,Disposal
+1026,Quarter,1995 Q4,K02000001,,,Total Value,,Disposal
+2,Quarter,1996 Q1,K02000001,,,Total Value,,Disposal
+542,Quarter,1996 Q2,K02000001,,,Total Value,,Disposal
+264,Quarter,1996 Q3,K02000001,,,Total Value,,Disposal
+225,Quarter,1996 Q4,K02000001,,,Total Value,,Disposal
+119,Quarter,1997 Q1,K02000001,,,Total Value,,Disposal
+140,Quarter,1997 Q2,K02000001,,,Total Value,,Disposal
+358,Quarter,1997 Q3,K02000001,,,Total Value,,Disposal
+861,Quarter,1997 Q4,K02000001,,,Total Value,,Disposal
+566,Quarter,1998 Q1,K02000001,,,Total Value,,Disposal
+1490,Quarter,1998 Q2,K02000001,,,Total Value,,Disposal
+1176,Quarter,1998 Q3,K02000001,,,Total Value,,Disposal
+239,Quarter,1998 Q4,K02000001,,,Total Value,,Disposal
+482,Quarter,1999 Q1,K02000001,,,Total Value,,Disposal
+335,Quarter,1999 Q2,K02000001,,,Total Value,,Disposal
+236,Quarter,1999 Q3,K02000001,,,Total Value,,Disposal
+4465,Quarter,1999 Q4,K02000001,,,Total Value,,Disposal
+898,Quarter,2000 Q1,K02000001,,,Total Value,,Disposal
+2743,Quarter,2000 Q2,K02000001,,,Total Value,,Disposal
+2076,Quarter,2001 Q1,K02000001,,,Total Value,,Disposal
+747,Quarter,2001 Q2,K02000001,,,Total Value,,Disposal
+557,Quarter,2001 Q3,K02000001,,,Total Value,,Disposal
+1084,Quarter,2001 Q4,K02000001,,,Total Value,,Disposal
+3524,Quarter,2002 Q1,K02000001,,,Total Value,,Disposal
+1645,Quarter,2002 Q2,K02000001,,,Total Value,,Disposal
+1770,Quarter,2002 Q3,K02000001,,,Total Value,,Disposal
+973,Quarter,2002 Q4,K02000001,,,Total Value,,Disposal
+313,Quarter,2003 Q1,K02000001,,,Total Value,,Disposal
+1098,Quarter,2003 Q2,K02000001,,,Total Value,,Disposal
+1631,Quarter,2003 Q3,K02000001,,,Total Value,,Disposal
+578,Quarter,2003 Q4,K02000001,,,Total Value,,Disposal
+983,Quarter,2004 Q1,K02000001,,,Total Value,,Disposal
+271,Quarter,2004 Q2,K02000001,,,Total Value,,Disposal
+3246,Quarter,2004 Q3,K02000001,,,Total Value,,Disposal
+1014,Quarter,2004 Q4,K02000001,,,Total Value,,Disposal
+3328,Quarter,2005 Q1,K02000001,,,Total Value,,Disposal
+544,Quarter,2005 Q2,K02000001,,,Total Value,,Disposal
+1639,Quarter,2005 Q3,K02000001,,,Total Value,,Disposal
+2876,Quarter,2005 Q4,K02000001,,,Total Value,,Disposal
+431,Quarter,2006 Q1,K02000001,,,Total Value,,Disposal
+1837,Quarter,2006 Q2,K02000001,,,Total Value,,Disposal
+5715,Quarter,2006 Q3,K02000001,,,Total Value,,Disposal
+6225,Quarter,2006 Q4,K02000001,,,Total Value,,Disposal
+638,Quarter,2007 Q1,K02000001,,,Total Value,,Disposal
+5274,Quarter,2007 Q2,K02000001,,,Total Value,,Disposal
+903,Quarter,2007 Q3,K02000001,,,Total Value,,Disposal
+709,Quarter,2007 Q4,K02000001,,,Total Value,,Disposal
+766,Quarter,2008 Q1,K02000001,,,Total Value,,Disposal
+2140,Quarter,2008 Q2,K02000001,,,Total Value,,Disposal
+568,Quarter,2008 Q3,K02000001,,,Total Value,,Disposal
+1665,Quarter,2008 Q4,K02000001,,,Total Value,,Disposal
+2157,Quarter,2009 Q1,K02000001,,,Total Value,,Disposal
+236,Quarter,2009 Q2,K02000001,,,Total Value,,Disposal
+2715,Quarter,2009 Q3,K02000001,,,Total Value,,Disposal
+2712,Quarter,2009 Q4,K02000001,,,Total Value,,Disposal
+332,Quarter,2010 Q1,K02000001,,,Total Value,,Disposal
+1092,Quarter,2010 Q2,K02000001,,,Total Value,,Disposal
+3448,Quarter,2010 Q3,K02000001,,,Total Value,,Disposal
+5019,Quarter,2010 Q4,K02000001,,,Total Value,,Disposal
+925,Quarter,2011 Q1,K02000001,,,Total Value,,Disposal
+6102,Quarter,2011 Q2,K02000001,,,Total Value,,Disposal
+1887,Quarter,2011 Q3,K02000001,,,Total Value,,Disposal
+2834,Quarter,2011 Q4,K02000001,,,Total Value,,Disposal
+1150,Quarter,2012 Q4,K02000001,,,Total Value,,Disposal
+89,Quarter,2013 Q1,K02000001,,,Total Value,,Disposal
+710,Quarter,2013 Q2,K02000001,,,Total Value,,Disposal
+623,Quarter,2013 Q3,K02000001,,,Total Value,,Disposal
+491,Quarter,2013 Q4,K02000001,,,Total Value,,Disposal
+1280,Quarter,2014 Q3,K02000001,,,Total Value,,Disposal
+601,Quarter,2014 Q4,K02000001,,,Total Value,,Disposal
+802,Quarter,2015 Q1,K02000001,,,Total Value,,Disposal
+2402,Quarter,2015 Q2,K02000001,,,Total Value,,Disposal
+3502,Quarter,2015 Q3,K02000001,,,Total Value,,Disposal
+745,Quarter,2015 Q4,K02000001,,,Total Value,,Disposal
+641,Quarter,2016 Q2,K02000001,,,Total Value,,Disposal
+3927,Quarter,2016 Q4,K02000001,,,Total Value,,Disposal
+3781,Quarter,2017 Q2,K02000001,,,Total Value,,Disposal
+898,Year,1987,K02000001,,,In USA,,Disposal
+151,Year,1988,K02000001,,,In USA,,Disposal
+1802,Year,1989,K02000001,,,In USA,,Disposal
+320,Year,1990,K02000001,,,In USA,,Disposal
+879,Year,1991,K02000001,,,In USA,,Disposal
+206,Year,1992,K02000001,,,In USA,,Disposal
+400,Year,1993,K02000001,,,In USA,,Disposal
+342,Year,1994,K02000001,,,In USA,,Disposal
+801,Year,1995,K02000001,,,In USA,,Disposal
+265,Year,1996,K02000001,,,In USA,,Disposal
+645,Year,1997,K02000001,,,In USA,,Disposal
+1701,Year,1998,K02000001,,,In USA,,Disposal
+0,Year,1999,K02000001,,,In USA,,Disposal
+754,Year,2000,K02000001,,,In USA,,Disposal
+2119,Year,2001,K02000001,,,In USA,,Disposal
+4274,Year,2002,K02000001,,,In USA,,Disposal
+0,Year,2003,K02000001,,,In USA,,Disposal
+3064,Year,2004,K02000001,,,In USA,,Disposal
+4736,Year,2005,K02000001,,,In USA,,Disposal
+1953,Year,2006,K02000001,,,In USA,,Disposal
+3063,Year,2007,K02000001,,,In USA,,Disposal
+1359,Year,2008,K02000001,,,In USA,,Disposal
+4648,Year,2009,K02000001,,,In USA,,Disposal
+1216,Year,2010,K02000001,,,In USA,,Disposal
+2993,Year,2011,K02000001,,,In USA,,Disposal
+282,Year,1987,K02000001,,,In EU,,Disposal
+78,Year,1988,K02000001,,,In EU,,Disposal
+845,Year,1989,K02000001,,,In EU,,Disposal
+8,Year,1990,K02000001,,,In EU,,Disposal
+53,Year,1991,K02000001,,,In EU,,Disposal
+601,Year,1992,K02000001,,,In EU,,Disposal
+305,Year,1993,K02000001,,,In EU,,Disposal
+119,Year,1994,K02000001,,,In EU,,Disposal
+253,Year,1995,K02000001,,,In EU,,Disposal
+607,Year,1996,K02000001,,,In EU,,Disposal
+394,Year,1997,K02000001,,,In EU,,Disposal
+1623,Year,1998,K02000001,,,In EU,,Disposal
+1433,Year,1999,K02000001,,,In EU,,Disposal
+3152,Year,2000,K02000001,,,In EU,,Disposal
+1638,Year,2001,K02000001,,,In EU,,Disposal
+1933,Year,2002,K02000001,,,In EU,,Disposal
+1553,Year,2003,K02000001,,,In EU,,Disposal
+1507,Year,2004,K02000001,,,In EU,,Disposal
+1873,Year,2005,K02000001,,,In EU,,Disposal
+8670,Year,2006,K02000001,,,In EU,,Disposal
+2851,Year,2007,K02000001,,,In EU,,Disposal
+2628,Year,2008,K02000001,,,In EU,,Disposal
+1370,Year,2009,K02000001,,,In EU,,Disposal
+6722,Year,2010,K02000001,,,In EU,,Disposal
+6539,Year,2011,K02000001,,,In EU,,Disposal
+1054,Year,2012,K02000001,,,In EU,,Disposal
+862,Year,2013,K02000001,,,In EU,,Disposal
+1117,Year,2015,K02000001,,,In EU,,Disposal
+3322,Year,2016,K02000001,,,In EU,,Disposal
+1552,Year,1986,K02000001,,,Total Value,,Acquisition
+2701,Year,1987,K02000001,,,Total Value,,Acquisition
+5690,Year,1988,K02000001,,,Total Value,,Acquisition
+12130,Year,1989,K02000001,,,Total Value,,Acquisition
+10958,Year,1990,K02000001,,,Total Value,,Acquisition
+6667,Year,1991,K02000001,,,Total Value,,Acquisition
+4139,Year,1992,K02000001,,,Total Value,,Acquisition
+5187,Year,1993,K02000001,,,Total Value,,Acquisition
+5213,Year,1994,K02000001,,,Total Value,,Acquisition
+12817,Year,1995,K02000001,,,Total Value,,Acquisition
+9513,Year,1996,K02000001,,,Total Value,,Acquisition
+15717,Year,1997,K02000001,,,Total Value,,Acquisition
+32413,Year,1998,K02000001,,,Total Value,,Acquisition
+60860,Year,1999,K02000001,,,Total Value,,Acquisition
+64618,Year,2000,K02000001,,,Total Value,,Acquisition
+24382,Year,2001,K02000001,,,Total Value,,Acquisition
+16798,Year,2002,K02000001,,,Total Value,,Acquisition
+9309,Year,2003,K02000001,,,Total Value,,Acquisition
+29928,Year,2004,K02000001,,,Total Value,,Acquisition
+50280,Year,2005,K02000001,,,Total Value,,Acquisition
+77750,Year,2006,K02000001,,,Total Value,,Acquisition
+82121,Year,2007,K02000001,,,Total Value,,Acquisition
+52552,Year,2008,K02000001,,,Total Value,,Acquisition
+31984,Year,2009,K02000001,,,Total Value,,Acquisition
+36643,Year,2010,K02000001,,,Total Value,,Acquisition
+32967,Year,2011,K02000001,,,Total Value,,Acquisition
+17414,Year,2012,K02000001,,,Total Value,,Acquisition
+31839,Year,2013,K02000001,,,Total Value,,Acquisition
+15041,Year,2014,K02000001,,,Total Value,,Acquisition
+33335,Year,2015,K02000001,,,Total Value,,Acquisition
+189968,Year,2016,K02000001,,,Total Value,,Acquisition
+507,Quarter,1986 Q1,K02000001,,,Total Value,,Acquisition
+314,Quarter,1986 Q2,K02000001,,,Total Value,,Acquisition
+264,Quarter,1986 Q3,K02000001,,,Total Value,,Acquisition
+467,Quarter,1986 Q4,K02000001,,,Total Value,,Acquisition
+469,Quarter,1987 Q1,K02000001,,,Total Value,,Acquisition
+211,Quarter,1987 Q2,K02000001,,,Total Value,,Acquisition
+739,Quarter,1987 Q3,K02000001,,,Total Value,,Acquisition
+1282,Quarter,1987 Q4,K02000001,,,Total Value,,Acquisition
+599,Quarter,1988 Q1,K02000001,,,Total Value,,Acquisition
+976,Quarter,1988 Q2,K02000001,,,Total Value,,Acquisition
+3449,Quarter,1988 Q3,K02000001,,,Total Value,,Acquisition
+666,Quarter,1988 Q4,K02000001,,,Total Value,,Acquisition
+1453,Quarter,1989 Q1,K02000001,,,Total Value,,Acquisition
+2457,Quarter,1989 Q2,K02000001,,,Total Value,,Acquisition
+1898,Quarter,1989 Q3,K02000001,,,Total Value,,Acquisition
+6322,Quarter,1989 Q4,K02000001,,,Total Value,,Acquisition
+5095,Quarter,1990 Q1,K02000001,,,Total Value,,Acquisition
+1247,Quarter,1990 Q2,K02000001,,,Total Value,,Acquisition
+2702,Quarter,1990 Q3,K02000001,,,Total Value,,Acquisition
+1914,Quarter,1990 Q4,K02000001,,,Total Value,,Acquisition
+2167,Quarter,1991 Q1,K02000001,,,Total Value,,Acquisition
+1952,Quarter,1991 Q2,K02000001,,,Total Value,,Acquisition
+1581,Quarter,1991 Q3,K02000001,,,Total Value,,Acquisition
+967,Quarter,1991 Q4,K02000001,,,Total Value,,Acquisition
+889,Quarter,1992 Q1,K02000001,,,Total Value,,Acquisition
+642,Quarter,1992 Q2,K02000001,,,Total Value,,Acquisition
+1166,Quarter,1992 Q3,K02000001,,,Total Value,,Acquisition
+1442,Quarter,1992 Q4,K02000001,,,Total Value,,Acquisition
+1082,Quarter,1993 Q1,K02000001,,,Total Value,,Acquisition
+1613,Quarter,1993 Q2,K02000001,,,Total Value,,Acquisition
+1441,Quarter,1993 Q3,K02000001,,,Total Value,,Acquisition
+1051,Quarter,1993 Q4,K02000001,,,Total Value,,Acquisition
+1953,Quarter,1994 Q1,K02000001,,,Total Value,,Acquisition
+651,Quarter,1994 Q2,K02000001,,,Total Value,,Acquisition
+1176,Quarter,1994 Q3,K02000001,,,Total Value,,Acquisition
+1433,Quarter,1994 Q4,K02000001,,,Total Value,,Acquisition
+2423,Quarter,1995 Q1,K02000001,,,Total Value,,Acquisition
+1326,Quarter,1995 Q2,K02000001,,,Total Value,,Acquisition
+3469,Quarter,1995 Q3,K02000001,,,Total Value,,Acquisition
+5599,Quarter,1995 Q4,K02000001,,,Total Value,,Acquisition
+1724,Quarter,1996 Q1,K02000001,,,Total Value,,Acquisition
+5492,Quarter,1996 Q2,K02000001,,,Total Value,,Acquisition
+1020,Quarter,1996 Q3,K02000001,,,Total Value,,Acquisition
+1277,Quarter,1996 Q4,K02000001,,,Total Value,,Acquisition
+6350,Quarter,1997 Q1,K02000001,,,Total Value,,Acquisition
+3201,Quarter,1997 Q2,K02000001,,,Total Value,,Acquisition
+2378,Quarter,1997 Q3,K02000001,,,Total Value,,Acquisition
+3788,Quarter,1997 Q4,K02000001,,,Total Value,,Acquisition
+8976,Quarter,1998 Q1,K02000001,,,Total Value,,Acquisition
+9488,Quarter,1998 Q2,K02000001,,,Total Value,,Acquisition
+9458,Quarter,1998 Q3,K02000001,,,Total Value,,Acquisition
+4491,Quarter,1998 Q4,K02000001,,,Total Value,,Acquisition
+8179,Quarter,1999 Q1,K02000001,,,Total Value,,Acquisition
+7774,Quarter,1999 Q2,K02000001,,,Total Value,,Acquisition
+10744,Quarter,1999 Q3,K02000001,,,Total Value,,Acquisition
+34163,Quarter,1999 Q4,K02000001,,,Total Value,,Acquisition
+4920,Quarter,2000 Q1,K02000001,,,Total Value,,Acquisition
+14097,Quarter,2000 Q2,K02000001,,,Total Value,,Acquisition
+38192,Quarter,2000 Q3,K02000001,,,Total Value,,Acquisition
+7409,Quarter,2000 Q4,K02000001,,,Total Value,,Acquisition
+9373,Quarter,2001 Q1,K02000001,,,Total Value,,Acquisition
+6948,Quarter,2001 Q2,K02000001,,,Total Value,,Acquisition
+4148,Quarter,2001 Q3,K02000001,,,Total Value,,Acquisition
+3913,Quarter,2001 Q4,K02000001,,,Total Value,,Acquisition
+2820,Quarter,2002 Q1,K02000001,,,Total Value,,Acquisition
+4771,Quarter,2002 Q2,K02000001,,,Total Value,,Acquisition
+8529,Quarter,2002 Q3,K02000001,,,Total Value,,Acquisition
+678,Quarter,2002 Q4,K02000001,,,Total Value,,Acquisition
+769,Quarter,2003 Q1,K02000001,,,Total Value,,Acquisition
+2298,Quarter,2003 Q2,K02000001,,,Total Value,,Acquisition
+2798,Quarter,2003 Q3,K02000001,,,Total Value,,Acquisition
+3444,Quarter,2003 Q4,K02000001,,,Total Value,,Acquisition
+2598,Quarter,2004 Q1,K02000001,,,Total Value,,Acquisition
+9410,Quarter,2004 Q2,K02000001,,,Total Value,,Acquisition
+5666,Quarter,2004 Q3,K02000001,,,Total Value,,Acquisition
+12254,Quarter,2004 Q4,K02000001,,,Total Value,,Acquisition
+11912,Quarter,2005 Q1,K02000001,,,Total Value,,Acquisition
+9019,Quarter,2005 Q2,K02000001,,,Total Value,,Acquisition
+13854,Quarter,2005 Q3,K02000001,,,Total Value,,Acquisition
+15495,Quarter,2005 Q4,K02000001,,,Total Value,,Acquisition
+24192,Quarter,2006 Q1,K02000001,,,Total Value,,Acquisition
+18530,Quarter,2006 Q2,K02000001,,,Total Value,,Acquisition
+19317,Quarter,2006 Q3,K02000001,,,Total Value,,Acquisition
+15711,Quarter,2006 Q4,K02000001,,,Total Value,,Acquisition
+6394,Quarter,2007 Q1,K02000001,,,Total Value,,Acquisition
+51511,Quarter,2007 Q2,K02000001,,,Total Value,,Acquisition
+15044,Quarter,2007 Q3,K02000001,,,Total Value,,Acquisition
+9172,Quarter,2007 Q4,K02000001,,,Total Value,,Acquisition
+21086,Quarter,2008 Q1,K02000001,,,Total Value,,Acquisition
+19964,Quarter,2008 Q2,K02000001,,,Total Value,,Acquisition
+3228,Quarter,2008 Q3,K02000001,,,Total Value,,Acquisition
+8274,Quarter,2008 Q4,K02000001,,,Total Value,,Acquisition
+12354,Quarter,2009 Q1,K02000001,,,Total Value,,Acquisition
+645,Quarter,2009 Q2,K02000001,,,Total Value,,Acquisition
+3934,Quarter,2009 Q3,K02000001,,,Total Value,,Acquisition
+15051,Quarter,2009 Q4,K02000001,,,Total Value,,Acquisition
+14371,Quarter,2010 Q1,K02000001,,,Total Value,,Acquisition
+2841,Quarter,2010 Q2,K02000001,,,Total Value,,Acquisition
+12405,Quarter,2010 Q3,K02000001,,,Total Value,,Acquisition
+7026,Quarter,2010 Q4,K02000001,,,Total Value,,Acquisition
+5765,Quarter,2011 Q1,K02000001,,,Total Value,,Acquisition
+9712,Quarter,2011 Q2,K02000001,,,Total Value,,Acquisition
+5108,Quarter,2011 Q3,K02000001,,,Total Value,,Acquisition
+12382,Quarter,2011 Q4,K02000001,,,Total Value,,Acquisition
+4235,Quarter,2012 Q1,K02000001,,,Total Value,,Acquisition
+2514,Quarter,2012 Q2,K02000001,,,Total Value,,Acquisition
+8778,Quarter,2012 Q3,K02000001,,,Total Value,,Acquisition
+1887,Quarter,2012 Q4,K02000001,,,Total Value,,Acquisition
+3528,Quarter,2013 Q1,K02000001,,,Total Value,,Acquisition
+23506,Quarter,2013 Q2,K02000001,,,Total Value,,Acquisition
+2783,Quarter,2013 Q3,K02000001,,,Total Value,,Acquisition
+2022,Quarter,2013 Q4,K02000001,,,Total Value,,Acquisition
+5569,Quarter,2014 Q1,K02000001,,,Total Value,,Acquisition
+1864,Quarter,2014 Q2,K02000001,,,Total Value,,Acquisition
+3668,Quarter,2014 Q3,K02000001,,,Total Value,,Acquisition
+3940,Quarter,2014 Q4,K02000001,,,Total Value,,Acquisition
+6047,Quarter,2015 Q1,K02000001,,,Total Value,,Acquisition
+9797,Quarter,2015 Q2,K02000001,,,Total Value,,Acquisition
+8315,Quarter,2015 Q3,K02000001,,,Total Value,,Acquisition
+9176,Quarter,2015 Q4,K02000001,,,Total Value,,Acquisition
+50428,Quarter,2016 Q1,K02000001,,,Total Value,,Acquisition
+22701,Quarter,2016 Q2,K02000001,,,Total Value,,Acquisition
+31655,Quarter,2016 Q3,K02000001,,,Total Value,,Acquisition
+85184,Quarter,2016 Q4,K02000001,,,Total Value,,Acquisition
+9494,Quarter,2017 Q1,K02000001,,,Total Value,,Acquisition
+2906,Quarter,2017 Q2,K02000001,,,Total Value,,Acquisition
+265,Year,1986,K02000001,,,In USA,,Acquisition
+225,Year,1987,K02000001,,,In USA,,Acquisition
+872,Year,1988,K02000001,,,In USA,,Acquisition
+5475,Year,1989,K02000001,,,In USA,,Acquisition
+1785,Year,1990,K02000001,,,In USA,,Acquisition
+1782,Year,1991,K02000001,,,In USA,,Acquisition
+1591,Year,1992,K02000001,,,In USA,,Acquisition
+2764,Year,1993,K02000001,,,In USA,,Acquisition
+2115,Year,1994,K02000001,,,In USA,,Acquisition
+4793,Year,1995,K02000001,,,In USA,,Acquisition
+5824,Year,1996,K02000001,,,In USA,,Acquisition
+9823,Year,1997,K02000001,,,In USA,,Acquisition
+21898,Year,1998,K02000001,,,In USA,,Acquisition
+22597,Year,1999,K02000001,,,In USA,,Acquisition
+18844,Year,2000,K02000001,,,In USA,,Acquisition
+7061,Year,2001,K02000001,,,In USA,,Acquisition
+4192,Year,2002,K02000001,,,In USA,,Acquisition
+5803,Year,2003,K02000001,,,In USA,,Acquisition
+11809,Year,2004,K02000001,,,In USA,,Acquisition
+11741,Year,2005,K02000001,,,In USA,,Acquisition
+7606,Year,2006,K02000001,,,In USA,,Acquisition
+14270,Year,2007,K02000001,,,In USA,,Acquisition
+8269,Year,2008,K02000001,,,In USA,,Acquisition
+11594,Year,2009,K02000001,,,In USA,,Acquisition
+19124,Year,2010,K02000001,,,In USA,,Acquisition
+21489,Year,2011,K02000001,,,In USA,,Acquisition
+6217,Year,2012,K02000001,,,In USA,,Acquisition
+3408,Year,2013,K02000001,,,In USA,,Acquisition
+6318,Year,2014,K02000001,,,In USA,,Acquisition
+11083,Year,2015,K02000001,,,In USA,,Acquisition
+30313,Year,2016,K02000001,,,In USA,,Acquisition
+1097,Year,1986,K02000001,,,In EU,,Acquisition
+979,Year,1987,K02000001,,,In EU,,Acquisition
+1158,Year,1988,K02000001,,,In EU,,Acquisition
+3831,Year,1989,K02000001,,,In EU,,Acquisition
+3409,Year,1990,K02000001,,,In EU,,Acquisition
+1749,Year,1991,K02000001,,,In EU,,Acquisition
+1603,Year,1992,K02000001,,,In EU,,Acquisition
+941,Year,1993,K02000001,,,In EU,,Acquisition
+2312,Year,1994,K02000001,,,In EU,,Acquisition
+6697,Year,1995,K02000001,,,In EU,,Acquisition
+1890,Year,1996,K02000001,,,In EU,,Acquisition
+4084,Year,1997,K02000001,,,In EU,,Acquisition
+5559,Year,1998,K02000001,,,In EU,,Acquisition
+36875,Year,1999,K02000001,,,In EU,,Acquisition
+41554,Year,2000,K02000001,,,In EU,,Acquisition
+15820,Year,2001,K02000001,,,In EU,,Acquisition
+11628,Year,2002,K02000001,,,In EU,,Acquisition
+920,Year,2003,K02000001,,,In EU,,Acquisition
+13936,Year,2004,K02000001,,,In EU,,Acquisition
+23907,Year,2005,K02000001,,,In EU,,Acquisition
+42412,Year,2006,K02000001,,,In EU,,Acquisition
+27489,Year,2007,K02000001,,,In EU,,Acquisition
+17918,Year,2008,K02000001,,,In EU,,Acquisition
+15277,Year,2009,K02000001,,,In EU,,Acquisition
+3856,Year,2010,K02000001,,,In EU,,Acquisition
+6238,Year,2011,K02000001,,,In EU,,Acquisition
+3533,Year,2012,K02000001,,,In EU,,Acquisition
+4681,Year,2014,K02000001,,,In EU,,Acquisition
+5816,Year,2015,K02000001,,,In EU,,Acquisition
+125172,Year,2016,K02000001,,,In EU,,Acquisition
+2544,Year,1987,K02000001,,,Indirect Funded Locally,,Disposal
+1406,Year,1988,K02000001,,,Indirect Funded Locally,,Disposal
+649,Year,1989,K02000001,,,Indirect Funded Locally,,Disposal
+3008,Year,1990,K02000001,,,Indirect Funded Locally,,Disposal
+410,Year,1991,K02000001,,,Indirect Funded Locally,,Disposal
+745,Year,1992,K02000001,,,Indirect Funded Locally,,Disposal
+1264,Year,1993,K02000001,,,Indirect Funded Locally,,Disposal
+1277,Year,1994,K02000001,,,Indirect Funded Locally,,Disposal
+1432,Year,1995,K02000001,,,Indirect Funded Locally,,Disposal
+1276,Year,1996,K02000001,,,Indirect Funded Locally,,Disposal
+2367,Year,1997,K02000001,,,Indirect Funded Locally,,Disposal
+4800,Year,1998,K02000001,,,Indirect Funded Locally,,Disposal
+3315,Year,1999,K02000001,,,Indirect Funded Locally,,Disposal
+8769,Year,2000,K02000001,,,Indirect Funded Locally,,Disposal
+5037,Year,2001,K02000001,,,Indirect Funded Locally,,Disposal
+1167,Year,2002,K02000001,,,Indirect Funded Locally,,Disposal
+459,Year,2003,K02000001,,,Indirect Funded Locally,,Disposal
+1260,Year,2004,K02000001,,,Indirect Funded Locally,,Disposal
+5215,Year,2005,K02000001,,,Indirect Funded Locally,,Disposal
+1752,Year,2006,K02000001,,,Indirect Funded Locally,,Disposal
+1178,Year,2007,K02000001,,,Indirect Funded Locally,,Disposal
+3657,Year,2008,K02000001,,,Indirect Funded Locally,,Disposal
+2917,Year,2010,K02000001,,,Indirect Funded Locally,,Disposal
+980,Year,2011,K02000001,,,Indirect Funded Locally,,Disposal
+355,Year,2014,K02000001,,,Indirect Funded Locally,,Disposal
+1222,Year,2015,K02000001,,,Indirect Funded Locally,,Disposal
+160,Year,1987,K02000001,,,Indirect Funded In UK,,Disposal
+99,Year,1988,K02000001,,,Indirect Funded In UK,,Disposal
+30,Year,1989,K02000001,,,Indirect Funded In UK,,Disposal
+5,Year,1990,K02000001,,,Indirect Funded In UK,,Disposal
+50,Year,1991,K02000001,,,Indirect Funded In UK,,Disposal
+33,Year,1992,K02000001,,,Indirect Funded In UK,,Disposal
+7,Year,1993,K02000001,,,Indirect Funded In UK,,Disposal
+522,Year,1994,K02000001,,,Indirect Funded In UK,,Disposal
+366,Year,1995,K02000001,,,Indirect Funded In UK,,Disposal
+1034,Year,1996,K02000001,,,Indirect Funded In UK,,Disposal
+1274,Year,1997,K02000001,,,Indirect Funded In UK,,Disposal
+1609,Year,1998,K02000001,,,Indirect Funded In UK,,Disposal
+1250,Year,1999,K02000001,,,Indirect Funded In UK,,Disposal
+1860,Year,2006,K02000001,,,Indirect Funded In UK,,Disposal
+1393,Year,2007,K02000001,,,Indirect Funded In UK,,Disposal
+1021,Year,2008,K02000001,,,Indirect Funded In UK,,Disposal
+71,Year,2010,K02000001,,,Indirect Funded In UK,,Disposal
+598,Year,2011,K02000001,,,Indirect Funded In UK,,Disposal
+323,Year,2014,K02000001,,,Indirect Funded In UK,,Disposal
+0,Year,2015,K02000001,,,Indirect Funded In UK,,Disposal
+2,Year,1986,K02000001,,,Indirect Funded Locally,,Disposal
+139,Year,1987,K02000001,,,Indirect Funded Locally,,Disposal
+181,Year,1988,K02000001,,,Indirect Funded Locally,,Disposal
+339,Year,1989,K02000001,,,Indirect Funded Locally,,Disposal
+75,Year,1990,K02000001,,,Indirect Funded Locally,,Disposal
+539,Year,1991,K02000001,,,Indirect Funded Locally,,Disposal
+548,Year,1992,K02000001,,,Indirect Funded Locally,,Disposal
+295,Year,1993,K02000001,,,Indirect Funded Locally,,Disposal
+692,Year,1994,K02000001,,,Indirect Funded Locally,,Disposal
+238,Year,1995,K02000001,,,Indirect Funded Locally,,Disposal
+19,Year,1996,K02000001,,,Indirect Funded Locally,,Disposal
+740,Year,1997,K02000001,,,Indirect Funded Locally,,Disposal
+184,Year,1998,K02000001,,,Indirect Funded Locally,,Disposal
+963,Year,1999,K02000001,,,Indirect Funded Locally,,Disposal
+443,Year,2000,K02000001,,,Indirect Funded Locally,,Disposal
+2432,Year,2001,K02000001,,,Indirect Funded Locally,,Disposal
+3610,Year,2002,K02000001,,,Indirect Funded Locally,,Disposal
+2235,Year,2003,K02000001,,,Indirect Funded Locally,,Disposal
+1581,Year,2004,K02000001,,,Indirect Funded Locally,,Disposal
+2240,Year,2005,K02000001,,,Indirect Funded Locally,,Disposal
+6039,Year,2006,K02000001,,,Indirect Funded Locally,,Disposal
+3260,Year,2007,K02000001,,,Indirect Funded Locally,,Disposal
+2972,Year,2008,K02000001,,,Indirect Funded Locally,,Disposal
+1248,Year,2009,K02000001,,,Indirect Funded Locally,,Disposal
+4002,Year,2010,K02000001,,,Indirect Funded Locally,,Disposal
+1969,Year,2011,K02000001,,,Indirect Funded Locally,,Disposal
+96,Year,2012,K02000001,,,Indirect Funded Locally,,Disposal
+86,Year,1986,K02000001,,,Indirect By Overseas Parent,,Disposal
+0,Year,1987,K02000001,,,Indirect By Overseas Parent,,Disposal
+0,Year,1988,K02000001,,,Indirect By Overseas Parent,,Disposal
+0,Year,1989,K02000001,,,Indirect By Overseas Parent,,Disposal
+8,Year,1990,K02000001,,,Indirect By Overseas Parent,,Disposal
+0,Year,1991,K02000001,,,Indirect By Overseas Parent,,Disposal
+0,Year,1992,K02000001,,,Indirect By Overseas Parent,,Disposal
+126,Year,1993,K02000001,,,Indirect By Overseas Parent,,Disposal
+105,Year,1994,K02000001,,,Indirect By Overseas Parent,,Disposal
+0,Year,1995,K02000001,,,Indirect By Overseas Parent,,Disposal
+53,Year,1996,K02000001,,,Indirect By Overseas Parent,,Disposal
+156,Year,1997,K02000001,,,Indirect By Overseas Parent,,Disposal
+101,Year,1998,K02000001,,,Indirect By Overseas Parent,,Disposal
+232,Year,1999,K02000001,,,Indirect By Overseas Parent,,Disposal
+471,Year,2000,K02000001,,,Indirect By Overseas Parent,,Disposal
+504,Year,2001,K02000001,,,Indirect By Overseas Parent,,Disposal
+85,Year,2002,K02000001,,,Indirect By Overseas Parent,,Disposal
+391,Year,2003,K02000001,,,Indirect By Overseas Parent,,Disposal
+369,Year,2004,K02000001,,,Indirect By Overseas Parent,,Disposal
+1488,Year,2005,K02000001,,,Indirect By Overseas Parent,,Disposal
+1923,Year,2006,K02000001,,,Indirect By Overseas Parent,,Disposal
+226,Year,2007,K02000001,,,Indirect By Overseas Parent,,Disposal
+682,Year,2008,K02000001,,,Indirect By Overseas Parent,,Disposal
+0,Year,2009,K02000001,,,Indirect By Overseas Parent,,Disposal
+928,Year,2010,K02000001,,,Indirect By Overseas Parent,,Disposal
+1190,Year,2011,K02000001,,,Indirect By Overseas Parent,,Disposal
+448,Year,1986,K02000001,,,Direct Transactions,,Disposal
+1059,Year,1987,K02000001,,,Direct Transactions,,Disposal
+488,Year,1988,K02000001,,,Direct Transactions,,Disposal
+2678,Year,1989,K02000001,,,Direct Transactions,,Disposal
+1118,Year,1990,K02000001,,,Direct Transactions,,Disposal
+488,Year,1991,K02000001,,,Direct Transactions,,Disposal
+859,Year,1992,K02000001,,,Direct Transactions,,Disposal
+689,Year,1993,K02000001,,,Direct Transactions,,Disposal
+679,Year,1994,K02000001,,,Direct Transactions,,Disposal
+1273,Year,1995,K02000001,,,Direct Transactions,,Disposal
+961,Year,1996,K02000001,,,Direct Transactions,,Disposal
+582,Year,1997,K02000001,,,Direct Transactions,,Disposal
+3186,Year,1998,K02000001,,,Direct Transactions,,Disposal
+4323,Year,1999,K02000001,,,Direct Transactions,,Disposal
+3985,Year,2000,K02000001,,,Direct Transactions,,Disposal
+1528,Year,2001,K02000001,,,Direct Transactions,,Disposal
+4217,Year,2002,K02000001,,,Direct Transactions,,Disposal
+994,Year,2003,K02000001,,,Direct Transactions,,Disposal
+3564,Year,2004,K02000001,,,Direct Transactions,,Disposal
+4659,Year,2005,K02000001,,,Direct Transactions,,Disposal
+6246,Year,2006,K02000001,,,Direct Transactions,,Disposal
+4038,Year,2007,K02000001,,,Direct Transactions,,Disposal
+1485,Year,2008,K02000001,,,Direct Transactions,,Disposal
+6572,Year,2009,K02000001,,,Direct Transactions,,Disposal
+4961,Year,2010,K02000001,,,Direct Transactions,,Disposal
+8589,Year,2011,K02000001,,,Direct Transactions,,Disposal
+5821,Year,2012,K02000001,,,Direct Transactions,,Disposal
+1541,Year,2013,K02000001,,,Direct Transactions,,Disposal
+2415,Year,2014,K02000001,,,Direct Transactions,,Disposal
+7006,Year,2015,K02000001,,,Direct Transactions,,Disposal
+6095,Year,2016,K02000001,,,Direct Transactions,,Disposal
+359,Year,1986,K02000001,,,Indirect Funded Locally,,Acquisition
+335,Year,1987,K02000001,,,Indirect Funded Locally,,Acquisition
+3049,Year,1988,K02000001,,,Indirect Funded Locally,,Acquisition
+1327,Year,1989,K02000001,,,Indirect Funded Locally,,Acquisition
+1029,Year,1990,K02000001,,,Indirect Funded Locally,,Acquisition
+2400,Year,1991,K02000001,,,Indirect Funded Locally,,Acquisition
+762,Year,1992,K02000001,,,Indirect Funded Locally,,Acquisition
+1087,Year,1993,K02000001,,,Indirect Funded Locally,,Acquisition
+715,Year,1994,K02000001,,,Indirect Funded Locally,,Acquisition
+1655,Year,1995,K02000001,,,Indirect Funded Locally,,Acquisition
+3138,Year,1996,K02000001,,,Indirect Funded Locally,,Acquisition
+4093,Year,1997,K02000001,,,Indirect Funded Locally,,Acquisition
+5368,Year,1998,K02000001,,,Indirect Funded Locally,,Acquisition
+6023,Year,1999,K02000001,,,Indirect Funded Locally,,Acquisition
+3503,Year,2000,K02000001,,,Indirect Funded Locally,,Acquisition
+4888,Year,2001,K02000001,,,Indirect Funded Locally,,Acquisition
+890,Year,2002,K02000001,,,Indirect Funded Locally,,Acquisition
+3298,Year,2003,K02000001,,,Indirect Funded Locally,,Acquisition
+3504,Year,2004,K02000001,,,Indirect Funded Locally,,Acquisition
+6708,Year,2005,K02000001,,,Indirect Funded Locally,,Acquisition
+18049,Year,2006,K02000001,,,Indirect Funded Locally,,Acquisition
+12705,Year,2007,K02000001,,,Indirect Funded Locally,,Acquisition
+7712,Year,2008,K02000001,,,Indirect Funded Locally,,Acquisition
+1416,Year,2010,K02000001,,,Indirect Funded Locally,,Acquisition
+3257,Year,2011,K02000001,,,Indirect Funded Locally,,Acquisition
+1538,Year,2012,K02000001,,,Indirect Funded Locally,,Acquisition
+1934,Year,2014,K02000001,,,Indirect Funded Locally,,Acquisition
+3620,Year,2015,K02000001,,,Indirect Funded Locally,,Acquisition
+2817,Year,2016,K02000001,,,Indirect Funded Locally,,Acquisition
+119,Year,1986,K02000001,,,Indirect By Overseas Parent,,Acquisition
+433,Year,1987,K02000001,,,Indirect By Overseas Parent,,Acquisition
+341,Year,1988,K02000001,,,Indirect By Overseas Parent,,Acquisition
+4608,Year,1989,K02000001,,,Indirect By Overseas Parent,,Acquisition
+2925,Year,1990,K02000001,,,Indirect By Overseas Parent,,Acquisition
+589,Year,1991,K02000001,,,Indirect By Overseas Parent,,Acquisition
+220,Year,1992,K02000001,,,Indirect By Overseas Parent,,Acquisition
+225,Year,1993,K02000001,,,Indirect By Overseas Parent,,Acquisition
+883,Year,1994,K02000001,,,Indirect By Overseas Parent,,Acquisition
+2465,Year,1995,K02000001,,,Indirect By Overseas Parent,,Acquisition
+1820,Year,1996,K02000001,,,Indirect By Overseas Parent,,Acquisition
+3030,Year,1997,K02000001,,,Indirect By Overseas Parent,,Acquisition
+5991,Year,1998,K02000001,,,Indirect By Overseas Parent,,Acquisition
+19949,Year,1999,K02000001,,,Indirect By Overseas Parent,,Acquisition
+4223,Year,2000,K02000001,,,Indirect By Overseas Parent,,Acquisition
+7797,Year,2001,K02000001,,,Indirect By Overseas Parent,,Acquisition
+2179,Year,2002,K02000001,,,Indirect By Overseas Parent,,Acquisition
+3033,Year,2003,K02000001,,,Indirect By Overseas Parent,,Acquisition
+2897,Year,2004,K02000001,,,Indirect By Overseas Parent,,Acquisition
+11379,Year,2005,K02000001,,,Indirect By Overseas Parent,,Acquisition
+6123,Year,2006,K02000001,,,Indirect By Overseas Parent,,Acquisition
+6941,Year,2007,K02000001,,,Indirect By Overseas Parent,,Acquisition
+8739,Year,2008,K02000001,,,Indirect By Overseas Parent,,Acquisition
+1687,Year,2010,K02000001,,,Indirect By Overseas Parent,,Acquisition
+12598,Year,2011,K02000001,,,Indirect By Overseas Parent,,Acquisition
+4217,Year,2012,K02000001,,,Indirect By Overseas Parent,,Acquisition
+2702,Year,2014,K02000001,,,Indirect By Overseas Parent,,Acquisition
+707,Year,2015,K02000001,,,Indirect By Overseas Parent,,Acquisition
+2495,Year,2016,K02000001,,,Indirect By Overseas Parent,,Acquisition
+9141,Year,1987,K02000001,,,In USA,,Acquisition
+13729,Year,1988,K02000001,,,In USA,,Acquisition
+17544,Year,1989,K02000001,,,In USA,,Acquisition
+7169,Year,1990,K02000001,,,In USA,,Acquisition
+4043,Year,1991,K02000001,,,In USA,,Acquisition
+2139,Year,1992,K02000001,,,In USA,,Acquisition
+4683,Year,1993,K02000001,,,In USA,,Acquisition
+8366,Year,1994,K02000001,,,In USA,,Acquisition
+6979,Year,1995,K02000001,,,In USA,,Acquisition
+6754,Year,1996,K02000001,,,In USA,,Acquisition
+8928,Year,1997,K02000001,,,In USA,,Acquisition
+45273,Year,1998,K02000001,,,In USA,,Acquisition
+68939,Year,1999,K02000001,,,In USA,,Acquisition
+39567,Year,2000,K02000001,,,In USA,,Acquisition
+9496,Year,2001,K02000001,,,In USA,,Acquisition
+9804,Year,2002,K02000001,,,In USA,,Acquisition
+12903,Year,2003,K02000001,,,In USA,,Acquisition
+10757,Year,2004,K02000001,,,In USA,,Acquisition
+15683,Year,2005,K02000001,,,In USA,,Acquisition
+7348,Year,2006,K02000001,,,In USA,,Acquisition
+21676,Year,2007,K02000001,,,In USA,,Acquisition
+7244,Year,2008,K02000001,,,In USA,,Acquisition
+3250,Year,2009,K02000001,,,In USA,,Acquisition
+6223,Year,2010,K02000001,,,In USA,,Acquisition
+9342,Year,2011,K02000001,,,In USA,,Acquisition
+5384,Year,2012,K02000001,,,In USA,,Acquisition
+600,Year,2013,K02000001,,,In USA,,Acquisition
+4987,Year,2014,K02000001,,,In USA,,Acquisition
+6136,Year,2015,K02000001,,,In USA,,Acquisition
+12542,Year,2016,K02000001,,,In USA,,Acquisition
+1615,Year,1987,K02000001,,,In EU,,Acquisition
+1758,Year,1988,K02000001,,,In EU,,Acquisition
+2730,Year,1989,K02000001,,,In EU,,Acquisition
+3943,Year,1990,K02000001,,,In EU,,Acquisition
+3839,Year,1991,K02000001,,,In EU,,Acquisition
+2994,Year,1992,K02000001,,,In EU,,Acquisition
+2978,Year,1993,K02000001,,,In EU,,Acquisition
+5012,Year,1994,K02000001,,,In EU,,Acquisition
+2927,Year,1995,K02000001,,,In EU,,Acquisition
+3100,Year,1996,K02000001,,,In EU,,Acquisition
+6564,Year,1997,K02000001,,,In EU,,Acquisition
+5642,Year,1998,K02000001,,,In EU,,Acquisition
+35016,Year,1999,K02000001,,,In EU,,Acquisition
+125868,Year,2000,K02000001,,,In EU,,Acquisition
+18340,Year,2001,K02000001,,,In EU,,Acquisition
+10297,Year,2002,K02000001,,,In EU,,Acquisition
+4630,Year,2003,K02000001,,,In EU,,Acquisition
+3466,Year,2004,K02000001,,,In EU,,Acquisition
+5056,Year,2005,K02000001,,,In EU,,Acquisition
+12966,Year,2006,K02000001,,,In EU,,Acquisition
+7397,Year,2007,K02000001,,,In EU,,Acquisition
+13613,Year,2008,K02000001,,,In EU,,Acquisition
+1800,Year,2009,K02000001,,,In EU,,Acquisition
+2979,Year,2010,K02000001,,,In EU,,Acquisition
+20666,Year,2011,K02000001,,,In EU,,Acquisition
+7932,Year,2012,K02000001,,,In EU,,Acquisition
+6216,Year,2013,K02000001,,,In EU,,Acquisition
+11404,Year,2014,K02000001,,,In EU,,Acquisition
+7712,Year,2015,K02000001,,,In EU,,Acquisition
+2112,Year,2016,K02000001,,,In EU,,Acquisition
+1257,Year,1987,K02000001,,,Direct Transactions,,Disposal
+2375,Year,1988,K02000001,,,Direct Transactions,,Disposal
+2980,Year,1989,K02000001,,,Direct Transactions,,Disposal
+3162,Year,1990,K02000001,,,Direct Transactions,,Disposal
+1297,Year,1991,K02000001,,,Direct Transactions,,Disposal
+2758,Year,1992,K02000001,,,Direct Transactions,,Disposal
+3509,Year,1993,K02000001,,,Direct Transactions,,Disposal
+3934,Year,1994,K02000001,,,Direct Transactions,,Disposal
+4191,Year,1995,K02000001,,,Direct Transactions,,Disposal
+5497,Year,1996,K02000001,,,Direct Transactions,,Disposal
+3707,Year,1997,K02000001,,,Direct Transactions,,Disposal
+6405,Year,1998,K02000001,,,Direct Transactions,,Disposal
+8021,Year,1999,K02000001,,,Direct Transactions,,Disposal
+14741,Year,2000,K02000001,,,Direct Transactions,,Disposal
+22875,Year,2001,K02000001,,,Direct Transactions,,Disposal
+5709,Year,2002,K02000001,,,Direct Transactions,,Disposal
+6920,Year,2003,K02000001,,,Direct Transactions,,Disposal
+3294,Year,2004,K02000001,,,Direct Transactions,,Disposal
+6530,Year,2005,K02000001,,,Direct Transactions,,Disposal
+17602,Year,2006,K02000001,,,Direct Transactions,,Disposal
+7650,Year,2007,K02000001,,,Direct Transactions,,Disposal
+7384,Year,2008,K02000001,,,Direct Transactions,,Disposal
+4198,Year,2009,K02000001,,,Direct Transactions,,Disposal
+8423,Year,2010,K02000001,,,Direct Transactions,,Disposal
+12533,Year,2011,K02000001,,,Direct Transactions,,Disposal
+5817,Year,2012,K02000001,,,Direct Transactions,,Disposal
+5682,Year,2013,K02000001,,,Direct Transactions,,Disposal
+4610,Year,2014,K02000001,,,Direct Transactions,,Disposal
+16617,Year,2015,K02000001,,,Direct Transactions,,Disposal
+15297,Year,2016,K02000001,,,Direct Transactions,,Disposal
+2547,Year,1987,K02000001,,,Indirect Funded Locally,,Acquisition
+6616,Year,1988,K02000001,,,Indirect Funded Locally,,Acquisition
+11073,Year,1989,K02000001,,,Indirect Funded Locally,,Acquisition
+2521,Year,1990,K02000001,,,Indirect Funded Locally,,Acquisition
+764,Year,1991,K02000001,,,Indirect Funded Locally,,Acquisition
+921,Year,1992,K02000001,,,Indirect Funded Locally,,Acquisition
+2331,Year,1993,K02000001,,,Indirect Funded Locally,,Acquisition
+5888,Year,1994,K02000001,,,Indirect Funded Locally,,Acquisition
+2583,Year,1995,K02000001,,,Indirect Funded Locally,,Acquisition
+2631,Year,1996,K02000001,,,Indirect Funded Locally,,Acquisition
+2457,Year,1997,K02000001,,,Indirect Funded Locally,,Acquisition
+3323,Year,1998,K02000001,,,Indirect Funded Locally,,Acquisition
+6196,Year,1999,K02000001,,,Indirect Funded Locally,,Acquisition
+9262,Year,2000,K02000001,,,Indirect Funded Locally,,Acquisition
+3925,Year,2001,K02000001,,,Indirect Funded Locally,,Acquisition
+4070,Year,2002,K02000001,,,Indirect Funded Locally,,Acquisition
+2291,Year,2003,K02000001,,,Indirect Funded Locally,,Acquisition
+1383,Year,2004,K02000001,,,Indirect Funded Locally,,Acquisition
+6987,Year,2005,K02000001,,,Indirect Funded Locally,,Acquisition
+3114,Year,2006,K02000001,,,Indirect Funded Locally,,Acquisition
+8120,Year,2007,K02000001,,,Indirect Funded Locally,,Acquisition
+5010,Year,2008,K02000001,,,Indirect Funded Locally,,Acquisition
+162,Year,2009,K02000001,,,Indirect Funded Locally,,Acquisition
+741,Year,2010,K02000001,,,Indirect Funded Locally,,Acquisition
+8323,Year,2011,K02000001,,,Indirect Funded Locally,,Acquisition
+316,Year,2012,K02000001,,,Indirect Funded Locally,,Acquisition
+6118,Year,2014,K02000001,,,Indirect Funded Locally,,Acquisition
+2641,Year,2015,K02000001,,,Indirect Funded Locally,,Acquisition
+3859,Year,2016,K02000001,,,Indirect Funded Locally,,Acquisition
+3377,Year,1987,K02000001,,,Indirect Funded In UK,,Acquisition
+4375,Year,1988,K02000001,,,Indirect Funded In UK,,Acquisition
+4956,Year,1989,K02000001,,,Indirect Funded In UK,,Acquisition
+3339,Year,1990,K02000001,,,Indirect Funded In UK,,Acquisition
+891,Year,1991,K02000001,,,Indirect Funded In UK,,Acquisition
+578,Year,1992,K02000001,,,Indirect Funded In UK,,Acquisition
+911,Year,1993,K02000001,,,Indirect Funded In UK,,Acquisition
+1423,Year,1994,K02000001,,,Indirect Funded In UK,,Acquisition
+4210,Year,1995,K02000001,,,Indirect Funded In UK,,Acquisition
+3764,Year,1996,K02000001,,,Indirect Funded In UK,,Acquisition
+2567,Year,1997,K02000001,,,Indirect Funded In UK,,Acquisition
+7923,Year,1998,K02000001,,,Indirect Funded In UK,,Acquisition
+9788,Year,1999,K02000001,,,Indirect Funded In UK,,Acquisition
+12393,Year,2000,K02000001,,,Indirect Funded In UK,,Acquisition
+8003,Year,2001,K02000001,,,Indirect Funded In UK,,Acquisition
+5556,Year,2002,K02000001,,,Indirect Funded In UK,,Acquisition
+5422,Year,2003,K02000001,,,Indirect Funded In UK,,Acquisition
+8076,Year,2004,K02000001,,,Indirect Funded In UK,,Acquisition
+5511,Year,2005,K02000001,,,Indirect Funded In UK,,Acquisition
+5498,Year,2006,K02000001,,,Indirect Funded In UK,,Acquisition
+14814,Year,2007,K02000001,,,Indirect Funded In UK,,Acquisition
+6688,Year,2008,K02000001,,,Indirect Funded In UK,,Acquisition
+2530,Year,2009,K02000001,,,Indirect Funded In UK,,Acquisition
+1166,Year,2010,K02000001,,,Indirect Funded In UK,,Acquisition
+4999,Year,2011,K02000001,,,Indirect Funded In UK,,Acquisition
+8094,Year,2012,K02000001,,,Indirect Funded In UK,,Acquisition
+7641,Year,2014,K02000001,,,Indirect Funded In UK,,Acquisition
+1323,Year,2015,K02000001,,,Indirect Funded In UK,,Acquisition
+3978,Year,2016,K02000001,,,Indirect Funded In UK,,Acquisition
+6136,Year,1987,K02000001,,,Direct Transactions,,Acquisition
+6310,Year,1988,K02000001,,,Direct Transactions,,Acquisition
+6593,Year,1989,K02000001,,,Direct Transactions,,Acquisition
+7092,Year,1990,K02000001,,,Direct Transactions,,Acquisition
+8037,Year,1991,K02000001,,,Direct Transactions,,Acquisition
+5766,Year,1992,K02000001,,,Direct Transactions,,Acquisition
+5971,Year,1993,K02000001,,,Direct Transactions,,Acquisition
+7853,Year,1994,K02000001,,,Direct Transactions,,Acquisition
+5174,Year,1995,K02000001,,,Direct Transactions,,Acquisition
+6982,Year,1996,K02000001,,,Direct Transactions,,Acquisition
+14152,Year,1997,K02000001,,,Direct Transactions,,Acquisition
+43671,Year,1998,K02000001,,,Direct Transactions,,Acquisition
+95209,Year,1999,K02000001,,,Direct Transactions,,Acquisition
+159630,Year,2000,K02000001,,,Direct Transactions,,Acquisition
+29545,Year,2001,K02000001,,,Direct Transactions,,Acquisition
+17000,Year,2002,K02000001,,,Direct Transactions,,Acquisition
+13043,Year,2003,K02000001,,,Direct Transactions,,Acquisition
+9250,Year,2004,K02000001,,,Direct Transactions,,Acquisition
+20234,Year,2005,K02000001,,,Direct Transactions,,Acquisition
+28800,Year,2006,K02000001,,,Direct Transactions,,Acquisition
+34880,Year,2007,K02000001,,,Direct Transactions,,Acquisition
+17972,Year,2008,K02000001,,,Direct Transactions,,Acquisition
+7456,Year,2009,K02000001,,,Direct Transactions,,Acquisition
+10507,Year,2010,K02000001,,,Direct Transactions,,Acquisition
+36912,Year,2011,K02000001,,,Direct Transactions,,Acquisition
+9523,Year,2012,K02000001,,,Direct Transactions,,Acquisition
+2935,Year,2013,K02000001,,,Direct Transactions,,Acquisition
+6888,Year,2014,K02000001,,,Direct Transactions,,Acquisition
+21604,Year,2015,K02000001,,,Direct Transactions,,Acquisition
+9838,Year,2016,K02000001,,,Direct Transactions,,Acquisition
+3961,Year,1987,K02000001,,,Total Value,,Disposal
+3880,Year,1988,K02000001,,,Total Value,,Disposal
+3659,Year,1989,K02000001,,,Total Value,,Disposal
+6175,Year,1990,K02000001,,,Total Value,,Disposal
+1757,Year,1991,K02000001,,,Total Value,,Disposal
+3536,Year,1992,K02000001,,,Total Value,,Disposal
+4779,Year,1993,K02000001,,,Total Value,,Disposal
+5733,Year,1994,K02000001,,,Total Value,,Disposal
+5989,Year,1995,K02000001,,,Total Value,,Disposal
+7807,Year,1996,K02000001,,,Total Value,,Disposal
+7348,Year,1997,K02000001,,,Total Value,,Disposal
+12814,Year,1998,K02000001,,,Total Value,,Disposal
+12586,Year,1999,K02000001,,,Total Value,,Disposal
+29857,Year,2000,K02000001,,,Total Value,,Disposal
+28494,Year,2001,K02000001,,,Total Value,,Disposal
+7074,Year,2002,K02000001,,,Total Value,,Disposal
+8643,Year,2003,K02000001,,,Total Value,,Disposal
+5485,Year,2004,K02000001,,,Total Value,,Disposal
+12668,Year,2005,K02000001,,,Total Value,,Disposal
+21214,Year,2006,K02000001,,,Total Value,,Disposal
+10221,Year,2007,K02000001,,,Total Value,,Disposal
+12062,Year,2008,K02000001,,,Total Value,,Disposal
+5101,Year,2009,K02000001,,,Total Value,,Disposal
+11411,Year,2010,K02000001,,,Total Value,,Disposal
+14111,Year,2011,K02000001,,,Total Value,,Disposal
+5288,Year,2014,K02000001,,,Total Value,,Disposal
+16852,Year,2015,K02000001,,,Total Value,,Disposal
+15420,Year,2016,K02000001,,,Total Value,,Disposal
+431,Quarter,1987 Q1,K02000001,,,Total Value,,Disposal
+1401,Quarter,1987 Q2,K02000001,,,Total Value,,Disposal
+1630,Quarter,1987 Q3,K02000001,,,Total Value,,Disposal
+499,Quarter,1987 Q4,K02000001,,,Total Value,,Disposal
+379,Quarter,1988 Q1,K02000001,,,Total Value,,Disposal
+635,Quarter,1988 Q2,K02000001,,,Total Value,,Disposal
+989,Quarter,1988 Q3,K02000001,,,Total Value,,Disposal
+1877,Quarter,1988 Q4,K02000001,,,Total Value,,Disposal
+593,Quarter,1989 Q1,K02000001,,,Total Value,,Disposal
+1013,Quarter,1989 Q2,K02000001,,,Total Value,,Disposal
+1608,Quarter,1989 Q3,K02000001,,,Total Value,,Disposal
+445,Quarter,1989 Q4,K02000001,,,Total Value,,Disposal
+1989,Quarter,1990 Q1,K02000001,,,Total Value,,Disposal
+1223,Quarter,1990 Q2,K02000001,,,Total Value,,Disposal
+1511,Quarter,1990 Q3,K02000001,,,Total Value,,Disposal
+1452,Quarter,1990 Q4,K02000001,,,Total Value,,Disposal
+340,Quarter,1991 Q1,K02000001,,,Total Value,,Disposal
+459,Quarter,1991 Q2,K02000001,,,Total Value,,Disposal
+539,Quarter,1991 Q3,K02000001,,,Total Value,,Disposal
+419,Quarter,1991 Q4,K02000001,,,Total Value,,Disposal
+634,Quarter,1992 Q1,K02000001,,,Total Value,,Disposal
+1031,Quarter,1992 Q2,K02000001,,,Total Value,,Disposal
+783,Quarter,1992 Q3,K02000001,,,Total Value,,Disposal
+1088,Quarter,1992 Q4,K02000001,,,Total Value,,Disposal
+1106,Quarter,1993 Q1,K02000001,,,Total Value,,Disposal
+1053,Quarter,1993 Q2,K02000001,,,Total Value,,Disposal
+1246,Quarter,1993 Q3,K02000001,,,Total Value,,Disposal
+1374,Quarter,1993 Q4,K02000001,,,Total Value,,Disposal
+1707,Quarter,1994 Q1,K02000001,,,Total Value,,Disposal
+952,Quarter,1994 Q2,K02000001,,,Total Value,,Disposal
+971,Quarter,1994 Q3,K02000001,,,Total Value,,Disposal
+2103,Quarter,1994 Q4,K02000001,,,Total Value,,Disposal
+1592,Quarter,1995 Q1,K02000001,,,Total Value,,Disposal
+580,Quarter,1995 Q2,K02000001,,,Total Value,,Disposal
+203,Quarter,1995 Q3,K02000001,,,Total Value,,Disposal
+3614,Quarter,1995 Q4,K02000001,,,Total Value,,Disposal
+1322,Quarter,1996 Q1,K02000001,,,Total Value,,Disposal
+2658,Quarter,1996 Q2,K02000001,,,Total Value,,Disposal
+2912,Quarter,1996 Q3,K02000001,,,Total Value,,Disposal
+915,Quarter,1996 Q4,K02000001,,,Total Value,,Disposal
+1732,Quarter,1997 Q1,K02000001,,,Total Value,,Disposal
+1385,Quarter,1997 Q2,K02000001,,,Total Value,,Disposal
+2001,Quarter,1997 Q3,K02000001,,,Total Value,,Disposal
+2230,Quarter,1997 Q4,K02000001,,,Total Value,,Disposal
+2055,Quarter,1998 Q1,K02000001,,,Total Value,,Disposal
+6469,Quarter,1998 Q2,K02000001,,,Total Value,,Disposal
+3092,Quarter,1998 Q3,K02000001,,,Total Value,,Disposal
+1198,Quarter,1998 Q4,K02000001,,,Total Value,,Disposal
+2188,Quarter,1999 Q1,K02000001,,,Total Value,,Disposal
+6573,Quarter,1999 Q2,K02000001,,,Total Value,,Disposal
+2271,Quarter,1999 Q3,K02000001,,,Total Value,,Disposal
+1554,Quarter,1999 Q4,K02000001,,,Total Value,,Disposal
+8290,Quarter,2000 Q1,K02000001,,,Total Value,,Disposal
+2367,Quarter,2000 Q2,K02000001,,,Total Value,,Disposal
+15314,Quarter,2000 Q3,K02000001,,,Total Value,,Disposal
+3886,Quarter,2000 Q4,K02000001,,,Total Value,,Disposal
+7601,Quarter,2001 Q1,K02000001,,,Total Value,,Disposal
+7675,Quarter,2001 Q2,K02000001,,,Total Value,,Disposal
+7750,Quarter,2001 Q3,K02000001,,,Total Value,,Disposal
+5468,Quarter,2001 Q4,K02000001,,,Total Value,,Disposal
+1014,Quarter,2002 Q1,K02000001,,,Total Value,,Disposal
+1489,Quarter,2002 Q2,K02000001,,,Total Value,,Disposal
+1016,Quarter,2002 Q3,K02000001,,,Total Value,,Disposal
+3555,Quarter,2002 Q4,K02000001,,,Total Value,,Disposal
+1130,Quarter,2003 Q1,K02000001,,,Total Value,,Disposal
+1218,Quarter,2003 Q2,K02000001,,,Total Value,,Disposal
+1702,Quarter,2003 Q3,K02000001,,,Total Value,,Disposal
+4593,Quarter,2003 Q4,K02000001,,,Total Value,,Disposal
+816,Quarter,2004 Q1,K02000001,,,Total Value,,Disposal
+2353,Quarter,2004 Q2,K02000001,,,Total Value,,Disposal
+1305,Quarter,2004 Q3,K02000001,,,Total Value,,Disposal
+1011,Quarter,2004 Q4,K02000001,,,Total Value,,Disposal
+1435,Quarter,2005 Q1,K02000001,,,Total Value,,Disposal
+909,Quarter,2005 Q2,K02000001,,,Total Value,,Disposal
+1136,Quarter,2005 Q3,K02000001,,,Total Value,,Disposal
+9188,Quarter,2005 Q4,K02000001,,,Total Value,,Disposal
+5456,Quarter,2006 Q1,K02000001,,,Total Value,,Disposal
+9454,Quarter,2006 Q2,K02000001,,,Total Value,,Disposal
+2836,Quarter,2006 Q3,K02000001,,,Total Value,,Disposal
+3468,Quarter,2006 Q4,K02000001,,,Total Value,,Disposal
+3468,Quarter,2007 Q1,K02000001,,,Total Value,,Disposal
+1798,Quarter,2007 Q2,K02000001,,,Total Value,,Disposal
+3887,Quarter,2007 Q3,K02000001,,,Total Value,,Disposal
+1068,Quarter,2007 Q4,K02000001,,,Total Value,,Disposal
+787,Quarter,2008 Q1,K02000001,,,Total Value,,Disposal
+5210,Quarter,2008 Q2,K02000001,,,Total Value,,Disposal
+4691,Quarter,2008 Q3,K02000001,,,Total Value,,Disposal
+1374,Quarter,2008 Q4,K02000001,,,Total Value,,Disposal
+1299,Quarter,2009 Q1,K02000001,,,Total Value,,Disposal
+726,Quarter,2009 Q2,K02000001,,,Total Value,,Disposal
+252,Quarter,2009 Q3,K02000001,,,Total Value,,Disposal
+2824,Quarter,2009 Q4,K02000001,,,Total Value,,Disposal
+2790,Quarter,2010 Q1,K02000001,,,Total Value,,Disposal
+866,Quarter,2010 Q2,K02000001,,,Total Value,,Disposal
+4189,Quarter,2010 Q3,K02000001,,,Total Value,,Disposal
+3566,Quarter,2010 Q4,K02000001,,,Total Value,,Disposal
+3268,Quarter,2011 Q1,K02000001,,,Total Value,,Disposal
+3110,Quarter,2011 Q2,K02000001,,,Total Value,,Disposal
+3620,Quarter,2011 Q3,K02000001,,,Total Value,,Disposal
+4113,Quarter,2011 Q4,K02000001,,,Total Value,,Disposal
+2122,Quarter,2012 Q1,K02000001,,,Total Value,,Disposal
+1375,Quarter,2012 Q2,K02000001,,,Total Value,,Disposal
+632,Quarter,2012 Q3,K02000001,,,Total Value,,Disposal
+5546,Quarter,2013 Q1,K02000001,,,Total Value,,Disposal
+3572,Quarter,2013 Q2,K02000001,,,Total Value,,Disposal
+439,Quarter,2013 Q3,K02000001,,,Total Value,,Disposal
+2422,Quarter,2014 Q2,K02000001,,,Total Value,,Disposal
+1323,Quarter,2014 Q4,K02000001,,,Total Value,,Disposal
+1113,Quarter,2015 Q3,K02000001,,,Total Value,,Disposal
+8606,Quarter,2015 Q4,K02000001,,,Total Value,,Disposal
+1026,Quarter,2016 Q1,K02000001,,,Total Value,,Disposal
+1651,Quarter,2016 Q2,K02000001,,,Total Value,,Disposal
+1719,Quarter,2017 Q1,K02000001,,,Total Value,,Disposal
+1041,Quarter,2017 Q2,K02000001,,,Total Value,,Disposal
+2781,Year,1987,K02000001,,,In USA,,Disposal
+3139,Year,1988,K02000001,,,In USA,,Disposal
+1785,Year,1989,K02000001,,,In USA,,Disposal
+3986,Year,1990,K02000001,,,In USA,,Disposal
+942,Year,1991,K02000001,,,In USA,,Disposal
+1158,Year,1992,K02000001,,,In USA,,Disposal
+2369,Year,1993,K02000001,,,In USA,,Disposal
+2746,Year,1994,K02000001,,,In USA,,Disposal
+4132,Year,1995,K02000001,,,In USA,,Disposal
+5929,Year,1996,K02000001,,,In USA,,Disposal
+1786,Year,1997,K02000001,,,In USA,,Disposal
+3907,Year,1998,K02000001,,,In USA,,Disposal
+6408,Year,1999,K02000001,,,In USA,,Disposal
+8097,Year,2000,K02000001,,,In USA,,Disposal
+11113,Year,2001,K02000001,,,In USA,,Disposal
+3810,Year,2002,K02000001,,,In USA,,Disposal
+2046,Year,2003,K02000001,,,In USA,,Disposal
+2438,Year,2004,K02000001,,,In USA,,Disposal
+7033,Year,2005,K02000001,,,In USA,,Disposal
+7273,Year,2006,K02000001,,,In USA,,Disposal
+4654,Year,2007,K02000001,,,In USA,,Disposal
+6197,Year,2008,K02000001,,,In USA,,Disposal
+1277,Year,2009,K02000001,,,In USA,,Disposal
+7465,Year,2010,K02000001,,,In USA,,Disposal
+4715,Year,2011,K02000001,,,In USA,,Disposal
+1038,Year,2012,K02000001,,,In USA,,Disposal
+3691,Year,2013,K02000001,,,In USA,,Disposal
+8859,Year,2016,K02000001,,,In USA,,Disposal
+613,Year,1987,K02000001,,,In EU,,Disposal
+172,Year,1988,K02000001,,,In EU,,Disposal
+494,Year,1989,K02000001,,,In EU,,Disposal
+1479,Year,1990,K02000001,,,In EU,,Disposal
+398,Year,1991,K02000001,,,In EU,,Disposal
+1180,Year,1992,K02000001,,,In EU,,Disposal
+860,Year,1993,K02000001,,,In EU,,Disposal
+627,Year,1994,K02000001,,,In EU,,Disposal
+1165,Year,1995,K02000001,,,In EU,,Disposal
+933,Year,1996,K02000001,,,In EU,,Disposal
+2250,Year,1997,K02000001,,,In EU,,Disposal
+2779,Year,1998,K02000001,,,In EU,,Disposal
+2482,Year,1999,K02000001,,,In EU,,Disposal
+4896,Year,2000,K02000001,,,In EU,,Disposal
+12040,Year,2001,K02000001,,,In EU,,Disposal
+1823,Year,2002,K02000001,,,In EU,,Disposal
+830,Year,2003,K02000001,,,In EU,,Disposal
+1078,Year,2004,K02000001,,,In EU,,Disposal
+2059,Year,2005,K02000001,,,In EU,,Disposal
+3198,Year,2006,K02000001,,,In EU,,Disposal
+3583,Year,2007,K02000001,,,In EU,,Disposal
+3598,Year,2008,K02000001,,,In EU,,Disposal
+2134,Year,2009,K02000001,,,In EU,,Disposal
+1529,Year,2010,K02000001,,,In EU,,Disposal
+4857,Year,2011,K02000001,,,In EU,,Disposal
+1589,Year,2013,K02000001,,,In EU,,Disposal
+6270,Year,2015,K02000001,,,In EU,,Disposal
+12058,Year,1987,K02000001,,,Total Value,,Acquisition
+17300,Year,1988,K02000001,,,Total Value,,Acquisition
+22622,Year,1989,K02000001,,,Total Value,,Acquisition
+12952,Year,1990,K02000001,,,Total Value,,Acquisition
+9688,Year,1991,K02000001,,,Total Value,,Acquisition
+7264,Year,1992,K02000001,,,Total Value,,Acquisition
+9213,Year,1993,K02000001,,,Total Value,,Acquisition
+15164,Year,1994,K02000001,,,Total Value,,Acquisition
+11967,Year,1995,K02000001,,,Total Value,,Acquisition
+13377,Year,1996,K02000001,,,Total Value,,Acquisition
+19176,Year,1997,K02000001,,,Total Value,,Acquisition
+54917,Year,1998,K02000001,,,Total Value,,Acquisition
+111193,Year,1999,K02000001,,,Total Value,,Acquisition
+181285,Year,2000,K02000001,,,Total Value,,Acquisition
+41473,Year,2001,K02000001,,,Total Value,,Acquisition
+26626,Year,2002,K02000001,,,Total Value,,Acquisition
+20756,Year,2003,K02000001,,,Total Value,,Acquisition
+18709,Year,2004,K02000001,,,Total Value,,Acquisition
+32732,Year,2005,K02000001,,,Total Value,,Acquisition
+37412,Year,2006,K02000001,,,Total Value,,Acquisition
+57814,Year,2007,K02000001,,,Total Value,,Acquisition
+29670,Year,2008,K02000001,,,Total Value,,Acquisition
+10148,Year,2009,K02000001,,,Total Value,,Acquisition
+12414,Year,2010,K02000001,,,Total Value,,Acquisition
+50234,Year,2011,K02000001,,,Total Value,,Acquisition
+17933,Year,2012,K02000001,,,Total Value,,Acquisition
+20647,Year,2014,K02000001,,,Total Value,,Acquisition
+25561,Year,2015,K02000001,,,Total Value,,Acquisition
+17292,Year,2016,K02000001,,,Total Value,,Acquisition
+1699,Quarter,1987 Q1,K02000001,,,Total Value,,Acquisition
+1717,Quarter,1987 Q2,K02000001,,,Total Value,,Acquisition
+5144,Quarter,1987 Q3,K02000001,,,Total Value,,Acquisition
+3498,Quarter,1987 Q4,K02000001,,,Total Value,,Acquisition
+2240,Quarter,1988 Q1,K02000001,,,Total Value,,Acquisition
+4515,Quarter,1988 Q2,K02000001,,,Total Value,,Acquisition
+2439,Quarter,1988 Q3,K02000001,,,Total Value,,Acquisition
+8106,Quarter,1988 Q4,K02000001,,,Total Value,,Acquisition
+5553,Quarter,1989 Q1,K02000001,,,Total Value,,Acquisition
+6146,Quarter,1989 Q2,K02000001,,,Total Value,,Acquisition
+8431,Quarter,1989 Q3,K02000001,,,Total Value,,Acquisition
+2492,Quarter,1989 Q4,K02000001,,,Total Value,,Acquisition
+2752,Quarter,1990 Q1,K02000001,,,Total Value,,Acquisition
+2660,Quarter,1990 Q2,K02000001,,,Total Value,,Acquisition
+3251,Quarter,1990 Q3,K02000001,,,Total Value,,Acquisition
+4289,Quarter,1990 Q4,K02000001,,,Total Value,,Acquisition
+1859,Quarter,1991 Q1,K02000001,,,Total Value,,Acquisition
+2361,Quarter,1991 Q2,K02000001,,,Total Value,,Acquisition
+3191,Quarter,1991 Q3,K02000001,,,Total Value,,Acquisition
+2277,Quarter,1991 Q4,K02000001,,,Total Value,,Acquisition
+1807,Quarter,1992 Q1,K02000001,,,Total Value,,Acquisition
+2141,Quarter,1992 Q2,K02000001,,,Total Value,,Acquisition
+1369,Quarter,1992 Q3,K02000001,,,Total Value,,Acquisition
+1947,Quarter,1992 Q4,K02000001,,,Total Value,,Acquisition
+1582,Quarter,1993 Q1,K02000001,,,Total Value,,Acquisition
+3945,Quarter,1993 Q2,K02000001,,,Total Value,,Acquisition
+1541,Quarter,1993 Q3,K02000001,,,Total Value,,Acquisition
+2145,Quarter,1993 Q4,K02000001,,,Total Value,,Acquisition
+1204,Quarter,1994 Q1,K02000001,,,Total Value,,Acquisition
+4903,Quarter,1994 Q2,K02000001,,,Total Value,,Acquisition
+3535,Quarter,1994 Q3,K02000001,,,Total Value,,Acquisition
+5522,Quarter,1994 Q4,K02000001,,,Total Value,,Acquisition
+4075,Quarter,1995 Q1,K02000001,,,Total Value,,Acquisition
+3544,Quarter,1995 Q2,K02000001,,,Total Value,,Acquisition
+1924,Quarter,1995 Q3,K02000001,,,Total Value,,Acquisition
+2424,Quarter,1995 Q4,K02000001,,,Total Value,,Acquisition
+1961,Quarter,1996 Q1,K02000001,,,Total Value,,Acquisition
+4539,Quarter,1996 Q2,K02000001,,,Total Value,,Acquisition
+2937,Quarter,1996 Q3,K02000001,,,Total Value,,Acquisition
+3940,Quarter,1996 Q4,K02000001,,,Total Value,,Acquisition
+3869,Quarter,1997 Q1,K02000001,,,Total Value,,Acquisition
+2616,Quarter,1997 Q2,K02000001,,,Total Value,,Acquisition
+6411,Quarter,1997 Q3,K02000001,,,Total Value,,Acquisition
+6280,Quarter,1997 Q4,K02000001,,,Total Value,,Acquisition
+4842,Quarter,1998 Q1,K02000001,,,Total Value,,Acquisition
+6048,Quarter,1998 Q2,K02000001,,,Total Value,,Acquisition
+5589,Quarter,1998 Q3,K02000001,,,Total Value,,Acquisition
+38438,Quarter,1998 Q4,K02000001,,,Total Value,,Acquisition
+4021,Quarter,1999 Q1,K02000001,,,Total Value,,Acquisition
+81224,Quarter,1999 Q2,K02000001,,,Total Value,,Acquisition
+6725,Quarter,1999 Q3,K02000001,,,Total Value,,Acquisition
+19223,Quarter,1999 Q4,K02000001,,,Total Value,,Acquisition
+13401,Quarter,2000 Q1,K02000001,,,Total Value,,Acquisition
+129390,Quarter,2000 Q2,K02000001,,,Total Value,,Acquisition
+19749,Quarter,2000 Q3,K02000001,,,Total Value,,Acquisition
+18745,Quarter,2000 Q4,K02000001,,,Total Value,,Acquisition
+13473,Quarter,2001 Q1,K02000001,,,Total Value,,Acquisition
+12208,Quarter,2001 Q2,K02000001,,,Total Value,,Acquisition
+7555,Quarter,2001 Q3,K02000001,,,Total Value,,Acquisition
+8237,Quarter,2001 Q4,K02000001,,,Total Value,,Acquisition
+8826,Quarter,2002 Q1,K02000001,,,Total Value,,Acquisition
+8285,Quarter,2002 Q2,K02000001,,,Total Value,,Acquisition
+6020,Quarter,2002 Q3,K02000001,,,Total Value,,Acquisition
+3495,Quarter,2002 Q4,K02000001,,,Total Value,,Acquisition
+12597,Quarter,2003 Q1,K02000001,,,Total Value,,Acquisition
+2030,Quarter,2003 Q2,K02000001,,,Total Value,,Acquisition
+2612,Quarter,2003 Q3,K02000001,,,Total Value,,Acquisition
+3517,Quarter,2003 Q4,K02000001,,,Total Value,,Acquisition
+2302,Quarter,2004 Q1,K02000001,,,Total Value,,Acquisition
+3279,Quarter,2004 Q2,K02000001,,,Total Value,,Acquisition
+9781,Quarter,2004 Q3,K02000001,,,Total Value,,Acquisition
+3347,Quarter,2004 Q4,K02000001,,,Total Value,,Acquisition
+3601,Quarter,2005 Q1,K02000001,,,Total Value,,Acquisition
+7762,Quarter,2005 Q2,K02000001,,,Total Value,,Acquisition
+7600,Quarter,2005 Q3,K02000001,,,Total Value,,Acquisition
+13769,Quarter,2005 Q4,K02000001,,,Total Value,,Acquisition
+7629,Quarter,2006 Q1,K02000001,,,Total Value,,Acquisition
+6517,Quarter,2006 Q2,K02000001,,,Total Value,,Acquisition
+15171,Quarter,2006 Q3,K02000001,,,Total Value,,Acquisition
+8095,Quarter,2006 Q4,K02000001,,,Total Value,,Acquisition
+4506,Quarter,2007 Q1,K02000001,,,Total Value,,Acquisition
+17617,Quarter,2007 Q2,K02000001,,,Total Value,,Acquisition
+9873,Quarter,2007 Q3,K02000001,,,Total Value,,Acquisition
+25818,Quarter,2007 Q4,K02000001,,,Total Value,,Acquisition
+15946,Quarter,2008 Q1,K02000001,,,Total Value,,Acquisition
+5729,Quarter,2008 Q2,K02000001,,,Total Value,,Acquisition
+4247,Quarter,2008 Q3,K02000001,,,Total Value,,Acquisition
+3748,Quarter,2008 Q4,K02000001,,,Total Value,,Acquisition
+3744,Quarter,2009 Q1,K02000001,,,Total Value,,Acquisition
+2811,Quarter,2009 Q2,K02000001,,,Total Value,,Acquisition
+2574,Quarter,2009 Q3,K02000001,,,Total Value,,Acquisition
+1019,Quarter,2009 Q4,K02000001,,,Total Value,,Acquisition
+1027,Quarter,2010 Q1,K02000001,,,Total Value,,Acquisition
+2293,Quarter,2010 Q2,K02000001,,,Total Value,,Acquisition
+5308,Quarter,2010 Q3,K02000001,,,Total Value,,Acquisition
+3786,Quarter,2010 Q4,K02000001,,,Total Value,,Acquisition
+19848,Quarter,2011 Q1,K02000001,,,Total Value,,Acquisition
+10982,Quarter,2011 Q2,K02000001,,,Total Value,,Acquisition
+6816,Quarter,2011 Q3,K02000001,,,Total Value,,Acquisition
+12588,Quarter,2011 Q4,K02000001,,,Total Value,,Acquisition
+772,Quarter,2012 Q1,K02000001,,,Total Value,,Acquisition
+6243,Quarter,2012 Q2,K02000001,,,Total Value,,Acquisition
+8231,Quarter,2012 Q3,K02000001,,,Total Value,,Acquisition
+2687,Quarter,2012 Q4,K02000001,,,Total Value,,Acquisition
+1977,Quarter,2013 Q1,K02000001,,,Total Value,,Acquisition
+1045,Quarter,2013 Q2,K02000001,,,Total Value,,Acquisition
+474,Quarter,2013 Q3,K02000001,,,Total Value,,Acquisition
+1944,Quarter,2014 Q1,K02000001,,,Total Value,,Acquisition
+2481,Quarter,2014 Q2,K02000001,,,Total Value,,Acquisition
+4470,Quarter,2014 Q3,K02000001,,,Total Value,,Acquisition
+11752,Quarter,2014 Q4,K02000001,,,Total Value,,Acquisition
+9391,Quarter,2015 Q1,K02000001,,,Total Value,,Acquisition
+11058,Quarter,2015 Q2,K02000001,,,Total Value,,Acquisition
+2103,Quarter,2015 Q3,K02000001,,,Total Value,,Acquisition
+3009,Quarter,2015 Q4,K02000001,,,Total Value,,Acquisition
+8774,Quarter,2016 Q1,K02000001,,,Total Value,,Acquisition
+1975,Quarter,2016 Q2,K02000001,,,Total Value,,Acquisition
+3094,Quarter,2016 Q3,K02000001,,,Total Value,,Acquisition
+3449,Quarter,2016 Q4,K02000001,,,Total Value,,Acquisition
+2137,Quarter,2017 Q1,K02000001,,,Total Value,,Acquisition
+18296,Quarter,2017 Q2,K02000001,,,Total Value,,Acquisition
