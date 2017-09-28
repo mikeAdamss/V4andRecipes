@@ -22,7 +22,7 @@ makeV4(sys.argv[1])
 ```
 
 
-The geo and presentation keywords will not always be used (you cant even use the presentation one at the commeand line at the moment), their purpose is explained below.
+The geo and presentation keywords will not always be used (you cant even use the presentation one at the command line at the moment), their purpose is explained below.
 
 
 ## Command Line Usage:
