@@ -60,10 +60,15 @@ Example, cases where the files are mapped WDACodes:InternalCodes rather than cod
 Options are:
     
 None:              default. No special handling triggered.
+
 justCodes:         as expected then blank the labels column
+
 justLabels:        as expected then blank the codes column
+
 labelToCodes:      put the labels column in codes then blank the labels column
+
 codesToLabels:     put the codes column in labels then blank the codes column
+
     
 These circumstances are all rare but can occur. In 99%+ of use-cases the default "None" will be fine, no keyword will be needed
 and the function will never be called.
