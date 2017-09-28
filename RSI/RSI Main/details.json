@@ -1,0 +1,1 @@
+{"uses": ["pandas", "WDAtoV4"], "transformName": "RSI Main", "description": "Takes 1 csv file, outputs 1 V4 csv file", "inputs": {"1": {"name": "WDADataset_RSI main", "format": "csv", "distinctiveText": ""}}, "transformType": "one-to-one", "outputs": ["Output_V4-WDADataset_RSI main"]}
