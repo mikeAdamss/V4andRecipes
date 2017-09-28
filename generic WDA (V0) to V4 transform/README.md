@@ -1,7 +1,7 @@
 
 # Generic WDA->V4 Converter
 
-## In-scsript Usage
+## In-script Usage
 
 As per the following example.
 
