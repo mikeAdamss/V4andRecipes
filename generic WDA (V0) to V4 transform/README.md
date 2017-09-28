@@ -12,7 +12,17 @@ import sys
 makeV4(sys.argv[1], geo="K03000001", presentation="labelsToCodes")
 ```
 
-The geo and presentation keywords will not always be used (you cant even use the presentation one at the commeand line at the moment, but thats a luxry not expected usage), their purpose is explained below.
+though more typically just:
+
+```
+from WDAtoV4 import makeV4
+import sys
+
+makeV4(sys.argv[1])
+```
+
+
+The geo and presentation keywords will not always be used (you cant even use the presentation one at the commeand line at the moment), their purpose is explained below.
 
 
 ## Command Line Usage:
