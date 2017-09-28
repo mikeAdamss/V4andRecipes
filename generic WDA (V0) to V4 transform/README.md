@@ -12,7 +12,7 @@ import sys
 makeV4(sys.argv[1], geo="K03000001", presentation="labelsToCodes")
 ```
 
-The geo and presentation keywords will not always be used (you cant even use the presnetation one at the comment line at the moment), their usage is explained in caveats.
+The geo and presentation keywords will not always be used (you cant even use the presentation one at the comment line at the moment), their usage is explained below.
 
 
 ## Command Line Usage:
