@@ -5,7 +5,7 @@ A master repo for recipes/scripts transforming ONS outputs into a V4 structured 
 
 # Technology Overview
 
-![alt tag](technology_overview_pic.png)
+![alt tag](/technology_overview_pic.png)
 
 ### Databaker
 
