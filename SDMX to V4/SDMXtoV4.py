@@ -412,6 +412,19 @@ def SDMXtoV4(file, dimensions, obs=None, time=None, geo=None):
     V4['Geography'] = df[geo]
     V4 = translateColumn(V4, "Geography", allCodeLists[geo])
     
+    # -----------
+    # IMF UK Code
+    # If they're using the IMF national level geography codlist
+    imf = "https://registry.sdmx.org/FusionRegistry/ws/rest/codelist/IMF/CL_AREA/1.1/?detail=full&references=none&version=2.0"
+    if geo == imf:
+        assert df[geo].unique()[0] == 'GB', "IMF Level Geography included. We can only accept UK level data. Codelist: {gcl}".format(imf=imf)
+        V4['Geography_codelist'] = 'K02000001'
+        V4['Geography'] = ''
+    else:    
+        V4['Geography_codelist'] = df[geo]
+        V4['Geography'] = df[geo]
+        V4 = translateColumn(V4, "Geography", allCodeLists[geo])    
+        
     # Topic dims
     for dim in dimensions:
         V4[dim+'_codelist'] = df[dim]
@@ -426,6 +439,7 @@ def SDMXtoV4(file, dimensions, obs=None, time=None, geo=None):
 # COMMAND LINE ONLY #
 # ###################
 
+# TODO argparser of some kind
 if __name__ == '__main__':
 
     # Police the standard parameters a bit
