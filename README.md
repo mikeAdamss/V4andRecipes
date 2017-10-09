@@ -29,7 +29,7 @@ The idea is we can (perhaps) pull some needed details out automatically at a fut
 
 # Install
 
-Download this repo and ```pip install -r requirments.txt```.
+Download this repo and ```pip install -r requirements.txt```.
 
 This will include our branched (V4 enabled) version of databaker, along with all python libraries used in the wider data transformation processes.
 
