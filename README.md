@@ -25,13 +25,13 @@ They will also include a details.json file, example below:
           }
 ```
 
-The idea is we can (perhaps) pull some needed details out automatically at a future date. NOTE - "uses" is intended as a quick insight into how the transformation was approached and is in no way intended as a requirements.txt.
+The idea is we can (perhaps) pull some needed details out automatically at a future date. NOTE - "uses" is intended as a quick insight into how the transformation was approached. For own installation and usage see below.
 
 # Install
 
 Download this repo and ```pip install -r requirments.txt```.
 
-This will include our branched (V4 enabled) version of databaker, along with all python libraries used in the wider data transformation proceses.
+This will include our branched (V4 enabled) version of databaker, along with all python libraries used in the wider data transformation processes.
 
 
 # Technology Overview
@@ -44,7 +44,7 @@ Branched here: https://github.com/MikeData/databaker
 
 ## Pandas
 
-Standard, just ``` pip install pandas```
+Standard.
 
 ## SDMXtoV4
 
