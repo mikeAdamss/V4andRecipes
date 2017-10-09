@@ -303,13 +303,32 @@ def presentationChange(myV4, presentation):
         
     return myV4
     
-
+ 
+# drop any unwanted dimensions from the dataset
+def dropUnwanted(oldDf, dropDims):
+    
+    dimNos = numberOfDims(oldDf)
+    
+    for i in range(1, dimNos+1):
+        if i in dropDims:
+            for T in TOPIC:
+                oldDf = oldDf.drop(T, inplace=True)
+    return oldDf
+    
+    
     
 # ####
 # MAIN
 # ####
 
-def makeV4(inputFile, geo=None, presentation=None):
+# kwargs:
+# -------
+# geo = add a speciic geographic code for this dataset
+# presentation = non-standard shaping of output (see "presentationChange()" function)
+# asDataframe = if true, returns a dataframe rather than a CSV
+# dropDims = LIST of dimensions (just the number) to drop during the transformation process. i.e [2,5]
+
+def makeV4(inputFile, geo=None, presentation=None, asDataFrame=False, dropDims=False):
     
     oldDf = pd.read_csv(inputFile)
 
@@ -318,6 +337,10 @@ def makeV4(inputFile, geo=None, presentation=None):
     
     oldDf = rewriteHeaders(oldDf)
     FlagEmptyDims(oldDf) # basic validation
+    
+    # drop unwanted dimensions
+    if dropDims is not False:
+        oldDf = dropUnwanted(oldDf, dropDims)
     
     if geo is not None: 
         myV4 = conversion(oldDf, geo)
@@ -328,8 +351,11 @@ def makeV4(inputFile, geo=None, presentation=None):
     if presentation:
         myV4 = presentationChange(myV4, presentation)
     
-    myV4.to_csv('Output_V4-{i}'.format(i=inputFile), index=False)
-
+    if asDataFrame:
+        myV4.to_csv('Output_V4-{i}'.format(i=inputFile), index=False)
+    else:
+        return myV4
+        
     
 # use from command line
 if __name__ == "__main__":
