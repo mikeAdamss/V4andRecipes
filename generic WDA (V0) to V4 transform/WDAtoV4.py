@@ -312,7 +312,10 @@ def dropUnwanted(oldDf, dropDims):
     for i in range(1, dimNos+1):
         if i in dropDims:
             for T in TOPIC:
-                oldDf = oldDf.drop(T, inplace=True)
+                try:
+                    oldDf = oldDf.drop(str(T + str(i).replace('.0', '')), axis=1)
+                except:
+                    print('Cant find {T} in: '.format(T=T + str(i).replace('.0', '')), oldDf.columns.values)
     return oldDf
     
     
@@ -352,9 +355,9 @@ def makeV4(inputFile, geo=None, presentation=None, asDataFrame=False, dropDims=F
         myV4 = presentationChange(myV4, presentation)
     
     if asDataFrame:
-        myV4.to_csv('Output_V4-{i}'.format(i=inputFile), index=False)
-    else:
         return myV4
+    else:
+        myV4.to_csv('Output_V4-{i}'.format(i=inputFile), index=False)
         
     
 # use from command line
