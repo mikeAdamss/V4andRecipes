@@ -1,0 +1,1 @@
+{"description": "Takes 1 csv file, outputs 1 V4 CSV file", "inputs": {"1": {"format": "csv", "distinctiveText": "JOBS02", "name": "WFJ - JOBS02 CSV."}}, "transformName": "WFJ - JOBS02", "uses": ["WDAtoV4", "pandas"], "transformType": "one-to-one", "outputs": ["Output-WFJ-JOBS02.csv"]}
