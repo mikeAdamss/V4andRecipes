@@ -4,7 +4,7 @@ import sys
 
 CONSTANTDIMS = ('Time_codeList', 'Time', 'Geography_codelist', 'Geography')
 
-HEADERS = [
+CONST_HEADERS = [
         'observation',
         'data_marking',
         'statistical_unit_eng',
@@ -42,7 +42,7 @@ HEADERS = [
         'empty12'
         ]
         
-TOPIC = [
+CONST_TOPIC = [
         'dim_id_',
         'dimension_label_eng_',
         'dimension_label_cym_',
@@ -57,8 +57,8 @@ TOPIC = [
 # we also need to check we dont have completly empty dimensions....apparently
 # funtion will Error and flag an instance of completely empty dimension item columns
 def FlagEmptyDims(df):
-    headers = [x for x in df.columns.values if 'dim_item_id' in x]
-    for h in headers:
+    hrs= [x for x in df.columns.values if 'dim_item_id' in x]
+    for h in hrs:
         if df[h].unique()[0] == '':
             raise ValueError ("Column '{c}' is required and appears to be blank. Needs to be populated or removed.".format(c=h))
 
@@ -67,12 +67,12 @@ def FlagEmptyDims(df):
 # we need to reqrite the headers to standard as a precausion
 def rewriteHeaders(df):
     
-    numDims = numberOfDims(df)
-    newHeaders = HEADERS
+    numberDims = numberOfDims(df)
+    newHeaders = CONST_HEADERS.copy()   # otherwise we can mutate
     
-    for i in range(0, numDims):
-        for subCol in TOPIC:
-            newHeaders.append(subCol + str(i+1).replace('.0', ''))        
+    for i in range(0, numberDims):
+        for subCol in CONST_TOPIC:
+            newHeaders.append(subCol + str(i+1).replace('.0', ''))                
         
     assert len(newHeaders) == len(df.columns.values), "Cannot write. Column header mismatch when overwriting standard WDA headings"
 
@@ -181,10 +181,10 @@ def range8Index(df, i):
     dimIndex = 35 + (8 * (i))
     
     # use this to slice the 8 columsn we want
-    headers = list(df.columns.values)[dimIndex:dimIndex+8]
+    heads = list(df.columns.values)[dimIndex:dimIndex+8]
     
     # put the lot into a tuple
-    colTuple = (headers[0], headers[1], headers[3], headers[4])
+    colTuple = (heads[0], heads[1], heads[3], heads[4])
     
     return colTuple
 
@@ -309,9 +309,9 @@ def dropUnwanted(oldDf, dropDims):
     
     dimNos = numberOfDims(oldDf)
     
-    for i in range(1, dimNos+1):
-        if i in dropDims:
-            for T in TOPIC:
+    for T in CONST_TOPIC:
+        for i in range(1, dimNos+1):
+            if i in dropDims:
                 try:
                     oldDf = oldDf.drop(str(T + str(i).replace('.0', '')), axis=1)
                 except:
@@ -339,6 +339,7 @@ def makeV4(inputFile, geo=None, presentation=None, asDataFrame=False, dropDims=F
     oldDf.fillna('', inplace=True)  # clean na's
     
     oldDf = rewriteHeaders(oldDf)
+    
     FlagEmptyDims(oldDf) # basic validation
     
     # drop unwanted dimensions
