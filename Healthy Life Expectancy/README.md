@@ -1,10 +1,12 @@
-# ASHE Pensions Table 1 'recipe'
+# IMPORTANT !!!
 
-Takes 2 input file (one of data points, one of Cv values for those data points). Created two output files: one of values with Cvs and one of percentages with Cvs - each output file is built using BOTH input files.
+The non-summary datasets in this repo are using a 2 year time period. We'll need to resolve if we could/should handlt that on CMD before loading.
 
-# usage
+## Healthy Life Expectancy 'recipe'
 
-```python ASHEpensions1 <values.xls> <CV.xls>```
+Takes 1 input file. Creates 3 output file consisting of: 1 summary. 1 HLE by number of years, 1 Proportion of life as HLE.
+
+```python HealthyLifeExpectancy.py <InptFile.csv>```
 
 
 ## details
@@ -13,23 +15,19 @@ full details are provided in the form of the attached details.json. Contents sho
 ```json
 {
           "uses": ["databaker","pandas"],
-          "description": "Takes 2 files: 1 containing values, 1 containing CVs. Creates 2 files: one values with Cvs, one percentages with Cvs.",
+          "description": "Takes 1 Excel of Healthy Life Expectancy as input. Creates 3 datasets. One is a summary of HLE and LE. Then one                           LE in years, and one proportion of healthy healthy life.",
           "inputs": {
                      "1": {
                            "format": "xls",
                            "distinctiveText": "",
-                           "name": "ASHE Pensions 1 data"
-                           },
-                     "2": {
-                           "format": "xls",
-                           "distinctiveText": "CV",
-                           "name": "ASHE Pensions 1 CV"
+                           "name": "Healthy Life Expectancy Spreadsheet"
                            }
                     },
-          "transformName": "ASHE Pensions 1",
+          "transformName": "Healthy Life Expectancy",
           "outputs": [
-                      "ASHE Pensions 1 Values <year>.csv",
-                      "ASHE Pensions 1 Percentages <year>.csv"
+                      "V4-HLE Healthy Life Expectancy in years.csv",
+                      "V4-HLE Proportion of life spent in good health.csv",
+					  "V4-HLE Summary of Life and Healthy Expectancy.csv"
                       ],
-          "transformType": "many-to-many"}
+          "transformType": "one-to-many"}
 ```
