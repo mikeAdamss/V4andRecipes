@@ -1,6 +1,6 @@
 # IMPORTANT !!!
 
-The non-summary datasets in this repo are using a 2 year time period. We'll need to resolve if we could/should handlt that on CMD before loading.
+The non-summary datasets in this repo are using a 2 year time period. We'll need to resolve if we could/should handle that on CMD before loading.
 
 ## Healthy Life Expectancy 'recipe'
 
