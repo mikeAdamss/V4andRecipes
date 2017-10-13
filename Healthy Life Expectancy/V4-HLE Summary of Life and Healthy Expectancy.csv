@@ -1,0 +1,601 @@
+V4_0,Time_codelist,Time,Geography_codelist,Geography,Gender_codelist,Gender,Life Measure_codelist,Life Measure
+78.41497,Year,2013,E06000005,,,Male,,Life Expectancy
+63.41104,Year,2013,E06000005,,,Male,,Healthy Life Expectancy
+79.2111,Year,2013,E06000057,,,Male,,Life Expectancy
+62.66217,Year,2013,E06000057,,,Male,,Healthy Life Expectancy
+78.43052,Year,2013,E06000004,,,Male,,Life Expectancy
+61.05533,Year,2013,E06000004,,,Male,,Healthy Life Expectancy
+78.04373,Year,2013,E08000022,,,Male,,Life Expectancy
+59.92651,Year,2013,E08000022,,,Male,,Healthy Life Expectancy
+78.59684,Year,2013,E06000003,,,Male,,Life Expectancy
+59.2714,Year,2013,E06000003,,,Male,,Healthy Life Expectancy
+77.28322,Year,2013,E08000024,,,Male,,Life Expectancy
+58.8895,Year,2013,E08000024,,,Male,,Healthy Life Expectancy
+78.04058,Year,2013,E06000047,,,Male,,Life Expectancy
+58.36136,Year,2013,E06000047,,,Male,,Healthy Life Expectancy
+78.17827,Year,2013,E08000021,,,Male,,Life Expectancy
+57.81718,Year,2013,E08000021,,,Male,,Healthy Life Expectancy
+76.79657,Year,2013,E08000023,,,Male,,Life Expectancy
+57.76408,Year,2013,E08000023,,,Male,,Healthy Life Expectancy
+76.66034,Year,2013,E06000002,,,Male,,Life Expectancy
+57.64601,Year,2013,E06000002,,,Male,,Healthy Life Expectancy
+77.41268,Year,2013,E08000037,,,Male,,Life Expectancy
+57.52061,Year,2013,E08000037,,,Male,,Healthy Life Expectancy
+77.75912,Year,2013,E06000001,,,Male,,Life Expectancy
+56.28373,Year,2013,E06000001,,,Male,,Healthy Life Expectancy
+80.41986,Year,2013,E06000049,,,Male,,Life Expectancy
+68.04963,Year,2013,E06000049,,,Male,,Healthy Life Expectancy
+79.85232,Year,2013,E08000009,,,Male,,Life Expectancy
+65.70617,Year,2013,E08000009,,,Male,,Healthy Life Expectancy
+79.73159,Year,2013,E08000007,,,Male,,Life Expectancy
+65.57,Year,2013,E08000007,,,Male,,Healthy Life Expectancy
+79.24303,Year,2013,E06000050,,,Male,,Life Expectancy
+64.83366,Year,2013,E06000050,,,Male,,Healthy Life Expectancy
+79.02788,Year,2013,E10000006,,,Male,,Life Expectancy
+62.70222,Year,2013,E10000006,,,Male,,Healthy Life Expectancy
+77.97356,Year,2013,E08000013,,,Male,,Life Expectancy
+62.453,Year,2013,E08000013,,,Male,,Healthy Life Expectancy
+78.3342,Year,2013,E06000007,,,Male,,Life Expectancy
+62.02515,Year,2013,E06000007,,,Male,,Healthy Life Expectancy
+78.22274,Year,2013,E08000002,,,Male,,Life Expectancy
+61.91366,Year,2013,E08000002,,,Male,,Healthy Life Expectancy
+78.26019,Year,2013,E10000017,,,Male,,Life Expectancy
+61.32539,Year,2013,E10000017,,,Male,,Healthy Life Expectancy
+77.59275,Year,2013,E08000001,,,Male,,Life Expectancy
+61.27481,Year,2013,E08000001,,,Male,,Healthy Life Expectancy
+77.66736,Year,2013,E08000010,,,Male,,Life Expectancy
+61.05178,Year,2013,E08000010,,,Male,,Healthy Life Expectancy
+77.57914,Year,2013,E08000004,,,Male,,Life Expectancy
+60.83053,Year,2013,E08000004,,,Male,,Healthy Life Expectancy
+78.05795,Year,2013,E08000014,,,Male,,Life Expectancy
+60.81081,Year,2013,E08000014,,,Male,,Healthy Life Expectancy
+77.82266,Year,2013,E08000015,,,Male,,Life Expectancy
+59.82658,Year,2013,E08000015,,,Male,,Healthy Life Expectancy
+77.19988,Year,2013,E08000005,,,Male,,Life Expectancy
+59.46071,Year,2013,E08000005,,,Male,,Healthy Life Expectancy
+77.32836,Year,2013,E06000006,,,Male,,Life Expectancy
+58.27762,Year,2013,E06000006,,,Male,,Healthy Life Expectancy
+75.48843,Year,2013,E08000003,,,Male,,Life Expectancy
+57.95351,Year,2013,E08000003,,,Male,,Healthy Life Expectancy
+76.8927,Year,2013,E08000008,,,Male,,Life Expectancy
+57.93521,Year,2013,E08000008,,,Male,,Healthy Life Expectancy
+76.64842,Year,2013,E08000006,,,Male,,Life Expectancy
+57.86231,Year,2013,E08000006,,,Male,,Healthy Life Expectancy
+76.69412,Year,2013,E08000011,,,Male,,Life Expectancy
+57.52442,Year,2013,E08000011,,,Male,,Healthy Life Expectancy
+76.75272,Year,2013,E06000008,,,Male,,Life Expectancy
+57.50152,Year,2013,E06000008,,,Male,,Healthy Life Expectancy
+76.24677,Year,2013,E08000012,,,Male,,Life Expectancy
+57.22392,Year,2013,E08000012,,,Male,,Healthy Life Expectancy
+74.30042,Year,2013,E06000009,,,Male,,Life Expectancy
+54.89308,Year,2013,E06000009,,,Male,,Healthy Life Expectancy
+80.05021,Year,2013,E06000011,,,Male,,Life Expectancy
+65.22284,Year,2013,E06000011,,,Male,,Healthy Life Expectancy
+77.88107,Year,2013,E06000012,,,Male,,Life Expectancy
+63.78782,Year,2013,E06000012,,,Male,,Healthy Life Expectancy
+80.10877,Year,2013,E10000023,,,Male,,Life Expectancy
+63.56145,Year,2013,E10000023,,,Male,,Healthy Life Expectancy
+79.41339,Year,2013,E06000014,,,Male,,Life Expectancy
+63.4379,Year,2013,E06000014,,,Male,,Healthy Life Expectancy
+78.08655,Year,2013,E06000013,,,Male,,Life Expectancy
+62.49313,Year,2013,E06000013,,,Male,,Healthy Life Expectancy
+78.40014,Year,2013,E08000034,,,Male,,Life Expectancy
+62.27143,Year,2013,E08000034,,,Male,,Healthy Life Expectancy
+77.6823,Year,2013,E08000032,,,Male,,Life Expectancy
+61.87985,Year,2013,E08000032,,,Male,,Healthy Life Expectancy
+78.00118,Year,2013,E08000033,,,Male,,Life Expectancy
+61.71235,Year,2013,E08000033,,,Male,,Healthy Life Expectancy
+78.79424,Year,2013,E08000019,,,Male,,Life Expectancy
+60.83871,Year,2013,E08000019,,,Male,,Healthy Life Expectancy
+78.31106,Year,2013,E08000035,,,Male,,Life Expectancy
+60.57434,Year,2013,E08000035,,,Male,,Healthy Life Expectancy
+77.52272,Year,2013,E08000017,,,Male,,Life Expectancy
+58.29499,Year,2013,E08000017,,,Male,,Healthy Life Expectancy
+77.87418,Year,2013,E08000036,,,Male,,Life Expectancy
+58.0962,Year,2013,E08000036,,,Male,,Healthy Life Expectancy
+76.56021,Year,2013,E06000010,,,Male,,Life Expectancy
+57.40095,Year,2013,E06000010,,,Male,,Healthy Life Expectancy
+78.10552,Year,2013,E08000018,,,Male,,Life Expectancy
+57.13759,Year,2013,E08000018,,,Male,,Healthy Life Expectancy
+78.12105,Year,2013,E08000016,,,Male,,Life Expectancy
+56.29989,Year,2013,E08000016,,,Male,,Healthy Life Expectancy
+81.16746,Year,2013,E06000017,,,Male,,Life Expectancy
+66.08857,Year,2013,E06000017,,,Male,,Healthy Life Expectancy
+79.34767,Year,2013,E10000021,,,Male,,Life Expectancy
+64.45002,Year,2013,E10000021,,,Male,,Healthy Life Expectancy
+79.22731,Year,2013,E10000019,,,Male,,Life Expectancy
+64.163,Year,2013,E10000019,,,Male,,Healthy Life Expectancy
+80.2243,Year,2013,E10000018,,,Male,,Life Expectancy
+64.10741,Year,2013,E10000018,,,Male,,Healthy Life Expectancy
+79.42797,Year,2013,E10000007,,,Male,,Life Expectancy
+62.7858,Year,2013,E10000007,,,Male,,Healthy Life Expectancy
+79.64073,Year,2013,E10000024,,,Male,,Life Expectancy
+61.91495,Year,2013,E10000024,,,Male,,Healthy Life Expectancy
+78.55688,Year,2013,E06000015,,,Male,,Life Expectancy
+61.31439,Year,2013,E06000015,,,Male,,Healthy Life Expectancy
+77.02173,Year,2013,E06000018,,,Male,,Life Expectancy
+58.81706,Year,2013,E06000018,,,Male,,Healthy Life Expectancy
+77.20579,Year,2013,E06000016,,,Male,,Life Expectancy
+56.1103,Year,2013,E06000016,,,Male,,Healthy Life Expectancy
+80.12982,Year,2013,E06000019,,,Male,,Life Expectancy
+67.16548,Year,2013,E06000019,,,Male,,Healthy Life Expectancy
+79.98405,Year,2013,E10000031,,,Male,,Life Expectancy
+66.95962,Year,2013,E10000031,,,Male,,Healthy Life Expectancy
+79.75941,Year,2013,E10000034,,,Male,,Life Expectancy
+65.97734,Year,2013,E10000034,,,Male,,Healthy Life Expectancy
+80.32199,Year,2013,E08000029,,,Male,,Life Expectancy
+65.13767,Year,2013,E08000029,,,Male,,Healthy Life Expectancy
+80.04596,Year,2013,E06000051,,,Male,,Life Expectancy
+65.00922,Year,2013,E06000051,,,Male,,Healthy Life Expectancy
+79.67343,Year,2013,E10000028,,,Male,,Life Expectancy
+62.76012,Year,2013,E10000028,,,Male,,Healthy Life Expectancy
+79.22883,Year,2013,E08000027,,,Male,,Life Expectancy
+62.2859,Year,2013,E08000027,,,Male,,Healthy Life Expectancy
+78.22579,Year,2013,E08000026,,,Male,,Life Expectancy
+61.44993,Year,2013,E08000026,,,Male,,Healthy Life Expectancy
+76.54537,Year,2013,E06000021,,,Male,,Life Expectancy
+60.9212,Year,2013,E06000021,,,Male,,Healthy Life Expectancy
+78.22019,Year,2013,E06000020,,,Male,,Life Expectancy
+60.11224,Year,2013,E06000020,,,Male,,Healthy Life Expectancy
+78.14307,Year,2013,E08000030,,,Male,,Life Expectancy
+59.95571,Year,2013,E08000030,,,Male,,Healthy Life Expectancy
+77.01879,Year,2013,E08000028,,,Male,,Life Expectancy
+59.66203,Year,2013,E08000028,,,Male,,Healthy Life Expectancy
+77.5506,Year,2013,E08000025,,,Male,,Life Expectancy
+58.76405,Year,2013,E08000025,,,Male,,Healthy Life Expectancy
+77.48542,Year,2013,E08000031,,,Male,,Life Expectancy
+56.56518,Year,2013,E08000031,,,Male,,Healthy Life Expectancy
+79.78842,Year,2013,E06000055,,,Male,,Life Expectancy
+66.72046,Year,2013,E06000055,,,Male,,Healthy Life Expectancy
+81.20007,Year,2013,E10000003,,,Male,,Life Expectancy
+66.37598,Year,2013,E10000003,,,Male,,Healthy Life Expectancy
+79.12037,Year,2013,E06000034,,,Male,,Life Expectancy
+65.45901,Year,2013,E06000034,,,Male,,Healthy Life Expectancy
+80.59993,Year,2013,E10000015,,,Male,,Life Expectancy
+65.33799,Year,2013,E10000015,,,Male,,Healthy Life Expectancy
+80.70145,Year,2013,E10000029,,,Male,,Life Expectancy
+64.79073,Year,2013,E10000029,,,Male,,Healthy Life Expectancy
+80.23447,Year,2013,E10000012,,,Male,,Life Expectancy
+64.56263,Year,2013,E10000012,,,Male,,Healthy Life Expectancy
+80.19108,Year,2013,E10000020,,,Male,,Life Expectancy
+63.91437,Year,2013,E10000020,,,Male,,Healthy Life Expectancy
+80.9798,Year,2013,E06000056,,,Male,,Life Expectancy
+63.62415,Year,2013,E06000056,,,Male,,Healthy Life Expectancy
+79.76455,Year,2013,E06000033,,,Male,,Life Expectancy
+62.61598,Year,2013,E06000033,,,Male,,Healthy Life Expectancy
+78.11903,Year,2013,E06000031,,,Male,,Life Expectancy
+60.58495,Year,2013,E06000031,,,Male,,Healthy Life Expectancy
+78.36138,Year,2013,E06000032,,,Male,,Life Expectancy
+59.29988,Year,2013,E06000032,,,Male,,Healthy Life Expectancy
+81.89083,Year,2013,E09000027,,,Male,,Life Expectancy
+69.67324,Year,2013,E09000027,,,Male,,Healthy Life Expectancy
+81.86927,Year,2013,E09000003,,,Male,,Life Expectancy
+68.02786,Year,2013,E09000003,,,Male,,Healthy Life Expectancy
+81.27676,Year,2013,E09000006,,,Male,,Life Expectancy
+66.98731,Year,2013,E09000006,,,Male,,Healthy Life Expectancy
+82.55027,Year,2013,E09000020,,,Male,,Life Expectancy
+66.88268,Year,2013,E09000020,,,Male,,Healthy Life Expectancy
+80.27496,Year,2013,E09000004,,,Male,,Life Expectancy
+66.17458,Year,2013,E09000004,,,Male,,Healthy Life Expectancy
+80.25773,Year,2013,E09000024,,,Male,,Life Expectancy
+66.12128,Year,2013,E09000024,,,Male,,Healthy Life Expectancy
+80.81103,Year,2013,E09000029,,,Male,,Life Expectancy
+65.92021,Year,2013,E09000029,,,Male,,Healthy Life Expectancy
+78.70431,Year,2013,E09000023,,,Male,,Life Expectancy
+65.71073,Year,2013,E09000023,,,Male,,Healthy Life Expectancy
+81.68995,Year,2013,E09000033,,,Male,,Life Expectancy
+65.62328,Year,2013,E09000033,,,Male,,Healthy Life Expectancy
+82.42896,Year,2013,E09000015,,,Male,,Life Expectancy
+65.28677,Year,2013,E09000015,,,Male,,Healthy Life Expectancy
+81.31094,Year,2013,E09000021,,,Male,,Life Expectancy
+64.90458,Year,2013,E09000021,,,Male,,Healthy Life Expectancy
+80.03543,Year,2013,E09000005,,,Male,,Life Expectancy
+64.83545,Year,2013,E09000005,,,Male,,Healthy Life Expectancy
+78.35153,Year,2013,E09000022,,,Male,,Life Expectancy
+64.24071,Year,2013,E09000022,,,Male,,Healthy Life Expectancy
+79.94466,Year,2013,E09000009,,,Male,,Life Expectancy
+63.69523,Year,2013,E09000009,,,Male,,Healthy Life Expectancy
+80.12474,Year,2013,E09000014,,,Male,,Life Expectancy
+63.56381,Year,2013,E09000014,,,Male,,Healthy Life Expectancy
+79.78396,Year,2013,E09000016,,,Male,,Life Expectancy
+63.43786,Year,2013,E09000016,,,Male,,Healthy Life Expectancy
+80.36456,Year,2013,E09000017,,,Male,,Life Expectancy
+63.19285,Year,2013,E09000017,,,Male,,Healthy Life Expectancy
+79.9807,Year,2013,E09000008,,,Male,,Life Expectancy
+63.16332,Year,2013,E09000008,,,Male,,Healthy Life Expectancy
+79.24392,Year,2013,E09000032,,,Male,,Life Expectancy
+63.00563,Year,2013,E09000032,,,Male,,Healthy Life Expectancy
+80.72152,Year,2013,E09000026,,,Male,,Life Expectancy
+62.70675,Year,2013,E09000026,,,Male,,Healthy Life Expectancy
+79.6833,Year,2013,E09000018,,,Male,,Life Expectancy
+62.63349,Year,2013,E09000018,,,Male,,Healthy Life Expectancy
+80.58746,Year,2013,E09000010,,,Male,,Life Expectancy
+62.43852,Year,2013,E09000010,,,Male,,Healthy Life Expectancy
+77.66478,Year,2013,E09000002,,,Male,,Life Expectancy
+61.07751,Year,2013,E09000002,,,Male,,Healthy Life Expectancy
+78.67471,Year,2013,E09000011,,,Male,,Life Expectancy
+60.96755,Year,2013,E09000011,,,Male,,Healthy Life Expectancy
+79.71431,Year,2013,E09000031,,,Male,,Life Expectancy
+60.52703,Year,2013,E09000031,,,Male,,Healthy Life Expectancy
+81.06117,Year,2013,E09000007,,,Male,,Life Expectancy
+59.99471,Year,2013,E09000007,,,Male,,Healthy Life Expectancy
+79.07525,Year,2013,E09000013,,,Male,,Life Expectancy
+59.83498,Year,2013,E09000013,,,Male,,Healthy Life Expectancy
+78.47002,Year,2013,E09000025,,,Male,,Life Expectancy
+59.23044,Year,2013,E09000025,,,Male,,Healthy Life Expectancy
+78.5626,Year,2013,E09000028,,,Male,,Life Expectancy
+58.96346,Year,2013,E09000028,,,Male,,Healthy Life Expectancy
+78.23887,Year,2013,E09000012,,,Male,,Life Expectancy
+57.927,Year,2013,E09000012,,,Male,,Healthy Life Expectancy
+78.18436,Year,2013,E09000019,,,Male,,Life Expectancy
+57.24772,Year,2013,E09000019,,,Male,,Healthy Life Expectancy
+77.5297,Year,2013,E09000030,,,Male,,Life Expectancy
+53.60641,Year,2013,E09000030,,,Male,,Healthy Life Expectancy
+81.68698,Year,2013,E06000041,,,Male,,Life Expectancy
+71.37986,Year,2013,E06000041,,,Male,,Healthy Life Expectancy
+81.5432,Year,2013,E10000030,,,Male,,Life Expectancy
+68.74096,Year,2013,E10000030,,,Male,,Healthy Life Expectancy
+80.70413,Year,2013,E06000037,,,Male,,Life Expectancy
+68.37501,Year,2013,E06000037,,,Male,,Healthy Life Expectancy
+81.20147,Year,2013,E10000002,,,Male,,Life Expectancy
+68.22587,Year,2013,E10000002,,,Male,,Healthy Life Expectancy
+80.7717,Year,2013,E06000040,,,Male,,Life Expectancy
+68.0209,Year,2013,E06000040,,,Male,,Healthy Life Expectancy
+81.29124,Year,2013,E06000036,,,Male,,Life Expectancy
+67.90916,Year,2013,E06000036,,,Male,,Healthy Life Expectancy
+80.59104,Year,2013,E10000032,,,Male,,Life Expectancy
+66.89092,Year,2013,E10000032,,,Male,,Healthy Life Expectancy
+80.75954,Year,2013,E10000025,,,Male,,Life Expectancy
+66.76416,Year,2013,E10000025,,,Male,,Healthy Life Expectancy
+78.11898,Year,2013,E06000038,,,Male,,Life Expectancy
+65.95741,Year,2013,E06000038,,,Male,,Healthy Life Expectancy
+81.09554,Year,2013,E10000014,,,Male,,Life Expectancy
+65.57647,Year,2013,E10000014,,,Male,,Healthy Life Expectancy
+78.18274,Year,2013,E06000044,,,Male,,Life Expectancy
+64.13448,Year,2013,E06000044,,,Male,,Healthy Life Expectancy
+80.35549,Year,2013,E06000046,,,Male,,Life Expectancy
+64.09618,Year,2013,E06000046,,,Male,,Healthy Life Expectancy
+80.01629,Year,2013,E10000011,,,Male,,Life Expectancy
+63.50759,Year,2013,E10000011,,,Male,,Healthy Life Expectancy
+79.10866,Year,2013,E06000042,,,Male,,Life Expectancy
+63.45577,Year,2013,E06000042,,,Male,,Healthy Life Expectancy
+78.77456,Year,2013,E06000035,,,Male,,Life Expectancy
+63.23248,Year,2013,E06000035,,,Male,,Healthy Life Expectancy
+78.77155,Year,2013,E06000043,,,Male,,Life Expectancy
+62.81185,Year,2013,E06000043,,,Male,,Healthy Life Expectancy
+79.94133,Year,2013,E10000016,,,Male,,Life Expectancy
+62.7584,Year,2013,E10000016,,,Male,,Healthy Life Expectancy
+78.18133,Year,2013,E06000045,,,Male,,Life Expectancy
+60.11758,Year,2013,E06000045,,,Male,,Healthy Life Expectancy
+78.37209,Year,2013,E06000039,,,Male,,Life Expectancy
+59.72786,Year,2013,E06000039,,,Male,,Healthy Life Expectancy
+80.63934,Year,2013,E06000054,,,Male,,Life Expectancy
+68.52289,Year,2013,E06000054,,,Male,,Healthy Life Expectancy
+81.24096,Year,2013,E06000025,,,Male,,Life Expectancy
+67.83849,Year,2013,E06000025,,,Male,,Healthy Life Expectancy
+80.63964,Year,2013,E10000027,,,Male,,Life Expectancy
+67.4974,Year,2013,E10000027,,,Male,,Healthy Life Expectancy
+81.29502,Year,2013,E10000009,,,Male,,Life Expectancy
+67.00722,Year,2013,E10000009,,,Male,,Healthy Life Expectancy
+80.11424,Year,2013,E06000024,,,Male,,Life Expectancy
+66.41188,Year,2013,E06000024,,,Male,,Healthy Life Expectancy
+80.41797,Year,2013,E10000008,,,Male,,Life Expectancy
+66.00582,Year,2013,E10000008,,,Male,,Healthy Life Expectancy
+80.90283,Year,2013,E06000022,,,Male,,Life Expectancy
+65.99182,Year,2013,E06000022,,,Male,,Healthy Life Expectancy
+80.29093,Year,2013,E06000029,,,Male,,Life Expectancy
+65.46365,Year,2013,E06000029,,,Male,,Healthy Life Expectancy
+79.92785,Year,2013,E10000013,,,Male,,Life Expectancy
+64.16048,Year,2013,E10000013,,,Male,,Healthy Life Expectancy
+79.28821,Year,2013,E06000030,,,Male,,Life Expectancy
+63.94829,Year,2013,E06000030,,,Male,,Healthy Life Expectancy
+79.43959,Year,2013,E06000052,,,Male,,Life Expectancy
+63.72928,Year,2013,E06000052,,,Male,,Healthy Life Expectancy
+78.8539,Year,2013,E06000028,,,Male,,Life Expectancy
+63.59914,Year,2013,E06000028,,,Male,,Healthy Life Expectancy
+78.23068,Year,2013,E06000023,,,Male,,Life Expectancy
+62.9781,Year,2013,E06000023,,,Male,,Healthy Life Expectancy
+79.1436,Year,2013,E06000027,,,Male,,Life Expectancy
+62.40535,Year,2013,E06000027,,,Male,,Healthy Life Expectancy
+78.22375,Year,2013,E06000026,,,Male,,Life Expectancy
+58.25827,Year,2013,E06000026,,,Male,,Healthy Life Expectancy
+82.49062,Year,2013,E06000057,,,Female,,Life Expectancy
+63.31739,Year,2013,E06000057,,,Female,,Healthy Life Expectancy
+82.26244,Year,2013,E06000004,,,Female,,Life Expectancy
+62.93031,Year,2013,E06000004,,,Female,,Healthy Life Expectancy
+82.41945,Year,2013,E06000005,,,Female,,Life Expectancy
+62.53985,Year,2013,E06000005,,,Female,,Healthy Life Expectancy
+82.49347,Year,2013,E08000022,,,Female,,Life Expectancy
+60.95641,Year,2013,E08000022,,,Female,,Healthy Life Expectancy
+81.75995,Year,2013,E08000021,,,Female,,Life Expectancy
+59.87676,Year,2013,E08000021,,,Female,,Healthy Life Expectancy
+80.12959,Year,2013,E06000002,,,Female,,Life Expectancy
+59.50617,Year,2013,E06000002,,,Female,,Healthy Life Expectancy
+81.18864,Year,2013,E08000037,,,Female,,Life Expectancy
+59.35481,Year,2013,E08000037,,,Female,,Healthy Life Expectancy
+81.34609,Year,2013,E06000047,,,Female,,Life Expectancy
+59.32494,Year,2013,E06000047,,,Female,,Healthy Life Expectancy
+82.02594,Year,2013,E06000003,,,Female,,Life Expectancy
+59.04002,Year,2013,E06000003,,,Female,,Healthy Life Expectancy
+81.60355,Year,2013,E08000023,,,Female,,Life Expectancy
+58.38024,Year,2013,E08000023,,,Female,,Healthy Life Expectancy
+80.86989,Year,2013,E08000024,,,Female,,Life Expectancy
+57.98535,Year,2013,E08000024,,,Female,,Healthy Life Expectancy
+81.62057,Year,2013,E06000001,,,Female,,Life Expectancy
+57.75516,Year,2013,E06000001,,,Female,,Healthy Life Expectancy
+83.567,Year,2013,E06000049,,,Female,,Life Expectancy
+67.40019,Year,2013,E06000049,,,Female,,Healthy Life Expectancy
+82.993,Year,2013,E08000007,,,Female,,Life Expectancy
+65.8255,Year,2013,E08000007,,,Female,,Healthy Life Expectancy
+82.51296,Year,2013,E08000014,,,Female,,Life Expectancy
+63.63049,Year,2013,E08000014,,,Female,,Healthy Life Expectancy
+82.49209,Year,2013,E10000006,,,Female,,Life Expectancy
+63.56253,Year,2013,E10000006,,,Female,,Healthy Life Expectancy
+83.50143,Year,2013,E08000009,,,Female,,Life Expectancy
+63.18414,Year,2013,E08000009,,,Female,,Healthy Life Expectancy
+83.25227,Year,2013,E06000050,,,Female,,Life Expectancy
+62.88511,Year,2013,E06000050,,,Female,,Healthy Life Expectancy
+80.94069,Year,2013,E08000010,,,Female,,Life Expectancy
+62.51077,Year,2013,E08000010,,,Female,,Healthy Life Expectancy
+81.97332,Year,2013,E10000017,,,Female,,Life Expectancy
+62.40681,Year,2013,E10000017,,,Female,,Healthy Life Expectancy
+81.63561,Year,2013,E08000001,,,Female,,Life Expectancy
+62.18615,Year,2013,E08000001,,,Female,,Healthy Life Expectancy
+81.61118,Year,2013,E08000013,,,Female,,Life Expectancy
+62.03229,Year,2013,E08000013,,,Female,,Healthy Life Expectancy
+82.32698,Year,2013,E08000015,,,Female,,Life Expectancy
+61.80832,Year,2013,E08000015,,,Female,,Healthy Life Expectancy
+81.76098,Year,2013,E06000007,,,Female,,Life Expectancy
+61.74997,Year,2013,E06000007,,,Female,,Healthy Life Expectancy
+81.20876,Year,2013,E08000002,,,Female,,Life Expectancy
+61.62226,Year,2013,E08000002,,,Female,,Healthy Life Expectancy
+80.37032,Year,2013,E06000006,,,Female,,Life Expectancy
+60.96705,Year,2013,E06000006,,,Female,,Healthy Life Expectancy
+80.47425,Year,2013,E08000012,,,Female,,Life Expectancy
+59.55188,Year,2013,E08000012,,,Female,,Healthy Life Expectancy
+81.2211,Year,2013,E06000008,,,Female,,Life Expectancy
+59.54979,Year,2013,E06000008,,,Female,,Healthy Life Expectancy
+81.24586,Year,2013,E08000004,,,Female,,Life Expectancy
+59.33943,Year,2013,E08000004,,,Female,,Healthy Life Expectancy
+80.44837,Year,2013,E08000006,,,Female,,Life Expectancy
+58.80126,Year,2013,E08000006,,,Female,,Healthy Life Expectancy
+81.03929,Year,2013,E08000005,,,Female,,Life Expectancy
+58.75923,Year,2013,E08000005,,,Female,,Healthy Life Expectancy
+80.33149,Year,2013,E08000008,,,Female,,Life Expectancy
+58.63308,Year,2013,E08000008,,,Female,,Healthy Life Expectancy
+80.09801,Year,2013,E06000009,,,Female,,Life Expectancy
+58.28943,Year,2013,E06000009,,,Female,,Healthy Life Expectancy
+80.83702,Year,2013,E08000011,,,Female,,Life Expectancy
+57.85149,Year,2013,E08000011,,,Female,,Healthy Life Expectancy
+79.9941,Year,2013,E08000003,,,Female,,Life Expectancy
+56.77179,Year,2013,E08000003,,,Female,,Healthy Life Expectancy
+83.48765,Year,2013,E06000014,,,Female,,Life Expectancy
+67.17472,Year,2013,E06000014,,,Female,,Healthy Life Expectancy
+82.94113,Year,2013,E06000011,,,Female,,Life Expectancy
+66.73889,Year,2013,E06000011,,,Female,,Healthy Life Expectancy
+83.72977,Year,2013,E10000023,,,Female,,Life Expectancy
+66.19876,Year,2013,E10000023,,,Female,,Healthy Life Expectancy
+82.32258,Year,2013,E08000034,,,Female,,Life Expectancy
+63.27292,Year,2013,E08000034,,,Female,,Healthy Life Expectancy
+81.67698,Year,2013,E06000012,,,Female,,Life Expectancy
+63.20261,Year,2013,E06000012,,,Female,,Healthy Life Expectancy
+82.05967,Year,2013,E08000033,,,Female,,Life Expectancy
+62.62014,Year,2013,E08000033,,,Female,,Healthy Life Expectancy
+82.07848,Year,2013,E08000035,,,Female,,Life Expectancy
+62.46058,Year,2013,E08000035,,,Female,,Healthy Life Expectancy
+82.53658,Year,2013,E06000013,,,Female,,Life Expectancy
+62.30764,Year,2013,E06000013,,,Female,,Healthy Life Expectancy
+81.76779,Year,2013,E08000036,,,Female,,Life Expectancy
+61.96245,Year,2013,E08000036,,,Female,,Healthy Life Expectancy
+82.38312,Year,2013,E08000019,,,Female,,Life Expectancy
+59.13185,Year,2013,E08000019,,,Female,,Healthy Life Expectancy
+81.35358,Year,2013,E08000032,,,Female,,Life Expectancy
+58.99739,Year,2013,E08000032,,,Female,,Healthy Life Expectancy
+81.42236,Year,2013,E08000018,,,Female,,Life Expectancy
+58.96516,Year,2013,E08000018,,,Female,,Healthy Life Expectancy
+81.69701,Year,2013,E08000017,,,Female,,Life Expectancy
+57.89185,Year,2013,E08000017,,,Female,,Healthy Life Expectancy
+80.69709,Year,2013,E06000010,,,Female,,Life Expectancy
+56.9332,Year,2013,E06000010,,,Female,,Healthy Life Expectancy
+81.59617,Year,2013,E08000016,,,Female,,Life Expectancy
+56.199,Year,2013,E08000016,,,Female,,Healthy Life Expectancy
+85.69239,Year,2013,E06000017,,,Female,,Life Expectancy
+71.31935,Year,2013,E06000017,,,Female,,Healthy Life Expectancy
+82.99434,Year,2013,E10000019,,,Female,,Life Expectancy
+66.14807,Year,2013,E10000019,,,Female,,Healthy Life Expectancy
+84.09427,Year,2013,E10000018,,,Female,,Life Expectancy
+64.73564,Year,2013,E10000018,,,Female,,Healthy Life Expectancy
+82.75655,Year,2013,E10000021,,,Female,,Life Expectancy
+64.43088,Year,2013,E10000021,,,Female,,Healthy Life Expectancy
+82.99165,Year,2013,E10000024,,,Female,,Life Expectancy
+64.20347,Year,2013,E10000024,,,Female,,Healthy Life Expectancy
+83.15603,Year,2013,E10000007,,,Female,,Life Expectancy
+62.27774,Year,2013,E10000007,,,Female,,Healthy Life Expectancy
+81.74943,Year,2013,E06000018,,,Female,,Life Expectancy
+59.84477,Year,2013,E06000018,,,Female,,Healthy Life Expectancy
+82.63463,Year,2013,E06000015,,,Female,,Life Expectancy
+58.81552,Year,2013,E06000015,,,Female,,Healthy Life Expectancy
+81.86375,Year,2013,E06000016,,,Female,,Life Expectancy
+58.49089,Year,2013,E06000016,,,Female,,Healthy Life Expectancy
+83.90254,Year,2013,E06000019,,,Female,,Life Expectancy
+66.98745,Year,2013,E06000019,,,Female,,Healthy Life Expectancy
+83.51109,Year,2013,E10000034,,,Female,,Life Expectancy
+66.3915,Year,2013,E10000034,,,Female,,Healthy Life Expectancy
+83.8261,Year,2013,E10000031,,,Female,,Life Expectancy
+66.26145,Year,2013,E10000031,,,Female,,Healthy Life Expectancy
+83.85976,Year,2013,E06000051,,,Female,,Life Expectancy
+65.58129,Year,2013,E06000051,,,Female,,Healthy Life Expectancy
+84.81002,Year,2013,E08000029,,,Female,,Life Expectancy
+65.48137,Year,2013,E08000029,,,Female,,Healthy Life Expectancy
+83.15576,Year,2013,E08000027,,,Female,,Life Expectancy
+63.82036,Year,2013,E08000027,,,Female,,Healthy Life Expectancy
+83.0691,Year,2013,E10000028,,,Female,,Life Expectancy
+63.42035,Year,2013,E10000028,,,Female,,Healthy Life Expectancy
+82.42218,Year,2013,E08000026,,,Female,,Life Expectancy
+62.60027,Year,2013,E08000026,,,Female,,Healthy Life Expectancy
+82.15615,Year,2013,E08000025,,,Female,,Life Expectancy
+60.53278,Year,2013,E08000025,,,Female,,Healthy Life Expectancy
+82.76362,Year,2013,E08000030,,,Female,,Life Expectancy
+59.6537,Year,2013,E08000030,,,Female,,Healthy Life Expectancy
+80.55585,Year,2013,E06000021,,,Female,,Life Expectancy
+58.89978,Year,2013,E06000021,,,Female,,Healthy Life Expectancy
+82.00288,Year,2013,E08000031,,,Female,,Life Expectancy
+58.83949,Year,2013,E08000031,,,Female,,Healthy Life Expectancy
+81.39568,Year,2013,E08000028,,,Female,,Life Expectancy
+58.55645,Year,2013,E08000028,,,Female,,Healthy Life Expectancy
+81.52217,Year,2013,E06000020,,,Female,,Life Expectancy
+57.05519,Year,2013,E06000020,,,Female,,Healthy Life Expectancy
+83.55763,Year,2013,E06000055,,,Female,,Life Expectancy
+67.2287,Year,2013,E06000055,,,Female,,Healthy Life Expectancy
+84.00401,Year,2013,E10000015,,,Female,,Life Expectancy
+66.64931,Year,2013,E10000015,,,Female,,Healthy Life Expectancy
+84.05961,Year,2013,E10000029,,,Female,,Life Expectancy
+66.06007,Year,2013,E10000029,,,Female,,Healthy Life Expectancy
+83.76729,Year,2013,E10000020,,,Female,,Life Expectancy
+65.77237,Year,2013,E10000020,,,Female,,Healthy Life Expectancy
+84.58779,Year,2013,E10000003,,,Female,,Life Expectancy
+65.45038,Year,2013,E10000003,,,Female,,Healthy Life Expectancy
+83.90599,Year,2013,E06000056,,,Female,,Life Expectancy
+65.38909,Year,2013,E06000056,,,Female,,Healthy Life Expectancy
+83.53547,Year,2013,E10000012,,,Female,,Life Expectancy
+65.26471,Year,2013,E10000012,,,Female,,Healthy Life Expectancy
+82.89645,Year,2013,E06000033,,,Female,,Life Expectancy
+64.56566,Year,2013,E06000033,,,Female,,Healthy Life Expectancy
+82.72275,Year,2013,E06000034,,,Female,,Life Expectancy
+63.34587,Year,2013,E06000034,,,Female,,Healthy Life Expectancy
+82.31509,Year,2013,E06000032,,,Female,,Life Expectancy
+59.86035,Year,2013,E06000032,,,Female,,Healthy Life Expectancy
+82.58861,Year,2013,E06000031,,,Female,,Life Expectancy
+58.99567,Year,2013,E06000031,,,Female,,Healthy Life Expectancy
+85.87967,Year,2013,E09000027,,,Female,,Life Expectancy
+71.23376,Year,2013,E09000027,,,Female,,Healthy Life Expectancy
+84.95526,Year,2013,E09000003,,,Female,,Life Expectancy
+68.84461,Year,2013,E09000003,,,Female,,Healthy Life Expectancy
+85.93608,Year,2013,E09000015,,,Female,,Life Expectancy
+68.133,Year,2013,E09000015,,,Female,,Healthy Life Expectancy
+86.15793,Year,2013,E09000020,,,Female,,Life Expectancy
+67.91817,Year,2013,E09000020,,,Female,,Healthy Life Expectancy
+84.92078,Year,2013,E09000006,,,Female,,Life Expectancy
+67.63091,Year,2013,E09000006,,,Female,,Healthy Life Expectancy
+84.32785,Year,2013,E09000004,,,Female,,Life Expectancy
+66.91038,Year,2013,E09000004,,,Female,,Healthy Life Expectancy
+85.98312,Year,2013,E09000007,,,Female,,Life Expectancy
+66.6945,Year,2013,E09000007,,,Female,,Healthy Life Expectancy
+84.48265,Year,2013,E09000021,,,Female,,Life Expectancy
+66.67446,Year,2013,E09000021,,,Female,,Healthy Life Expectancy
+84.0535,Year,2013,E09000029,,,Female,,Life Expectancy
+66.58891,Year,2013,E09000029,,,Female,,Healthy Life Expectancy
+83.84522,Year,2013,E09000016,,,Female,,Life Expectancy
+65.83728,Year,2013,E09000016,,,Female,,Healthy Life Expectancy
+84.07139,Year,2013,E09000024,,,Female,,Life Expectancy
+65.1343,Year,2013,E09000024,,,Female,,Healthy Life Expectancy
+83.69334,Year,2013,E09000017,,,Female,,Life Expectancy
+64.66405,Year,2013,E09000017,,,Female,,Healthy Life Expectancy
+82.96737,Year,2013,E09000023,,,Female,,Life Expectancy
+64.30759,Year,2013,E09000023,,,Female,,Healthy Life Expectancy
+82.81883,Year,2013,E09000011,,,Female,,Life Expectancy
+64.25842,Year,2013,E09000011,,,Female,,Healthy Life Expectancy
+83.45026,Year,2013,E09000013,,,Female,,Life Expectancy
+63.91127,Year,2013,E09000013,,,Female,,Healthy Life Expectancy
+83.44757,Year,2013,E09000018,,,Female,,Life Expectancy
+63.75638,Year,2013,E09000018,,,Female,,Healthy Life Expectancy
+83.25052,Year,2013,E09000032,,,Female,,Life Expectancy
+63.65116,Year,2013,E09000032,,,Female,,Healthy Life Expectancy
+84.88753,Year,2013,E09000005,,,Female,,Life Expectancy
+63.49716,Year,2013,E09000005,,,Female,,Healthy Life Expectancy
+85.8514,Year,2013,E09000033,,,Female,,Life Expectancy
+63.37815,Year,2013,E09000033,,,Female,,Healthy Life Expectancy
+84.21507,Year,2013,E09000026,,,Female,,Life Expectancy
+63.03636,Year,2013,E09000026,,,Female,,Healthy Life Expectancy
+84.33487,Year,2013,E09000010,,,Female,,Life Expectancy
+62.71988,Year,2013,E09000010,,,Female,,Healthy Life Expectancy
+83.4945,Year,2013,E09000008,,,Female,,Life Expectancy
+62.26102,Year,2013,E09000008,,,Female,,Healthy Life Expectancy
+83.48226,Year,2013,E09000022,,,Female,,Life Expectancy
+61.71983,Year,2013,E09000022,,,Female,,Healthy Life Expectancy
+84.29314,Year,2013,E09000009,,,Female,,Life Expectancy
+61.30938,Year,2013,E09000009,,,Female,,Healthy Life Expectancy
+83.80282,Year,2013,E09000028,,,Female,,Life Expectancy
+60.5509,Year,2013,E09000028,,,Female,,Healthy Life Expectancy
+84.65393,Year,2013,E09000014,,,Female,,Life Expectancy
+59.61155,Year,2013,E09000014,,,Female,,Healthy Life Expectancy
+83.70928,Year,2013,E09000031,,,Female,,Life Expectancy
+59.09453,Year,2013,E09000031,,,Female,,Healthy Life Expectancy
+83.42112,Year,2013,E09000019,,,Female,,Life Expectancy
+58.73464,Year,2013,E09000019,,,Female,,Healthy Life Expectancy
+82.5517,Year,2013,E09000025,,,Female,,Life Expectancy
+57.72604,Year,2013,E09000025,,,Female,,Healthy Life Expectancy
+83.19778,Year,2013,E09000012,,,Female,,Life Expectancy
+57.46425,Year,2013,E09000012,,,Female,,Healthy Life Expectancy
+82.64035,Year,2013,E09000030,,,Female,,Life Expectancy
+57.10797,Year,2013,E09000030,,,Female,,Healthy Life Expectancy
+82.36102,Year,2013,E09000002,,,Female,,Life Expectancy
+55.50099,Year,2013,E09000002,,,Female,,Healthy Life Expectancy
+84.69904,Year,2013,E06000040,,,Female,,Life Expectancy
+71.19673,Year,2013,E06000040,,,Female,,Healthy Life Expectancy
+84.70515,Year,2013,E06000041,,,Female,,Life Expectancy
+69.92308,Year,2013,E06000041,,,Female,,Healthy Life Expectancy
+84.5568,Year,2013,E10000030,,,Female,,Life Expectancy
+69.49273,Year,2013,E10000030,,,Female,,Healthy Life Expectancy
+84.1719,Year,2013,E06000037,,,Female,,Life Expectancy
+69.26498,Year,2013,E06000037,,,Female,,Healthy Life Expectancy
+84.91727,Year,2013,E10000002,,,Female,,Life Expectancy
+69.13328,Year,2013,E10000002,,,Female,,Healthy Life Expectancy
+84.11298,Year,2013,E10000032,,,Female,,Life Expectancy
+67.78723,Year,2013,E10000032,,,Female,,Healthy Life Expectancy
+83.61244,Year,2013,E10000016,,,Female,,Life Expectancy
+66.35158,Year,2013,E10000016,,,Female,,Healthy Life Expectancy
+84.21689,Year,2013,E10000014,,,Female,,Life Expectancy
+66.2579,Year,2013,E10000014,,,Female,,Healthy Life Expectancy
+82.59656,Year,2013,E06000042,,,Female,,Life Expectancy
+66.10579,Year,2013,E06000042,,,Female,,Healthy Life Expectancy
+84.19055,Year,2013,E06000036,,,Female,,Life Expectancy
+66.03009,Year,2013,E06000036,,,Female,,Healthy Life Expectancy
+82.96889,Year,2013,E06000038,,,Female,,Life Expectancy
+66.00083,Year,2013,E06000038,,,Female,,Healthy Life Expectancy
+83.87798,Year,2013,E10000011,,,Female,,Life Expectancy
+65.55619,Year,2013,E10000011,,,Female,,Healthy Life Expectancy
+83.9879,Year,2013,E10000025,,,Female,,Life Expectancy
+65.42799,Year,2013,E10000025,,,Female,,Healthy Life Expectancy
+83.09487,Year,2013,E06000043,,,Female,,Life Expectancy
+64.40342,Year,2013,E06000043,,,Female,,Healthy Life Expectancy
+82.71835,Year,2013,E06000045,,,Female,,Life Expectancy
+63.49092,Year,2013,E06000045,,,Female,,Healthy Life Expectancy
+83.37593,Year,2013,E06000046,,,Female,,Life Expectancy
+63.48727,Year,2013,E06000046,,,Female,,Healthy Life Expectancy
+82.20421,Year,2013,E06000044,,,Female,,Life Expectancy
+63.44389,Year,2013,E06000044,,,Female,,Healthy Life Expectancy
+82.48156,Year,2013,E06000035,,,Female,,Life Expectancy
+60.96455,Year,2013,E06000035,,,Female,,Healthy Life Expectancy
+82.49236,Year,2013,E06000039,,,Female,,Life Expectancy
+58.98901,Year,2013,E06000039,,,Female,,Healthy Life Expectancy
+84.49485,Year,2013,E06000022,,,Female,,Life Expectancy
+68.52121,Year,2013,E06000022,,,Female,,Healthy Life Expectancy
+84.19279,Year,2013,E10000027,,,Female,,Life Expectancy
+68.09345,Year,2013,E10000027,,,Female,,Healthy Life Expectancy
+84.22992,Year,2013,E10000008,,,Female,,Life Expectancy
+67.65161,Year,2013,E10000008,,,Female,,Healthy Life Expectancy
+84.46432,Year,2013,E06000025,,,Female,,Life Expectancy
+66.80981,Year,2013,E06000025,,,Female,,Healthy Life Expectancy
+83.83957,Year,2013,E10000013,,,Female,,Life Expectancy
+66.77237,Year,2013,E10000013,,,Female,,Healthy Life Expectancy
+83.87075,Year,2013,E06000054,,,Female,,Life Expectancy
+66.69027,Year,2013,E06000054,,,Female,,Healthy Life Expectancy
+84.04975,Year,2013,E06000029,,,Female,,Life Expectancy
+66.56666,Year,2013,E06000029,,,Female,,Healthy Life Expectancy
+85.04873,Year,2013,E10000009,,,Female,,Life Expectancy
+65.20997,Year,2013,E10000009,,,Female,,Healthy Life Expectancy
+83.4958,Year,2013,E06000052,,,Female,,Life Expectancy
+64.09042,Year,2013,E06000052,,,Female,,Healthy Life Expectancy
+82.76946,Year,2013,E06000027,,,Female,,Life Expectancy
+63.99798,Year,2013,E06000027,,,Female,,Healthy Life Expectancy
+82.99267,Year,2013,E06000028,,,Female,,Life Expectancy
+63.85677,Year,2013,E06000028,,,Female,,Healthy Life Expectancy
+82.7885,Year,2013,E06000030,,,Female,,Life Expectancy
+62.79448,Year,2013,E06000030,,,Female,,Healthy Life Expectancy
+82.80104,Year,2013,E06000023,,,Female,,Life Expectancy
+62.60517,Year,2013,E06000023,,,Female,,Healthy Life Expectancy
+83.41437,Year,2013,E06000024,,,Female,,Life Expectancy
+62.55538,Year,2013,E06000024,,,Female,,Healthy Life Expectancy
+82.37946,Year,2013,E06000026,,,Female,,Life Expectancy
+59.40053,Year,2013,E06000026,,,Female,,Healthy Life Expectancy
