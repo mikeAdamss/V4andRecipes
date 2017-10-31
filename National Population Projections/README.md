@@ -28,14 +28,14 @@ To convert from a zip to the experimental combined cube on the command line.
 
 To extract as above within a script
 ```
-from npp import 
+from npp import extractFromZip
 extractFromZip(<inputFile.zip>)
 ```
 
 To extract as above but without the custom slicing described earlier.
 To create alternative dataset you would create this datacube, and slice out the new datasets.
 ```
-from npp import 
+from npp import extractFromZip
 extractFromZip(<inputFile.zip>, oneCube=False)
 ```
 
