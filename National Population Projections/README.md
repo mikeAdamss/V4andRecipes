@@ -9,10 +9,10 @@ This is an experimental dataset, combining all outputs into a single explorable 
 
 In order to do this we took the following steps.
 
-We have not used cross border rates.
-We have removed age ranges above 104, as there are conflicting ranges above that number.
-Periods with 2 year values i.e 2014-2015 have been sliced to the first value, i.e 2014.
-Dates after 2039 have been removed (these only exist for the main population estimates)..
+* We have not used cross border rates.
+* We have removed age ranges above 104, as there are conflicting ranges above that number.
+* Periods with 2 year values i.e 2014-2015 have been sliced to the first value, i.e 2014.
+* Dates after 2039 have been removed (these only exist for the main population estimates)..
 
 This may be the way to go, or we may need to create multiple seperate datasets (or something in between).
 Either way the process *MUST* be signed off by the business area before publication.
