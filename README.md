@@ -5,15 +5,14 @@ A master repo for recipes/scripts transforming ONS outputs into a V4 structured 
 
 # Current Status
 
-
 | Output | Dataset | Description | Filename  | Folder |
 | ------ | ------- | ----------- | ------------------- | --- |
-| ASHE | Table 7 | MASTER file of 5 years of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "ASHE Table 7" |
-| ASHE | Table 8 | MASTER file of 5 years of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "ASHE Table 8" |
-| ASHE | Table 9 | MASTER file of 5 years of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "ASHE Table 9" |
-| ASHE | Table 10 | MASTER file of 5 years of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "ASHE Table 10" |
-| ASHE | Table 11 | MASTER file of 5 years of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "ASHE Table 11" |
-| ASHE | Table 12 | MASTER file of 5 years of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "ASHE Table 12" |
+| ASHE | Table 7 | MASTER file of 5 years of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "ASHE Table 7" | Status |
+| ASHE | Table 8 | MASTER file of 5 years of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "ASHE Table 8" | Ok to load |
+| ASHE | Table 9 | MASTER file of 5 years of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "ASHE Table 9" | Ok to load |
+| ASHE | Table 10 | MASTER file of 5 years of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "ASHE Table 10" | Ok to load |
+| ASHE | Table 11 | MASTER file of 5 years of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "ASHE Table 11" | Ok to load |
+| ASHE | Table 12 | MASTER file of 5 years of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "ASHE Table 12" | Ok to load |
 
 
 # Details
