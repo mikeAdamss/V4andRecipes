@@ -3,18 +3,6 @@
 A master repo for recipes/scripts transforming ONS outputs into a V4 structured CSV.
 
 
-# Current Status
-
-| Output | Dataset | Description | Filename  | Folder | Status | Actions |
-| ------ | ------- | ----------- | ------------------- | --- | --- | --- |
-| ASHE | Table 7 | Combined Timeseries (5 years). Does not inlcude percentages. | MASTER_ASHE7.zip | "ASHE Table 7" | Ok to load | Further |
-| ASHE | Table 8 | Combined Timeseries (5 years) | MASTER_ASHE8.zip | "ASHE Table 8" | Ok to load | Further |
-| ASHE | Table 9 | Combined Timeseries (5 years) | MASTER_ASHE9.zip | "ASHE Table 9" | Ok to load | Further |
-| ASHE | Table 10 | Combined Timeseries (5 years) | MASTER_ASHE10.zip | "ASHE Table 10" | Ok to load | Further |
-| ASHE | Table 11 | Combined Timeseries (5 years) | MASTER_ASHE11.zip | "ASHE Table 11" | Ok to load | Further |
-| ASHE | Table 12 |  Combined Timeseries (5 years) | MASTER_ASHE12.zip | "ASHE Table 12" | Ok to load | Further |
-
-
 # Details
 
 All folder with the exceptions of 'SDMX to V4', 'generic V3 to V4 transforms', 'generic WDA (V0) to V4 transform' and 'TOOLS' contain V4 load files and the scripts needed to generate them.
