@@ -2,6 +2,16 @@
 
 A master repo for recipes/scripts transforming ONS outputs into a V4 structured CSV.
 
+
+# Current Status
+
+-------------------------------------------------------
+| Output | Dataset | Description | Publication Status  |
+--------------------------------------------------------
+
+
+# Details
+
 All folder with the exceptions of 'SDMX to V4', 'generic V3 to V4 transforms', 'generic WDA (V0) to V4 transform' and 'TOOLS' contain V4 load files and the scripts needed to generate them.
 
 They will also include a details.json file, example below:
