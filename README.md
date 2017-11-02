@@ -5,9 +5,10 @@ A master repo for recipes/scripts transforming ONS outputs into a V4 structured 
 
 # Current Status
 
-|--------|---------|-------------|---------------------|
+
 | Output | Dataset | Description | Publication Status  |
-|--------|---------|-------------|---------------------|
+| ------ | ------- | ----------- | ------------------- |
+| Output | Dataset | Description | Publication Status  |
 
 
 # Details
