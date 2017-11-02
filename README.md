@@ -8,7 +8,7 @@ A master repo for recipes/scripts transforming ONS outputs into a V4 structured 
 
 | Output | Dataset | Description | Filename  | Navigation|
 | ------ | ------- | ----------- | ------------------- | --- |
-| ASHE | Table 7 | MASTER file of 5 years worth of data. Does not included percentages. | /ASHE%20Table%207  |
+| ASHE | Table 7 | MASTER file of 5 years worth of data. Does not included percentages. | MASTER_ASHE_Table_7.zip | "/ASHE Table 7" |
 
 
 # Details
