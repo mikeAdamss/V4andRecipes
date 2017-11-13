@@ -162,13 +162,15 @@ df['Measure'][df['Measure'] == 'Value:'] = 'Value'
 # -- Value
 valDf = df[df['Measure'] == 'Value']
 valDf = valDf.drop('Measure', axis=1)  # drop 'measure', its served its purpose
-valDf.to_csv('Mergers and Acquisition, Value of by County.csv')
+valDf = valDf.drop('Measure_codelist', axis=1)
+valDf.to_csv('Mergers and Acquisition, Value of by County.csv', index=False)
 
 
 # -- Numbers
 valDf = df[df['Measure'] == 'Number']
 valDf = valDf.drop('Measure', axis=1) # drop 'measure', its served its purpose
-valDf.to_csv('Mergers and Acquisition, Number of by County.csv')
+valDf = valDf.drop('Measure_codelist', axis=1)
+valDf.to_csv('Mergers and Acquisition, Number of by County.csv', index=False)
 
 
 
