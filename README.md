@@ -3,6 +3,28 @@
 A master repo for recipes/scripts transforming ONS outputs into a V4 structured CSV.
 
 
+# Install
+
+Install python3 and a virtual environment. A python virtual environment exists entirely in a single folder chosen by you, with a copy of python3 and all its libraries and depedenencies theirin. 
+
+Its entirely up to you what you call you virtual environment but they tend to be purpose specific, so something information like "databaker_env", "pyEnvDatabaker" etc would be sensible. Don't make it too long as it'll appear before your command prompt once activated. 
+
+### Part 1: Install Python3 and Virtual Environment
+
+Databaker v2 is a python3 application, macOS uses python2. We'll need to install python3 and setup a virtual environment.
+* `brew install python3`
+* `python3 -m venv <virtual env name>`
+* Activate your new environment with `source ./<virtual env name>/bin/activate`
+  When activated your env name will appear in parenthesis before your command prompt.
+  Enter `deactivate` (no path required) to return to the usual shell.
+  
+## Part 2: Clone this Repo and Install Libraries 
+* Clone this repo.
+* Navigate into /V4andRecipes and run ```pip install -r requirements.txt```.
+
+This will include our branched (V4 enabled) version of databaker, along with all python libraries used in the wider data transformation processes.
+
+
 # Details
 
 All folder with the exceptions of 'SDMX to V4', 'generic V3 to V4 transforms', 'generic WDA (V0) to V4 transform' and 'TOOLS' contain V4 load files and the scripts needed to generate them.
@@ -29,12 +51,6 @@ They will also include a details.json file, example below:
 ```
 
 The idea is we can (perhaps) pull some needed details out automatically at a future date. NOTE - "uses" is intended as a quick insight into how the transformation was approached. For own installation and usage see below.
-
-# Install
-
-Download this repo and ```pip install -r requirements.txt```.
-
-This will include our branched (V4 enabled) version of databaker, along with all python libraries used in the wider data transformation processes.
 
 
 # Technology Overview
