@@ -22,7 +22,7 @@ Databaker v2 is a python3 application, macOS uses python2. We'll need to install
   Enter `deactivate` (no path required) to return to the usual shell.
   
   
-### Part 2: Clone this Repo and Install Libraries 
+### Part 2: Clone this Repo and Install
 * Clone this repo (anywhere....doesn't need to be relative to your env).
 * Navigate into /V4andRecipes and run ```pip install -r requirements.txt```
 
