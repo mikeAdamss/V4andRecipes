@@ -16,8 +16,11 @@ Databaker v2 is a python3 application, macOS uses python2. We'll need to install
 * `brew install python3`
 * `python3 -m venv <virtual env name>`
 * Activate your new environment with `source ./<virtual env name>/bin/activate`
+
   When activated your env name should appear in parenthesis before your command prompt.
+  
   Enter `deactivate` (no path required) to return to the usual shell.
+  
   
 ### Part 2: Clone this Repo and Install Libraries 
 * Clone this repo.
