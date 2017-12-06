@@ -23,10 +23,12 @@ Databaker v2 is a python3 application, macOS uses python2. We'll need to install
   
   
 ### Part 2: Clone this Repo and Install Libraries 
-* Clone this repo.
+* Clone this repo (anywhere....doesn't need to be relative to your env).
 * Navigate into /V4andRecipes and run ```pip install -r requirements.txt```
 
 This will include our branched (V4 enabled) version of databaker, along with all python libraries and helper scipts/tools used in the wider data transformation processes.
+
+If you want to test via a full transforamtion, start with the ASHE Table 7 script (source data is linked in its repo).
 
 
 # Details
