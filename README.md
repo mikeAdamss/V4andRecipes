@@ -28,7 +28,7 @@ Databaker v2 is a python3 application, macOS uses python2. We'll need to install
 
 This will include our branched (V4 enabled) version of databaker, along with all python libraries and helper scipts/tools used in the wider data transformation processes.
 
-If you want to test via a full transforamtion, start with the ASHE Table 7 script (source data is linked in its repo).
+If you want to test via a full transformation, start with the ASHE Table 7 script (source data is linked in its repo).
 
 
 # Details
@@ -56,7 +56,7 @@ They will also include a details.json file, example below:
           }
 ```
 
-The idea is we can (perhaps) pull some needed details out automatically at a future date. NOTE - "uses" is intended as a quick insight into how the transformation was approached. For own installation and usage see below.
+The idea is we can (perhaps) pull some needed details out automatically at a future date. NOTE - "uses" is intended as a quick insight into how the transformation was approached, for technical details see the requirements.
 
 
 # Technology Overview
