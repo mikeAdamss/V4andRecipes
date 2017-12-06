@@ -7,7 +7,7 @@ A master repo for recipes/scripts transforming ONS outputs into a V4 structured 
 
 You'll need to install python3 and a virtual environment. A python virtual environment exists entirely in a single folder chosen by you, holding a unique copy of python3 and all its libraries and dependencies. 
 
-Its entirely up to you what you call you virtual environment but they tend to be purpose specific, so something informatiive like "databaker_env", "pyEnvDatabaker" is good practice. Be aware it'll also appear before your command prompt once activated. 
+Its entirely up to you what you call you virtual environment but they tend to be purpose specific, so something informative like "databaker_env", "pyEnvDatabaker" is good practice. Be aware it'll also appear before your command prompt once activated. 
 
 
 ### Part 1: Install Python3 and Virtual Environment
@@ -33,7 +33,7 @@ If you want to test via a full transformation, start with the ASHE Table 7 scrip
 
 # Details
 
-All folder with the exceptions of 'SDMX to V4', 'generic V3 to V4 transforms', 'generic WDA (V0) to V4 transform' and 'TOOLS' contain V4 load files and the scripts needed to generate them.
+All folders with the exceptions of 'SDMX to V4', 'generic V3 to V4 transforms', 'generic WDA (V0) to V4 transform' and 'TOOLS' contain V4 load files and the scripts needed to generate them.
 
 They will also include a details.json file, example below:
 
