@@ -159,8 +159,8 @@ import requests, zipfile, io, sys
 z = zipfile.ZipFile(sys.argv[1])
 allFiles = z.namelist()
 
-# get the non cv files for the EARNINGS dataset
-nonCvFiles = [x for x in allFiles if 'CV.' not in x]
+# get the non cv files for the datasets
+nonCvFiles = [x for x in allFiles if 'CV.' not in x and '.12' not in x and '.13' not in x]  # added 12 and 13 as they're getting creative
 hoursFiles = [x for x in nonCvFiles if '.9' in x or '.10' in x or '.11' in x]
 earningsFiles = [x for x in nonCvFiles if '.9' not in x and '.10' not in x and '.11' not in x]
 
