@@ -5,7 +5,7 @@ A master repo for recipes/scripts transforming ONS outputs into a V4 structured 
 
 # Install
 
-Install python3 and a virtual environment. A python virtual environment exists entirely in a single folder chosen by you, holding a unqiue copy of python3 and all its libraries and dependencies. 
+You'll need to install python3 and a virtual environment. A python virtual environment exists entirely in a single folder chosen by you, holding a unqiue copy of python3 and all its libraries and dependencies. 
 
 Its entirely up to you what you call you virtual environment but they tend to be purpose specific, so something information like "databaker_env", "pyEnvDatabaker" etc would be sensible. Be aware it'll also appear before your command prompt once activated. 
 
