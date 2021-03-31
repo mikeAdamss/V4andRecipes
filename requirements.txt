@@ -7,7 +7,7 @@ docopt==0.6.2
 html5lib==0.999999999
 idna==2.6
 json-table-schema==0.2.1
-lxml==4.0.0
+lxml==4.6.3
 messytables==0.15.1
 numpy==1.13.3
 pandas==0.20.3
